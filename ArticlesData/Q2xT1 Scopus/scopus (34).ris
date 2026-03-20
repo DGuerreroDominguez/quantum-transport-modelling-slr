@@ -1,0 +1,1301 @@
+﻿TY  - JOUR
+AU  - Liao, M.
+AU  - Barros, A.P.
+TI  - Toward optimal rainfall – Hydrologic QPE correction in headwater basins
+PY  - 2022
+T2  - Remote Sensing of Environment
+VL  - 279
+C7  - 113107
+DO  - 10.1016/j.rse.2022.113107
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85132404723&doi=10.1016%2fj.rse.2022.113107&partnerID=40&md5=64f88235fe32081cebcbd4e0087e94e6
+AB  - Large errors in Quantitative Precipitation Estimates (QPE) tied to remote-sensing retrieval algorithms remain a challenge especially in complex terrain with fast hydrologic response. We propose a new framework to derive dynamic hydrologic corrections of rainfall in headwater basins that enforces water budget closure, and distributes transient rainfall corrections by Lagrangian backtracking along runoff trajectories constrained by realistic time-of-travel distributions. Downscaled QPE products (250 m resolution) are applied first as input to a distributed hydrologic model to predict runoff trajectories and the event hydrograph at the basin's outlet. Second, time-varying rainfall corrections are derived from the residuals between predicted and observed discharge at the outlet. Finally, the corrections are spatially distributed following the runoff trajectories backward (i.e. trajectories are used as streaklines originating at the basin's outlet). Because nonlinear interactions between rainfall, runoff and storage are transient, the corrections are applied recursively until the shape and volume of the predicted hydrograph are stable. The framework is applied to ground-based (e.g. Stage IV) and satellite-based remote-sensing QPEs (e.g. IMERG) associated with the 49 largest floods 2008–2018 in the Southern Appalachian Mountains, USA. The results show improvements in hydrograph prediction efficiency skill at 15 min timescale from −0.5 to 0.6 on average and up to 0.9 for warm season events, bounding event runoff volume errors with a mean of 3%, and reducing time to peak errors by half an hour on average. Corrected QPEs exhibit nearly perfect correlation and no bias at high elevation gauge locations. Uncertainty in the water budget closure at the event scale is less than the uncertainty in streamflow measurements. Error attribution shows strong organization of QPE corrections according to seasonal weather and rainfall regime, thus providing a path to generalization to ungauged mountain basins. © 2022 The Authors
+KW  - Floods
+KW  - Headwater basins
+KW  - Orographic rainfall
+KW  - QPE corrections
+KW  - Appalachians
+KW  - Budget control
+KW  - Errors
+KW  - Floods
+KW  - Landforms
+KW  - Remote sensing
+KW  - Runoff
+KW  - Trajectories
+KW  - Uncertainty analysis
+KW  - Complex terrains
+KW  - Headwater basins
+KW  - Hydrographs
+KW  - Hydrologic response
+KW  - Orographic rainfalls
+KW  - Quantitative precipitation estimate correction
+KW  - Remote-sensing
+KW  - Retrieval algorithms
+KW  - Uncertainty
+KW  - Water budget
+KW  - complex terrain
+KW  - correction
+KW  - correlation
+KW  - flood
+KW  - headwater
+KW  - hydrograph
+KW  - rainfall
+KW  - runoff
+KW  - streamflow
+KW  - Rain
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 3
+ER  -
+
+TY  - CONF
+AU  - Gagne, D.J.
+AU  - McGovern, A.
+AU  - Xue, M.
+TI  - Machine learning enhancement of storm scale ensemble precipitation forecasts
+PY  - 2012
+T2  - Proceedings - 2012 Conference on Intelligent Data Understanding, CIDU 2012
+C7  - 6382199
+SP  - 39
+EP  - 46
+DO  - 10.1109/CIDU.2012.6382199
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84872373200&doi=10.1109%2fCIDU.2012.6382199&partnerID=40&md5=7cea9d0588aba9f15ac9ea837ba06e63
+AB  - Precipitation forecasts provide both a crucial service for the general populace and a challenging forecasting problem due to the complex, multi-scale interactions required for precipitation formation. The Center for the Analysis and Prediction of Storms (CAPS) Storm Scale Ensemble Forecast (SSEF) system is a promising method of providing high-resolution forecasts of the intensity and uncertainty in precipitation forecasts. The SSEF incorporates multiple models with varied parameterization scheme combinations and produces forecasts every 4 km over the continental US. The SSEF precipitation forecasts exhibit significant negative biases and placement errors. In order to correct these issues, multiple machine learning algorithms have been applied to the SSEF precipitation forecasts to correct the forecasts using the NSSL National Mosaic and Multisensor QPE (NMQ) grid as verification. The 2010 SSEF was used for training. Two levels of post-processing are performed. In the first, probabilities of any precipitation are determined and used to find optimal thresholds for the precipitation areas. Then, three types of forecasts are produced in those areas. First, the probability of the 1-hour accumulated precipitation exceeding a threshold is predicted with random forests, logistic regression, and multivariate adaptive regression splines (MARS). Second, deterministic forecasts based on a correction from the ensemble mean are made with linear regression, random forests, and MARS. Third, fixed probability interval forecasts are made with quantile regressions and quantile regression forests. Models are generated from points sampled from the western, central, and eastern sections of the domain. Verification statistics and case study results show improvements in the reliability and skill of the forecasts compared to the original ensemble while controlling for the over-prediction of the precipitation areas and without sacrificing smaller scale details from the model runs. © 2012 IEEE.
+KW  - Decision trees
+KW  - Learning algorithms
+KW  - Learning systems
+KW  - Logistics
+KW  - Regression analysis
+KW  - Storms
+KW  - Uncertainty analysis
+KW  - Continental US
+KW  - Deterministic forecasts
+KW  - Ensemble forecasts
+KW  - Forecasting problems
+KW  - High resolution
+KW  - Logistic regressions
+KW  - Multi sensor
+KW  - Multiple machine
+KW  - Multiple models
+KW  - Multiscales
+KW  - Multivariate adaptive regression splines
+KW  - Negative bias
+KW  - Optimal threshold
+KW  - Parameterization schemes
+KW  - Post processing
+KW  - Precipitation areas
+KW  - Precipitation forecast
+KW  - Precipitation formation
+KW  - Probability intervals
+KW  - Quantile regression
+KW  - Random forests
+KW  - Weather forecasting
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 8
+ER  -
+
+TY  - JOUR
+AU  - Hua, H.-B.
+AU  - Wang, H.-J.
+TI  - Monocyte-to-lymphocyte ratio is significantly associated with positive QuantiFERON-TB Gold-In-Tube and adult survival: an observational study
+PY  - 2022
+T2  - Scientific Reports
+VL  - 12
+IS  - 1
+C7  - 20406
+DO  - 10.1038/s41598-022-24376-2
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85142611395&doi=10.1038%2fs41598-022-24376-2&partnerID=40&md5=cc1e824f195c8de6d6437c03d8ef52f7
+AB  - This study aimed to find significant factors associated with tuberculosis (TB) infection and disease development. The participants were from National Health and Nutrition Examination Survey (NHANES) and National Death Index (NDI). The tuberculosis infection was defined as a positive QuantiFERON-TB Gold-In-Tube (QFT-GIT). The Least Absolute Shrinkage and Selection Operator (LASSO) model was used to screen variables associated with QFT-GIT among 23 laboratory measures. Then the logistic regression analyses were performed to assess the independent factors, followed by a comprehensive nomogram model construction. Receiver operating characteristic (ROC) and Decision Curve (DCA) analyses were used to assess the performance of comprehensive model on QFT-GIT result and death risk. Of 5256 individuals included, 521 individuals had positive QFT-GIT. LASSO analysis indicated that 11 variables were associated with QFT-GIT result, and logistic regression analyses further found sodium and monocyte-to-lymphocyte ratio (MLR) were independent factors. After adjusting for potential confounders, the correlation of sodium and MLR with QFT-GIT result was still observed. The comprehensive model based on sodium, MLR, and important clinical characteristics can predict 0.8 probability of positive QFT-GIT and achieve more clinical net benefit. ROC analysis by training and validation sets showed the favorable prediction performance. Comprehensive model also presented favorable performance in evaluating the death risk of individuals with positive QFT-GIT. We also found MLR rather than sodium was independently related to the death risk. Both MLR itself and comprehensive model were all significantly related to the positive QFT-GIT and death risk, which might participate in the initiation and progression of tuberculosis infection. © 2022, The Author(s).
+KW  - Adult
+KW  - Humans
+KW  - Latent Tuberculosis
+KW  - Lymphocytes
+KW  - Monocytes
+KW  - Nutrition Surveys
+KW  - Sodium
+KW  - Tuberculin Test
+KW  - Tuberculosis
+KW  - sodium
+KW  - adult
+KW  - human
+KW  - latent tuberculosis
+KW  - lymphocyte
+KW  - monocyte
+KW  - nutrition
+KW  - tuberculin test
+KW  - tuberculosis
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 2
+ER  -
+
+TY  - JOUR
+AU  - Li, C.-Y.
+AU  - Chen, H.-C.
+AU  - Cheng, H.-Y.
+AU  - Chian, C.-F.
+AU  - Chang, F.-Y.
+AU  - Chen, H.-I.
+AU  - Ku, C.-H.
+AU  - Lin, J.-C.
+TI  - Role of QuantiFERON-TB-Gold In Tube assay for active and latent tuberculosis infection in investigation of tuberculosis outbreak in a university
+PY  - 2015
+T2  - Journal of Microbiology, Immunology and Infection
+VL  - 48
+IS  - 3
+SP  - 263
+EP  - 268
+DO  - 10.1016/j.jmii.2013.08.022
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84929518952&doi=10.1016%2fj.jmii.2013.08.022&partnerID=40&md5=4f2c92dd2e3ce8680435881bcac37cf0
+AB  - Background: Identification and monitoring of active tuberculosis (TB) and latent tuberculosis infection (LTBI) are the key steps to prevent transmission during a TB outbreak. The aim of this study was to evaluate the role of QuantiFERON-TB-Gold In Tube assay (QFT-GIT) in the investigation of active TB and LTBI cases during a TB outbreak in a university. Methods: In this study, enrolled students and teachers were evaluated with chest radiograph, questionnaire, and QFT-GIT test. The diagnosis of active pulmonary TB was based on sputum studies and chest radiographs. The questionnaire, which covered demographic information, underlying diseases, and environmental exposures, was applied to assess the association of risk factors by multiple logistic regressions. Results: A total of 159 participants completed the study protocol. Positive QFT-GIT results were demonstrated in class A (75.7%; 25/33), class B (57.1%; 20/35), and class C (37.5%; 3/8) in institute 1; class D (17.3%; 8/46) in institute 2; and class E (3.1%; 1/32) in institute 3; but none among the (0/5) administrative officers, who comprised the control group. "Number of contact with active TB cases" was strongly associated and correlated with the prediction of a positive QFT-GIT result in multivariate analysis (odds ratio = 1.99; 95% confidence interval, 1.52-2.61; p < 0.0001). Seven cases progressed to active TB infection, all showing positive QFT-GIT results (100%; 7/7). Conclusion: Inclusion of QFT-GIT may be helpful in controlling and monitoring of active TB and LTBI cases during an investigation of a TB outbreak. The finding demonstrated that the QFT-GIT test was useful in accurately identifying infected and uninfected students, permitting rapid intervention. © 2013, Taiwan Society of Microbiology.
+KW  - Latent tuberculosis infection
+KW  - Outbreak
+KW  - QFT-GIT
+KW  - Tuberculosis
+KW  - Adult
+KW  - Diagnostic Tests, Routine
+KW  - Disease Outbreaks
+KW  - Female
+KW  - Humans
+KW  - Interferon-gamma Release Tests
+KW  - Male
+KW  - Radiography, Thoracic
+KW  - Surveys and Questionnaires
+KW  - Tuberculosis
+KW  - Universities
+KW  - Young Adult
+KW  - adult
+KW  - Article
+KW  - controlled study
+KW  - disease course
+KW  - environmental exposure
+KW  - epidemic
+KW  - female
+KW  - human
+KW  - incidence
+KW  - latent tuberculosis
+KW  - major clinical study
+KW  - male
+KW  - Mycobacterium tuberculosis test kit
+KW  - prediction
+KW  - prevalence
+KW  - questionnaire
+KW  - risk factor
+KW  - sputum analysis
+KW  - Taiwan
+KW  - thorax radiography
+KW  - tuberculosis
+KW  - diagnostic test
+KW  - epidemic
+KW  - evaluation study
+KW  - interferon gamma release assay
+KW  - procedures
+KW  - tuberculosis
+KW  - university
+KW  - young adult
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 8
+ER  -
+
+TY  - JOUR
+AU  - Rangaka, M.X.
+AU  - Gideon, H.P.
+AU  - Wilkinson, K.A.
+AU  - Pai, M.
+AU  - Mwansa-Kambafwile, J.
+AU  - Maartens, G.
+AU  - Glynn, J.R.
+AU  - Boulle, A.
+AU  - Fielding, K.
+AU  - Goliath, R.
+AU  - Titus, R.
+AU  - Mathee, S.
+AU  - Wilkinson, R.J.
+TI  - Interferon release does not add discriminatory value to smear-negative HIV-tuberculosis algorithms
+PY  - 2012
+T2  - European Respiratory Journal
+VL  - 39
+IS  - 1
+SP  - 163
+EP  - 171
+DO  - 10.1183/09031936.00058911
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84855400776&doi=10.1183%2f09031936.00058911&partnerID=40&md5=1257958cc3569c65dc0621ab197b1d8b
+AB  - Clinical algorithms for evaluating HIV-infected individuals for tuberculosis (TB) prior to isoniazid preventive therapy (IPT) perform poorly, and interferon-γ release assays (IGRAs) have moderate accuracy for active TB. It is unclear whether, when used as adjunct tests, IGRAs add any clinical discriminatory value for active TB diagnosis in the pre-IPT assessment. 779 sputum smear-negative HIV-infected persons, established on or about to commence combined antiretroviral therapy (ART), were screened for TB prior to IPT. Stepwise multivariable logistic regression was used to develop clinical prediction models. The discriminatory ability was assessed by receiver operator characteristic area under the curve (AUC). QuantiFERON®-TB Gold in-tube (QFT-GIT) was evaluated. The prevalence of smear-negative TB by culture was 6.4% (95% CI 4.9-8.4%). Used alone, QFT-GIT and the tuberculin skin test (TST) had comparable performance; the post-test probability of disease based on single negative tests was 3-4%. In a multivariable model, the QFT-GIT test did not improve the ability of a clinical algorithm, which included not taking ART, weight <60 kg, no prior history of TB, any one positive TB symptom/sign (cough ≥2 weeks) and CD4+ count <250 cells per mm 3, to discriminate smear-negative culture-positive and -negative TB (72% to 74%; AUC comparison p=0.33). The TST marginally improved the discriminatory ability of the clinical model (to 77%, AUC comparison p=0.04). QFT-GIT does not improve the discriminatory ability of current TB screening clinical algorithms used to evaluate HIV-infected individuals for TB ahead of preventive therapy. Evaluation of new TB diagnostics for clinical relevance should follow a multivariable process that goes beyond test accuracy. Copyright © ERS 2012.
+KW  - Diagnostic research
+KW  - HIV
+KW  - Incremental value
+KW  - Interferon-γ release assay
+KW  - Mycobacterium tuberculosis
+KW  - QuantiFERON1®-TB gold in-tube
+KW  - Adult
+KW  - Algorithms
+KW  - Area Under Curve
+KW  - Female
+KW  - HIV Infections
+KW  - Humans
+KW  - Infectious Disease Medicine
+KW  - Interferon-gamma
+KW  - Interferons
+KW  - Isoniazid
+KW  - Male
+KW  - Multivariate Analysis
+KW  - Reproducibility of Results
+KW  - Sputum
+KW  - Treatment Outcome
+KW  - Tuberculin Test
+KW  - Tuberculosis
+KW  - interferon
+KW  - adult
+KW  - algorithm
+KW  - article
+KW  - clinical evaluation
+KW  - clinical feature
+KW  - comparative effectiveness
+KW  - controlled study
+KW  - cytokine release
+KW  - diagnostic accuracy
+KW  - diagnostic test
+KW  - diagnostic value
+KW  - disease association
+KW  - female
+KW  - gold standard
+KW  - highly active antiretroviral therapy
+KW  - human
+KW  - Human immunodeficiency virus infection
+KW  - laboratory diagnosis
+KW  - major clinical study
+KW  - male
+KW  - medical history
+KW  - priority journal
+KW  - probability
+KW  - QuantiFERON TB Gold test
+KW  - receiver operating characteristic
+KW  - sputum smear
+KW  - tuberculin test
+KW  - tuberculosis
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 26
+ER  -
+
+TY  - JOUR
+AU  - Charba, J.P.
+AU  - Samplatsky, F.G.
+TI  - High-resolution GFS-based MOS quantitative precipitation forecasts on a 4-km grid
+PY  - 2011
+T2  - Monthly Weather Review
+VL  - 139
+IS  - 1
+SP  - 39
+EP  - 68
+DO  - 10.1175/2010MWR3224.1
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-79951610596&doi=10.1175%2f2010MWR3224.1&partnerID=40&md5=742c1ed5b8d977a582b04937e031cbb4
+AB  - The Meteorological Development Laboratory (MDL) of the National Weather Service (NWS) has developed high-resolution Global Forecast System (GFS)-based model output statistics (MOS) 6- and 12-h quantitative precipitation forecast (QPF) guidance on a 4-km grid for the contiguous United States. Geographically regionalized multiple linear regression equations are used to produce probabilistic QPFs (PQPFs) for multiple precipitation exceedance thresholds. Also, several supplementary QPF elements are derived from the PQPFs. The QPF elements are produced (presently experimentally) twice per day for forecast projections up to 156 h (6.5 days); probability of (measurable) precipitation (POP) forecasts extend to 192 h (8 days). Because the spatial and intensity resolutions of the QPF elements are higher than that for the currently operational griddedMOSQPF elements, this new application is referred to as high-resolution MOS (HRMOS) QPF. High spatial resolution and enhanced skill are built into the HRMOS PQPFs by incorporating finescale topography and climatology into the predictor database. This is accomplished through the use of specially formulated "topoclimatic" interactive predictors, which are formed as a simple product of a climatology- or terrain-related quantity and a GFS forecast variable. Such a predictor contains interactive effects, whereby finescale detail in the topographic or climatic variable is built into the GFS forecast variable, and dynamics in the large-scale GFS forecast variable are incorporated into the static topoclimatic variable. In essence, such interactive predictors account for the finescale bias error in the GFS forecasts, and thus they enhance the skill of the PQPFs. Underlying the enhanced performance of the HRMOS QPF elements is extensive use of archived fine-grid radar-based quantitative precipitation estimates (QPEs). The fine spatial scale of the QPE data supported development of a detailed precipitation climatology, which is used as a climatic predictive input. Also, the very large number of QPE sample points supported specification of rare-event (i.e., ≥1.50 and ≥2.00 in.) 6-h precipitation exceedance thresholds as predictands. Geographical regionalization of the PQPF regression equations and the derived QPF elements also contributes to enhanced forecast performance. Limited comparative verification of several 6-h model QPFs in categorical form showed the HRMOS QPF with significantly better threat scores and biases than corresponding GFS and operational griddedMOS QPFs. Limited testing of logistic regression versus linear regression to produce the 6-h PQPFs showed the feasibility of applying the logistic method with the very large HRMOS samples. However, objective screening of many candidate predictors with linear regression resulted in slightly better PQPF skill. © 2011 American Meteorological Society.
+KW  - Model output statistics
+KW  - Numerical weather prediction/forecasting
+KW  - Precipitation
+KW  - Probability forecasts/models/distributions
+KW  - Regression analysis
+KW  - United States
+KW  - Climatology
+KW  - Linear regression
+KW  - Probability
+KW  - Bias error
+KW  - Climatic variables
+KW  - Enhanced performance
+KW  - Finescale topography
+KW  - Global forecast systems
+KW  - High resolution
+KW  - High spatial resolution
+KW  - Interactive effect
+KW  - Logistic regressions
+KW  - Model output statistics
+KW  - Multiple linear regression equations
+KW  - National Weather Services
+KW  - New applications
+KW  - Numerical weather prediction/forecasting
+KW  - Precipitation
+KW  - Precipitation climatology
+KW  - Quantitative precipitation forecast
+KW  - Regression equation
+KW  - Sample point
+KW  - Spatial scale
+KW  - forecasting method
+KW  - numerical method
+KW  - precipitation (climatology)
+KW  - probability density function
+KW  - regression analysis
+KW  - spatial resolution
+KW  - weather forecasting
+KW  - Weather forecasting
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 21
+ER  -
+
+TY  - CONF
+TI  - 40th AIAA Aerospace Sciences Meeting and Exhibit 2002
+PY  - 2002
+T2  - 40th AIAA Aerospace Sciences Meeting and Exhibit
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84894328110&partnerID=40&md5=2185b648a281b799f9ec55fd71649de9
+AB  - The proceedings contain 934 papers. The special focus in this conference is on Aerospace Sciences. The topics include: Matchsticks, scram jets, and black holes - numerical simulation faces reality; design of the blended-wing-body subsonic transport; nonlinear aeroelasticity and unsteady aerodynamics; an experimental and analytical investigation of boundary layer reattachment using piezoelectric synthetic jet actuators; second wake onset in the flow behind a cylinder - quantitative flow field measurements; X-38 rudder configuration and parafoil cavity investigation; material characterization of polyurethane foam under hydrostatic loading; review of a combustion experiment performed during a parabolic flight; PIV study of negative incidence stator unsteady aerodynamics; intelligent executive guidance agent for free flight; jet exhaust and wing flap interactions; POD analysis of sound generation by a turbulent jet; reduced-order dynamical modeling of sound generation from a jet; a numerical investigation of broad-band shock noise; interaction of a moving shock wave with multiple serial vortices; modeling turbulence anisotropy for jet noise prediction; effects of endwall geometry and stacking on two-stage supersonic turbine performance; gas turbine emissions control using variable geometry combustor and fuel staging; smart materials and structures for future aircraft engines; unsteady pressure measurements in turbomachinery using porous pressure sensitive paint; surface roughness effects on shear drag and heat transfer; towards a golden age of satellite drag; high-alpha aerodynamics of a slender tailless aircraft; topology of the flow on a 65-deg delta wing at sideslip; multifaceted influence of fuselage geometry on delta wing aerodynamics; aerodynamic characteristics of a 65-deg delta wing at steep spin; flight dynamic analysis of the flow incidence rate model; analysis and design of rotors at ultra-low Reynolds numbers; sensitivity analysis with sliding boundary conditions; excrescence effects on boundary layers with pressure gradient at high subsonic speeds; inverse design of 3D transonic compressor blade using 3D navier-stokes flow physics; an inverse design method for designing isolated and wing-mounted engine nacelles; multi-point nose shape optimization of space launcher using response surface method; a parallelized 3D unstructured Euler solver for unsteady aerodynamics; self-organizing hybrid Cartesian grid/solution system with multigrid; adaptive mesh refinement within a chimera grid system; NACA 0012 aerofoil in an oscillating transonic free-stream; camber effects in the near-wake of oscillating airfoils; unsteady aerodynamic simulations of an oscillating airfoil with miniflaps; injection parameters for an effective passive control of cavity flow instability; an unstructured dynamic mesh procedure for 2D unsteady viscous flow simulations; unstructured dynamic mesh for large movement and deformation; sensitivity of synthetic jets to the design of the jet cavity; lumped element modeling of piezoelectric-driven synthetic jet actuators; effect of geometric parameters on the velocity output of a synthetic jet actuator; characterization of a compact, high-power synthetic jet actuator for flow separation control; creation of steering moments in supersonic flow by off-axis plasma heat addition; boundary layer control in magnetohydrodynamic flows; a dynamic spectral vanishing viscosity method for LES; recent progress on MILES for high Reynolds-number flows; computing complex flows on coarse grids using vorticity confinement; vorticity confinement on unstructured grids; roughness-induced transient growth in a flat-plate boundary layer; receptivity to freestream disturbances of mach 4.5 flow over a flat plate; experimental study of spark-induced impulsive acoustic disturbances in supersonic flow; advanced algorithms for design and optimization of quiet supersonic platforms; a shape optimization methodology for reducing the sonic boom initial pressure rise; natural laminar flow for quiet and efficient supersonic aircraft; supersonic laminar flow control on swept wings using distributed roughness; engine placement for sonic boom mitigation; suppression of sonic boom by dynamic off-body energy addition and shape optimization; receptivity of goertler vortices in hypersonic boundary layers; hypersonic flow stability experiments; nonlinear interactions in a hypersonic boundary layer; hypersonic transitional modeling for scramjet and missile applications; crow-like instability in the hydrodynamic flow over a forward-facing step in a closed channel; comparison of two distinct models of rotor wakes with experiment; the critical swirl of compressible vortex flows; time dependent flow prediction using a multigrid approach; optimal vortex ring formation at the exit of a shock tube; simulation of supersonic turbulent flowfield with transverse sonic injection; on the juncture vortex in the transverse planes; the structure of dissipative scales in axisymmetric turbulent gas-phase jets; evaluation of a subgrid model for the Arrhenius reaction rate in a jet; investigation of an assumed PDF approach for finite-rate chemistry; planar imaging of CH/OH and velocity in turbulent nonpremixed jet flames; initial test of a wire suspension mount for missile virtual flight testing; a new forced oscillation capability for the transonic dynamics tunnel; some aviation growth events; a historical review of wind tunnels at Wright-Patterson air force base; subsystem and coupling cost considerations using a visual dependency structure matrix; empirical studies of selection method for multiobjective genetic algorithm; physical science programs in the era of the international space station; first commercial operations on the international space station; the Italian microgravity science program; NRC evaluation of ISS opportunities and challenges; directional solidification in the microgravity science glovebox; microwaves as a tool for energetic materials characterization; optical diagnostics of oscillatory combustion processes controlled by modification of atomizing properties; chemiluminescence based local equivalence ratio measurement in turbulent premixed flames; advanced laser diagnostics for reactive flows; three dimensional magneto-fluid dynamics algorithm development; electrode boundary conditions in magnetogasdynamic flow control; vibrational relaxation and population depletion of nitrogen in hypersonic flows; computation of magnetohydrodynamic flows using an iterative PNS algorithm; development of miniature thermoacoustic refrigerators; heat transfer correlations for plain fin array cooler; liquid impingement cooling of high power density silicon carbide semiconductor devices; heat transfer for a pair of rectangular jets impinging upon an inclined surface; nonlinear filtering of statistical noise in DSMC solutions; modeling of chemically reacting flows from a side jet at high altitudes; chemical and flowfield modeling for enhanced analysis of contamination experiments; the Boltzmann equation and the DSMC method for rarefied gas dynamics; sonic line location in reacting flows; reciprocity equation for vibrationally excited molecular collisions in rarefied gas dynamics; reciprocity modelling techniques for rarefied hypersonic flows; assessment of dispersion-relation-preserving and space-time schemes for wave equations; a numerical technique for trailing edge acoustic scattering problems; a 3D discontinuous galerkin method for multiple pure tone noise problems; thrust augmentation with mixer/ejector systems; PSP measurement of fuel mixing in a supersonic combustor of scram-jet engine model; experimental and computational studies on two-dimensional supersonic mixing flow physics; the past twenty years of icing research and development at sikorsky aircraft; effect of intercycle ice accretions on airfoil performance; unsteady aerodynamic measurements on an iced airfoil; effects of roughness on the aerodynamic performance of a business jet tail; hybrid wing design to match full-scale wing ice accretion; sliding mode control applied to reconfigurable flight control design; design and flight testing of a UAV SAS using QFT; use of the extended bifurcation analysis method for flight control law design; nonlinear control of unmanned combat aircraft during take-off; performance of h-infinity filter-based data fusion algorithm with outliers; optical microsensors for fluid flow diagnostics; MEMS-based acoustic array technology; optimum spanloads in formation flight; adaptive aerodynamic optimization of regional jet aircraft; an adjoint method for the calculation of remote sensitivities in supersonic flow; wing design by solving adjoint equations; parallelized design optimization for transonic wings using aerodynamic sensitivity analysis; aerodynamic shape design of laminar wings for Japanese experimental SST; detection and control of flow separation using pressure sensors and micro-vortex generators; axisymmetric coaxial synthetic jets; development of a MEMS based microvalve for flow control using active dimples; active reduction of skin friction drag using low-speed streak control; modification of base drag through boundary-layer manipulation; performance optimization of the hypervelocity launcher system based on experimental results; CFD predictions of dynamic derivatives for missiles; application of MISDL/KDA aerodynamics prediction method to penguin missile; store separation simulation of penguin missile from helicopters; evaluation of the capabilities of CFD to predict store trajectories from attack aircraft; an experimental study of open cavity flows at low subsonic speeds; application of neural networks to store loads grid-survey.
+M3  - Conference review
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Agrawal, R.
+AU  - Gonzalez-Lopez, J.J.
+AU  - Nobre-Cardoso, J.
+AU  - Gupta, B.
+AU  - Grant, R.
+AU  - Addison, P.K.F.
+AU  - Westcott, M.
+AU  - Pavesio, C.E.
+TI  - Predictive factors for treatment failure in patients with presumed ocular tuberculosis in an area of low endemic prevalence
+PY  - 2016
+T2  - British Journal of Ophthalmology
+VL  - 100
+IS  - 3
+SP  - 348
+EP  - 355
+DO  - 10.1136/bjophthalmol-2014-306474
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84959507446&doi=10.1136%2fbjophthalmol-2014-306474&partnerID=40&md5=2a6132eb1c50c55ca1fe53639540c973
+AB  - Aim To assess the impact of antitubercular therapy (ATT), oral steroids and steroid sparing immunosuppressive treatment on treatment success in cases with presumed ocular tuberculosis in an area of low endemic prevalence. Methods A retrospective cross-sectional study was performed for 213 patients with presumed ocular tuberculosis from a database from a tertiary referral eye hospital in the UK. A logistic regression model was constructed incorporating demographics, baseline characteristics and different cut-offs of QuantiFERON-TB Gold In-Tube test (QFT-G) to identify significant factors accounting for the variability of the response variable ('failure') across the whole group. Treatment failure was defined as the recurrence of inflammation or inability to taper steroids within 6 months of completion of ATT or after at least 6 months of treatment in the non-ATT group. Results There were 126 patients who had at least 6 months of ATT. Patients with QFT-G values >1.50 (OR=0.20, 95% CI 0.09 to 0.48, p<0.001) had less risk of treatment failure as against those with QFT-G values between 0.35 and 1.50. Steroid sparing immunosuppressive agents reduced the chances of treatment success (OR=24.10, 95% CI 6.75 to 86.11, p<0.001). This effect persisted even after adjusting for potential confounding factors. Conclusions Patients with higher values of QFT-G (>1.5) are more likely to have treatment success with ATT. In our model, steroid sparing immunosuppressive agents reduced the chances of success in both ATT and non-ATTtreated patients. It is unclear whether this effect reflects the intrinsic underlying severity of disease (ie, study bias), or whether steroid sparing immunosuppressive agents mitigate against successful ATT.
+KW  - Adult
+KW  - Aged
+KW  - Antitubercular Agents
+KW  - Cross-Sectional Studies
+KW  - Drug Therapy, Combination
+KW  - Endemic Diseases
+KW  - Enzyme-Linked Immunosorbent Assay
+KW  - Female
+KW  - Glucocorticoids
+KW  - Great Britain
+KW  - Humans
+KW  - Immunosuppressive Agents
+KW  - Interferon-gamma Release Tests
+KW  - Male
+KW  - Middle Aged
+KW  - Prevalence
+KW  - Recurrence
+KW  - Retrospective Studies
+KW  - Risk Factors
+KW  - Treatment Failure
+KW  - Tuberculosis, Ocular
+KW  - ethambutol
+KW  - immunosuppressive agent
+KW  - isoniazid
+KW  - moxifloxacin
+KW  - pyrazinamide
+KW  - rifampicin
+KW  - steroid
+KW  - tuberculostatic agent
+KW  - glucocorticoid
+KW  - immunosuppressive agent
+KW  - tuberculostatic agent
+KW  - adult
+KW  - aged
+KW  - Article
+KW  - controlled study
+KW  - cross-sectional study
+KW  - drug dose reduction
+KW  - drug treatment failure
+KW  - endemic disease
+KW  - female
+KW  - human
+KW  - major clinical study
+KW  - male
+KW  - Mycobacterium tuberculosis test kit
+KW  - ocular tuberculosis
+KW  - prediction
+KW  - prevalence
+KW  - priority journal
+KW  - retrospective study
+KW  - United Kingdom
+KW  - combination drug therapy
+KW  - endemic disease
+KW  - enzyme linked immunosorbent assay
+KW  - Great Britain
+KW  - interferon gamma release assay
+KW  - middle aged
+KW  - recurrent disease
+KW  - risk factor
+KW  - treatment failure
+KW  - Tuberculosis, Ocular
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 37
+ER  -
+
+TY  - JOUR
+AU  - Shu, C.-C.
+AU  - Hsu, C.-L.
+AU  - Lee, C.-Y.
+AU  - Wang, J.-Y.
+AU  - Wu, V.-C.
+AU  - Yang, F.-J.
+AU  - Wang, J.-T.
+AU  - Yu, C.-J.
+AU  - Lee, L.-N.
+TI  - Comparison of the prevalence of latent tuberculosis infection among non-dialysis patients with severe chronic kidney disease, patients receiving dialysis, and the dialysis-unit staff a cross-sectional study
+PY  - 2015
+T2  - PLoS ONE
+VL  - 10
+IS  - 4
+C7  - e0124104
+DO  - 10.1371/journal.pone.0124104
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84928689941&doi=10.1371%2fjournal.pone.0124104&partnerID=40&md5=23815d5a8452f05fc57fd655938c1b50
+AB  - Background: Patients with renal failure are vulnerable to tuberculosis, a common worldwide infectious disease. In the growing dialysis population, the risk for tuberculosis among the associated sub-groups is important but unclear. This study investigated latent tuberculosis infection (LTBI) in patients with severe chronic kidney disease (CKD) and among dialysis-unit staff caring for patients on dialysis. Methods: From January 2012 to June 2013, patients undergoing dialysis, those with severe CKD (estimated glomerular filtration rate <30ml/min/1.73 m2), and the dialysis-unit staff (nursing staff and doctors in hemodialysis units) in several Taiwan hospitals were prospectively enrolled. Interferon-gamma release assay (IGRA) through QuantiFERON-TB Gold In-tube was used to determine LTBI. Predictors for LTBI were analyzed. Results: Of the 599 participants enrolled, 106 (25%) in the dialysis group were IGRA positive. This was higher than the seven (11%) among severe CKD patients and 12 (11%) in the dialysis-unit staff. Independent predictors of LTBI in patient with renal dysfunction were old age (odds ratio [OR]: 1.03 [1.01-1.04] per year increment), prior TB lesion on chest radiograph (OR: 2.90 [1.45-5.83]), serum albumin (OR: 2.59 [1.63-4.11] per 1 g/dl increment), and need for dialysis (OR: 2.47, [1.02-5.95]). The QFT-GIT response was similar among the three groups. Malignancy (OR: 4.91 [1.84-13.10]) and low serum albumin level (OR: 0.22 [0.10-0.51], per 1 g/dl decrease) were associated with indeterminate IGRA results. Conclusions: More patients on dialysis have LTBI compared to those with severe CKD and the dialysisunit staff. Old age, prior radiographic TB lesion, high serum albumin, and need for dialysis are predictors of LTBI in patients with renal failure. Patients with severe CKD are a lower priority for LTBI screening. The hemodialysis environment is not a risk for LTBI and dialysisunit staff may be treated as general healthcare workers. © 2015 Shu et al.
+KW  - Cross-Sectional Studies
+KW  - Female
+KW  - Health Personnel
+KW  - Humans
+KW  - Interferon-gamma Release Tests
+KW  - Latent Tuberculosis
+KW  - Logistic Models
+KW  - Male
+KW  - Middle Aged
+KW  - Multivariate Analysis
+KW  - Prevalence
+KW  - Renal Dialysis
+KW  - Renal Insufficiency, Chronic
+KW  - Taiwan
+KW  - albumin
+KW  - adult
+KW  - age distribution
+KW  - Article
+KW  - blood level
+KW  - chronic kidney disease
+KW  - controlled study
+KW  - disease association
+KW  - disease severity
+KW  - female
+KW  - hemodialysis
+KW  - human
+KW  - latent tuberculosis
+KW  - major clinical study
+KW  - male
+KW  - medical staff
+KW  - middle aged
+KW  - outcome assessment
+KW  - patient assessment
+KW  - prediction
+KW  - prevalence
+KW  - prospective study
+KW  - Taiwan
+KW  - thorax radiography
+KW  - chronic kidney failure
+KW  - comparative study
+KW  - complication
+KW  - cross-sectional study
+KW  - health care personnel
+KW  - interferon gamma release assay
+KW  - latent tuberculosis
+KW  - microbiology
+KW  - multivariate analysis
+KW  - statistical model
+KW  - statistics and numerical data
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 17
+ER  -
+
+TY  - JOUR
+AU  - Pacheco-Plata, F.
+AU  - Gutiérrez-Dorado, R.
+AU  - Iribe-Salazar, R.
+AU  - Carrazco-Escalante, M.
+AU  - Caro-Hernández, O.
+AU  - Camacho-Hernández, L.
+AU  - Vázquez-López, Y.
+AU  - Cronin, K.
+AU  - Caro-Corrales, J.
+TI  - Modeling of moisture content during baking with different approaches for effective diffusivity and evaluation of quality variables in baked potato slices
+PY  - 2024
+T2  - Journal of Food Science
+VL  - 89
+IS  - 9
+SP  - 5763
+EP  - 5773
+DO  - 10.1111/1750-3841.17257
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85201586219&doi=10.1111%2f1750-3841.17257&partnerID=40&md5=2adaad6a4d7ca06583c3c92fc673bfa9
+AB  - Abstract: Baking is a healthier alternative to frying, since texture, color, smell, and flavor are developed, without adding oil. The objective was to estimate the moisture content in potato slices, during baking using Fick's law of diffusion to model internal moisture transport and to assess the impact on quality attributes. Moisture transport kinetics were examined at three baking temperatures of 120, 130, and 140°C. Fick's law was employed to estimate average moisture content using different methods: considering both a constant (method of slopes by subperiods, MSS; and method of successive approximations, MSA) and a variable (represented as a quadratic function of time, QFT) behavior of effective diffusivity (De). Three quality variables were analyzed: water activity (aw, dew point hygrometry), total color difference (∆E, colorimetry), and fracturability (F, universal testing machine). The diffusivity estimated with the time-varying De method provided a more realistic description of moisture migration during baking. The aw, ∆E, and F for baked potato slices ranged from 0.234 to 0.276, 17.9 to 24.6, and 5.20 to 5.49 N, respectively. These attributes imply improved stability and extended shelf life, showing typical colors and texture changes for baked snacks. These changes are linked to variations in diffusivity, influenced by the size and quantity of micropores within the food structure. This study could allow an accurate prediction of mass transfer by considering variable De, facilitating the optimization of baking conditions. Practical Application: The analysis of the moisture content using Fick's law, considering a time-varying diffusivity, enables the optimization of the baking process for foods. This helps minimize the occurrence of defective products. © 2024 Institute of Food Technologists.
+KW  - baking
+KW  - diffusivity
+KW  - food engineering
+KW  - kinetic modeling
+KW  - mass transfer
+KW  - Color
+KW  - Cooking
+KW  - Diffusion
+KW  - Hot Temperature
+KW  - Kinetics
+KW  - Solanum tuberosum
+KW  - Water
+KW  - water
+KW  - chemistry
+KW  - color
+KW  - cooking
+KW  - diffusion
+KW  - high temperature
+KW  - kinetics
+KW  - potato
+KW  - procedures
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Lin, P.
+AU  - Hopper, L.J.
+AU  - Yang, Z.-L.
+AU  - Lenz, M.
+AU  - Zeitler, J.W.
+TI  - Insights into hydrometeorological factors constraining flood prediction skill during the May and October 2015 Texas Hill Country flood events
+PY  - 2018
+T2  - Journal of Hydrometeorology
+VL  - 19
+IS  - 8
+SP  - 1339
+EP  - 1361
+DO  - 10.1175/JHM-D-18-0038.1
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85053075510&doi=10.1175%2fJHM-D-18-0038.1&partnerID=40&md5=501db5fed57c1f2494337213a129cad2
+AB  - This study evaluates the May and October 2015 flood prediction skill of a physically based model resembling the U.S. National Water Model (NWM) over the Texas Hill Country. It also investigates hydrometeorological factors that contributed to a record flood along the Blanco River at Wimberley (WMBT2) in May 2015. Using two radar-based quantitative precipitation estimation (QPE) products-Stage IV and Multi-Radar Multi-Sensor (MRMS)-it is shown that the event precipitation accuracy dominates the prediction skill, where the finer-resolution MRMS QPE mainly benefits basins with small drainage areas. Overall, the model exhibits good performance at gauges with fast flood response from causative rainfall and gauges that are not forecast points in the National Weather Service's Advanced Hydrometeorological Prediction System, showing great promise for forecasts, warnings, and emergency response. However, the model suffers from poor prediction skill over regions without rapid flood response and regions with human-altered flows, suggesting the need to revisit the channel routing algorithm and incorporate modules to represent human alterations. Two contrasting flood events at WMBT2 with similar meteorological characteristics are examined in greater detail, revealing that the location of intense rainfall combined with land physiographic features are key to the flood response differences. Model sensitivity tests further show the record flood peak could be better obtained by tuning the deep-layer soil wetness and the flow velocity field in the river network, which offers hydrometeorological insights into the causes and the complex nature of such a flood and why the model struggles to predict the record flood peak. © 2018 American Meteorological Society.
+KW  - Atmosphere
+KW  - Flood events
+KW  - Hydrologic models
+KW  - Hydrometeorology
+KW  - Blanco River
+KW  - Texas
+KW  - United States
+KW  - algorithm
+KW  - flood forecasting
+KW  - flow field
+KW  - flow velocity
+KW  - hydrometeorology
+KW  - precipitation assessment
+KW  - rainfall
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 34
+ER  -
+
+TY  - JOUR
+AU  - Lermusiaux, P.F.J.
+AU  - Xu, J.
+AU  - Chen, C.-F.
+AU  - Jan, S.
+AU  - Chiu, L.Y.
+AU  - Yang, Y.-J.
+TI  - Coupled ocean-acoustic prediction of transmission loss in a continental shelfbreak region: Predictive skill, uncertainty quantification, and dynamical sensitivities
+PY  - 2010
+T2  - IEEE Journal of Oceanic Engineering
+VL  - 35
+IS  - 4
+C7  - 5638588
+SP  - 895
+EP  - 916
+DO  - 10.1109/JOE.2010.2068611
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-78649720672&doi=10.1109%2fJOE.2010.2068611&partnerID=40&md5=b614af7288100ddc9d1822e9334f61fa
+AB  - In this paper, we quantify the dynamical causes and uncertainties of striking differences in acoustic transmission data collected on the shelf and shelfbreak in the northeastern Taiwan region within the context of the 2008 Quantifying, Predicting, and Exploiting Uncertainty (QPE 2008) pilot experiment. To do so, we employ our coupled oceanographic (4-D) and acoustic (Nx2-D) modeling systems with ocean data assimilation and a best-fit depth-dependent geoacoustic model. Predictions are compared to the measured acoustic data, showing skill. Using an ensemble approach, we study the sensitivity of our results to uncertainties in several factors, including geoacoustic parameters, bottom layer thickness, bathymetry, and ocean conditions. We find that the lack of signal received on the shelfbreak is due to a 20-dB increase in transmission loss (TL) caused by bottom trapping of sound energy during up-slope transmissions over the complex and deeper bathymetry. Sensitivity studies on sediment properties show larger but isotropic TL variations on the shelf and smaller but more anisotropic TL variations over the shelfbreak. Sediment sound-speed uncertainties affect the shape of the probability density functions of the TLs more than uncertainties in sediment densities and attenuations. Diverse thicknesses of sediments lead to only limited effects on the TL. The small bathymetric data uncertainty is modeled and also leads to small TL variations. We discover that the initial transport conditions in the Taiwan Strait can affect acoustic transmissions downstream more than 100 km away, especially above the shelfbreak. Simulations also reveal internal tides and we quantify their spatial and temporal effects on the ocean and acoustic fields. One type of predicted waves are semidiurnal shelfbreak internal tides propagating up-slope with wavelengths around 4080 km, horizontal phase speeds of 0.51 m/s, and vertical peak-to-peak displacements of isotherms of 2060 m. These waves lead to variations of broadband TL estimates over 56-km range that are more isotropic and on bearing average larger (up to 58-dB amplitudes) on the shelf than on the complex shelfbreak where the TL varies rapidly with bearing angles. © 2005 IEEE.
+KW  - Coastal ocean
+KW  - data assimilation
+KW  - distributed and many-task computing
+KW  - ensemble prediction
+KW  - interdisciplinary modeling
+KW  - internal tides
+KW  - shelf and shelfbreak sound propagation
+KW  - uncertainty quantification
+KW  - underwater acoustics
+KW  - Acoustic fields
+KW  - Acoustic wave propagation
+KW  - Acoustic wave transmission
+KW  - Bathymetry
+KW  - Bearings (structural)
+KW  - Data processing
+KW  - Experiments
+KW  - Forecasting
+KW  - Probability density function
+KW  - Sedimentology
+KW  - Sensitivity analysis
+KW  - Tides
+KW  - Coastal ocean
+KW  - Data assimilation
+KW  - distributed and many-task computing
+KW  - Ensemble prediction
+KW  - interdisciplinary modeling
+KW  - Internal tides
+KW  - Sound propagation
+KW  - Uncertainty quantifications
+KW  - Underwater acoustics
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 57
+ER  -
+
+TY  - JOUR
+AU  - Ringshausen, F.C.
+AU  - Schlösser, S.
+AU  - Nienhaus, A.
+AU  - Schablon, A.
+AU  - Schultze-Werninghaus, G.
+AU  - Rohde, G.
+TI  - In-hospital contact investigation among health care workers after exposure to smear-negative tuberculosis
+PY  - 2009
+T2  - Journal of Occupational Medicine and Toxicology
+VL  - 4
+IS  - 1
+C7  - 11
+DO  - 10.1186/1745-6673-4-11
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-67650709070&doi=10.1186%2f1745-6673-4-11&partnerID=40&md5=ebe187ffa6f14ede4d780915eab99381
+AB  - Background. Smear-negative pulmonary tuberculosis (TB) accounts for a considerable proportion of TB transmission, which especially endangers health care workers (HCW). Novel Mycobacterium-tuberculosis-specific interferon- release assays (IGRAs) may offer the chance to define the burden of TB in HCW more accurately than the Mantoux tuberculin skin test (TST), but the data that is available regarding their performance in tracing smear-negative TB in the low-incidence, in-hospital setting, is limited. We conducted a large-scale, in-hospital contact investigation among HCW of a German university hospital after exposure to a single case of extensive smear-negative, culture-positive TB with pulmonary involvement. The objective of the present study was to evaluate an IGRA in comparison to the TST and to identify risk factors for test positivity. Methods. Contacts were prospectively enrolled, evaluated using a standardized questionnaire, the IGRA QuantiFERON-TB Gold in Tube (QFT-GIT) and the TST, and followed-up for two years. Active TB was ruled out by chest x-ray in QFT-GIT-positive subjects. Independent predictors of test positivity were established through the use of logistic regression analysis. Results. Out of the 143 subjects analyzed, 82 (57.3%) had close contact, but only four (2.8%) experienced cumulative exposure to the index case >40 hours. QFT-GIT results were positive in 13 subjects (9.1%), while TST results were positive in 40 subjects (28.0%) at an induration >5 mm. Overall agreement was poor between both tests (kappa = 0.15). Age was the only predictor of QFT-GIT-positivity (Odds ratio 2.7, 95% confidence interval 1.325.46), while TST-positivity was significantly related to Bacillus Calmette-Guérin vaccination and foreign origin. Logistic regression analysis showed no relation between test results and exposure. No secondary cases of active TB were detected over an observational period of two years. Conclusion. Our findings suggest a low contagiosity of the particular index case. The frequency of positive QFT-GIT results may in fact reflect the pre-existing prevalence of latent TB infection among the study population. TB transmission seems unlikely and contact tracing not generally warranted after cumulative exposure <40 hours. However, the substantially lower frequency of positive QFT-GIT results compared to the TST may contribute to enhanced TB control in health care. © 2009 Ringshausen et al; licensee BioMed Central Ltd.
+KW  - Mycobacterium bovis BCG
+KW  - Mycobacterium tuberculosis
+KW  - BCG vaccine
+KW  - cytokine
+KW  - gamma interferon
+KW  - adult
+KW  - article
+KW  - assay
+KW  - bacterium culture
+KW  - BCG vaccination
+KW  - confidence interval
+KW  - contact examination
+KW  - cytokine release
+KW  - diagnostic test
+KW  - family history
+KW  - female
+KW  - Germany
+KW  - health care personnel
+KW  - hospital personnel
+KW  - human
+KW  - intermethod comparison
+KW  - logistic regression analysis
+KW  - lung tuberculosis
+KW  - major clinical study
+KW  - male
+KW  - Mycobacterium tuberculosis
+KW  - nurse
+KW  - occupational exposure
+KW  - physician
+KW  - prediction
+KW  - prevalence
+KW  - prospective study
+KW  - questionnaire
+KW  - risk factor
+KW  - skin test
+KW  - smear negative pulmonary tuberculosis
+KW  - thorax radiography
+KW  - tuberculin test
+KW  - tuberculosis
+KW  - university hospital
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 24
+ER  -
+
+TY  - JOUR
+AU  - Li, J.
+AU  - Yuan, D.
+AU  - Liu, J.
+AU  - Jiang, Y.
+AU  - Chen, Y.
+AU  - Hsu, K.L.
+AU  - Sorooshian, S.
+TI  - Predicting floods in a large karst river basin by coupling PERSIANN-CCS QPEs with a physically based distributed hydrological model
+PY  - 2019
+T2  - Hydrology and Earth System Sciences
+VL  - 23
+IS  - 3
+SP  - 1505
+EP  - 1532
+DO  - 10.5194/hess-23-1505-2019
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85063048364&doi=10.5194%2fhess-23-1505-2019&partnerID=40&md5=9c17a75928f199777c46410caffa6ec0
+AB  - In general, there are no long-term meteorological or hydrological data available for karst river basins. The lack of rainfall data is a great challenge that hinders the development of hydrological models. Quantitative precipitation estimates (QPEs) based on weather satellites offer a potential method by which rainfall data in karst areas could be obtained. Furthermore, coupling QPEs with a distributed hydrological model has the potential to improve the precision of flood predictions in large karst watersheds. Estimating precipitation from remotely sensed information using an artificial neural network-cloud classification system (PERSIANN-CCS) is a type of QPE technology based on satellites that has achieved broad research results worldwide. However, only a few studies on PERSIANN-CCS QPEs have occurred in large karst basins, and the accuracy is generally poor in terms of practical applications. This paper studied the feasibility of coupling a fully physically based distributed hydrological model, i.e., the Liuxihe model, with PERSIANN-CCS QPEs for predicting floods in a large river basin, i.e., the Liujiang karst river basin, which has a watershed area of 58 270 km-2, in southern China. The model structure and function require further refinement to suit the karst basins. For instance, the sub-basins in this paper are divided into many karst hydrology response units (KHRUs) to ensure that the model structure is adequately refined for karst areas. In addition, the convergence of the underground runoff calculation method within the original Liuxihe model is changed to suit the karst water-bearing media, and the Muskingum routing method is used in the model to calculate the underground runoff in this study. Additionally, the epikarst zone, as a distinctive structure of the KHRU, is carefully considered in the model. The result of the QPEs shows that compared with the observed precipitation measured by a rain gauge, the distribution of precipitation predicted by the PERSIANN-CCS QPEs was very similar. However, the quantity of precipitation predicted by the PERSIANN-CCS QPEs was smaller. A post-processing method is proposed to revise the products of the PERSIANN-CCS QPEs. The karst flood simulation results show that coupling the post-processed PERSIANN-CCS QPEs with the Liuxihe model has a better performance relative to the result based on the initial PERSIANN-CCS QPEs. Moreover, the performance of the coupled model largely improves with parameter re-optimization via the post-processed PERSIANN-CCS QPEs. The average values of the six evaluation indices change as follows: the Nash-Sutcliffe coefficient increases by 14 %, the correlation coefficient increases by 15 %, the process relative error decreases by 8 %, the peak flow relative error decreases by 18 %, the water balance coefficient increases by 8 %, and the peak flow time error displays a 5 h decrease. Among these parameters, the peak flow relative error shows the greatest improvement; thus, these parameters are of page1506 the greatest concern for flood prediction. The rational flood simulation results from the coupled model provide a great practical application prospect for flood prediction in large karst river basins. © 2019 Author(s).
+KW  - China
+KW  - Classification (of information)
+KW  - Climate models
+KW  - Errors
+KW  - Floods
+KW  - Forecasting
+KW  - Hydrogeology
+KW  - Neural networks
+KW  - Rain
+KW  - Rain gages
+KW  - Rivers
+KW  - Runoff
+KW  - Watersheds
+KW  - Weather satellites
+KW  - Application prospect
+KW  - Cloud classification systems
+KW  - Correlation coefficient
+KW  - Distributed hydrological model
+KW  - Hydrological models
+KW  - Nash-Sutcliffe coefficient
+KW  - Postprocessing methods
+KW  - Underground runoffs
+KW  - flood
+KW  - hydrological modeling
+KW  - karst hydrology
+KW  - peak flow
+KW  - precipitation (climatology)
+KW  - prediction
+KW  - rainfall
+KW  - river basin
+KW  - runoff
+KW  - water budget
+KW  - watershed
+KW  - Landforms
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 26
+ER  -
+
+TY  - JOUR
+AU  - Marcy, O.
+AU  - Borand, L.
+AU  - Ung, V.
+AU  - Msellati, P.
+AU  - Tejiokem, M.
+AU  - Huu, K.T.
+AU  - Do Chau, V.
+AU  - Tran, D.N.
+AU  - Ateba-Ndongo, F.
+AU  - Tetang-Ndiang, S.
+AU  - Nacro, B.
+AU  - Sanogo, B.
+AU  - Neou, L.
+AU  - Goyet, S.
+AU  - Dim, B.
+AU  - Pean, P.
+AU  - Quillet, C.
+AU  - Fournier, I.
+AU  - Berteloot, L.
+AU  - Carcelain, G.
+AU  - Godreuil, S.
+AU  - Blanche, S.
+AU  - Delacourt, C.
+TI  - A treatment-decision score for HIV-infected children with suspected tuberculosis
+PY  - 2019
+T2  - Pediatrics
+VL  - 144
+IS  - 3
+C7  - 2018-2065
+DO  - 10.1542/peds.2018-2065
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85071788868&doi=10.1542%2fpeds.2018-2065&partnerID=40&md5=550b5e42e20b044876521e7966b3c6d2
+AB  - BACKGROUND: Diagnosis of tuberculosis should be improved in children infected with HIV to reduce mortality. We developed prediction scores to guide antituberculosis treatment decision in HIV-infected children with suspected tuberculosis. METHODS: HIV-infected children with suspected tuberculosis enrolled in Burkina Faso, Cambodia, Cameroon, and Vietnam (ANRS 12229 PAANTHER 01 Study), underwent clinical assessment, chest radiography, Quantiferon Gold In-Tube (QFT), abdominal ultrasonography, and sample collection for microbiology, including Xpert MTB/RIF (Xpert). We developed 4 tuberculosis diagnostic models using logistic regression: (1) all predictors included, (2) QFT excluded, (3) ultrasonography excluded, and (4) QFT and ultrasonography excluded. We internally validated the models using resampling. We built a score on the basis of the model with the best area under the receiver operating characteristic curve and parsimony. RESULTS: A total of 438 children were enrolled in the study; 251 (57.3%) had tuberculosis, including 55 (12.6%) with culture- or Xpert-confirmed tuberculosis. The final 4 models included Xpert, fever lasting .2 weeks, unremitting cough, hemoptysis and weight loss in the past 4 weeks, contact with a patient with smear-positive tuberculosis, tachycardia, miliary tuberculosis, alveolar opacities, and lymph nodes on the chest radiograph, together with abdominal lymph nodes on the ultrasound and QFT results. The areas under the receiver operating characteristic curves were 0.866, 0.861, 0.850, and 0.846, for models 1, 2, 3, and 4, respectively. The score developed on model 2 had a sensitivity of 88.6% and a specificity of 61.2% for a tuberculosis diagnosis. CONCLUSIONS: Our score had a good diagnostic performance. Used in an algorithm, it should enable prompt treatment decision in children with suspected tuberculosis and a high mortality risk, thus contributing to significant public health benefits. © 2019 by the American Academy of Pediatrics
+KW  - Abdomen
+KW  - AIDS-Related Opportunistic Infections
+KW  - Antitubercular Agents
+KW  - Bacteriological Techniques
+KW  - Child
+KW  - Child, Preschool
+KW  - Clinical Decision Rules
+KW  - Female
+KW  - HIV Infections
+KW  - Humans
+KW  - Lung
+KW  - Male
+KW  - Microscopy
+KW  - Radiography
+KW  - Receptors, Interferon
+KW  - Reproducibility of Results
+KW  - Sensitivity and Specificity
+KW  - Tuberculosis
+KW  - Ultrasonography
+KW  - gamma interferon receptor
+KW  - interferon receptor
+KW  - tuberculostatic agent
+KW  - algorithm
+KW  - antituberculosis treatment decision
+KW  - area under the curve
+KW  - Article
+KW  - bacterium culture
+KW  - body weight loss
+KW  - Burkina Faso
+KW  - Cambodia
+KW  - Cameroon
+KW  - child
+KW  - clinical assessment
+KW  - cohort analysis
+KW  - controlled study
+KW  - coughing
+KW  - diagnostic test accuracy study
+KW  - diagnostic value
+KW  - disease duration
+KW  - echography
+KW  - female
+KW  - fever
+KW  - hemoptysis
+KW  - human
+KW  - Human immunodeficiency virus infected patient
+KW  - major clinical study
+KW  - male
+KW  - mortality risk
+KW  - parsimony analysis
+KW  - pediatric patient
+KW  - predictive value
+KW  - priority journal
+KW  - receiver operating characteristic
+KW  - respiratory tract disease assessment
+KW  - risk reduction
+KW  - sensitivity and specificity
+KW  - thorax radiography
+KW  - tuberculin test
+KW  - tuberculosis
+KW  - validation study
+KW  - Viet Nam
+KW  - abdomen
+KW  - AIDS related complex
+KW  - complication
+KW  - diagnostic imaging
+KW  - Human immunodeficiency virus infection
+KW  - lung
+KW  - microbiological examination
+KW  - microscopy
+KW  - preschool child
+KW  - radiography
+KW  - reproducibility
+KW  - tuberculosis
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 35
+ER  -
+
+TY  - JOUR
+AU  - Targowski, T.
+AU  - Chelstowska, S.
+AU  - Plusa, T.
+TI  - IGRA as a Predictive Factor of Silent Pulmonary Changes in Individuals Following Exposure to Tuberculosis
+PY  - 2014
+T2  - Lung
+VL  - 192
+IS  - 6
+SP  - 869
+EP  - 874
+DO  - 10.1007/s00408-014-9637-y
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84937107433&doi=10.1007%2fs00408-014-9637-y&partnerID=40&md5=6e1a0aeb2b2ad6b0cee7d59d535b051a
+AB  - Objectives: We conducted a study on usefulness of the tuberculin skin test (TST) and the Quantiferon-TB Gold IT (QFT) tests as predictors of radiological changes after contact with tuberculosis.; Materials and Methods: The study group consisted of TB-exposed HCWs working in the Military Institute of Medicine (Warsaw, Poland). The usefulness of TST, QFT, and a combination of both tests was assessed for prediction of silent radiological findings.; Results: 83 previously TB-exposed participants were recruited. None of the participants had a history of active tuberculosis. Positive TST results were reported in 72 (86.8 %) participants, and positive QFTs were observed in 27 (32.5 %) cases. Chest radiographs revealed 23 findings specific for non-active tuberculosis in 18 (21.7 %) participants. The results of the QFTs were associated with the highest negative predictive value, positive predictive value, and positive likelihood ratio of silent chest X-ray findings suggestive of latent tuberculosis infection. Positive QFT was the only statistically significant variable that increases the odds ratio (OR–8.3) of the presence of typical of tuberculosis radiological changes in the lung.; Conclusion: A positive QFT result in an individual with no TB history who was exposed to tuberculosis in the past is associated with a significantly higher risk of clinically silent parenchymal lesions in lungs suggestive of previous tuberculosis. © 2014, The Author(s).
+KW  - IGRA
+KW  - LTBI
+KW  - Tuberculosis
+KW  - Adult
+KW  - Age Factors
+KW  - Analysis of Variance
+KW  - Biological Assay
+KW  - Biological Markers
+KW  - Case-Control Studies
+KW  - Disease Progression
+KW  - Female
+KW  - Humans
+KW  - Incidence
+KW  - Interferon-gamma
+KW  - Latent Tuberculosis
+KW  - Logistic Models
+KW  - Lung
+KW  - Male
+KW  - Middle Aged
+KW  - Multivariate Analysis
+KW  - Mycobacterium tuberculosis
+KW  - Poland
+KW  - Predictive Value of Tests
+KW  - Risk Assessment
+KW  - Sensitivity and Specificity
+KW  - Sex Factors
+KW  - Tuberculin Test
+KW  - biological marker
+KW  - gamma interferon
+KW  - adult
+KW  - age
+KW  - analysis of variance
+KW  - bioassay
+KW  - blood
+KW  - case control study
+KW  - comparative study
+KW  - disease course
+KW  - female
+KW  - human
+KW  - incidence
+KW  - isolation and purification
+KW  - latent tuberculosis
+KW  - lung
+KW  - male
+KW  - middle aged
+KW  - multivariate analysis
+KW  - Mycobacterium tuberculosis
+KW  - pathology
+KW  - Poland
+KW  - predictive value
+KW  - procedures
+KW  - radiography
+KW  - risk assessment
+KW  - sensitivity and specificity
+KW  - sex difference
+KW  - statistical model
+KW  - transmission
+KW  - tuberculin test
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 7
+ER  -
+
+TY  - JOUR
+AU  - Li, H.
+AU  - Xu, M.
+AU  - Chen, R.
+AU  - An, N.
+AU  - Bai, Y.
+AU  - Huang, X.
+AU  - Wang, C.
+AU  - He, J.
+AU  - Cai, L.
+AU  - Zeng, X.
+AU  - Han, L.
+TI  - Diagnostic and prognostic values of quantification ELTSA interferon-γ release assays and tuberculosis skin test for tuberculosis patients undergoing maintenance hemodialysis
+ST  - 结核γ干扰素释放试验酶联免疫试管法和结核菌素皮试试验对行维持性血液透析合并结核患者的诊断和预后判断价值研究
+PY  - 2018
+T2  - Chinese General Practice
+VL  - 21
+IS  - 36
+SP  - 4464
+EP  - 4470
+DO  - 10.12114/j.issn.1007-9572.2018.00.237
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85071144975&doi=10.12114%2fj.issn.1007-9572.2018.00.237&partnerID=40&md5=86211323688e5925a1d7b3245ff5c1a5
+AB  - Objective: To study the diagnostic and prognostic values of quantification ELISA interferon-γ release test(QFT) and tuberculosis skin test(TST) for patients with tuberculosis〔including both latent tuberculosis infection(LTBI) and tuberculosis(TB)〕 undergoing maintenance hemodialysis(MHD) in areas with high prevalence of tuberculosis.Methods: Totaled 198 patients who underwent MHD in Blood Purification Center, Hainan General Hospital, for more than 3 months during 2013-2015 were enrolled.All of them were given a 3-year follow-up.Baseline clinical data were collected.The results of QFT and TST were also obtained and their values in the diagnosis and prediction of the prognosis of these patients were evaluated.Multivariate Logistic regression analysis was performed to investigate the influencing factors for positive results of QFT and TST.The prognosis of patients in 3 years was observed, and survival curves were drawn.Cox proportional hazards regression analysis was carried out to explore the factors associated with the prognosis.Results: 156 cases who completed the study were included in the final analysis, including 109 males and 47 females, with an average age of (54.4±16.6)years and an average hemodialysis duration of (1.9±0.4) years.The prevalences of positive QFT, positive TST were 34.6%(54/156), 67.9%(106/156), respectively.The results of TST and QFT in identifying TB showed no consistency(Kappa=0.053, P=0.405).Multivariate Logistic regression analysis revealed that, after adjusting for other factors, sex〔OR=0.345, 95%CI(0.144, 0.828), P=0.017〕and no BCG vaccine scar〔OR=0.345, 95%CI(0.144, 0.828), P=0.017〕were risk factors for having a positive QFT result, the sex 〔OR=2.836, 95%CI(1.120, 7.177), P=0.028〕and the total lymphocyte count〔OR=3.573, 95%CI(1.410, 12.295), P=0.043〕were risk factors for having a positive TST result.Of the 37 patients identified with LTBI, 11(29.7%) developed TB.The 3-year prevalence of TB in these patients was 42 948.7/100 000.The 1-, 2-, 3-year survival rates were 89.7%, 77.6%, and 69.9%, respectively.Crud death rate was(CDR)301.3/1 000.Multivariate Cox proportional hazard regression analysis found that positive QFT results and elevated C-reactive protein(CRP) were unfavorable prognostic factors for the overall survival, while anti-TB treatment and elevated prealbumin were favorable prognostic factors for the overall survival(P<0.05).Conclusion: In areas with high prevalence of tuberculosis in Hainan Province, among the CKD patients undergoing MHD, males were more likely to have a positive QFT result.The results of TST and QFT in diagnosing TB demonstrated no consistency.Positive QFT results and elevated CRP were unfavorable factors whereas anti-TB treatment and elevated prealbumin were favorable prognostic factors for the overall survival.In this population, the diagnosis of LTBI or TB should be based on epidemiologic data, past medical history, predisposing factors of TB, lung imaging data, exclusion of other infections and results of experimental anti-TB treatment.In addition, diagnostic measures such as histopathological examination and determination of bronchoalveolar lavage fluid concentration should be promoted vigorously. © 2018 by the Chinese General Practice.
+KW  - Hemodialysis
+KW  - Interferon-γ release assays
+KW  - Tuberculosis
+KW  - Tuberculosis skin test
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Li, B.
+TI  - Coarse-graining as a route to microscopic physics: The renormalization group in quantum field theory
+PY  - 2015
+T2  - Philosophy of Science
+VL  - 82
+IS  - 5
+SP  - 1211
+EP  - 1223
+DO  - 10.1086/684085
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84952046735&doi=10.1086%2f684085&partnerID=40&md5=3465d850bef67508e0545e75099ece3d
+AB  - The renormalization group (RG) has been characterized as merely a coarse-graining procedure that does not illuminate the microscopic content of quantum field theory (QFT) but merely gets us from that content, as given by axiomatic QFT, to macroscopic predictions. I argue that in the constructive field theory tradition, RG techniques do illuminate the microscopic dynamics of a QFT, which are not automatically given by axiomatic QFT. RG techniques in constructive field theory are also rigorous, so one cannot object to their foundational import on grounds of lack of rigor. © 2015 by the Philosophy of Science Association. All rights reserved.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 5
+ER  -
+
+TY  - JOUR
+AU  - Morin, E.
+AU  - Jacoby, Y.
+AU  - Navon, S.
+AU  - Bet-Halachmi, E.
+TI  - Towards flash-flood prediction in the dry Dead Sea region utilizing radar rainfall information
+PY  - 2009
+T2  - Advances in Water Resources
+VL  - 32
+IS  - 7
+SP  - 1066
+EP  - 1076
+DO  - 10.1016/j.advwatres.2008.11.011
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-67349281931&doi=10.1016%2fj.advwatres.2008.11.011&partnerID=40&md5=cec8b23d4283c37bbc637f03120c386d
+AB  - Flash-flood warning models can save lives and protect various kinds of infrastructure. In dry climate regions, rainfall is highly variable and can be of high-intensity. Since rain gauge networks in such areas are sparse, rainfall information derived from weather radar systems can provide useful input for flash-flood models. This paper presents a flash-flood warning model which utilizes radar rainfall data and applies it to two catchments that drain into the dry Dead Sea region. Radar-based quantitative precipitation estimates (QPEs) were derived using a rain gauge adjustment approach, either on a daily basis (allowing the adjustment factor to change over time, assuming available real-time gauge data) or using a constant factor value (derived from rain gauge data) over the entire period of the analysis. The QPEs served as input for a continuous hydrological model that represents the main hydrological processes in the region, namely infiltration, flow routing and transmission losses. The infiltration function is applied in a distributed mode while the routing and transmission loss functions are applied in a lumped mode. Model parameters were found by calibration based on the 5 years of data for one of the catchments. Validation was performed for a subsequent 5-year period for the same catchment and then for an entire 10-year record for the second catchment. The probability of detection and false alarm rates for the validation cases were reasonable. Probabilistic flash-flood prediction is presented applying Monte Carlo simulations with an uncertainty range for the QPEs and model parameters. With low probability thresholds, one can maintain more than 70% detection with no more than 30% false alarms. The study demonstrates that a flash-flood warning model is feasible for catchments in the area studied. © 2008 Elsevier Ltd. All rights reserved.
+KW  - Dead Sea
+KW  - Dry climate
+KW  - Flash floods
+KW  - Hydrological model
+KW  - Weather radar
+KW  - Asia
+KW  - Dead Sea
+KW  - Eurasia
+KW  - Middle East
+KW  - Alarm systems
+KW  - Catchments
+KW  - Errors
+KW  - Floods
+KW  - Gages
+KW  - Meteorological instruments
+KW  - Meteorological radar
+KW  - Monte Carlo methods
+KW  - Radar systems
+KW  - Rain
+KW  - Rain gages
+KW  - Runoff
+KW  - Seepage
+KW  - Soil mechanics
+KW  - Solute transport
+KW  - Dead Sea
+KW  - Dry climate
+KW  - Flash floods
+KW  - Hydrological model
+KW  - Weather radar
+KW  - catchment
+KW  - flash flood
+KW  - flood forecasting
+KW  - hydrological modeling
+KW  - Monte Carlo analysis
+KW  - precipitation assessment
+KW  - radar
+KW  - rainfall
+KW  - raingauge
+KW  - Hydraulic models
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 61
+ER  -
+
+TY  - JOUR
+AU  - Ghimire, G.R.
+AU  - Krajewski, W.F.
+AU  - Quintero, F.
+TI  - Scale-Dependent Value of QPF for Real-Time Streamflow Forecasting
+PY  - 2021
+T2  - Journal of Hydrometeorology
+VL  - 22
+IS  - 7
+SP  - 1931
+EP  - 1947
+DO  - 10.1175/JHM-D-20-0297.1
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85115415192&doi=10.1175%2fJHM-D-20-0297.1&partnerID=40&md5=8944e3d8bd0f250c4dc2e12c954350be
+AB  - Incorporating rainfall forecasts into a real-time streamflow forecasting system extends the forecast lead time. Since quantitative precipitation forecasts (QPFs) are subject to substantial uncertainties, questions arise on the trade-off between the time horizon of the QPF and the accuracy of the streamflow forecasts. This study explores the problem sys-tematically, exploring the uncertainties associated with QPFs and their hydrologic predictability. The focus is on scale dependence of the trade-off between the QPF time horizon, basin-scale, space–time scale of the QPF, and streamflow forecasting accuracy. To address this question, the study first performs a comprehensive independent evaluation of the QPFs at 140 U.S. Geological Survey (USGS) monitored basins with a wide range of spatial scales (;10–40 000 km2) over the state of Iowa in the midwestern United States. The study uses High-Resolution Rapid Refresh (HRRR) and Global Forecasting System (GFS) QPFs for short and medium-range forecasts, respectively. Using Multi-Radar Multi-Sensor (MRMS) quantitative precipitation estimate (QPE) as a reference, the results show that the rainfall-to-rainfall QPF errors are scale dependent. The results from the hydrologic forecasting experiment show that both QPFs illustrate clear value for real-time streamflow forecasting at longer lead times in the short-to medium-range relative to the no-rain streamflow forecast. The value of QPFs for streamflow forecasting is particularly apparent for basin sizes below 1000 km2. The space– time scale, or reference time tr (ratio of forecast lead time to basin travel time),;1 depicts the largest streamflow forecasting skill with a systematic decrease in forecasting accuracy for tr. 1. © 2021 American Meteorological Society.
+KW  - Ensembles
+KW  - Forecast verification/skill
+KW  - Hydrologic models
+KW  - Model evaluation/performance
+KW  - Operational forecasting
+KW  - Probabilistic Quantitative Precipitation Forecasting (PQPF)
+KW  - Short-range prediction
+KW  - basin
+KW  - ensemble forecasting
+KW  - hydrological modeling
+KW  - precipitation (climatology)
+KW  - rainfall
+KW  - real time
+KW  - streamflow
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 16
+ER  -
+
+TY  - JOUR
+AU  - Chawla, H.
+AU  - Lobato, M.N.
+AU  - Sosa, L.E.
+AU  - ZuWallack, R.
+TI  - Predictors for a positive QuantiFERON-TB-Gold test in BCG-vaccinated adults with a positive tuberculin skin test
+PY  - 2012
+T2  - Journal of Infection and Public Health
+VL  - 5
+IS  - 6
+SP  - 369
+EP  - 373
+DO  - 10.1016/j.jiph.2012.06.003
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84871719347&doi=10.1016%2fj.jiph.2012.06.003&partnerID=40&md5=f6042df076affea55db37dd383690d9d
+AB  - Background: Prevention of tuberculosis (TB) in the United States usually involves testing for latent tuberculosis infection (LTBI) with a tuberculin skin test (TST), followed by offering therapy to those who have a positive test result. QuantiFERON-TB Gold assay (QFT-G) is more specific for infection with Mycobacterium tuberculosis than the TST, especially among persons vaccinated with bacillus Calmette-Guérin, thereby reducing the number of false positive tests. Methods: Adults referred to a pulmonary clinic for a positive TST result were tested with QFT-G. We assessed factors for having a positive QFT-G. Results: Among 100 adults who were BCG-vaccinated and had a positive TST result, 30 (30%) had a positive result using QFT-G. Persons from high-incidence countries were 8.2 times more likely to have a positive QFT-G result compared with persons from low-incidence countries (46% versus 9%). Using logistic regression to assess QFT-G positivity, strong predictors included having an abnormal chest radiograph consistent with healed TB, a TST induration of ≥16. mm, and birth in a high-incidence country. Conclusion: Use of QFT-G assay following a positive TST result further identifies persons who would most benefit from treatment for LTBI. © 2012 King Saud Bin Abdulaziz University for Health Sciences.
+KW  - Diagnosis
+KW  - Latent tuberculosis infection
+KW  - Prevention
+KW  - Treatment
+KW  - Tuberculosis
+KW  - Adult
+KW  - BCG Vaccine
+KW  - Cohort Studies
+KW  - Diagnostic Tests, Routine
+KW  - False Positive Reactions
+KW  - Female
+KW  - Humans
+KW  - Incidence
+KW  - Latent Tuberculosis
+KW  - Logistic Models
+KW  - Male
+KW  - Mycobacterium tuberculosis
+KW  - Predictive Value of Tests
+KW  - Retrospective Studies
+KW  - Tuberculin Test
+KW  - Tuberculosis
+KW  - article
+KW  - BCG vaccination
+KW  - birth
+KW  - controlled study
+KW  - diagnostic test
+KW  - female
+KW  - human
+KW  - incidence
+KW  - lung tuberculosis
+KW  - major clinical study
+KW  - male
+KW  - Mycobacterium tuberculosis
+KW  - prediction
+KW  - priority journal
+KW  - QuantiFERON TB gold assay
+KW  - thorax radiography
+KW  - tuberculin test
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 7
+ER  -
+
+TY  - JOUR
+AU  - Winqvist, N.
+AU  - Björkman, P.
+AU  - Norén, A.
+AU  - Miörner, H.
+TI  - Use of a T cell interferon gamma release assay in the investigation for suspected active tuberculosis in a low prevalence area
+PY  - 2009
+T2  - BMC Infectious Diseases
+VL  - 9
+C7  - 105
+DO  - 10.1186/1471-2334-9-105
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-68049138081&doi=10.1186%2f1471-2334-9-105&partnerID=40&md5=ea59eb712c4e6f5c53c1fb18e28c7f8a
+AB  - Background: In settings with low background prevalence of tuberculosis (TB) infection, interferon-γ release assays (IGRA) could be useful for diagnosing active TB. This study aims to evaluate the performance of QuantiFERON®-TB Gold (QFT-G) in the investigation for suspected active TB, with particular attention to patients originating in high-incidence countries. Furthermore, factors associated with QFT-G results in patients with active TB were assessed. Methods: From patients investigated for clinically suspected active TB, blood was obtained for QFT-G testing, in addition to routine investigations. Positive (PPV) and negative (NPV) predictive values for QFT-G were calculated, comparing patients with confirmed TB and those with other final diagnoses. QFT-G results in TB patients originating from countries with intermediate or high TB incidence were compared with QFT-G results from a control group of recently arrived asymptomatic immigrants from high-incidence countries. Factors associated with QFT-G outcome in patients with confirmed TB were assessed. Results: Among 141 patients, 41/70 (58.6%) with confirmed TB had a positive QFT-G test, compared to 16/71 (22.6%) patients with other final diagnoses, resulting in overall PPV of 71.9% and NPV of 67.6%. For patients with pulmonary disease, PPV and NPV were 61.1% and 67.7%, respectively, and 90.5% and 66.7% for subjects with extrapulmonary manifestations. Comparing patients from high-incidence countries with controls yielded a PPV for active TB of 76.7%, and a NPV of 82.7%. Patients with confirmed TB and positive QFT-G results were characterized by a lower median peripheral white blood cell count (5.9 × 109/L vs. 8.8 × 109/L; P < 0.001) and a higher median body mass index (22.7 vs. 20.7; P = 0.043) as compared to QFT-G-negative TB patients. Conclusion: The overall PPV and NPV of QFT-G for identifying active TB were unsatisfactory, especially for pulmonary disease. Thus, the usefulness of QFT-G for this purpose is questionable. However, a high PPV was observed for extrapulmonary TB and QFT-G might be considered in the diagnostic process in this situation. The PPV and NPV for identifying active TB among persons originating from regions with high-and intermediate TB incidence was similar to that observed in subjects originating in the low-incidence region. © 2009 Winqvist et al; licensee BioMed Central Ltd.
+KW  - Adult
+KW  - Emigrants and Immigrants
+KW  - Female
+KW  - Humans
+KW  - Incidence
+KW  - Interferon-gamma
+KW  - Logistic Models
+KW  - Male
+KW  - Middle Aged
+KW  - Predictive Value of Tests
+KW  - Reagent Kits, Diagnostic
+KW  - Sweden
+KW  - Tuberculin Test
+KW  - Tuberculosis
+KW  - gamma interferon
+KW  - gamma interferon
+KW  - adult
+KW  - article
+KW  - body mass
+KW  - controlled study
+KW  - cytokine release
+KW  - diagnostic accuracy
+KW  - diagnostic kit
+KW  - diagnostic test
+KW  - diagnostic value
+KW  - differential diagnosis
+KW  - female
+KW  - human
+KW  - immigrant
+KW  - immunoassay
+KW  - interferon gamma release assay
+KW  - leukocyte count
+KW  - lung tuberculosis
+KW  - major clinical study
+KW  - male
+KW  - patient assessment
+KW  - predictive validity
+KW  - prevalence
+KW  - protein blood level
+KW  - sensitivity and specificity
+KW  - Sweden
+KW  - T lymphocyte
+KW  - analytical equipment
+KW  - blood
+KW  - comparative study
+KW  - immunology
+KW  - incidence
+KW  - middle aged
+KW  - migration
+KW  - prediction and forecasting
+KW  - statistical model
+KW  - Sweden
+KW  - tuberculin test
+KW  - tuberculosis
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 21
+ER  -
+
+TY  - CONF
+AU  - Philips, B.
+AU  - Chandrasekar, V.
+TI  - The Dallas Fort Worth urban remote sensing network
+PY  - 2012
+T2  - International Geoscience and Remote Sensing Symposium (IGARSS)
+C7  - 6352574
+SP  - 6911
+EP  - 6913
+DO  - 10.1109/IGARSS.2012.6352574
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84873167187&doi=10.1109%2fIGARSS.2012.6352574&partnerID=40&md5=74529f94eda1690080fd23f3d60bdf8e
+AB  - The Center for Collaborative Adaptive Sensing of the Atmosphere (CASA) and the North Central Texas Council of Governments (NCTCOG) are embarking on a five-year, project to create the Dallas Fort Worth (DFW) Urban Demonstration Network. The goals of the program are: 1) To develop high-resolution, three-dimensional mapping of the atmospheric conditions, focusing on the boundary layer, to detect and forecast severe wind, tornado, hail, ice, and flash flood hazards. 2) To create impacts-based, neighborhood-scale warnings and forecasts for a range of public and private decision-makers that result in measureable benefit for public safety and the economy. 3) To demonstrate the value of collaborative, adaptive X-band radar networks to existing and future National Weather Service sensors, products, performance metrics, and decision-making; and assess optimal combinations of observing systems The centerpiece of the Dallas Fort Worth Urban Demonstration Network will be an 8-node, boundary-layer, dual polarized, multi-Doppler X-band CASA radar network. Additional in-situ and remote sensors will enable fusion of observations from all sensors. Data products will include single and multi-radar data, vector wind, Quantitative precipitation estimation, nowcasting, and analysis and numerical weather prediction products. Research and Research to operations in the DFW Urban Demonstration Network will occur in a quasi-operational environment. New technology and products will be integrated into operational platforms for evaluation by a variety of users during real-time weather events. Users include NWS forecasters and emergency managers; users from transportation, utilities, regional airports, arenas, and the media will be added in the near future. In this way, CASA's multidisciplinary team - engineers, computer scientists, social scientists (sociologists, geographer, economist), meteorologists, hydrologists - will conduct 'end-to-end' research from sensor observation, to product development and validation linked to end user decision-making, response and value. © 2012 IEEE.
+KW  - CASA
+KW  - DFW
+KW  - QPE
+KW  - Radar
+KW  - urban flooding
+KW  - Boundary layers
+KW  - Decision making
+KW  - Demonstrations
+KW  - Economics
+KW  - Floods
+KW  - Geology
+KW  - Precipitation (meteorology)
+KW  - Product development
+KW  - Radar
+KW  - Research
+KW  - Weather information services
+KW  - Adaptive sensing
+KW  - Atmospheric conditions
+KW  - CASA
+KW  - Central Texas
+KW  - Computer scientists
+KW  - Data products
+KW  - Decision makers
+KW  - DFW
+KW  - Dual-polarized
+KW  - End users
+KW  - Flash flood
+KW  - High resolution
+KW  - Multi-disciplinary teams
+KW  - National Weather Services
+KW  - Nowcasting
+KW  - Numerical weather prediction
+KW  - Observing systems
+KW  - Operational platforms
+KW  - Optimal combination
+KW  - Performance metrics
+KW  - Public safety
+KW  - QPE
+KW  - Quantitative precipitation estimation
+KW  - Radar network
+KW  - Regional airport
+KW  - Remote sensors
+KW  - Social scientists
+KW  - Three dimensional mapping
+KW  - Urban flooding
+KW  - Urban remote sensing
+KW  - Vector wind
+KW  - Weather events
+KW  - X-band Radars
+KW  - Remote sensing
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 7
+ER  -
+
+TY  - JOUR
+AU  - Klassen, T.R.
+AU  - Melzer, E.
+TI  - On the relation between scattering amplitudes and finite-size mass corrections in QFT
+PY  - 1991
+T2  - Nuclear Physics, Section B
+VL  - 362
+IS  - 1-2
+SP  - 329
+EP  - 388
+DO  - 10.1016/0550-3213(91)90566-G
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0000527939&doi=10.1016%2f0550-3213%2891%2990566-G&partnerID=40&md5=e43521e6383068278f15395978bde5f5
+AB  - If a stable particle in a quantum field theory (QFT) is enclosed in a box, its mass changes from its infinite-volume value due to the finite-size depedence of its self-energy (because virtual particles can "travel around a finite-size world"). Generalizing results of Lüscher, we show how to express the leading large-volume corrections to the mass of any particle below threshold in terms of the scattering amplitudes of the theory. The mass shift decreases exponentially with the extent of the box, the decay rates depending on the "composite structure" of the particle in question. The proof is given to all orders of perturbation theory for an (almost) arbitrary purely massive QFT in any dimension. We also discuss the size of the error term with which the mass shift can be calculated, showing in particular that the error is substantially smaller in 1 + 1 dimensions. Our results are useful, for instance, in the study of (1 + 1)-dimensional massive QFTs. As a first application we compare our predictions for the finite-size mass shifts in several integrable scattering theories with numerical results, most of which we obtain using the "truncated conformal space approach". © 1991.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 69
+ER  -
+

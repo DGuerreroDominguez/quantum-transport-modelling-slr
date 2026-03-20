@@ -1,0 +1,231 @@
+TY  - JOUR
+AU  - Prestel, S
+AU  - Preis, F
+PY  - 2025
+TI  - Hybrid Quantum Place & Route for Synthesizing Postquantum-Cryptography Code on FPGAs; Teilprojekt opt-QuantumQAP" Skalierbare hybride
+UR  - https://oa.tib.eu/renate/handle/123456789/22256
+ER  -
+TY  - JOUR
+AU  - Wang, Y
+AU  - Yu, X
+AU  - Zhao, Y
+AU  - Communications, J Zhang - 2021 Asia
+AU  - 2021, undefined
+TI  - Multi-Hop-based Routing and Time-Slot Assignment in Centralized Quantum Entanglement Distribution Networks
+T2  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/9737737/
+ER  -
+TY  - JOUR
+AB  - Citation: Bouchmal, O.; Cimoli, B.; Stabile, R.; Vegas Olmos, J.J.; Hernandez, C.; Martinez, R.; Casellas, R.; Tafur Monroy, I. Novel Application of Quantum Computing for Routing and Spectrum Assignment in Flexi-Grid Optical Networks. Photonics 2024, 11, 1023. Abstract: Flexi-grid technology has revolutionized optical networking by enabling Elastic Optical Networks (EONs) that offer greater flexibility and dynamism compared to traditional fixed-grid systems. As data traffic continues to grow exponentially, the need for efficient and scalable solutions to the routing and spectrum assignment (RSA) problem in EONs becomes increasingly critical. The RSA problem, being NP-Hard, requires solutions that can simultaneously address both spatial routing and spectrum allocation. This paper proposes a novel quantum-based approach to solving the RSA problem. By formulating the problem as a Quadratic Unconstrained Binary Optimization (QUBO) model, we employ the Quantum Approximate Optimization Algorithm (QAOA) to effectively solve it. Our approach is specifically designed to minimize end-to-end delay while satisfying the continuity and contiguity constraints of frequency slots. Simulations conducted using the Qiskit framework and IBM-QASM simulator validate the effectiveness of our method. We applied the QAOA-based RSA approach to small network topology, where the number of nodes and frequency slots was constrained by the limited qubit count on current quantum simulator. In this small network, the algorithm successfully converged to an optimal solution in less than 30 iterations, with a total runtime of approximately 10.7 s with an accuracy of 78.8%. Additionally, we conducted a comparative analysis between QAOA, integer linear programming, and deep reinforcement learning methods to evaluate the performance of the quantum-based approach relative to classical techniques. This work lays the foundation for future exploration of quantum computing in solving large-scale RSA problems in EONs, with the prospect of achieving quantum advantage as quantum technology continues to advance.
+AU  - Bouchmal, Oumayma
+AU  - Cimoli, Bruno
+AU  - Stabile, Ripalta
+AU  - Jose, Juan
+AU  - Olmos, Vegas
+AU  - Hernandez, Carlos
+AU  - Martinez, Ricardo
+AU  - Casellas, Ramon
+AU  - Monroy, Idelfonso Tafur
+DO  - 10.3390/photonics11111023
+KW  - elastic optical networks
+KW  - flexi-grid
+KW  - quadratic unconstrained binary optimization
+KW  - quantum approximate optimization algorithm
+KW  - quantum optimization
+KW  - quantumcomputing
+KW  - routing and spectrum assignment
+PY  - 2024
+TI  - Novel Application of Quantum Computing for Routing and Spectrum Assignment in Flexi-Grid Optical Networks. Photonics 2024, 11, 1023
+UR  - https://inspirehep.net/files/25daba66c20f2a667f79e4ed398d3fa8
+ER  -
+TY  - JOUR
+AU  - Liu, Y
+AU  - Yu, X
+AU  - Zhao, Y
+AU  - Zhu, Q
+AU  - …, A Nag - ICC 2024-IEEE
+AU  - 2024, undefined
+TI  - From Unilateral Adaptive to Bilateral Synergistic Routing and Wavelength Assignment: Enabling End-to-End Quantum Key Distribution over Classical Optical
+T2  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/10622746/?casa_token=cXlWJAFrLUEAAAAA:ns8FwcVIT10icuL6Pj7pmLOvPBxMdqVUC2m9OdkurhWvfC3Rt9R_BlhVEgsd4gqa_1hGD-Ijo5Jo
+ER  -
+TY  - JOUR
+AU  - Pradhan, A
+AU  - Planet, P Acharya - IARS'Knowledge
+AU  - 2023, undefined
+TI  - ROUTING AND SPECTRUM ASSIGNMENT IN ELASTIC OPTICAL NETWORKS PERFORMANCE OF QUANTUM DOT BASED INTERMEDIATE BAND SOLAR CELLS
+T2  - jconsortium.com
+UR  - https://jconsortium.com/index.php/iarsbookplanet/article/view/733
+ER  -
+TY  - JOUR
+AU  - He, X
+AU  - Li, L
+AU  - Han, D
+AU  - Zhao, Y
+AU  - Nag, A
+AU  - …, W Wang - Journal of Optical
+AU  - 2022, undefined
+TI  - Routing and secret key assignment for secure multicast services in quantum satellite networks
+T2  - opg.optica.org
+UR  - https://opg.optica.org/abstract.cfm?uri=jocn-14-4-190
+ER  -
+TY  - JOUR
+AU  - He, X
+AU  - Li, L
+AU  - Zhao, Y
+AU  - Li, Y
+AU  - …, X Yu - … Conference (ACP) and
+AU  - 2020, undefined
+TI  - Routing and key assignment for secure multicast services in quantum satellite networks
+T2  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/9365529/
+ER  -
+TY  - JOUR
+AB  - In quantum key distribution-secured optical networks (QKD-ONs), constrained network resources limit the success probability of QKD lightpath requests (QLRs). Thus, the selection of an appropriate route and the efficient utilisation of network resources for establishment of QLRs are the essential and challenging problems. This work addresses the routing and resource assignment (RRA) problem in the quantum signal channel of QKD-ONs. The RRA problem of QKD-ONs is a complex decision making problem, where appropriate solutions depend on understanding the networking environment. Motivated by the recent advances in deep reinforcement learning (DRL) for complex problems and also because of its capability to learn directly from experiences, DRL is exploited to solve the RRA problem and a DRL-based RRA scheme is proposed. The proposed scheme learns the optimal policy to select an appropriate route and assigns suitable network resources for establishment of QLRs by using deep neural networks. The performance of the proposed scheme is compared with the deep-Q network (DQN) method and two baseline schemes, namely, first-fit (FF) and random-fit (RF) for two different networks, namely The National Science Foundation Network (NSFNET) and UBN24. Simulation results indicate that the proposed scheme reduces blocking by 7.19%, 10.11%, and 33.50% for NSFNET and 2.47%, 3.20%, and 19.60% for UBN24 and improves resource utilisation up to 3.40%, 4.33%, and 7.18% for NSFNET and 1.34%, 1.96%, and 6.44% for UBN24 as compared with DQN, FF, and RF, respectively.
+AU  - Sharma, Purva
+AU  - Gupta, Shubham
+AU  - Bhatia, Vimal
+AU  - Prakash, Shashi
+DA  - 2023/9//
+DO  - 10.1049/QTC2.12063
+IS  - 3
+KW  - deep reinforcement learning
+KW  - optical network
+KW  - quantum key distribution
+KW  - routing and resource assignment
+PB  - John Wiley and Sons Inc
+PY  - 2023
+SP  - 136
+EP  - 145
+TI  - Deep reinforcement learning‐based routing and resource assignment in quantum key distribution‐secured optical networks
+T2  - Wiley Online Library
+UR  - https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/qtc2.12063
+VL  - 4
+ER  -
+TY  - JOUR
+AB  - As quantum key distribution networks grow in size and complexity, resource assignment has become increasingly important. In passive optical networks without wavelength conversion, we need to assign a full route between origin and destination with the same wavelength from a finite set. This problem is computationally intensive and the common solution in classical optical networks is using heuristics. We adapt these heuristics to hybrid quantum networks where the quantum channel can share some of the optical links with classical channels. In this quantum-classical multiplexing, nonlinear effects can become the limiting factor in the range of the network. The signal in the classical channels can be subject to Raman Scattering or Four-Wave-Mixing and produce light in the quantum channels. While these processes are not efficient, even a single photon can ruin the quantum channel. We propose heuristics for the routing and wavelength assignment problem for hybrid quantum-classical networks with power control for the classical channels. By keeping the transmitted power to its bare functional minimum, we can reduce the interference to the quantum channels. We study their efficiency under different scenarios.
+AU  - Ruiz, L
+AU  - arXiv:2407.19024, JC Garcia-Escartin - arXiv preprint
+AU  - 2024, undefined
+KW  - quant-ph
+PY  - 2025
+TI  - Routing and wavelength assignment in quantum key distribution networks: power control heuristics for quantum-classical multiplexing
+T2  - arxiv.org
+UR  - https://arxiv.org/abs/2407.19024
+ER  -
+TY  - JOUR
+AU  - Liu, Y
+AU  - Yu, X
+AU  - Cao, Y
+AU  - Nag, A
+AU  - Express, Y Zhao - Optics
+AU  - 2025, undefined
+TI  - Quantum-aware routing and wavelength assignment for classical traffic in hybrid quantum-classical optical networks
+T2  - opg.optica.org
+UR  - https://opg.optica.org/abstract.cfm?uri=oe-33-24-50519
+ER  -
+TY  - JOUR
+AU  - Sharma, P
+AU  - Bhatia, V
+AU  - International, S Prakash - 2021 IEEE
+AU  - 2021, undefined
+TI  - Routing and scheduling of key assignment in optical networks secured by quantum key distribution
+T2  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/9937009/?casa_token=rWbLIUBJ1OEAAAAA:ymd2MeEZvxjPfGEecVlYiqVloD8UvfisQErIFbvtvl1HsJSmJFRDEdb6rUUzzN7p-9VL0n6A7ykN
+ER  -
+TY  - JOUR
+AU  - Bouchmal, O
+AU  - Cimoli, B
+AU  - …, R Stabile - Journal of Optical
+AU  - 2025, undefined
+TI  - Quantum computing approach for multi-objective routing and spectrum assignment optimization
+T2  - opg.optica.org
+UR  - https://opg.optica.org/abstract.cfm?uri=jocn-17-6-B15
+ER  -
+TY  - JOUR
+AB  - As quantum key distribution networks grow in size and complexity, resource assignment has become increasingly important. In passive optical networks without wavelength conversion, we need to assign a full route between origin and destination with the same wavelength from a finite set. This problem is computationally intensive and the common solution in classical optical networks is using heuristics. We adapt these heuristics to hybrid quantum networks where the quantum channel can share some of the optical links with classical channels. In this quantum-classical multiplexing, nonlinear effects can become the limiting factor in the range of the network. The signal in the classical channels can be subject to Raman Scattering or Four-Wave-Mixing and produce light in the quantum channels. While these effects are not efficient, even a single photon can ruin the quantum channel. We propose heuristics for the routing and wavelength assignment problem for hybrid quantum-classical networks with power control for the classical channels. By keeping the transmitted power to its bare functional minimum, we can reduce the interference to the quantum channels. We study their efficiency under different scenarios.
+AU  - Ruiz, Lidia
+AU  - Garcia-Escartin, Juan Carlos
+DA  - 2024/7//
+PY  - 2024
+TI  - Routing and wavelength assignment in quantum key distribution networks: power control heuristics for quantum-classical multiplexing
+UR  - https://arxiv.org/pdf/2407.19024
+ER  -
+TY  - JOUR
+AU  - Ruiz, L
+AU  - in, JC Garcia-Escartin - IEEE Journal on Selected Areas
+AU  - 2025, undefined
+TI  - Routing and wavelength assignment in hybrid networks with classical and quantum signals
+T2  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/10839041/
+ER  -
+TY  - JOUR
+AU  - Davies, E
+AU  - Banfield, D
+AU  - Weaver, B
+AU  - …, C White - Journal of Optical
+AU  - 2025, undefined
+TI  - Routing and wavelength assignment problems in optical networks—comparing formulations for solution by quantum annealing
+T2  - opg.optica.org
+UR  - https://opg.optica.org/abstract.cfm?uri=jocn-17-12-B83
+ER  -
+TY  - JOUR
+AU  - Bouchmal, O
+AU  - Cimoli, B
+AU  - Stabile, R
+AU  - Photonics, JJ Vegas Olmos -
+AU  - 2024, undefined
+TI  - Novel application of quantum computing for routing and spectrum assignment in flexi-grid optical networks
+T2  - mdpi.com
+UR  - https://www.mdpi.com/2304-6732/11/11/1023
+ER  -
+TY  - JOUR
+AU  - Dong, K
+AU  - Zhao, Y
+AU  - Yu, X
+AU  - Nag, A
+AU  - express, J Zhang - Optics
+AU  - 2020, undefined
+TI  - Auxiliary graph based routing, wavelength, and time-slot assignment in metro quantum optical networks with a novel node structure
+T2  - opg.optica.org
+UR  - https://opg.optica.org/abstract.cfm?uri=oe-28-5-5936
+ER  -
+TY  - JOUR
+AB  - The Traffic Assignment Problem (TAP) is a complex transportation optimisation problem typically solved using meta-heuristics on classical computers. Quantum computers, despite being a nascent technology, have the potential to significantly speed up computation by exploiting quantum parallelism. A quantum annealer (QA) is a quantum computer tailored to solve combinatorial optimisation problems formulated as a Quadratic Unconstrained Binary Optimisation (QUBO). Formulating complex optimisation problems as QUBO is an open challenge. This paper derives a new QUBO formulation for TAP by employing a streamlined methodology of general applicability. It also attempts a direct comparison at solving TAP encompassing a QA (D-WAVE), a hybrid quantum-classical algorithm, and classical methods including Simulated Annealing and Genetic Algorithms. This comparison is difficult and seldom done due to the inherent differences between quantum and classic hardware. As expected from the current quantum technology, our results show that a pure QA suffers from significant noise in qubits and requires significant additional computational time, although we show that the time required solely by the QPU does not increase with problem size. We also show that the hybrid QA mitigates these noise issues and is on a par with traditional methods.
+AU  - Chitty, Darren M.
+AU  - Charles, James
+AU  - Moraglio, Alberto
+AU  - Keedwell, Ed
+DA  - 2024/7//
+DO  - 10.1145/3638529.3654131
+KW  - digital annealer
+KW  - quantum unconstrained binary optimisation
+KW  - traffic assignment
+PB  - Association for Computing Machinery, Inc
+PY  - 2024
+SN  - 9798400704949
+SP  - 814
+EP  - 822
+TI  - Applying a Quantum Annealer to the Traffic Assignment Problem
+T2  - dl.acm.org
+UR  - https://dl.acm.org/doi/abs/10.1145/3638529.3654131
+VL  - 24
+ER  -
+TY  - JOUR
+AB  - The determination of the absolute configuration of chiral alcohols and amines is typically carried out with modified Mosher methods involving a double-derivatization strategy. On the other hand, the number of robust and reliable methods to accomplish that goal using a single derivatization approach is much less abundant and mainly limited to secondary alcohols or primary amines. Herein, we report a conceptually novel strategy to settle the most likely absolute configuration of a wide variety of substrates and chiral derivatizing agents following a single-derivatization experiment coupled with quantum calculations of NMR shifts and DP4+ analysis. Using an ambitious set of 114 examples, our methodology succeeded in setting the correct absolute configuration of the substrates in 96% of the cases. The classification achieved with secondary alcohols, secondary amines, and primary amines herein studied was excellent (100%), whereas more modest results (89%) were observed for primary and tertiary alcohols. Moreover, a new DP4+ integrated probability was built to strengthen the analysis when the NMR data of the two possible diastereoisomers are available. The suitability of these methods in solving the absolute configuration of two relevant cases of stereochemical misassignment ((+)-erythro-mefloquine and angiopterlactone B) is also provided.
+AU  - Zanardi, María M.
+AU  - Biglione, Franco A.
+AU  - Sortino, Maximiliano A.
+AU  - Sarotti, Ariel M.
+DA  - 2018/10//
+DO  - 10.1021/ACS.JOC.8B01749
+IS  - 19
+PB  - American Chemical Society
+PY  - 2018
+SP  - 11839
+EP  - 11849
+TI  - General quantum-based NMR method for the assignment of absolute configuration by single or double derivatization: scope and limitations
+T2  - ACS Publications
+UR  - https://pubs.acs.org/doi/abs/10.1021/acs.joc.8b01749?casa_token=RwqMrHdM5HEAAAAA:mT5WVbCVXRgpjXockO_2TxFoSXIDChQThk91nFH1J7cOHAumvFEnAoKIiFnX_vDCaDocwKzw0aXsITk&casa_token=Jzcqrb_AXCMAAAAA:jLXHhzZrCNBRla9n6GwaNx_L4wkmAuS6_Bb5-dw4mNLe4hS9OP7eW4z3L5OCbi4dhKWiQ8LoMHZeZOY
+VL  - 83
+ER  -

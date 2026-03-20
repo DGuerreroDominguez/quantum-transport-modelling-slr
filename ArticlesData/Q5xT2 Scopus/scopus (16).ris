@@ -1,0 +1,55 @@
+﻿TY  - JOUR
+AU  - Apodaca, K.
+AU  - Cucurull, L.
+AU  - Genkova, I.
+AU  - Purser, R.J.
+AU  - Su, X.
+TI  - Assessing the benefit of variational quality control for assimilating Aeolus Mie and Rayleigh wind profiles in NOAA's global forecast system during tropical cyclones
+PY  - 2023
+T2  - Quarterly Journal of the Royal Meteorological Society
+VL  - 149
+IS  - 756
+SP  - 2761
+EP  - 2783
+DO  - 10.1002/qj.4530
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85167729336&doi=10.1002%2fqj.4530&partnerID=40&md5=6b621fb8bd53132b48dbed662ffd861f
+AB  - In this article, we show a “proof-of-concept” study to assess the utility of a variational quality control algorithm in increasing the number of assimilated Aeolus Mie-cloudy and Rayleigh-clear winds in National Oceanic and Atmospheric Administration (NOAA)'s global data assimilation and forecast system. The National Centers for Environmental Prediction (NCEP) Variational Quality Control (NCEP-VQC) algorithm was tuned and applied during the minimization process. This type of quality control uses optimal control theory principles to treat outliers in the probability density function (PDF) of observational departure statistics, assuming that the observation errors follow a family of logistic distributions. In the case of Aeolus Mie-cloudy and Rayleigh-clear winds, the NCEP-VQC algorithm permitted the relaxation of the gross error and one of the recommended ESA quality controls (reject Rayleigh-clear observations below 850 hPa), assigned adaptive observation weights ranging from 0 to 1, and led to an increase in the number of retained Aeolus observations for the calculation of global analyses, which in turn improved the verification statistics on analyzed tropical storms This article discusses the advantage of implementing the NCEP-VQC algorithm in the Aeolus data assimilation, the benefits of retaining more wind profiles that contribute to the analysis calculation, and shows improvements in the initialization and short-term forecasts on several tropical cyclone cases. © 2023 The Authors. Quarterly Journal of the Royal Meteorological Society published by John Wiley & Sons Ltd on behalf of Royal Meteorological Society. This article has been contributed to by U.S. Government employees and their work is in the public domain in the USA.
+KW  - aeolus
+KW  - data assimilation
+KW  - quality control
+KW  - satellite wind lidar
+KW  - tropical cyclones
+KW  - variational
+KW  - Density functional theory
+KW  - Forecasting
+KW  - Hurricanes
+KW  - Probability density function
+KW  - Probability distributions
+KW  - Quality assurance
+KW  - Tropical cyclone
+KW  - Tropics
+KW  - Aeolus
+KW  - Data assimilation
+KW  - National centers for environmental predictions
+KW  - Rayleigh
+KW  - Satellite wind lidar
+KW  - Satellite winds
+KW  - Tropical cyclone
+KW  - Variational
+KW  - Wind lidar
+KW  - Wind profiles
+KW  - algorithm
+KW  - data assimilation
+KW  - lidar
+KW  - NOAA satellite
+KW  - probability density function
+KW  - quality control
+KW  - tropical cyclone event
+KW  - weather forecasting
+KW  - wind profile
+KW  - Quality control
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 0
+ER  -
+

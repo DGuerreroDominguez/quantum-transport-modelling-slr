@@ -1,0 +1,1103 @@
+TY  - JOUR
+AU  - Shikanai, Reo
+AU  - Ohzeki, Masayuki
+AU  - Tanaka, Kazuyuki
+TI  - Quadratic Unconstrained Binary Formulation for Traffic Signal Optimization on Real-World Maps
+LA  - eng
+JF  - Journal of the Physical Society of Japan
+VL  - 94
+IS  - 2
+PY  - 2025
+SN  - 13474073, 00319015
+PB  - Physical Society of Japan
+DO  - 10.7566/JPSJ.94.024001
+AB  - The D-Wave quantum annealing machine can quickly find the optimal solution for quadratic unconstrained binary optimization (QUBO). One of the applications where the use of quantum annealing is desired is in problems requiring rapid calculations. One such application is the traffic signal optimization. Several studies have used quantum annealing; however, they are formulated in relatively unrealistic settings, such as only crossroads on a map. We propose a different formulation of QUBO that can also deal with T-junctions and multi-forked roads. The simulation of urban mobility (SUMO) was used to validate the efficiency of our approach and verify the feasibility of real-time control using geographical information data that were very similar to the real world. Our model could reduce the waiting time at red lights for vehicles. In addition, we compared our results with those of the Gurobi Optimizer to confirm whether the D-Wave machine could find the ground state. Unfortunately, our results show that the D-Wave machine could not find the optimal solution and was slower than the Gurobi Optimizer in computation time.
+ER  -
+
+TY  - JOUR
+AU  - Hidayat, Wahyu
+AU  - Surendro, Kridanto
+TI  - Quantum computing in addressing greenhouse gas emissions: A systematic literature review
+LA  - eng
+JF  - Egyptian Informatics Journal
+VL  - 29
+PY  - 2025
+SN  - 20904754, 11108665
+PB  - Elsevier B.V.
+DO  - 10.1016/j.eij.2025.100622
+AB  - The greenhouse gas (GHG) emissions issue that is directly related to the 13th Sustainable Development Goals; Climate Action has gained attention on a global scale, prompting the utilization of all available technological advancements, including quantum computing. This systematic literature review, employing Kitchenham's method, explores the realm of quantum computing and its application to the pressing issue of GHG emissions. Through a meticulous analysis of scholarly articles, we identify key trends, influential authors, core sources, and relevant affiliations within this research domain. Notably, our findings underscore a robust connection between quantum computing studies and the fields of machine learning and optimization, where various optimization tasks attempt to minimize GHG emissions, predominantly in the Energy and Logistics problem domain using Quantum-inspired Evolutionary Algorithm, Quantum-inspired Swarm Optimization, or Quantum Annealing. An insightful map reveals the emergence of diverse quantum computing implementations for varied tasks, across various domains, providing nuanced perspectives and identifying potential research directions, particularly in optimization and prediction tasks. This study offers a foundational understanding of trends, challenges, and opportunities associated with quantum computing implementation in addressing GHG emissions, contributing to the ongoing establishment of sustainable technology.
+ER  -
+
+TY  - JOUR
+AU  - Mei, Kai
+AU  - Xu, Wujiang
+AU  - Lin, Shuhang
+AU  - Zhang, Yongfeng
+TI  - Smart Routing: Cost-Effective Multi-LLM Serving for Multi-Core AIOS
+LA  - und
+PY  - 2025
+AB  - As large language models (LLMs) are increasingly deployed as service
+endpoints in systems, the surge in query volume creates significant scheduling
+challenges. Existing scheduling frameworks mainly target at latency
+optimization while neglecting the capability of LLMs to serve different level
+of queries, which could lead to computational resource waste. For example,
+those simple queries can be safely handled by small, fast and cheap LLMs, while
+those complex and difficult queries need to be handled by large, slow, and
+expensive LLMs. This paper addresses this challenge by proposing an efficient
+capability-cost coordinated scheduling framework, ECCOS, for multi-LLM serving,
+which explicitly constrains response quality and workload to optimize LLM
+inference cost. Specifically, it introduces the two-stage scheduling by
+designing a multi-objective predictor and a constrained optimizer. The
+predictor estimates both model capabilities and computational costs through
+training-based and retrieval-based approaches, while the optimizer determines
+cost-optimal assignments under quality and workload constraints. It also
+introduces QAServe, a dataset for sample-wise response quality and costs
+collected by zero-shot prompting different LLMs on knowledge QA and
+mathematical reasoning. Extensive experiments demonstrate that ECCOS improves
+success rates by 6.30% while reducing costs by 10.15% compared to existing
+methods, consuming less than 0.5% of LLM response time. The code is available
+at: https://github.com/agiresearch/ECCOS, and the proposed smart routing
+mechanism has been integrated into AIOS, the AI Agent Operating System, at
+https://github.com/agiresearch/AIOS.
+ER  -
+
+TY  - JOUR
+AU  - Padmasola, Venkat
+AU  - Li, Zhaotong
+AU  - Chatterjee, Rupak
+AU  - Dyk, Wesley
+TI  - Solving the Traveling Salesman Problem via Different Quantum Computing Architectures
+LA  - eng
+PY  - 2025
+DO  - 10.48550/arXiv.2502.17725
+AB  - We study the application of emerging photonic and quantum computing architectures to solving the Traveling Salesman Problem (TSP), a well-known NP-hard optimization problem. We investigate several approaches: Simulated Annealing (SA), Quadratic Unconstrained Binary Optimization (QUBO-Ising) methods implemented on quantum annealers and Optical Coherent Ising Machines, as well as the Quantum Approximate Optimization Algorithm (QAOA) and the Quantum Phase Estimation (QPE) algorithm on gate-based quantum computers. QAOA and QPE were tested on the IBM Quantum platform. The QUBO-Ising method was explored using the D-Wave quantum annealer, which operates on superconducting Josephson junctions, and the QCI Dirac machine, a nonlinear optoelectronic Ising machine. Gate-based quantum computers demonstrated accurate results for small TSP instances in simulation. However, real quantum devices are hindered by noise and limited scalability. Circuit complexity grows with problem size, restricting performance to TSP instances with a maximum of 6 nodes. In contrast, Ising-based architectures show improved scalability for larger problem sizes. SQUID-based Ising machines can handle TSP instances with up to 12 nodes, while nonlinear optoelectronic Ising machines extend this capability to 18 nodes. Nevertheless, the solutions tend to be suboptimal due to hardware limitations and challenges in achieving ground state convergence as the problem size increases. Despite these limitations, Ising machines demonstrate significant time advantages over classical methods, making them a promising candidate for solving larger-scale TSPs efficiently.
+ER  -
+
+TY  - JOUR
+AU  - Inoue, Daisuke
+AU  - Yamashita, Hiroshi
+AU  - Aihara, Kazuyuki
+AU  - Yoshida, Hiroaki
+TI  - AMPIC: Adaptive Model Predictive Ising Controller for large-scale urban traffic signals
+LA  - eng
+JF  - Arxiv (cornell University)
+PY  - 2024
+PB  - Cornell University
+DO  - 10.48550/arXiv.2406.03690
+AB  - Realizing smooth traffic flow is important for achieving carbon neutrality. Adaptive traffic signal control, which considers traffic conditions, has thus attracted attention. However, it is difficult to ensure optimal vehicle flow throughout a large city using existing control methods because of their heavy computational load. Here, we propose a control method called AMPIC (Adaptive Model Predictive Ising Controller) that guarantees both scalability and optimality. The proposed method employs model predictive control to solve an optimal control problem at each control interval with explicit consideration of a predictive model of vehicle flow. This optimal control problem is transformed into a combinatorial optimization problem with binary variables that is equivalent to the so-called Ising problem. This transformation allows us to use an Ising solver, which has been widely studied and is expected to have fast and efficient optimization performance. We performed numerical experiments using a microscopic traffic simulator for a realistic city road network. The results show that AMPIC enables faster vehicle cruising speed with less waiting time than that achieved by classical control methods, resulting in lower CO2 emissions. The model predictive approach with a long prediction horizon thus effectively improves control performance. Systematic parametric studies on model cities indicate that the proposed method realizes smoother traffic flows for large city road networks. Among Ising solvers, D-Wave's quantum annealing is shown to find near-optimal solutions at a reasonable computational cost.
+ER  -
+
+TY  - JOUR
+AU  - Shimomai, Sohei
+AU  - Ueda, Kei
+AU  - Kimura, Shinji
+TI  - Input Data Format for Sparse Matrix in Quantum Annealing Emulator
+LA  - eng
+JF  - Ieice Transactions on Fundamentals of Electronics, Communications and Computer Sciences
+VL  - E107.A
+IS  - 3
+SP  - 557
+EP  - 565
+PY  - 2024
+SN  - 17451337, 09168508
+PB  - Institute of Electronics Information Communication Engineers
+DO  - 10.1587/transfun.2023VLP0002
+AB  - Recently, Quantum Annealing (QA) has attracted attention as an efficient algorithm for combinatorial optimization problems. In QA, the input data size becomes large and its reduction is important for accelerating by the hardware emulation since the usable memory size and its bandwidth are limited. The paper proposes the compression method of input sparse matrices for QA emulator. The proposed method uses the sparseness of the coefficient matrix and the reappearance of the same values. An independent table is introduced and data are compressed by the search and registration method of two consecutive data in the value table. The proposed method is applied to Traveling Salesman Problem (TSP) with 32, 64 and 96 cities and Nurse Scheduling Problem (NSP). The proposed method could reduce the amount of data by 1/40 for 96 city TSP and could manage 96 city TSP on the hardware emulator. When applied to NSP, we confirmed the effectiveness of the proposed method by the compression ratio ranging from 1/4 to 1/11.8. The data reduction is also useful for the simulation/emulation performance when using the compressed data directly and 1.9 times faster speed can be found on 96 city TSP than the CSR-based method.
+ER  -
+
+TY  - JOUR
+AU  - Shikanai, Reo
+AU  - Ohzeki, Masayuki
+AU  - Tanaka, Kazuyuki
+TI  - Quadratic Unconstrained Binary Formulation for Traffic Signal
+  Optimization on Real-World Maps
+LA  - und
+PY  - 2024
+AB  - The D-Wave quantum annealing machine can quickly find the optimal solution
+for quadratic unconstrained binary optimization (QUBO). One of the applications
+where the use of quantum annealing is desired is in problems requiring rapid
+calculations. One such application is the traffic signal optimization. Several
+studies have used quantum annealing; however, they are formulated in relatively
+unrealistic settings, such as only crossroads on a map. We propose a different
+formulation of QUBO that can also deal with T-junctions and multi-forked roads.
+The simulation of urban mobility (SUMO) was used to validate the efficiency of
+our approach and verify the feasibility of real-time control using geographical
+information data that were very similar to the real world. Our model could
+reduce the waiting time at red lights for vehicles. In addition, we compared
+our results with those of the Gurobi Optimizer to confirm whether the D-Wave
+machine could find the ground state. Unfortunately, our results show that the
+D-Wave machine could not find the optimal solution and was slower than the
+Gurobi Optimizer in computation time.
+ER  -
+
+TY  - CPAPER
+AU  - He, Haoqi
+TI  - Quantum Annealing and GNN for Solving TSP with QUBO
+LA  - eng
+JF  - Lecture Notes in Computer Science (including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 15180
+SP  - 134
+EP  - 145
+PY  - 2024
+SN  - 16113349, 03029743
+SN  - 981977800X, 9789819778003, 9819778018, 9789819778010
+PB  - Springer Science and Business Media Deutschland GmbH
+DO  - 10.1007/978-981-97-7801-0_12
+AB  - This paper investigates the application of Quadratic Unconstrained Binary Optimization (QUBO) models for solving the Travelling Salesman Problem (TSP) using Quantum Annealing (QA) and Graph Neural Networks (GNNs). Quantum Annealing leverages quantum tunneling to escape local minima, solving QUBO formulations of TSP on Coherent Ising Machines (CIMs). Additionally, we introduce a novel method that integrates QUBO as a loss function within a GNN framework tailored for TSP. By exploiting GNNs’ capability to learn graph representations, this approach efficiently approximates TSP solutions with improved computational time over traditional exact solvers. We detail the construction of a QUBO model for TSP, encoding city visits into binary variables and formulating constraints to ensure valid tours. The implementation of the QUBO-based Quantum Annealing algorithm for TSP (QQA-TSP) is demonstrated using quantum simulation platforms. Furthermore, a solution for TSP (QGNN-TSP) is presented, which learns the problem’s structure and generates competitive solutions through gradient descent over a QUBO-based loss function. Experimental results show that QQA-TSP performs competitively with state-of-the-art classical solvers like dynamic programming, Concorde, and Gurobi. The QGNN-TSP approach is trained and evaluated on various TSP datasets, demonstrating efficiency and scalability. This study highlights the potential of combining deep learning with quantum-inspired optimization for solving NP-hard problems, suggesting future directions for enhancing GNN architectures and applying QUBO frameworks to more complex combinatorial optimization tasks.
+ER  -
+
+TY  - JOUR
+AU  - He, Haoqi
+TI  - Quantum Annealing and Graph Neural Networks for Solving TSP with QUBO [arXiv]
+LA  - eng
+JF  - Arxiv (cornell University)
+PY  - 2024
+PB  - Cornell University
+DO  - 10.48550/arXiv.2402.14036
+AB  - This paper explores the application of Quadratic Unconstrained Binary Optimization (QUBO) models in solving the Travelling Salesman Problem (TSP) through Quantum Annealing algorithms and Graph Neural Networks. Quantum Annealing (QA), a quantum-inspired optimization method that exploits quantum tunneling to escape local minima, is used to solve QUBO formulations of TSP instances on Coherent Ising Machines (CIMs). The paper also presents a novel approach where QUBO is employed as a loss function within a GNN architecture tailored for solving TSP efficiently. By leveraging GNN's capability to learn graph representations, this method finds approximate solutions to TSP with improved computational time compared to traditional exact solvers. The paper details how to construct a QUBO model for TSP by encoding city visits into binary variables and formulating constraints that guarantee valid tours. It further discusses the implementation of QUBO-based Quantum Annealing algorithm for TSP (QQA-TSP) and its feasibility demonstration using quantum simulation platforms. In addition, it introduces a Graph Neural Network solution for TSP (QGNN-TSP), which learns the underlying structure of the problem and produces competitive solutions via gradient descent over a QUBO-based loss function. The experimental results compare the performance of QQA-TSP against state-of-the-art classical solvers such as dynamic programming, Concorde, and Gurobi, while also presenting empirical outcomes from training and evaluating QGNN-TSP on various TSP datasets. The study highlights the promise of combining deep learning techniques with quantum-inspired optimization methods for solving NP-hard problems like TSP, suggesting future directions for enhancing GNN architectures and applying QUBO frameworks to more complex combinatorial optimization tasks.
+ER  -
+
+TY  - JOUR
+AU  - Slysz, Mateusz
+AU  - Kurowski, Krzysztof
+AU  - Waligóra, Grzegorz
+TI  - Solving Combinatorial Optimization Problems on a Photonic Quantum Computer
+LA  - eng
+JF  - Arxiv (cornell University)
+PY  - 2024
+PB  - Cornell University
+DO  - 10.48550/arXiv.2409.13781
+AB  - Combinatorial optimization problems pose significant computational challenges across various fields, from logistics to cryptography. Traditional computational methods often struggle with their exponential complexity, motivating exploration into alternative paradigms such as quantum computing. In this paper, we investigate the application of photonic quantum computing to solve combinatorial optimization problems. Leveraging the principles of quantum mechanics, we demonstrate how photonic quantum computers can efficiently explore solution spaces and identify optimal solutions for a range of combinatorial problems. We provide an overview of quantum algorithms tailored for combinatorial optimization for different quantum architectures (boson sampling, quantum annealing and gate-based quantum computing). Additionally, we discuss the advantages and challenges of implementing those algorithms on photonic quantum hardware. Through experiments run on an 8-qumode photonic quantum device, as well as numerical simulations, we evaluate the performance of photonic quantum computers in solving representative combinatorial optimization problems, such as the Max-Cut problem and the Job Shop Scheduling Problem.
+ER  -
+
+TY  - JOUR
+AU  - Zander, René
+AU  - Seidel, Raphael
+AU  - Inajetovic, Matteo
+AU  - Steinmann, Niklas
+AU  - Petrič, Matic
+TI  - Solving the Product Breakdown Structure Problem with constrained QAOA
+LA  - eng
+JF  - Arxiv (cornell University)
+PY  - 2024
+PB  - Cornell University
+DO  - 10.48550/arXiv.2406.15228
+AB  - Constrained optimization problems, where not all possible variable assignments are feasible solutions, comprise numerous practically relevant optimization problems such as the Traveling Salesman Problem (TSP), or portfolio optimization. Established methods such as quantum annealing or vanilla QAOA usually transform the problem statement into a QUBO (Quadratic Unconstrained Binary Optimization) form, where the constraints are enforced by auxiliary terms in the QUBO objective. Consequently, such approaches fail to utilize the additional structure provided by the constraints. In this paper, we present a method for solving the industry relevant Product Breakdown Structure problem. Our solution is based on constrained QAOA, which by construction never explores the part of the Hilbert space that represents solutions forbidden by the problem constraints. The size of the search space is thereby reduced significantly. We experimentally show that this approach has not only a very favorable scaling behavior, but also appears to suppress the negative effects of Barren Plateaus.
+ER  -
+
+TY  - CPAPER
+AU  - Zander, René
+AU  - Seidel, Raphael
+AU  - Inajetovic, Matteo
+AU  - Steinmann, Niklas
+AU  - Petrič, Matic
+TI  - Solving the Product Breakdown Structure Problem with constrained QAOA
+LA  - eng
+A2  - Culhane, C, Byrd, G, Muller, H, Alexev, Y, Sheldon, S
+JF  - Proceedings - Ieee Quantum Week 2024, Qce 2024
+VL  - 2
+SP  - 462
+EP  - 463
+PY  - 2024
+SN  - 9798331541378
+PB  - Institute of Electrical and Electronics Engineers Inc.
+DO  - 10.1109/QCE60285.2024.10356
+AB  - Constrained optimization problems, where not all possible variable assignments are feasible solutions, comprise numerous practically relevant optimization problems such as the Traveling Salesman Problem (TSP), or portfolio optimization. Established methods such as quantum annealing or vanilla QAOA usually transform the problem statement into a Quadratic Unconstrained Binary Optimization (QUBO) form, where the constraints are enforced by auxiliary terms in the QUBO objective. Consequently, such approaches fail to utilize the additional structure provided by the constraints. In this work, we present a method for solving the industry relevant Product Breakdown Structure problem. The method is based on constrained QAOA, which by construction never explores the part of the Hilbert space that represents solutions forbidden by the problem constraints. The size of the search space is thereby reduced significantly. We experimentally show that this approach has not only a very favorable scaling behavior, but also appears to suppress the negative effects of Barren Plateaus.
+ER  -
+
+TY  - JOUR
+AU  - Inoue, Daisuke
+AU  - Yamashita, Hiroshi
+AU  - Aihara, Kazuyuki
+AU  - Yoshida, Hiroaki
+TI  - Traffic signal optimization in large-scale urban road networks: an
+  adaptive-predictive controller using Ising models
+LA  - und
+PY  - 2024
+AB  - Realizing smooth traffic flow is important for achieving carbon neutrality.
+Adaptive traffic signal control, which considers traffic conditions, has thus
+attracted attention. However, it is difficult to ensure optimal vehicle flow
+throughout a large city using existing control methods because of their heavy
+computational load. Here, we propose a control method called AMPIC (Adaptive
+Model Predictive Ising Controller) that guarantees both scalability and
+optimality. The proposed method employs model predictive control to solve an
+optimal control problem at each control interval with explicit consideration of
+a predictive model of vehicle flow. This optimal control problem is transformed
+into a combinatorial optimization problem with binary variables that is
+equivalent to the so-called Ising problem. This transformation allows us to use
+an Ising solver, which has been widely studied and is expected to have fast and
+efficient optimization performance. We performed numerical experiments using a
+microscopic traffic simulator for a realistic city road network. The results
+show that AMPIC enables faster vehicle cruising speed with less waiting time
+than that achieved by classical control methods, resulting in lower CO2
+emissions. The model predictive approach with a long prediction horizon thus
+effectively improves control performance. Systematic parametric studies on
+model cities indicate that the proposed method realizes smoother traffic flows
+for large city road networks. Among Ising solvers, D-Wave's quantum annealing
+is shown to find near-optimal solutions at a reasonable computational cost.
+ER  -
+
+TY  - JOUR
+AU  - Inoue, Daisuke
+AU  - Yamashita, Hiroshi
+AU  - Aihara, Kazuyuki
+AU  - Yoshida, Hiroaki
+TI  - Traffic Signal Optimization in Large-Scale Urban Road Networks: An Adaptive-Predictive Controller Using Ising Models
+LA  - eng
+JF  - Ieee Access
+VL  - 12
+SP  - 188739
+EP  - 188754
+PY  - 2024
+SN  - 21693536
+PB  - Institute of Electrical and Electronics Engineers Inc.
+DO  - 10.1109/ACCESS.2024.3514162
+AB  - Realizing smooth traffic flow is important for achieving carbon neutrality. Adaptive traffic signal control, which considers traffic conditions, has thus attracted attention. However, it is difficult to ensure optimal vehicle flow throughout a large city using existing control methods because of their heavy computational load. Here, we propose a control method called AMPIC (Adaptive Model Predictive Ising Controller) that guarantees both scalability and optimality. The proposed method employs model predictive control to solve an optimal control problem at each control interval with explicit consideration of a predictive model of vehicle flow. This optimal control problem is transformed into a combinatorial optimization problem with binary variables that is equivalent to the Ising problem. This transformation allows us to use Ising solvers, which have been widely studied and are expected to offer fast and efficient optimization performance. The method works adaptively according to traffic conditions such as the structure of the road network and feedback from observation of the traffic system. We performed numerical experiments using a microscopic traffic simulator for a realistic city road network. Compared to the classical pattern control method, the results show that AMPIC increases the vehicle cruising speed by 13%, reduces the waiting vehicle ratio to 60%, and lowers the CO 2emissions to only 25% of the original level. The model predictive approach with a long prediction horizon thus effectively improves control performance. Systematic parametric studies on model cities indicate that the proposed method realizes smoother traffic flows for large city road networks. Among Ising solvers, D-Wave's quantum annealing is shown to find near-optimal solutions at a reasonable computational cost.
+ER  -
+
+TY  - CPAPER
+TI  - 14th Metaheuristics International Conference, MIC 2022
+LA  - eng
+JF  - Lecture Notes in Computer Science (including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 13838
+PY  - 2023
+SN  - 16113349, 03029743
+SN  - 3031265033, 3031265041, 9783031265037, 9783031265044
+PB  - Springer Science and Business Media Deutschland GmbH
+AB  - The proceedings contain 48 papers. The special focus in this conference is on Metaheuristics. The topics include: Neural Architecture Search Using Differential Evolution in MAML Framework for Few-Shot Classification Problems; neural Architecture Search Using Metaheuristics for Automated Cell Segmentation; analytical Methods to Separately Evaluate Convergence and Diversity for Multi-objective Optimization; how a Different Ant Behavior Affects on the Performance of the Whole Colony; evaluating the Effects of Chaos in Variable Neighbourhood Search; investigating Fractal Decomposition Based Algorithm on Low-Dimensional Continuous Optimization Problems; a Comparative Analysis of Different Multilevel Approaches for Community Detection; tchebycheff Fractal Decomposition Algorithm for Bi-objective Optimization Problems; local Search for Integrated Predictive Maintenance and Scheduling in Flow-Shop; A BRKGA with Implicit Path-Relinking for the Vehicle Routing Problem with Occasional Drivers and Time Windows; an Investigation of Hyper-Heuristic Approaches for Teeth Scheduling; a Mixed-Integer Programming Formulation and Heuristics for an Integrated Production Planning and Scheduling Problem; construct, Merge, Solve and Adapt Applied to the Maximum Disjoint Dominating Sets Problem; fixed Set Search Applied to the Territory Design Problem; the P-Next Center Problem with Capacity and Coverage Radius Constraints: Model and Heuristics; automatic Configuration of Metaheuristics for Solving the Quadratic Three-Dimensional Assignment Problem Using Irace; hyper-parameter Optimization Using Continuation Algorithms; selecting the Parameters of an Evolutionary Algorithm for the Generation of Phenotypically Accurate Fractal Patterns; addressing Sustainability in Precision Agriculture via Multi-Objective Factored Evolutionary Algorithms; modeling and Solving the K-Track Assignment Problem; Metaheuristic Algorithms for UAV Trajectory Optimization in Mobile Networks; instance Space Analysis for the Generalized Assignment Problem; decision Support for Agri-Food Supply Chains in the E-Commerce Era: The Inbound Inventory Routing Problem with Perishable Products; a Multi-objective Biased Random-Key Genetic Algorithm for the Siting of Emergency Vehicles; simulated Annealing for a Complex Industrial Scheduling Problem; a Matheuristic for Multi-Depot Multi-Trip Vehicle Routing Problems; Comparing QUBO Models of the Magic Square Problem for Quantum Annealing; self-adaptive Publish/Subscribe Network Design; variable Neighborhood Descent for Software Quality Optimization.
+ER  -
+
+TY  - JOUR
+AU  - Hulianitskyi, Leonid
+AU  - Korolyov, Vyacheslav
+AU  - Khodzinskyi, Oleksandr
+TI  - An Overview of Algorithms for Solving Vehicle Routing Problems in the Quantum-Classical Cloud
+LA  - und
+JF  - Кібернетика Та Комп'ютерні Технології
+IS  - 2
+SP  - 23
+EP  - 31
+PY  - 2023
+SN  - 2707451x, 27074501
+PB  - V.M. Glushkov Institute of Cybernetics
+DO  - 10.34229/2707-451X.23.2.3
+AB  - Introduction. The hope of solving the problem of the avalanche-like growth of requirements for computing power, essential for solving complex routing problems and other problems of combinatorial optimization, relies on the latest quantum computers, in the development of which governments and corporations invest multi-billion investments.
+The article examines modern routing algorithms and performs their analysis and verification, if the authors of the algorithm provided appropriate test programs.
+The purpose of the article is to review the current state of development in the field of development of routing algorithms for hybrid quantum-classical clouds, analyze them and propose a classification of algorithms.
+Results. Modern quantum computers (QCs) make it possible to find approximate solutions to some of mathematical problems faster than classical computers. The inaccuracy of the solutions obtained by the QC is a consequence of physical and technological limitations: calculation errors are caused by thermal noise, a small number of computational elements - qubits and connections between them, which requires the decomposition of the problem and the use of heuristic algorithms.
+The analysis of approaches to the solution of optimization problems on QC allows us to single out: quantum response and variational search of eigenvalues based on quantum logic gates as the general directions of development of the vast majority of algorithms for solving routing problems. The considered algorithms reduce the vehicle routing problem to a quadratic unconstrained binary optimization problem, which is isomorphic to the Hamilton-Ising model. In this form, the problem is suitable for embedding in QC, which finds an approximate solution that has the best statistical reliability or corresponds to the quantum state with the lowest energy.
+As a separate class, vehicle routing algorithms for classical computers that use quantum computing to accelerate problem solving can be distinguished. For example, neural networks that calculate weighting factors using QC or an ant algorithm that calculates a pheromone trail in a hybrid cloud. It should be mentioned the quantum-inspired algorithms, which are based on software tools for the simulation of QC and the corresponding libraries and allow creating an effective class of algorithms for solving problems of vehicle routing.
+Conclusions. Combining hardware quantum annealing with a number of software tools for calculating optimization problems for classical computers in a hybrid quantum-classical cloud service allows to obtain advantages in speed and accuracy of some types of complex optimization problems of a commercial scale, in particular, routing vehicles, which is already bringing substantial profits to a number of corporations.
+ER  -
+
+TY  - CPAPER
+AU  - Borah, Asha Rani
+TI  - Enhancing Network Slicing Efficiency in Self-Organizing Networks Using Quantum Computing
+LA  - eng
+JF  - Proceedings of the 4th International Conference on Smart Electronics and Communication, Icosec 2023
+SP  - 722
+EP  - 726
+PY  - 2023
+SN  - 9798350300871, 9798350300888
+PB  - Institute of Electrical and Electronics Engineers Inc.
+DO  - 10.1109/ICOSEC58147.2023.10276206
+AB  - With the proliferation of mobile devices and the growing demand for diverse applications, network operators are facing significant challenges in efficiently managing and optimizing network resources. Network slicing has emerged as a promising solution to address these challenges by enabling the creation of multiple virtual networks on a shared physical infrastructure. However, achieving optimal network slicing efficiency remains a critical task due to resource allocation and management complexity. This research proposes a novel approach to enhance network slicing efficiency in self-organizing networks (SONs) using quantum computing. Quantum computing offers unprecedented computational power and the ability to process large-scale optimization problems efficiently. By harnessing the power of quantum algorithms, the study aims to address the resource allocation and optimization challenges in network slicing. The proposed approach leverages quantum-inspired optimization algorithms, such as quantum annealing and quantum-inspired evolutionary algorithms, to tackle the resource allocation problem. These algorithms exploit the inherent parallelism and superposition properties of quantum computing to explore a vast search space and identify optimal solutions in a significantly reduced time compared to classical optimization techniques. Moreover, a quantum-assisted self-organizing mechanism is introduced that dynamically adapts network slices based on real-time traffic patterns and quality of service requirements. This mechanism utilizes quantum machine learning techniques to analyze network data and predict future traffic demands, enabling proactive resource allocation and efficient utilization. To evaluate the effectiveness of the proposed approach, extensive simulations and comparisons with classical optimization techniques are conducted in a realistic SON environment using the NS2 Simulator. The results demonstrate the superior performance of quantum computing-based approach, showcasing improved network slicing efficiency, reduced resource wastage, and enhanced service quality.
+ER  -
+
+TY  - JOUR
+AU  - Cao, Chenfeng
+AU  - Yu, Yunlong
+AU  - Wu, Zipeng
+AU  - Shannon, Nic
+AU  - Zeng, Bei
+AU  - Joynt, Robert
+TI  - Mitigating algorithmic errors in quantum optimization through energy extrapolation
+LA  - eng
+JF  - Quantum Science and Technology
+VL  - 8
+IS  - 1
+PY  - 2023
+SN  - 20589565
+PB  - Institute of Physics
+DO  - 10.1088/2058-9565/ac969c
+AB  - Quantum optimization algorithms offer a promising route to finding the ground states of target Hamiltonians on near-term quantum devices. Nonetheless, it remains necessary to limit the evolution time and circuit depth as much as possible, since otherwise decoherence will degrade the computation. Even when this is done, there always exists a non-negligible error in estimates of the ground state energy. Here we present a scalable extrapolation approach to mitigating this algorithmic error, which significantly improves estimates obtained using three well-studied quantum optimization algorithms: quantum annealing (QA), the variational quantum eigensolver, and the quantum imaginary time evolution at fixed evolution time or circuit depth. The approach is based on extrapolating the annealing time to infinity or the variance of estimates to zero. The method is reasonably robust against noise. For Hamiltonians which only involve few-body interactions, the additional computational overhead is an increase in the number of measurements by a constant factor. Analytic derivations are provided for the quadratic convergence of estimates of energy as a function of time in QA, and the linear convergence of estimates as a function of variance in all three algorithms. We have verified the validity of these approaches through both numerical simulation and experiments on IBM quantum machines. This work suggests a promising new way to enhance near-term quantum computing through classical post-processing.
+ER  -
+
+TY  - CHAP
+AU  - Mayan, J. Albert
+AU  - Reddy, G. Swamy
+AU  - Rao, G. Madhava
+TI  - Optimizing the traffic flow in VANETs using deep quantum annealing
+LA  - eng
+JF  - Quantum-safe Cryptography Algorithms and Approaches: Impacts of Quantum Computing on Cybersecur
+SP  - 1
+EP  - 11
+PY  - 2023
+SN  - 311079800X, 311079800x, 3110798158, 9783110798005, 9783110798159
+PB  - De Gruyter
+DO  - 10.1515/9783110798159-001
+AB  - We have developed an optimization for the traffic flow in VANETs using deep quantum annealing. Deep quantum annealing is designed to maintain an optimal traffic flow without congestion in smart cities. Careful considerations are made to improve the flow in a manner that is better than the conventional methods. Simulation is carried out to test the efficacy of deep quantum annealing in VANETs. The results show that the proposed method achieves higher rate of accuracy in maintaining the traffic flow than expected.
+ER  -
+
+TY  - JOUR
+AU  - Chen, Xingyu
+AU  - Wang, Yuhong
+AU  - Wen, Yong
+AU  - Cheng, Huailei
+AU  - Hao, Gengren
+TI  - Oxygen Diffusion Coefficients of Asphalt Mixtures and Their Impacts on Mixture Aging
+LA  - eng
+JF  - Transportation Research Record
+PY  - 2023
+SN  - 21694052, 03611981
+PB  - SAGE PUBLICATIONS INC
+DO  - 10.1177/03611981221143117
+AB  - The oxidative aging of asphalt binder affects the long-term performance of flexible pavement. Apart from the intrinsic property of asphalt binder, binder aging in an asphalt mixture is also affected by the mixture's oxygen transport efficiency, which can be characterized by the oxygen diffusion coefficient. In this study, the diffusion coefficients (D-s) of compacted asphalt mixtures of different designs were determined. The same mixture samples were also aged in one dimension for a relatively long period of time. Asphalt binders from different slices of the aged specimens were extracted and recovered, and their aging states were determined. Influences of D-s and air void content on binder aging gradient and binder aging extent in the mixture samples were systematically examined and compared. The results indicate that, as compared with air voids, D-s is more closely related to the aging susceptibility of asphalt binders in asphalt mixtures. It may serve as a useful and convenient parameter in mixture design optimization, modeling and prediction of in situ pavement aging, and quality control and quality assurance (QC/QA) in pavement construction.
+ER  -
+
+TY  - JOUR
+AU  - Sinno, Salvatore
+AU  - Groß, Thomas
+AU  - Mott, Alan
+AU  - Sahoo, Arati
+AU  - Honnalli, Deepak
+AU  - Thuravakkath, Shruthi
+AU  - Bhalgamiya, Bhavika
+TI  - Performance of Commercial Quantum Annealing Solvers for the Capacitated Vehicle Routing Problem [arXiv]
+LA  - eng
+PY  - 2023
+DO  - 10.48550/arXiv.2309.05564
+AB  - Quantum annealing (QA) is a heuristic search algorithm that can run on Adiabatic Quantum Computation (AQC) processors to solve combinatorial optimization problems. Although theoretical studies and simulations on classic hardware have shown encouraging results, these analyses often assume that the computation occurs in adiabatically closed systems without environmental interference. This is not a realistic assumption for real systems; therefore, without extensive empirical measurements on real quantum platforms, theory-based predictions, simulations on classical hardware or limited tests do not accurately assess the current commercial capabilities. This study has assessed the quality of the solution provided by a commercial quantum annealing platform compared to known solutions for the Capacitated Vehicle Routing Problem (CVRP). The study has conducted extensive analysis over more than 30 hours of access to QA commercial platforms to investigate how the size of the problem and its complexity impact the solution accuracy and the time used to find a solution. Our results have found that the absolute error is between 0.12 and 0.55, and the quantum processor unit (QPU) time is between 30 and 46 micro seconds. Our results show that as the constraint density increases, the quality of the solution degrades. Therefore, more than the problem size, the model complexity plays a critical role, and practical applications should select formulations that minimize the constraint density.
+ER  -
+
+TY  - JOUR
+AU  - Hameiri, Ziv
+TI  - Photovoltaics literature survey (No. 180)
+LA  - und
+JF  - Progress in Photovoltaics: Research and Applications
+VL  - 31
+IS  - 2
+SP  - 195
+EP  - 199
+PY  - 2023
+SN  - 1099159x, 10627995
+PB  - Wiley
+DO  - 10.1002/pip.3662
+ER  -
+
+TY  - JOUR
+AU  - Hameiri, Ziv
+TI  - PHOTOVOLTAICS LITERATURE SURVEY (No. 184)
+LA  - eng
+JF  - Progress in Photovoltaics
+VL  - 31
+IS  - 8
+SP  - 870
+EP  - 874
+PY  - 2023
+SN  - 1099159x, 10627995
+PB  - Wiley
+DO  - 10.1002/pip.3722
+ER  -
+
+TY  - CPAPER
+AU  - Tambunan, Toufan Diansyah
+AU  - Suksmono, Andriyan Bayu
+AU  - Edward, Ian Joseph Matheus
+AU  - Mulyawan, Rahmat
+TI  - Quantum annealing for vehicle routing problem with weighted segment
+LA  - eng
+A2  - Sudrajat, Hanggara, Saputri, Wahyu Dita, Sunnardianto, Gagus Ketut, Wella, Sasfan Arman, Suprayoga, Edi, Ukhtary, Muhammad Shoufie, Hung, Nguyen Tuan
+JF  - Aip Conference Proceedings
+VL  - 2906
+IS  - 1
+PY  - 2023
+SN  - 15517616, 0094243x
+PB  - American Institute of Physics Inc.
+DO  - 10.1063/5.0178362
+AB  - Quantum annealing technologies aim to solve combinatorial optimization and sampling problems. Studies on combi-natorial optimization problems include the selection of vehicle routes on road traffic, known as the NP-hard problem. We propose a vehicle route problem that can be formulated in the Quadratic Unconstrained Binary Optimization (QUBO) model as a combina-torial problem to optimize vehicle route selection. The solution aims to optimize the vehicle's journey to reach a destination. The experiment presents a formulation to solve traffic congestion problems on certain roads. The selection of vehicle routes results in optimizing the distribution of alternative road vehicle flows. The level of road density is a cost function that will be optimized, and the constraint is a limitation on the route choice for each vehicle. This vehicle routing problem considers the weight parameter (as distance in actual road conditions) of the road segment that affects the cost function. The simulations on the D-Wave quantum annealer show optimal results on the route deployment of several vehicles. The cost value on route choice with weighted segments gives better results than in previous studies. Each vehicle can go through different road options and accurately reduce road conges-tion. This solution provides an opportunity to develop QUBO modeling on more complex vehicle routing problems to reduce road congestion.
+ER  -
+
+TY  - JOUR
+AU  - Vishwakarma, Vinod Kumar
+TI  - Quantum Computing Algorithms for Nonlinear Optimization Problems
+LA  - eng
+JF  - Communications on Applied Nonlinear Analysis
+VL  - 30
+IS  - 4
+SP  - 1
+EP  - 16
+PY  - 2023
+SN  - 1074133x
+PB  - International Publications
+DO  - 10.52783/cana.v30.i4.279
+AB  - The increasing complexity of real-world optimization problems highlights the importance of this research since classical algorithms are unable to provide efficient answers in these cases. Innovative methods for fast and scalable resolution of nonlinear optimization problems are required because these problems are prevalent in many fields. The potential for quantum computing to speed up optimization processes and overcome classical limitations is great, owing to its superposition principles and intrinsic parallelism. The integration of quantum algorithms (I-QA) into real-world applications, however, will not always be smooth sailing. There are significant challenges associated with preserving quantum coherence, correcting errors, and working within hardware limits. To enable the simultaneous exploration of solution spaces through quantum parallelism, this research proposes the Hybrid Quantum Gradient-Classical Approach (HQG-CA), which makes use of parameterized quantum circuits to represent probable solutions. Additionally, improves convergence rates through applying quantum gradient information to direct optimization in the quantum state space. Optimization of portfolios in finance, adjustment of model parameters in machine learning, and optimization of routes in logistics are a few examples of the many industries that find use for HQG-CA. These applications are explored in this abstract, which highlights the revolutionary potential of HQG-CA to solve optimization problems in the real world. The effectiveness of HQG-CA is assessed through a thorough simulation experiment. Performance measures such algorithmic speedup, solution accuracy, and scalability are discussed, which is based on extensive testing and comparison with classical alternatives. The present research provides a comprehensive evaluation of HQG-CA's potential for tackling nonlinear optimization problems.
+ER  -
+
+TY  - JOUR
+AU  - Vinod Kumar, Vishwakarma
+TI  - Quantum Computing Algorithms for Nonlinear Optimization Problems
+LA  - eng
+JF  - Deleted Journal
+VL  - 30
+IS  - 4
+SP  - 01
+EP  - 16
+PY  - 2023
+DO  - 10.52783/cana.v30.279
+AB  - The increasing complexity of real-world optimization problems highlights the importance of this research since classical algorithms are unable to provide efficient answers in these cases. Innovative methods for fast and scalable resolution of nonlinear optimization problems are required because these problems are prevalent in many fields. The potential for quantum computing to speed up optimization processes and overcome classical limitations is great, owing to its superposition principles and intrinsic parallelism. The integration of quantum algorithms (I-QA) into real-world applications, however, will not always be smooth sailing. There are significant challenges associated with preserving quantum coherence, correcting errors, and working within hardware limits. To enable the simultaneous exploration of solution spaces through quantum parallelism, this research proposes the Hybrid Quantum Gradient -Classical Approach (HQG-CA), which makes use of parameterized quantum circuits to represent probable solutions. Additionally, improves convergence rates through applying quantum gradient information to direct optimization in the quantum state space. Optimization of portfolios in finance, adjustment of model parameters in machine learning, and optimization of routes in logistics are a few examples of the many industries that find use for HQG-CA. These applications are explored in this abstract, which highlights the revolutionary potential of HQG-CA to solve optimization problems in the real world. The effectiveness of HQG-CA is assessed through a thorough simulation experiment. Performance measures such algorithmic speedup, solution accuracy, and scalability are discussed, which is based on extensive testing and comparison with classical alternatives. The present research provides a comprehensive evaluation of HQG-CA's potential for tackling nonlinear optimization problems.
+ER  -
+
+TY  - JOUR
+AU  - Chakraborty, Chiranjib
+AU  - Bhattacharya, Manojit
+AU  - Dhama, Kuldeep
+AU  - Lee, Sang Soo
+TI  - Quantum computing on nucleic acid research: Approaching towards next-generation computing
+LA  - eng
+JF  - Molecular Therapy Nucleic Acids
+VL  - 33
+SP  - 53
+EP  - 56
+PY  - 2023
+SN  - 21622531
+PB  - Cell Press
+DO  - 10.1016/j.omtn.2023.06.007
+ER  -
+
+TY  - JOUR
+AU  - Weinberg, Sean J.
+AU  - Sanches, Fabio
+AU  - Ide, Takanori
+AU  - Kamiya, Kazumitzu
+AU  - Correll, Randall
+TI  - Supply chain logistics with quantum and classical annealing algorithms
+LA  - eng
+JF  - Scientific Reports
+VL  - 13
+IS  - 1
+PY  - 2023
+SN  - 20452322
+PB  - Nature Research
+DO  - 10.1038/s41598-023-31765-8
+AB  - Noisy intermediate-scale quantum (NISQ) hardware is almost universally incompatible with full-scale optimization problems of practical importance which can have many variables and unwieldy objective functions. As a consequence, there is a growing body of literature that tests quantum algorithms on miniaturized versions of problems that arise in an operations research setting. Rather than taking this approach, we investigate a problem of substantial commercial value, multi-truck vehicle routing for supply chain logistics, at the scale used by a corporation in their operations. Such a problem is too complex to be fully embedded on any near-term quantum hardware or simulator; we avoid confronting this challenge by taking a hybrid workflow approach: we iteratively assign routes for trucks by generating a new binary optimization problem instance one truck at a time. Each instance has ∼ 2500 quadratic binary variables, putting it in a range that is feasible for NISQ quantum computing, especially quantum annealing hardware. We test our methods using simulated annealing and the D-Wave Hybrid solver as a place-holder in wait of quantum hardware developments. After feeding the vehicle routes suggested by these runs into a highly realistic classical supply chain simulation, we find excellent performance for the full supply chain. Our work gives a set of techniques that can be adopted in contexts beyond vehicle routing to apply NISQ devices in a hybrid fashion to large-scale problems of commercial interest.
+ER  -
+
+TY  - JOUR
+AU  - Reo, Shikanai
+AU  - Masayuki, Ohzeki
+AU  - Kazuyuki, Tanaka
+TI  - Traffic signal optimization using quantum annealing on real map
+LA  - eng
+JF  - Research Square (research Square)
+PY  - 2023
+PB  - Research Square
+DO  - 10.21203/rs.3.rs-3302709/v1
+AB  - <title>Abstract</title> The quantum annealing machine manufactured by D-Wave Systems is expected to find the optimal solution for QUBO (Quadratic Unconstrained Binary Optimization) accurately and quickly.This would be useful in future applications where real-time calculation is needed.One such application is traffic signal optimization.Some studies use quantum annealing for this.However, they are formulated in unrealistic settings, such as only crossroads on the map.Therefore, we suggest a QUBO, which can deal with T-junctions and multi-forked roads.To validate the efficiency of our approach, SUMO (Simulation of Urban MObility) is used.This enables us to experiment with geographic information data very close to the real world.We compared results with those using the Gurobi Optimizer in the experiment to confirm that quantum annealing can find a ground state.The results show that the quantum annealing cannot find the ground state, but our model can reduce the time that vehicles wait at a red light.It is also inferior to the Gurobi Optimizer in calculation time. This seems to be due to the D-Wave machine's hardware limitations and noise effects, such as ambient temperature.If these problems are solved, and the number of qubits is increased, the use of quantum annealing is likely to be superior in terms of the speed of calculating an optimal solution.
+ER  -
+
+TY  - CPAPER
+AU  - Wang, Chao
+AU  - Ji, Tongyu
+AU  - Wang, Suming
+TI  - Online Taxi Dispatching Algorithm Based on Quantum Annealing
+LA  - eng
+A2  - Fang, L, Povey, D, Zhai, G, Mei, T, Wang, R
+JF  - Lecture Notes in Computer Science (including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 13606
+SP  - 337
+EP  - 347
+PY  - 2022
+SN  - 16113349, 03029743
+SN  - 3031205022, 3031205030, 9783031205026, 9783031205033
+PB  - Springer Science and Business Media Deutschland GmbH
+DO  - 10.1007/978-3-031-20503-3_27
+AB  - Quantum annealing techniques are mainly used to solve optimization and sampling problems, which have a greater potential to obtain globally optimal solutions for specific combinatorial optimization problems due to their unique quantum tunneling properties. Firstly, this paper transforms the taxi repositioning problem into a combinatorial optimization problem that can be represented by a QUBO model with exponentially growing path solutions. The optimal solution aims at repositioning the online taxis to optimize the passenger waiting time and the average daily revenue of taxi drivers. Secondly, this paper proposes a QUBO formulation to solve a specific taxi repositioning problem, which optimizes the traffic distribution of taxis based on the existing spatial transfer probability to obtain the unique target region selection result. Finally, the simulation results on the real trajectory data of taxis in Chengdu in November 2016 show that the solution is nearly optimal, and the quantum annealing algorithm optimizes about 7% of the indicator than the simulated annealing algorithm by making each vehicle select the unique region to accurately reduce the passenger waiting time while improving the driver's revenue.
+ER  -
+
+TY  - JOUR
+AU  - Tambunan, Toufan D.
+AU  - Suksmono, Andriyan B.
+AU  - Edward, Ian J. M.
+AU  - Mulyawan, Rahmat
+TI  - Quantum Annealing for Vehicle Routing Problem with weighted Segment
+LA  - und
+PY  - 2022
+AB  - Quantum annealing technologies aim to solve computational optimization and
+sampling problems. QPU (Quantum Processing Unit) machines such as the D-Wave
+system use the QUBO (Quadratic Unconstrained Binary Optimization) formula to
+define model optimization problems for quantum annealing. This machine uses
+quantum effects to speed up computing time better than classical computers. We
+propose a vehicle routing problem that can be formulated in the QUBO model as a
+combinatorial problem, which gives the possible route solutions increases
+exponentially. The solution aims to optimize the vehicle's journey to reach a
+destination. The study presents a QUBO formulation to solve traffic congestion
+problems on certain roads. The resulting route selection by optimizing the
+distribution of the flow of alternative road vehicles based on the weighting of
+road segments. Constraints formulated as a condition for the level of road
+density. The road weight parameter influences the cost function for each road
+choice. The simulations on the D-Wave quantum annealer show optimal results on
+the route deployment of several vehicles. So that each vehicle will be able to
+go through different road options and reduce road congestion accurately. This
+solution provides an opportunity to develop QUBO modeling for more complex
+vehicle routing problems for road congestion.
+ER  -
+
+TY  - JOUR
+AU  - Amelia Carolina, Sparavigna
+TI  - Quantum Computing Logistics
+LA  - eng
+JF  - Hal (le Centre Pour La Communication Scientifique Directe)
+PY  - 2022
+PB  - Le Centre pour la Communication Scientifique Directe
+DO  - 10.2139/ssrn.4249265
+ER  -
+
+TY  - JOUR
+AU  - Weinberg, Sean J.
+AU  - Sanches, Fabio
+AU  - Ide, Takanori
+AU  - Kamiya, Kazumitzu
+AU  - Correll, Randall
+TI  - Supply Chain Logistics with Quantum and Classical Annealing Algorithms
+LA  - und
+PY  - 2022
+AB  - Noisy intermediate-scale quantum (NISQ) hardware is almost universally
+incompatible with full-scale optimization problems of practical importance
+which can have many variables and unwieldy objective functions. As a
+consequence, there is a growing body of literature that tests quantum
+algorithms on miniaturized versions of problems that arise in an operations
+research setting. Rather than taking this approach, we investigate a problem of
+substantial commercial value, multi-truck vehicle routing for supply chain
+logistics, at the scale used by a corporation in their operations. Such a
+problem is too complex to be fully embedded on any near-term quantum hardware
+or simulator; we avoid confronting this challenge by taking a hybrid workflow
+approach: we iteratively assign routes for trucks by generating a new binary
+optimization problem instance one truck at a time. Each instance has $\sim
+2500$ quadratic binary variables, putting it in a range that is feasible for
+NISQ quantum computing, especially quantum annealing hardware. We test our
+methods using simulated annealing and the D-Wave Hybrid solver as a
+place-holder in wait of quantum hardware developments. After feeding the
+vehicle routes suggested by these runs into a highly realistic classical supply
+chain simulation, we find excellent performance for the full supply chain. Our
+work gives a set of techniques that can be adopted in contexts beyond vehicle
+routing to apply NISQ devices in a hybrid fashion to large-scale problems of
+commercial interest.
+ER  -
+
+TY  - JOUR
+AU  - Haba, Renichiro
+AU  - Ohzeki, Masayuki
+AU  - Tanaka, Kazuyuki
+TI  - Travel time optimization on multi-AGV routing by reverse annealing
+LA  - eng
+JF  - Scientific Reports
+VL  - 12
+IS  - 1
+PY  - 2022
+SN  - 20452322
+PB  - Nature Research
+DO  - 10.1038/s41598-022-22704-0
+AB  - Quantum annealing has been actively researched since D-Wave Systems produced the first commercial machine in 2011. Controlling a large fleet of automated guided vehicles is one of the real-world applications utilizing quantum annealing. In this study, we propose a formulation to control the traveling routes to minimize the travel time. We validate our formulation through simulation in a virtual plant and authenticate the effectiveness for faster distribution compared to a greedy algorithm that does not consider the overall detour distance. Furthermore, we utilize reverse annealing to maximize the advantage of the D-Wave’s quantum annealer. Starting from relatively good solutions obtained by a fast greedy algorithm, reverse annealing searches for better solutions around them. Our reverse annealing method improves the performance compared to standard quantum annealing alone and performs up to 10 times faster than a commercial classical solver, Gurobi. This study extends a use of optimization with general problem solvers in the application of multi-AGV systems and reveals the potential of reverse annealing as an optimizer.
+ER  -
+
+TY  - JOUR
+AU  - Haba, Renichiro
+AU  - Ohzeki, Masayuki
+AU  - Tanaka, Kazuyuki
+TI  - Travel time optimization on multi-AGV routing by reverse annealing
+LA  - eng
+PY  - 2022
+DO  - 10.48550/arXiv.2204.11789
+AB  - Quantum annealing has been actively researched since D-Wave Systems produced the first commercial machine in 2011. Controlling a large fleet of automated guided vehicles is one of the real-world applications utilizing quantum annealing. In this study, we propose a formulation to control the traveling routes to minimize the travel time. We validate our formulation through simulation in a virtual plant and authenticate the effectiveness for faster distribution compared to a greedy algorithm that does not consider the overall detour distance. Furthermore, we utilize reverse annealing to maximize the advantage of the D-Wave's quantum annealer. Starting from relatively good solutions obtained by a fast greedy algorithm, reverse annealing searches for better solutions around them. Our reverse annealing method improves the performance compared to standard quantum annealing alone and performs up to 10 times faster than the strong classical solver, Gurobi. This study extends a use of optimization with general problem solvers in the application of multi-AGV systems and reveals the potential of reverse annealing as an optimizer.
+ER  -
+
+TY  - JOUR
+AU  - Harrison, Nathan
+AU  - Charyyev, Serdar
+AU  - Oancea, Cristina
+AU  - Stanforth, Alexander
+AU  - Zhou, Shuang
+AU  - Dynan, William
+AU  - Zhang, Tiezhi
+AU  - Biegalski, Steven
+AU  - Lin, Liyong
+TI  - Validation of the Quantum Physics Processes Underlying the Integrated
+  Optimization of Proton FLASH Radiotherapy
+LA  - und
+PY  - 2022
+AB  - FLASH is a new treatment modality that requires optimization of dose, dose
+rate, and LET. Here we validate these three quantities under FLASH conditions,
+which includes the quantum uncertainty in the time-dependent instantaneous dose
+rate (IDR) curves and LET spectra that underlie the newly proposed integrated
+optimization framework.
+  Measurements of dose, IDR, and LET were performed at the Emory Proton Therapy
+Center using a FLASH proton beam with a nominal energy of 250 MeV and a 3D
+printed ridge filter. Because 3D printing resin is made from a proprietary
+chemical formula, we developed a method for realistically characterizing and
+modeling the material in simulations. Absolute dose in 3D space was measured
+using a 2D MatriXX PT detector as well as by a novel 4D multi-layer strip
+ionization chamber (MLSIC), which also simultaneously measures IDR. Further
+timing data was measured in the secondary beam by detecting prompt gammas using
+a Minipix Timepix3; a second detector, Advapix Timepix3, was used to measure
+LET. To account for the quantum mechanical nature of particle transport, we
+developed a technique for detecting individual protons within a high flux
+primary beam, which was necessary for properly measuring LET spectra.
+  TOPAS simulations agreed with measurement, with absolute dose typically
+having a gamma passing rate of at least 95% (3 mm/3% criteria). Likewise, IDR
+and LET showed good agreement, with averaged IDR values agreeing within 0.3%
+with fluctuations on the order of 10%, and LET distributions overlapping by at
+least 85% and showing an increase in high LET components (greater than 4
+keV/um) with increasing depth.
+  As LET and FLASH optimization continues to grow in popularity, measuring IDR,
+LET, and dose will become even more important, and we expect that the methods
+described here will prove to be useful tools in radiotherapy treatment planning
+and QA.
+ER  -
+
+TY  - JOUR
+AU  - Harrison, Nathan
+AU  - Charyyev, Serdar
+AU  - Oancea, Cristina
+AU  - Stanforth, Alexander
+AU  - Zhou, Shuang
+AU  - Dynan, William
+AU  - Zhang, Tiezhi
+AU  - Biegalski, Steven
+AU  - Lin, Liyong
+TI  - Validation of the Quantum Physics Processes Underlying the Integrated Optimization of Proton FLASH Radiotherapy [arXiv]
+LA  - eng
+JF  - Arxiv
+PY  - 2022
+AB  - FLASH is a new treatment modality that requires optimization of dose, dose rate, and LET. Here we validate these three quantities under FLASH conditions, which includes the quantum uncertainty in the time-dependent instantaneous dose rate (IDR) curves and LET spectra that underlie the newly proposed integrated optimization framework. Measurements of dose, IDR, and LET were performed at the Emory Proton Therapy Center using a FLASH proton beam with a nominal energy of 250 MeV and a 3D printed ridge filter. Because 3D printing resin is made from a proprietary chemical formula, we developed a method for realistically characterizing and modeling the material in simulations. Absolute dose in 3D space was measured using a 2D MatriXX PT detector as well as by a novel 4D multi-layer strip ionization chamber (MLSIC), which also simultaneously measures IDR. Further timing data was measured in the secondary beam by detecting prompt gammas using a Minipix Timepix3; a second detector, Advapix Timepix3, was used to measure LET. To account for the quantum mechanical nature of particle transport, we developed a technique for detecting individual protons within a high flux primary beam, which was necessary for properly measuring LET spectra. TOPAS simulations agreed with measurement, with absolute dose typically having a gamma passing rate of at least 95% (3 mm/3% criteria). Likewise, IDR and LET showed good agreement, with averaged IDR values agreeing within 0.3% with fluctuations on the order of 10%, and LET distributions overlapping by at least 85% and showing an increase in high LET components (greater than 4 keV/um) with increasing depth. As LET and FLASH optimization continues to grow in popularity, measuring IDR, LET, and dose will become even more important, and we expect that the methods described here will prove to be useful tools in radiotherapy treatment planning and QA.
+ER  -
+
+TY  - 
+AU  - Cheshmehzangi, Ali
+AU  - Ardakani, Saeid Pourroostaei
+TI  - Data_Sheet_1_Urban Traffic Optimization Based on Modeling Analysis of Sector-Based Time Variable: The Case of Simulated Ningbo, China.docx
+PY  - 2021
+DO  - 10.3389/frsc.2021.629940.s001
+AB  - This paper studies the important factor of sector-based time variable, which is critical to urban mobility patterns in an urban environment. In particular, this study analyzes urban traffic optimization based on modeling analysis of a simulated urban environment. In doing so, we develop and assess the urban traffic model based on three key components of agents, urban map, and mobility pattern. We develop an urban sample based on a medium-to-large city in China, which is represented by Manhattan grid pattern layout. By developing a homogeneous urban layout, we distribute the urban blocks of various sectors across the sample model. Through simulation studies, we model urban traffic based on “conventional operation hours” and “proposed operation hours” of all sectors. This urban traffic model is used to study the impact of the proposed approach on urban traffic based on two measured metrics of end-to-end delay (ETE) and Agent queue count (AQC). By suggesting a new sector-based time variable, we then evaluate the urban traffic model based on multiple active agent ratio. The findings from this simulation uncover the importance of sector-based time variable in optimizing urban traffic.
+ER  -
+
+TY  - JOUR
+AU  - Huang, Zhijie
+AU  - Zhang, Jinlei
+AU  - Wu, Mingqiu
+AU  - Li, Xiang
+AU  - Dong, Yumin
+TI  - Evolutionary Method of Sink Node Path Planning Guided by the Hamiltonian of Quantum Annealing Algorithm
+LA  - eng
+JF  - Ieee Access
+VL  - 9
+SP  - 53466
+EP  - 53479
+PY  - 2021
+SN  - 21693536
+PB  - Institute of Electrical and Electronics Engineers Inc.
+DO  - 10.1109/ACCESS.2021.3070650
+AB  - In order to solve the NP-hard problem of mobile sink path planning in wireless sensor networks (WSN) where the communication range is modeled as a circular area and overlaps with each other, this paper proposes a sink node path planning method guided by the Hamiltonian of quantum annealing algorithm (EMGH) to balance the energy consumption of wireless sensor networks, improve the network life and solve the energy hole problem. First of all, this paper analyzes the problem in theory, and transforms the characteristics of the problem into a mathematical model. The mathematical model considers that the sensor network itself is a travelling salesman problem (TSP), but also requires the shortest path of the mobile sink node. Then, the path of each node in the sensor network is iterated by quantum annealing algorithm, and an optimal TSP path is obtained by using quantum tunneling effect and quantum circuit to achieve parallelism. Finally, in the case of compressing the solution space, the moving path of the mobile sink node is quantum coded, and the Hamiltonian in the quantum annealing algorithm is taken as the guiding factor, and then the individual dimensions are moved, which improves the accuracy of the algorithm and speeds up the convergence speed of the algorithm. Finally, the feasibility of EMGH is verified by simulation experiments and comparison with other algorithms, which provides a reference for the optimization and improvement of path planning method.
+ER  -
+
+TY  - JOUR
+AU  - Hasegawa, Mikio
+AU  - Ito, Hirotake
+AU  - Takesue, Hiroki
+AU  - Aihara, Kazuyuki
+TI  - Optimization by neural networks in the coherent ising machine and its application to wireless communication systems
+LA  - eng
+JF  - Ieice Transactions on Communications
+VL  - E104B
+IS  - 3
+SP  - 210
+EP  - 216
+PY  - 2021
+SN  - 17451345, 09168516
+PB  - Institute of Electronics, Information and Communication, Engineers, IEICE
+DO  - 10.1587/transcom.2020NVI0002
+AB  - Recently, new optimization machines based on non-silicon physical systems, such as quantum annealing machines, have been developed, and their commercialization has been started. These machines solve the problems by searching the state of the Ising spins, which minimizes the Ising Hamiltonian. Such a property of minimization of the Ising Hamiltonian can be applied to various combinatorial optimization problems. In this paper, we introduce the coherent Ising machine (CIM), which can solve the problems in a milli-second order, and has higher performance than the quantum annealing machines especially on the problems with dense mutual connections in the corresponding Ising model. We explain how a target problem can be implemented on the CIM, based on the optimization scheme using the mutually connected neural networks. We apply the CIM to traveling salesman problems as an example benchmark, and show experimental results of the real machine of the CIM. We also apply the CIM to several combinatorial optimization problems in wireless communication systems, such as channel assignment problems. The CIM's ultra-fast optimization may enable a real-time optimization of various communication systems even in a dynamic communication environment.
+ER  -
+
+TY  - JOUR
+AU  - Crosson, E. J.
+AU  - Lidar, D. A.
+TI  - Prospects for quantum enhancement with diabatic quantum annealing
+LA  - eng
+JF  - Nature Reviews Physics
+VL  - 3
+IS  - 7
+SP  - 466
+EP  - 489
+PY  - 2021
+SN  - 25225820
+PB  - Springer Nature
+DO  - 10.1038/s42254-021-00313-6
+AB  - Optimization, sampling and machine learning are topics of broad interest that have inspired significant developments and new approaches in quantum computing. One such approach is quantum annealing (QA). In this Review, we assess the prospects for algorithms within the general framework of QA to achieve a quantum speedup relative to classical state-of-the-art methods. We argue for continued exploration in the QA framework on the basis that improved coherence times and control capabilities will enable the near-term exploration of several heuristic quantum optimization algorithms. These continuous-time Hamiltonian computation algorithms rely on control protocols that are more advanced than those in traditional ground-state QA, while still being considerably simpler than those used in gate-model implementations. The inclusion of coherent diabatic transitions to excited states results in a generalization we refer to collectively as diabatic quantum annealing, which we believe is the most promising route to quantum enhancement within this framework. Other promising variants of traditional QA include reverse annealing, continuous-time quantum walks and analogues of parameterized quantum circuit ansatzes for machine learning. Most of these algorithms have no known efficient classical simulations, making them worthy of further investigation with quantum hardware in the intermediate-scale regime.
+ER  -
+
+TY  - JOUR
+AU  - Martins, Ricardo
+AU  - Lourenço, Nuno
+AU  - Póvoa, Ricardo
+AU  - Horta, Nuno
+TI  - Shortening the gap between pre- and post-layout analog IC performance by reducing the LDE-induced variations with multi-objective simulated quantum annealing
+LA  - eng
+JF  - Engineering Applications of Artificial Intelligence
+VL  - 98
+PY  - 2021
+SN  - 09521976, 18736769
+PB  - Elsevier Ltd
+DO  - 10.1016/j.engappai.2020.104102
+AB  - The design of analog and mixed-signal integrated circuits (ICs) is intricate due to the continuous nature of the signals handled. Still, it is also strongly affected by the physical implementation of analog devices on the circuits’ layout. The circuit layout corresponds to the physical implementation of an analog IC used in fabrication that describes its devices geometrically. As circuits’ integration and device sizes shrink, the physics of the interactions between devices, as they are placed in the layout, was proved to easily drive analog and mixed-signal ICs from promising pre-layout performances to completely post-layout malfunction. As these layout-dependent effects (LDEs) can only be evaluated once the layout is completed, the true post-layout performance is only evaluated in a late stage of the traditional design flow, causing expensive redesign iterations lacking the information that identifies precisely where, in the layout, there are problems needed to be solved. For technologies above the 40-nanometers, the leading causes of LDEs are mobility and threshold voltage variations. This paper proposes an automatic device placement methodology that explicitly accounts for, and minimizes, these LDEs. An absolute representation of the floorplan is adopted, and, multiple optimization techniques, including the novel, constrained archive-based multi-objective implementation of the simulated quantum annealing inspired algorithm, enhanced with specific LDE-impact mitigation operators are applied to solve the problem. In each of these optimization processes, established LDE formulations for accurate circuit simulation models are used to evaluate each candidate placement solution, and, guide the optimization process. In the case of multi-objective implementations, ultimately offering a realistic perspective of the LDE-aware design tradeoffs between performance deterioration and used chip area. Experimental results conducted over state-of-the-art analog structures on a challenging 65-nanometers technology node show that the proposed methodology shortens the gap between pre- and post-layout performance by reducing the LDE-induced variations, aiming for first-time-right layout design.
+ER  -
+
+TY  - JOUR
+AU  - Cheshmehzangi, Ali
+AU  - Pourroostaei Ardakani, Saeid
+TI  - Urban Traffic Optimization Based on Modeling Analysis of Sector-Based Time Variable: The Case of Simulated Ningbo, China
+LA  - eng
+JF  - Frontiers in Sustainable Cities
+VL  - 3
+PY  - 2021
+SN  - 26249634
+PB  - Frontiers Media S.A.
+DO  - 10.3389/frsc.2021.629940
+AB  - This paper studies the important factor of sector-based time variable, which is critical to urban mobility patterns in an urban environment. In particular, this study analyzes urban traffic optimization based on modeling analysis of a simulated urban environment. In doing so, we develop and assess the urban traffic model based on three key components of agents, urban map, and mobility pattern. We develop an urban sample based on a medium-to-large city in China, which is represented by Manhattan grid pattern layout. By developing a homogeneous urban layout, we distribute the urban blocks of various sectors across the sample model. Through simulation studies, we model urban traffic based on “conventional operation hours” and “proposed operation hours” of all sectors. This urban traffic model is used to study the impact of the proposed approach on urban traffic based on two measured metrics of end-to-end delay (ETE) and Agent queue count (AQC). By suggesting a new sector-based time variable, we then evaluate the urban traffic model based on multiple active agent ratio. The findings from this simulation uncover the importance of sector-based time variable in optimizing urban traffic.
+ER  -
+
+TY  - CPAPER
+TI  - 35th International Conference on High Performance Computing, ISC High Performance 2020
+LA  - eng
+JF  - Lecture Notes in Computer Science (including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 12151
+PY  - 2020
+SN  - 16113349, 03029743
+SN  - 3030507424, 3030507432, 9783030507428, 9783030507435
+PB  - Springer
+AB  - The proceedings contain 27 papers. The special focus in this conference is on High Performance Computing. The topics include: Running a pre-exascale, geographically distributed, multi-cloud scientific simulation; Desynchronization and Wave Pattern Formation in MPI-Parallel and Hybrid Memory-Bound Programs; Understanding HPC benchmark performance on intel broadwell and cascade lake processors; Timemory: Modular performance analysis for HPC; TeaMPI—replication-based resilience without the (Performance) Pain; pattern-aware staging for hybrid memory systems; Simplifying communication overlap in OpenSHMEM through integrated user-level thread scheduling; Communication-aware hardware-assisted MPI Overlap Engine; Reinit++: Evaluating the Performance of Global-Restart Recovery Methods for MPI Fault Tolerance; Scalable Hierarchical Aggregation and Reduction Protocol (SHARP)TM Streaming-Aggregation Hardware Design and Evaluation; Predicting job power consumption based on RJMS Submission Data in HPC Systems; HyPar-Flow: Exploiting MPI and Keras for scalable hybrid-parallel DNN Training with TensorFlow; time series mining at petascale performance; Shared-memory parallel probabilistic graphical modeling optimization: Comparison of Threads, OpenMP, and Data-Parallel Primitives; opportunities for cost savings with in-transit visualization; semi-automatic Assessment of I/O behavior by inspecting the individual client-node timelines—an explorative study on 106 Jobs; preface; FASTHash: FPGA-Based high throughput parallel hash table; embedding algorithms for quantum annealers with chimera and pegasus connection topologies; Solving acoustic boundary integral equations using high performance tile low-rank LU Factorization; DGEMM using tensor cores, and its accurate and reproducible versions; Using high-level synthesis to implement the matrix-vector multiplication on FPGA; Enabling execution of a legacy CFD mini application on accelerators using OpenMP; load-Balancing parallel relational Algebra; Sparse linear Algebra on AMD and NVIDIA GPUs – The Race Is On.
+ER  -
+
+TY  - JOUR
+AU  - Dong, Yumin
+AU  - Huang, Zhijie
+TI  - An Improved Noise Quantum Annealing Method for TSP
+LA  - eng
+JF  - International Journal of Theoretical Physics
+VL  - 59
+IS  - 12
+SP  - 3737
+EP  - 3755
+PY  - 2020
+SN  - 15729575, 00207748
+PB  - Springer
+DO  - 10.1007/s10773-020-04628-5
+AB  - Traveling Salesman Problem (TSP) is a combinatorial optimization problem, which has NP-Complete (NPC) complexity. At present, there is no exact algorithm to solve similar problems, only an approximate algorithm to simplify the problem can be found. For example, quantum annealing algorithm (QA) can play such a role. QA transforms the distance matrix sum of TSP into Pauli matrix, adds a transverse magnetic field to realize the quantum tunneling effect, reduces the energy needed to cross the barrier, and reduces the number of iterations to find the optimal solution. However, although the QA has fewer iteration steps, it usually produces errors. In this context, this paper’s INQA improves the QA. In this paper, the theoretical basis of quantum annealing algorithm is introduced, aiming at the shortcomings of quantum annealing algorithm in solving TSP problem, a new algorithm INQA is proposed, and it is verified by experiments. In the case of high initial temperature, the INQA has larger search range and more active search. Meanwhile, with the decrease of temperature, the search range is reduced, and the accuracy of the algorithm is improved. In fact, QA in this paper is a quantum annealing method for simulation.
+ER  -
+
+TY  - JOUR
+AU  - Crosson, E. J.
+AU  - Lidar, D. A.
+TI  - Prospects for Quantum Enhancement with Diabatic Quantum Annealing [arXiv]
+LA  - eng
+JF  - Arxiv
+PY  - 2020
+AB  - We assess the prospects for algorithms within the general framework of quantum annealing (QA) to achieve a quantum speedup relative to classical state of the art methods in combinatorial optimization and related sampling tasks. We argue for continued exploration and interest in the QA framework on the basis that improved coherence times and control capabilities will enable the near-term exploration of several heuristic quantum optimization algorithms that have been introduced in the literature. These continuous-time Hamiltonian computation algorithms rely on control protocols that are more advanced than those in traditional ground-state QA, while still being considerably simpler than those used in gate-model implementations. The inclusion of coherent diabatic transitions to excited states results in a generalization called diabatic quantum annealing (DQA), which we argue for as the most promising route to quantum enhancement within this framework. Other promising variants of traditional QA include reverse annealing and continuous-time quantum walks, as well as analog analogues of parameterized quantum circuit ansatzes for machine learning. Most of these algorithms have no known (or likely to be discovered) efficient classical simulations, and in many cases have promising (but limited) early signs for the possibility of quantum speedups, making them worthy of further investigation with quantum hardware in the intermediate-scale regime. We argue that all of these protocols can be explored in a state-of-the-art manner by embracing the full range of novel out-of-equilibrium quantum dynamics generated by time-dependent effective transverse-field Ising Hamiltonians that can be natively implemented by, e.g., inductively-coupled flux qubits, both existing and projected at application scale.
+ER  -
+
+TY  - CPAPER
+TI  - 1st International Workshop on Quantum Technology and Optimization Problems, QTOP 2019 was held in conjunction with the International Conference on Networked Systems, NetSys 2019
+LA  - eng
+JF  - Lecture Notes in Computer Science (including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 11413
+PY  - 2019
+SN  - 16113349, 03029743
+SN  - 3030140814, 3030140822, 9783030140816, 9783030140823
+PB  - Springer Verlag
+AB  - The proceedings contain 19 papers. The special focus in this conference is on Quantum Technology and Optimization Problems. The topics include: Solving Large Maximum Clique Problems on a Quantum Annealer; quantum Annealing Based Optimization of Robotic Movement in Manufacturing; quantum Annealing of Vehicle Routing Problem with Time, State and Capacity; boosting Quantum Annealing Performance Using Evolution Strategies for Annealing Offsets Tuning; Quantum Photonic TRNG with Dual Extractor; secure Quantum Data Communications Using Classical Keying Material; continuous-Variable Quantum Network Coding Against Pollution Attacks; On the Influence of Initial Qubit Placement During NISQ Circuit Compilation; towards a Pattern Language for Quantum Algorithms; embedding Inequality Constraints for Quantum Annealing Optimization; Assessing Solution Quality of 3SAT on a Quantum Annealing Platform; principles and Guidelines for Quantum Performance Analysis; nash Embedding and Equilibrium in Pure Quantum States; a Quantum Algorithm for Minimising the Effective Graph Resistance upon Edge Addition; variational Quantum Factoring; function Maximization with Dynamic Quantum Search; flight Gate Assignment with a Quantum Annealer.
+ER  -
+
+TY  - CPAPER
+AU  - Stollenwerk, Tobias
+AU  - Lobe, Elisabeth
+AU  - Jung, Martin
+TI  - Flight Gate Assignment with a Quantum Annealer
+LA  - eng
+A2  - Feld, S, LinnhoffPopien, C
+JF  - Lecture Notes in Computer Science (including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 11413
+SP  - 99
+EP  - 110
+PY  - 2019
+SN  - 16113349, 03029743
+SN  - 3030140814, 3030140822, 9783030140816, 9783030140823
+PB  - Springer Verlag
+DO  - 10.1007/978-3-030-14082-3_9
+AB  - Optimal flight gate assignment is a highly relevant optimization problem from airport management. Among others, an important goal is the minimization of the total transit time of the passengers. The corresponding objective function is quadratic in the binary decision variables encoding the flight-to-gate assignment. Hence, it is a quadratic assignment problem being hard to solve in general. In this work we investigate the solvability of this problem with a D-Wave quantum annealer. These machines are optimizers for quadratic unconstrained optimization problems (QUBO). Therefore the flight gate assignment problem seems to be well suited for these machines. We use real world data from a mid-sized German airport as well as simulation based data to extract typical instances small enough to be amenable to the D-Wave machine. In order to mitigate precision problems, we employ bin packing on the passenger numbers to reduce the precision requirements of the extracted instances. We find that, for the instances we investigated, the bin packing has little effect on the solution quality. Hence, we were able to solve small problem instances extracted from real data with the D-Wave 2000Q quantum annealer.
+ER  -
+
+TY  - JOUR
+AU  - Stollenwerk, Tobias
+AU  - Lobe, Elisabeth
+AU  - Jung, Martin
+TI  - Flight Gate Assignment with a Quantum Annealer
+LA  - und
+PY  - 2018
+AB  - Optimal flight gate assignment is a highly relevant optimization problem from
+airport management. Among others, an important goal is the minimization of the
+total transit time of the passengers. The corresponding objective function is
+quadratic in the binary decision variables encoding the flight-to-gate
+assignment. Hence, it is a quadratic assignment problem being hard to solve in
+general. In this work we investigate the solvability of this problem with a
+D-Wave quantum annealer. These machines are optimizers for quadratic
+unconstrained optimization problems (QUBO). Therefore the flight gate
+assignment problem seems to be well suited for these machines. We use real
+world data from a mid-sized German airport as well as simulation based data to
+extract typical instances small enough to be amenable to the D-Wave machine. In
+order to mitigate precision problems, we employ bin packing on the passenger
+numbers to reduce the precision requirements of the extracted instances. We
+find that, for the instances we investigated, the bin packing has little effect
+on the solution quality. Hence, we were able to solve small problem instances
+extracted from real data with the D-Wave 2000Q quantum annealer.
+ER  -
+
+TY  - CPAPER
+AU  - Su, Juexiao
+AU  - Tu, Tianheng
+AU  - He, Lei
+TI  - A quantum annealing approach for boolean satisfiability problem
+LA  - eng
+JF  - Proceedings - Design Automation Conference
+VL  - 05-09-
+PY  - 2016
+SN  - 0738100x
+SN  - 1467387290, 1467387304, 9781467387293, 9781467387309, 1450342361, 9781450342360
+PB  - Institute of Electrical and Electronics Engineers Inc.
+DO  - 10.1145/2897937.2897973
+AB  - Quantum annealing device has shown a great potential in solving discrete problems that are theoretically and empirically hard. Boolean Satisfiability (SAT) problem, determining if there is an assignment of variables that satisfies a given Boolean function, is the first proven NP-complete problem widely used in various domains. Here, we present a novel mapping of the SAT problem to the quadratic unconstrained binary optimization problem (QUBO), and further develop a tool flow embedding the proposed QUBO to the architecture of the commercialized quantum computer D-Wave. By leveraging electronic design automation techniques including synthesis, placement and routing, this is not only the first work providing the detail flow that embeds the QUBO, but also a technique scalable for real world applications and some hard SAT problems with over 6000 variables in QUBO. Based on our results, we discuss the challenges in solving SAT using the current generation of annealing device, and explore the problem solving capability of future quantum annealing computers.
+ER  -
+
+TY  - CPAPER
+AU  - Smilowitz, J.
+TI  - Recommendations of MPPG #5 and Practical Implementation Strategies
+LA  - eng
+JF  - Medical Physics
+VL  - 43
+IS  - 6
+SP  - 3746
+EP  - 3746
+PY  - 2016
+SN  - 24734209, 00942405
+PB  - WILEY
+DO  - 10.1118/1.4957487
+ER  -
+
+TY  - JOUR
+AU  - Liu, Lianggui
+AU  - Chen, Li
+AU  - Jia, Huiling
+TI  - Social milieu oriented routing: A new dimension to enhance network security in WSNs
+LA  - eng
+A2  - Lu, Rongxing
+JF  - Sensors (switzerland)
+VL  - 16
+IS  - 2
+PY  - 2016
+SN  - 14243210, 14248220
+PB  - MDPI AG
+DO  - 10.3390/s16020247
+AB  - In large-scale wireless sensor networks (WSNs), in order to enhance network security, it is crucial for a trustor node to perform social milieu oriented routing to a target a trustee node to carry out trust evaluation. This challenging social milieu oriented routing with more than one end-to-end Quality of Trust (QoT) constraint has proved to be NP-complete. Heuristic algorithms with polynomial and pseudo-polynomial-time complexities are often used to deal with this challenging problem. However, existing solutions cannot guarantee the efficiency of searching; that is, they can hardly avoid obtaining partial optimal solutions during a searching process. Quantum annealing (QA) uses delocalization and tunneling to avoid falling into local minima without sacrificing execution time. This has been proven a promising way to many optimization problems in recently published literatures. In this paper, for the first time, with the help of a novel approach, that is, configuration path-integral Monte Carlo (CPIMC) simulations, a QA-based optimal social trust path (QA_OSTP) selection algorithm is applied to the extraction of the optimal social trust path in large-scale WSNs. Extensive experiments have been conducted, and the experiment results demonstrate that QA_OSTP outperforms its heuristic opponents.
+ER  -
+
+TY  - CPAPER
+AU  - Mutic, S.
+TI  - TPS Commissioning and QA: Incorporating the Entire Planning Process
+LA  - eng
+JF  - Medical Physics
+VL  - 43
+IS  - 6
+SP  - 3746
+EP  - 3746
+PY  - 2016
+SN  - 24734209, 00942405
+PB  - WILEY
+DO  - 10.1118/1.4957488
+ER  -
+
+TY  - CPAPER
+AU  - Salomons, G.
+TI  - TPS Commissioning and QA: Planning and Monitoring
+LA  - eng
+JF  - Medical Physics
+VL  - 43
+IS  - 6
+SP  - 3746
+EP  - 3746
+PY  - 2016
+SN  - 24734209, 00942405
+PB  - WILEY
+DO  - 10.1118/1.4957486
+ER  -
+
+TY  - CPAPER
+AU  - Salomons, Greg
+TI  - Treatment Planning System Commissioning and QA
+LA  - eng
+JF  - Medical Physics
+VL  - 43
+IS  - 6
+SP  - 3746
+EP  - 3746
+PY  - 2016
+SN  - 24734209, 00942405
+PB  - WILEY
+DO  - 10.1118/1.4957485
+ER  -
+
+TY  - 
+AU  - Rodney Van, Meter
+TI  - Bibliography
+LA  - eng
+SP  - 309
+EP  - 329
+PY  - 2014
+DO  - 10.1002/9781118648919.biblio
+ER  -
+
+TY  - CPAPER
+AU  - Stemberger, Dario
+AU  - Saldungaray, Pedro
+AU  - Palisch, Terry
+TI  - Fracture optimization reduces completion cost while improving well productivity in the valdemar field offshore Denmark
+LA  - eng
+JF  - Proceedings - Spe Annual Technical Conference and Exhibition
+VL  - 7
+SP  - 5294
+EP  - 5311
+PY  - 2014
+SN  - 1634398874, 9781634398879
+PB  - Society of Petroleum Engineers (SPE)
+DO  - 10.2118/170981-ms
+AB  - The Valdemar Field is located in the Danish North Sea sector with the target reservoir being a Lower Cretaceous "dirty chalk" containing up to 25% insoluble fines, >20% porosity and permeability below 0.5 mD. The formation will not produce commercial quantities of oil without stimulation and it has been shown through laboratory core experiments as well as field trials that acid fracturing does not maintain conductivity as effectively as propped fractures. The initial reservoir pressure is above seawater hydrostatic and the reservoir thickness ranges from ten to several hundred feet. The Lower Cretaceous Chalk is found below the typical Ekofisk and Tor formations, which have been the target horizon in the North Sea for over four decades. Valdemar has been successfully developed with extended reach horizontal wells but, in order to establish economic production rates, all wells must be stimulated as part of the initial completion. In a typical Valdemar well, a 16,000 ft long lateral is drilled, with the toe of the well completed with a limited entry, predrilled liner, while the upper 10,000 ft of lateral, which is within coiled tubing reach, is completed with 12-14 propped fracture stages. Traditional designs revolved around placing 500,000 to 1,000,000 lb of 20/40 natural sand per stage. Consequently, very large volumes of proppant had to be handled during the completion, creating a logistics challenge, more so in an offshore environment where proppant available on location is limited to the capacity of the stimulation vessel. Stimulations on several wells showed suboptimal production rates which led to the conclusion that the Lower Cretaceous was not economically producible. An intensive study was carried out to evaluate all aspects of the fracture design and implementation which resulted in 11 key findings comprising pumping schedule, fracture fluid design, proppant selection and flowback control, completion hardware, QA/QC during the fracture execution and well cleanup, data acquisition for real-time monitoring and "after- closure" analysis. This paper focuses on the aspects of proppant selection and adequate fracture conductivity placement, with the goal of improving well productivity and cumulative recovery. Reservoir simulation advised that replacing natural sand by a larger, lightweight ceramic proppant could result in reducing proppant volumes by up to 50% while improving productivity by 20 to 50%. By reducing the proppant volume, the stimulation vessel port calls to load materials for multistage treatments could potentially be reduced resulting in significant savings. This was deemed a critical factor for future offshore multistage fracture completions which could benefit significantly from reduced roundtrips in terms of time, cost and early production. The recommendations of the optimization program were implemented in two wells. PLT results confirmed the predictions, that despite the total proppant volume being cut by 50%, the zonal contribution of the ceramic stimulated zones was better than that of natural sand in all cases. The higher fracture conductivity obtained with the ceramic proppant, even using one half the sand mass, resulted in improved productivity by some 50%. These completion optimization measures allowed for the successful development in the flank wells that might have otherwise been deemed uneconomic.
+ER  -
+
+TY  - JOUR
+AU  - Humble, T. S.
+AU  - McCaskey, A. J.
+AU  - Bennink, R. S.
+AU  - Billings, J. J.
+AU  - Dazevedo, E. D.
+AU  - Sullivan, B. D.
+AU  - Klymko, C. F.
+AU  - Seddiqi, H.
+TI  - An integrated programming and development environment for adiabatic quantum optimization
+LA  - eng
+JF  - Computational Science and Discovery
+VL  - 7
+IS  - 1
+PY  - 2014
+SN  - 17494699, 17494680
+PB  - IOP Pub.
+DO  - 10.1088/1749-4680/7/1/015006
+AB  - Adiabatic quantum computing is a promising route to the computational power afforded by quantum information processing. The recent availability of adiabatic hardware has raised challenging questions about how to evaluate adiabatic quantum optimization (AQO) programs. Processor behavior depends on multiple steps to synthesize an adiabatic quantum program, which are each highly tunable. We present an integrated programming and development environment for AQO called Jade Adiabatic Development Environment (JADE) that provides control over all the steps taken during program synthesis. JADE captures the workflow needed to rigorously specify the AQO algorithm while allowing a variety of problem types, programming techniques, and processor configurations. We have also integrated JADE with a quantum simulation engine that enables program profiling using numerical calculation. The computational engine supports plug-ins for simulation methodologies tailored to various metrics and computing resources. We present the design, integration, and deployment of JADE and discuss its potential use for benchmarking AQO programs by the quantum computer science community.
+ER  -
+
+TY  - CPAPER
+TI  - 13th East Asia-Pacific Conference on Structural Engineering and Construction, EASEC 2013
+LA  - eng
+JF  - Proceedings of the 13th East Asia-pacific Conference on Structural Engineering and Construction, Easec 2013
+PY  - 2013
+PB  - Hokkaido University collection of Scholarly Academic Papers, HUSCAP
+ER  -
+
+TY  - CPAPER
+AU  - Tadic, T.
+AU  - Jaffray, D.
+AU  - Winter, J.
+AU  - Petropoulos, L.
+AU  - Marle, J.
+AU  - Sweitzer, M.
+AU  - Stanescu, T.
+TI  - WE‐G‐WAB‐07: Commissioning of a Novel Integrated Platform for Online MRIgRT
+LA  - eng
+JF  - Medical Physics
+VL  - 40
+IS  - 6
+PY  - 2013
+SN  - 24734209, 00942405, 15228541
+PB  - WILEY
+DO  - 10.1118/1.4815649
+AB  - Purpose: An integrated system for online MRIgRT comprising an MR scanner‐on‐rails proximal to a Varian TrueBeam linac is currently under installation at our institution. This study presents the development of a procedure to commission this platform along with the synthesis, testing, and validation of several unique tools/methods central to this challenging frontier. Methods: The commissioning procedure is organized into three phases: 1) the linac and a modified patient couch are commissioned in the absence of magnetic fields; 2) the MR magnet is energized, followed by experimental field mapping and verification of linac/couch performance proximal to the magnet; 3) MR imaging is evaluated and integrated guidance functionalities are tested. Novel methods/technologies embedded in these steps include: magnetic field finite element simulations to confirm magnetic decoupling of the MR scanner, linac, and couch; development of a novel harmonic distortion analysis/shim evaluation technique and associated phantom design incorporating comprehensive imaging QA; simulation of patient‐induced susceptibility distortions and pulse sequence optimization; development of a phantom/method to evaluate the accuracy/stability of MR scanner/couch travel. Results: The finite element simulations of the MRIgRT platform indicated acceptable magnetic forces on critical couch/linac components, undisturbed x‐ray beam production, and acceptable field uniformity within the MRI active volume (via active shimming). Validation of the harmonic distortion analysis demonstrated that complete volumetric mapping of the geometric distortion could be performed with an error bound by the imaging voxel size. Susceptibility‐induced distortions were simulated for various anatomical sites and can be reduced to within 1–2 mm by increasing the frequency encoding gradient strength with acceptable SNR losses. Lastly, the accuracy of translation and rotation measurements was established for evaluating MR scanner/couch travel. Conclusion: A comprehensive procedure has been established for the commissioning of an integrated MRIgRT platform, and various key tools/methods for assessing system performance have been developed and tested. J. Winter and L. Petropoulos are employees of IMRIS. J. Marle and M. Sweitzer are employees of Varian Medical Systems. IMRIS and Varian are companies co‐developing the MRgRT system. Funding for the MRgRT project at Princess Margaret Hospital was provided by the Canadian Foundation for Innovation. © 2013, American Association of Physicists in Medicine. All rights reserved.
+ER  -
+
+TY  - JOUR
+AU  - Martínez, P.
+AU  - Moreno, C.
+AU  - Martínez, I.
+AU  - Sedano, L.
+TI  - Optimizing tritium extraction from a Permeator Against Vacuum (PAV) by dimensional design using different tritium transport modeling tools
+LA  - eng
+JF  - Fusion Engineering and Design
+VL  - 87
+IS  - 7-8
+SP  - 1466
+EP  - 1470
+PY  - 2012
+SN  - 18737196, 09203796
+PB  - ELSEVIER SCIENCE SA
+DO  - 10.1016/j.fusengdes.2012.03.035
+AB  - The Permeator Against Vacuum (PAV) has been conceived as the simplest, cost effective and reliable technology system dedicated to tritium extraction from breeding liquid metals. An optimal design of a PAV requires a detailed hydraulic design optimization for established operational ranges (HCLL at low velocities of ∼1 mm/s or DCLL in the ranges of tens of cm/s). The present work analyses the PAV extraction efficiency dependency on the design parameters as optimum on-line Tritium Extraction System (TES). Three different models have been built for that purpose: one through physically refined 1D tritium transport computation using TMAP7 (unique simulation tool with QA for ITER); and two further detailed models on 2D/3D FEM tool (COMSOL Multi-physics 4.0). The geometry used in this work is a simplification of Fuskite ® conceptual design developed at CIEMAT, consisting of a set of cylindrical and concentric α-Fe double membranes enclosing a vacuumed space and in contact with in-pipe flowing LiPb eutectic. The aim of this paper is to give the first steps to establish the optimal design parameters of a PAV and evaluate the state-of-the-art of these models. © 2012 Elsevier B.V.
+ER  -
+
+TY  - JOUR
+AU  - Chen, Hongwei
+AU  - Kong, Xi
+AU  - Chong, Bo
+AU  - Qin, Gan
+AU  - Zhou, Xianyi
+AU  - Peng, Xinhua
+AU  - Du, Jiangfeng
+TI  - Experimental demonstration of a quantum annealing algorithm for the traveling salesman problem in a nuclear-magnetic-resonance quantum simulator
+LA  - eng
+JF  - Physical Review a - Atomic, Molecular, and Optical Physics
+VL  - 83
+IS  - 3
+PY  - 2011
+SN  - 10941622, 10502947
+PB  - AMER PHYSICAL SOC
+DO  - 10.1103/PhysRevA.83.032314
+AB  - The method of quantum annealing (QA) is a promising way for solving many optimization problems in both classical and quantum information theory. The main advantage of this approach, compared with the gate model, is the robustness of the operations against errors originated from both external controls and the environment. In this work, we succeed in demonstrating experimentally an application of the method of QA to a simplified version of the traveling salesman problem by simulating the corresponding Schrödinger evolution with a NMR quantum simulator. The experimental results unambiguously yielded the optimal traveling route, in good agreement with the theoretical prediction. © 2011 American Physical Society.
+ER  -
+
+TY  - JOUR
+AU  - Michel, Kerstin
+AU  - Herrmann, Sandra
+AU  - Ludwig, Bernard
+TI  - Modelling chemical and biological reactions during unsaturated flow in silty arable soils
+LA  - eng
+JF  - Geoderma
+VL  - 156
+IS  - 3-4
+SP  - 293
+EP  - 301
+PY  - 2010
+SN  - 18726259, 00167061
+PB  - ELSEVIER
+DO  - 10.1016/j.geoderma.2010.02.029
+AB  - Ion dynamics in arable soils are strongly affected by the chemical and biological transformations triggered by fertilizer input. Hydrogeochemical models may improve our understanding of underlying processes. Our objective was to test the ability of the hydrogeochemical model PHREEQC2 in combination with the parameter optimization program PEST to describe and predict chemical and biological processes in silty soils triggered by fertilizer application or acidification and to investigate the usefulness of different parameterization approaches. Three different experiments were carried out using undisturbed columns of two topsoils (0-25 cm) from Germany (Göttingen, GO) and from the Oman (Qasha', QA). The columns were irrigated at 10 °C with 3 mm day- 1 for one year using 1 mM HCl (HCl experiment) and two fertilizer solutions with low (0.1 to 0.9 mmol L- 1) and high concentrations (1.3 to 14.7 mmol L- 1) of N (as NH4NO3), K, Ca and Mg. In the fertilization experiments (Fert1, Fert2), the columns were alternately irrigated with the two different solutions for variable time periods. One-dimensional transport and homogenous and heterogenous reactions were calculated using PHREEQC2. The Fert1 experiment was used for calibration. The models were validated using the Fert2 and HCl experiments. The models tested were model variant m1 with no adjustable parameters, model variant m2 in which nitrate concentrations in input solutions and cation exchange capacity were optimized for Fert1, and m3 in which additionally all cation exchange coefficients and ion concentrations in the initial solution were optimized. Model variant m1 failed to predict the concentrations of several cations for both soils (modelling efficiencies (EF) ≤ 0), since N dynamics were not considered adequately. Model variants m2 and m3 described (Fert1 treatment) and predicted (Fert2 and HCl treatment) pH, cation and NO3- concentrations generally more accurately for both soils. For nutrient cations, EF values for prediction for GO ranged from 0.44 (K) to 0.99 (Ca), for QA from 0.21 (K) to 0.96 (Ca). After optimization, PHREEQC2 was able to predict NO3- concentrations in both soils (EF ≥ 0.57). Model variant m3 indicated that between 54 (QA) and 72% (GO) of the exchange sites were involved in cation exchange reactions. Our results show the importance of the inclusion of nitrogen species when modelling cation dynamics in arable soils from different climate regions. The hydrogeochemical model PHREEQC2 in combination with PEST was useful to describe and predict ion dynamics in silty soils under unsaturated conditions. © 2010 Elsevier B.V. All rights reserved.
+ER  -
+
+TY  - CPAPER
+AU  - El-Gallad, A. I.
+AU  - El-Hawary, M. E.
+TI  - New operators for integer permutation-based particle swarm optimizer
+LA  - eng
+JF  - Canadian Conference on Electrical and Computer Engineering
+VL  - 2005
+PY  - 2005
+SN  - 08407789, 25767046
+SN  - 0780388852, 9780780388857
+PB  - IEEE
+DO  - 10.1109/CCECE.2005.1557397
+AB  - This paper introduces new operators to particle swarm paradigm (PSO) that could lead to a stunt flocking in solving a class of combinatorial optimization problem. The term "stunt flocking" is analogous to clustering around an optimal solution in domain of the problem considered. Instead of looking at PSO as using individuality and sociality, we adopt the viewpoint of exploration (selecting among all available options and observing outcomes) and exploiting (consistently choosing the global best option). Accordingly, we define two new operators, namely: exploration and exploiting operators for a permutation-based particle swarm algorithm. For exploiting operator we use an order-based imitation function to simulate imitation of the global best option. However, exploration operator is carried out as a result of two lower level operations: recalling the best solution in the memory of each particle and random shuffling of some elements in the permutation that represents each particle. Traveling sales person (TSP) and quadratic assignment (QA) problems are considered here for testing the algorithm. Matlab subcommands are used to illustrate how these operators can take place in programming code. Results of implementing the proposed technique to the mentioned problems agree to great extent with the known optimal solutions. © 2005 IEEE.
+ER  -

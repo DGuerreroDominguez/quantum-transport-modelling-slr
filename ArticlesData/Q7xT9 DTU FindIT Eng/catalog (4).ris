@@ -1,0 +1,92 @@
+TY  - CPAPER
+TI  - 15th Metaheuristics International Conference, MIC 2024
+LA  - eng
+JF  - Lecture Notes in Computer Science (including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 14753
+PY  - 2024
+SN  - 16113349, 03029743
+SN  - 3031629116, 3031629124, 9783031629112, 9783031629129
+PB  - Springer Science and Business Media Deutschland GmbH
+AB  - The proceedings contain 70 papers. The special focus in this conference is on Metaheuristics. The topics include: A Continuous-GRASP Random-Key Optimizer; adaptive Ant Colony Optimization Using Node Clustering with Simulated Annealing; job-Shop Scheduling with Robot Synchronization for Transport Operations; SIRO: A Deep Learning-Based Next-Generation Optimizer for Solving Global Optimization Problems; Investigation of the Benefit of Extracting Patterns from Local Optima to Solve a Bi-objective VRPTW; a Memetic Algorithm for Large-Scale Real-World Vehicle Routing Problems with Simultaneous Pickup and Delivery with Time Windows; tabu Search for Solving Covering Salesman Problem with Nodes and Segments; VNS with Path Relinking for the Profitable Close-Enough Arc Routing Problem; A Simulated Annealing Algorithm to Learn an RMP Preference Model; iterative Heuristic over Periods for the Inventory Routing Problem; combining Heuristics and Constraint Programming for the Parallel Drone Scheduling Vehicle Routing Problem with Collective Drones; a Re-optimization Heuristic for a Dial-a-Ride Problem in the Transportation of Patients; solving the Integrated Patient-to-Room and Nurse-to-Patient Assignment by Simulated Annealing; enhancing Real-World Applicability in Home Healthcare: A Metaheuristic Approach for Advanced Routing and Scheduling; solving the Two-Stage Robust Elective Patient Surgery Planning Under Uncertainties with Intensive Care Unit Beds Availability; extracting White-Box Knowledge from Word Embedding: Modeling as an Optimization Problem; a Hybrid Biased-Randomized Heuristic for a Home Care Problem with Team Scheme Selection; extended Set Covering for Time Series Segmentation; Indirect Flow-Shop Coding Using Rank: Application to Indirect QAOA; Utilizing Graph Sparsification for Pre-processing in Max Cut QUBO Solver; addressing Machine Unavailability in Job Shop Scheduling: A Quantum Computing Approach; Solving Edge-Weighted Maximum Clique Problem with DCA Warm-Start Quantum Approximate Optimization Algorithm; Comparing Integer Encodings in QUBO for Quantum and Digital Annealing: The Travelling Salesman Problem; solving Quadratic Knapsack Problem with Biased Quantum State Optimization Algorithm; quantum Optimization Approach for Feature Selection in Machine Learning; an Efficient Algorithm for the T-Row Facility Layout Problem.
+ER  -
+
+TY  - CPAPER
+TI  - 15th Metaheuristics International Conference, MIC 2024
+LA  - eng
+JF  - Lecture Notes in Computer Science (including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 14754
+PY  - 2024
+SN  - 16113349, 03029743
+SN  - 3031629213, 3031629221, 9783031629211, 9783031629228
+PB  - Springer Science and Business Media Deutschland GmbH
+AB  - The proceedings contain 70 papers. The special focus in this conference is on Metaheuristics. The topics include: A Continuous-GRASP Random-Key Optimizer; adaptive Ant Colony Optimization Using Node Clustering with Simulated Annealing; job-Shop Scheduling with Robot Synchronization for Transport Operations; SIRO: A Deep Learning-Based Next-Generation Optimizer for Solving Global Optimization Problems; Investigation of the Benefit of Extracting Patterns from Local Optima to Solve a Bi-objective VRPTW; a Memetic Algorithm for Large-Scale Real-World Vehicle Routing Problems with Simultaneous Pickup and Delivery with Time Windows; tabu Search for Solving Covering Salesman Problem with Nodes and Segments; VNS with Path Relinking for the Profitable Close-Enough Arc Routing Problem; A Simulated Annealing Algorithm to Learn an RMP Preference Model; iterative Heuristic over Periods for the Inventory Routing Problem; combining Heuristics and Constraint Programming for the Parallel Drone Scheduling Vehicle Routing Problem with Collective Drones; a Re-optimization Heuristic for a Dial-a-Ride Problem in the Transportation of Patients; solving the Integrated Patient-to-Room and Nurse-to-Patient Assignment by Simulated Annealing; enhancing Real-World Applicability in Home Healthcare: A Metaheuristic Approach for Advanced Routing and Scheduling; solving the Two-Stage Robust Elective Patient Surgery Planning Under Uncertainties with Intensive Care Unit Beds Availability; extracting White-Box Knowledge from Word Embedding: Modeling as an Optimization Problem; a Hybrid Biased-Randomized Heuristic for a Home Care Problem with Team Scheme Selection; extended Set Covering for Time Series Segmentation; Indirect Flow-Shop Coding Using Rank: Application to Indirect QAOA; Utilizing Graph Sparsification for Pre-processing in Max Cut QUBO Solver; addressing Machine Unavailability in Job Shop Scheduling: A Quantum Computing Approach; Solving Edge-Weighted Maximum Clique Problem with DCA Warm-Start Quantum Approximate Optimization Algorithm; Comparing Integer Encodings in QUBO for Quantum and Digital Annealing: The Travelling Salesman Problem; solving Quadratic Knapsack Problem with Biased Quantum State Optimization Algorithm; quantum Optimization Approach for Feature Selection in Machine Learning; an Efficient Algorithm for the T-Row Facility Layout Problem.
+ER  -
+
+TY  - JOUR
+AU  - Li, Qiting
+AU  - Huang, Zhaolong
+AU  - Jiang, Weiwei
+AU  - Tang, Zikang
+AU  - Song, Meimei
+TI  - Quantum Algorithms Using Infeasible Solution Constraints for Collision-Avoidance Route Planning
+LA  - eng
+JF  - Ieee Transactions on Consumer Electronics
+PY  - 2024
+SN  - 15584127, 00983063
+PB  - Institute of Electrical and Electronics Engineers Inc.
+DO  - 10.1109/TCE.2024.3476156
+AB  - Route planning of consumer electronics supply chains,especially collision-avoidance,is a frequently encountered problem in artificial intelligence applications. This paper explores variational quantum algorithms that efficiently utilizes qubits to address this problem,adapting to the current limits on quantum computing resources. Firstly,by establishing a mathematically sufficient and necessary condition as a criterion of binary vectors identity,we have constructed infeasible solution constraint about infeasible solution constrains. Next,a route planning model is developed in this paper,which integrates the vehicle routing problem with the collision-avoidance problem. Then,our infeasible solution constraints are employed in a joint optimization algorithm for solving this model,specifically for reducing the number of qubits used during sub-loop elimination and for addressing collision scenarios. Moreover,in order to further reduce the demand for qubits,enabling the computation of larger-scale problems with a limited number of qubits,our algorithm is subsequently enhanced into a stepwise optimization algorithm at an acceptable cost. Finally,the effectiveness of the proposed method,model and algorithms are all validated through quantum simulation computations.
+ER  -
+
+TY  - JOUR
+AU  - Hulianitskyi, Leonid
+AU  - Korolyov, Vyacheslav
+AU  - Khodzinskyi, Oleksandr
+TI  - An Overview of Algorithms for Solving Vehicle Routing Problems in the Quantum-Classical Cloud
+LA  - und
+JF  - Кібернетика Та Комп'ютерні Технології
+IS  - 2
+SP  - 23
+EP  - 31
+PY  - 2023
+SN  - 2707451x, 27074501
+PB  - V.M. Glushkov Institute of Cybernetics
+DO  - 10.34229/2707-451X.23.2.3
+AB  - Introduction. The hope of solving the problem of the avalanche-like growth of requirements for computing power, essential for solving complex routing problems and other problems of combinatorial optimization, relies on the latest quantum computers, in the development of which governments and corporations invest multi-billion investments.
+The article examines modern routing algorithms and performs their analysis and verification, if the authors of the algorithm provided appropriate test programs.
+The purpose of the article is to review the current state of development in the field of development of routing algorithms for hybrid quantum-classical clouds, analyze them and propose a classification of algorithms.
+Results. Modern quantum computers (QCs) make it possible to find approximate solutions to some of mathematical problems faster than classical computers. The inaccuracy of the solutions obtained by the QC is a consequence of physical and technological limitations: calculation errors are caused by thermal noise, a small number of computational elements - qubits and connections between them, which requires the decomposition of the problem and the use of heuristic algorithms.
+The analysis of approaches to the solution of optimization problems on QC allows us to single out: quantum response and variational search of eigenvalues based on quantum logic gates as the general directions of development of the vast majority of algorithms for solving routing problems. The considered algorithms reduce the vehicle routing problem to a quadratic unconstrained binary optimization problem, which is isomorphic to the Hamilton-Ising model. In this form, the problem is suitable for embedding in QC, which finds an approximate solution that has the best statistical reliability or corresponds to the quantum state with the lowest energy.
+As a separate class, vehicle routing algorithms for classical computers that use quantum computing to accelerate problem solving can be distinguished. For example, neural networks that calculate weighting factors using QC or an ant algorithm that calculates a pheromone trail in a hybrid cloud. It should be mentioned the quantum-inspired algorithms, which are based on software tools for the simulation of QC and the corresponding libraries and allow creating an effective class of algorithms for solving problems of vehicle routing.
+Conclusions. Combining hardware quantum annealing with a number of software tools for calculating optimization problems for classical computers in a hybrid quantum-classical cloud service allows to obtain advantages in speed and accuracy of some types of complex optimization problems of a commercial scale, in particular, routing vehicles, which is already bringing substantial profits to a number of corporations.
+ER  -
+
+TY  - CPAPER
+TI  - 2013 2nd International Conference on Civil Engineering and Material Engineering, CEME 2013
+LA  - eng
+JF  - Advanced Materials Research
+VL  - 859
+PY  - 2014
+SN  - 16628985, 10226680
+SN  - 3037859792, 3038263605, 9783037859797, 9783038263609
+ER  -
+
+TY  - CPAPER
+TI  - 2013 2nd International Conference on Manufacturing Engineering and Process, ICMEP 2013
+LA  - eng
+JF  - Applied Mechanics and Materials
+VL  - 325-326
+PY  - 2013
+SN  - 16627482, 16609336
+SN  - 3037857072, 3038260886, 9783037857076, 9783038260882
+ER  -
+
+TY  - CPAPER
+TI  - 2013 2nd International Conference on Manufacturing Engineering and Process, ICMEP 2013
+LA  - eng
+JF  - Applied Mechanics and Materials
+VL  - 327
+PY  - 2013
+SN  - 16627482, 16609336
+SN  - 303785717X, 303785717x, 3038260983, 9783037857175, 9783038260981
+ER  -

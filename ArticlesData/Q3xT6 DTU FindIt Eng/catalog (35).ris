@@ -1,0 +1,241 @@
+TY  - CPAPER
+AU  - Decusatis, Casimer
+AU  - Spillane, Evan
+AU  - Foti, Dominick
+AU  - O'Loughlin, Megan
+TI  - Comparison of quantum computing algorithms for network traffic partitioning and mitigation of DoS and DDoS attacks
+LA  - eng
+A2  - Paul, R, Kundu, A
+JF  - 2024 Ieee 15th Annual Ubiquitous Computing, Electronics and Mobile Communication Conference, Uemcon 2024
+SP  - 454
+EP  - 460
+PY  - 2024
+SN  - 9798331540906, 9798331540913
+PB  - Institute of Electrical and Electronics Engineers Inc.
+DO  - 10.1109/UEMCON62879.2024.10754735
+AB  - We investigate application of quantum computing algorithms to classifying network traffic and mitigating denial of service and distributed denial of service attacks. Using actual honeynet data, we compare solutions of the Max Cut problem using both the quantum approximate optimization algorithm (QAOA) and Variational Quantum Eigensolver (VQE). Experimental results from a 6-qubit quantum computer show that optimal solutions can be found with about 98% accuracy in polynomial execution time. We found that VQE is more accurate than QAOA (compared with classical brute force solutions) but also requires significantly longer execution times. Simulations predict this approach can scale to much larger quantum computing hardware (when available) and may achieve quantum advantage on hardware with 30-35 qubits.
+ER  -
+
+TY  - JOUR
+AU  - Chai, Yahui
+AU  - Funcke, Lena
+AU  - Hartung, Tobias
+AU  - Jansen, Karl
+AU  - Kühn, Stefan
+AU  - Stornati, Paolo
+AU  - Stollenwerk, Tobias
+TI  - Optimal Flight-Gate Assignment on a Digital Quantum Computer
+LA  - eng
+JF  - Physical Review Applied
+VL  - 20
+IS  - 6
+PY  - 2023
+SN  - 23317019
+PB  - American Physical Society
+DO  - 10.1103/PhysRevApplied.20.064025
+AB  - We investigate the performance of the variational quantum eigensolver (VQE) for the problem of optimal flight-gate assignment. This is a combinatorial-optimization problem that aims at finding an optimal assignment of flights to the gates of an airport, in order to minimize the passenger travel time. To study the problem, we adopt a qubit-efficient binary encoding with a cyclic mapping, which is suitable for a digital quantum computer. Using this encoding in conjunction with the conditional value at risk (CVaR) as an aggregation function, we systematically explore the performance of the approach by classically simulating the CVaR VQE. Our results indicate that the method allows for finding a good solution with high probability and that it significantly outperforms the naive VQE approach. We examine the role of entanglement for the performance and find that ansätze with entangling gates allow for better results than pure product states. Studying the problem for various sizes, our numerical data show that the scaling of the number of cost-function calls for obtaining a good solution is not exponential for the regimes that we investigate in this work.
+ER  -
+
+TY  - JOUR
+AU  - Jin, Yuwei
+AU  - Li, Zirui
+AU  - Hua, Fei
+AU  - Chen, Yanhao
+AU  - Chen, Henry
+AU  - Huang, Yipeng
+AU  - Zhang, Eddy Z.
+TI  - Tetris: A compilation Framework for VQE Applications [arXiv]
+LA  - eng
+PY  - 2023
+DO  - 10.48550/arXiv.2309.01905
+AB  - Quantum computing has shown promise in solving complex problems by leveraging the principles of superposition and entanglement. The Variational Quantum Eigensolver (VQE) algorithm stands as a pivotal approach in the realm of quantum algorithms, enabling the simulation of quantum systems on quantum hardware. In this paper, we introduce two innovative techniques, namely "Tetris" and "Fast Bridging," designed to enhance the efficiency and effectiveness of VQE tasks. The "Tetris" technique addresses a crucial aspect of VQE optimization by unveiling cancellation opportunities within the logical circuit phase of UCCSD ansatz. Tetris demonstrates a remarkable reduction up to 20% in CNOT gate counts, about 119048 CNOT gates, and 30% depth reduction compared to the state-of-the-art compiler 'Paulihedral'. In addition to Tetris, we present the "Fast Bridging" technique as an alternative to the conventional qubit routing methods that heavily rely on swap operations. The fast bridging offers a novel approach to qubit routing, mitigating the limitations associated with swap-heavy routing. By integrating the fast bridging into the VQE framework, we observe further reductions in CNOT gate counts and circuit depth. The bridging technique can achieve up to 27% CNOT gate reduction in the QAOA application. Through a combination of Tetris and the fast bridging, we present a comprehensive strategy for enhancing VQE performance. Our experimental results showcase the effectiveness of Tetris in uncovering cancellation opportunities and demonstrate the symbiotic relationship between Tetris and the fast bridging in minimizing gate counts and circuit depth. This paper contributes not only to the advancement of VQE techniques but also to the broader field of quantum algorithm optimization.
+ER  -
+
+TY  - JOUR
+AU  - Miao, Qiang
+AU  - Barthel, Thomas
+TI  - Convergence and quantum advantage of Trotterized MERA for strongly-correlated systems
+LA  - eng
+JF  - Quantum
+VL  - 9
+PY  - 2025
+SN  - 2521327x
+PB  - Verein zur Forderung des Open Access Publizierens in den Quantenwissenschaften
+DO  - 10.22331/q-2025-02-11-1631
+AB  - Strongly-correlated quantum many-body systems are difficult to study and simulate classically. We recently proposed a variational quantum eigensolver (VQE) based on the multiscale entanglement renormalization ansatz (MERA) with tensors constrained to certain Trotter circuits. Here, we determine the scaling of computation costs for various critical spin chains which substantiates a polynomial quantum advantage in comparison to classical MERA simulations based on exact energy gradients or variational Monte Carlo. Algorithmic phase diagrams suggest an even greater separation for higher-dimensional systems. Hence, the Trotterized MERA VQE is a promising route for the efficient investigation of strongly-correlated quantum many-body systems on quantum computers. Furthermore, we show how the convergence can be substantially improved by building up the MERA layer by layer in the initialization stage and by scanning through the phase diagram during optimization. For the Trotter circuits being composed of single-qubit and two-qubit rotations, it is experimentally advantageous to have small rotation angles. We find that the average angle amplitude can be reduced considerably with negligible effect on the energy accuracy. Benchmark simulations suggest that the structure of the Trotter circuits for the TMERA tensors is not decisive; in particular, brick-wall circuits and parallel random-pair circuits yield very similar energy accuracies.
+ER  -
+
+TY  - JOUR
+AU  - Miao, Qiang
+AU  - Barthel, Thomas
+TI  - Convergence and Quantum Advantage of Trotterized MERA for
+  Strongly-Correlated Systems
+LA  - und
+PY  - 2025
+AB  - Strongly-correlated quantum many-body systems are difficult to study and
+simulate classically. We recently proposed a variational quantum eigensolver
+(VQE) based on the multiscale entanglement renormalization ansatz (MERA) with
+tensors constrained to certain Trotter circuits. Here, we determine the scaling
+of computation costs for various critical spin chains which substantiates a
+polynomial quantum advantage in comparison to classical MERA simulations based
+on exact energy gradients or variational Monte Carlo. Algorithmic phase
+diagrams suggest an even greater separation for higher-dimensional systems.
+Hence, the Trotterized MERA VQE is a promising route for the efficient
+investigation of strongly-correlated quantum many-body systems on quantum
+computers. Furthermore, we show how the convergence can be substantially
+improved by building up the MERA layer by layer in the initialization stage and
+by scanning through the phase diagram during optimization. For the Trotter
+circuits being composed of single-qubit and two-qubit rotations, it is
+experimentally advantageous to have small rotation angles. We find that the
+average angle amplitude can be reduced considerably with negligible effect on
+the energy accuracy. Benchmark simulations suggest that the structure of the
+Trotter circuits for the TMERA tensors is not decisive; in particular,
+brick-wall circuits and parallel random-pair circuits yield very similar energy
+accuracies.
+ER  -
+
+TY  - JOUR
+AU  - Yang, Zhaohui
+AU  - Ding, Dawei
+AU  - Zhu, Chenghong
+AU  - Chen, Jianxin
+AU  - Xie, Yuan
+TI  - PHOENIX: Pauli-Based High-Level Optimization Engine for Instruction
+  Execution on NISQ Devices
+LA  - und
+PY  - 2025
+AB  - Variational quantum algorithms (VQA) based on Hamiltonian simulation
+represent a specialized class of quantum programs well-suited for near-term
+quantum computing applications due to its modest resource requirements in terms
+of qubits and circuit depth. Unlike the conventional single-qubit (1Q) and
+two-qubit (2Q) gate sequence representation, Hamiltonian simulation programs
+are essentially composed of disciplined subroutines known as Pauli
+exponentiations (Pauli strings with coefficients) that are variably arranged.
+To capitalize on these distinct program features, this study introduces
+PHOENIX, a highly effective compilation framework that primarily operates at
+the high-level Pauli-based intermediate representation (IR) for generic
+Hamiltonian simulation programs. PHOENIX exploits global program optimization
+opportunities to the greatest extent, compared to existing SOTA methods despite
+some of them also utilizing similar IRs. PHOENIX employs the binary symplectic
+form (BSF) to formally describe Pauli strings and reformulates IR synthesis as
+reducing the column weights of BSF by appropriate Clifford transformations. It
+comes with a heuristic BSF simplification algorithm that searches for the most
+appropriate 2Q Clifford operators in sequence to maximally simplify the BSF at
+each step, until the BSF can be directly synthesized by basic 1Q and 2Q gates.
+PHOENIX further performs a global ordering strategy in a Tetris-like fashion
+for these simplified IR groups, carefully balancing optimization opportunities
+for gate cancellation, minimizing circuit depth, and managing qubit routing
+overhead. Experimental results demonstrate that PHOENIX outperforms SOTA VQA
+compilers across diverse program categories, backend ISAs, and hardware
+topologies.
+ER  -
+
+TY  - JOUR
+AU  - Li, Qiting
+AU  - Huang, Zhaolong
+AU  - Jiang, Weiwei
+AU  - Tang, Zikang
+AU  - Song, Meimei
+TI  - Quantum Algorithms Using Infeasible Solution Constraints for Collision-Avoidance Route Planning
+LA  - eng
+JF  - Ieee Transactions on Consumer Electronics
+PY  - 2024
+SN  - 15584127, 00983063
+PB  - Institute of Electrical and Electronics Engineers Inc.
+DO  - 10.1109/TCE.2024.3476156
+AB  - Route planning of consumer electronics supply chains,especially collision-avoidance,is a frequently encountered problem in artificial intelligence applications. This paper explores variational quantum algorithms that efficiently utilizes qubits to address this problem,adapting to the current limits on quantum computing resources. Firstly,by establishing a mathematically sufficient and necessary condition as a criterion of binary vectors identity,we have constructed infeasible solution constraint about infeasible solution constrains. Next,a route planning model is developed in this paper,which integrates the vehicle routing problem with the collision-avoidance problem. Then,our infeasible solution constraints are employed in a joint optimization algorithm for solving this model,specifically for reducing the number of qubits used during sub-loop elimination and for addressing collision scenarios. Moreover,in order to further reduce the demand for qubits,enabling the computation of larger-scale problems with a limited number of qubits,our algorithm is subsequently enhanced into a stepwise optimization algorithm at an acceptable cost. Finally,the effectiveness of the proposed method,model and algorithms are all validated through quantum simulation computations.
+ER  -
+
+TY  - CPAPER
+TI  - 4th International Conference on Artificial Intelligence and Knowledge Processing, AIKP 2024
+LA  - eng
+JF  - Communications in Computer and Information Science
+VL  - 2228
+PY  - 2025
+SN  - 18650937, 18650929
+SN  - 3031734769, 3031734777, 9783031734762, 9783031734779
+PB  - Springer Science and Business Media Deutschland GmbH
+AB  - The proceedings contain 18 papers. The special focus in this conference is on Artificial Intelligence and Knowledge Processing. The topics include: Deciphering Excellence in Hospitality: A Study on India's Premier Hotels Using Natural Language Processing; Decoding Student Feedback in Engineering Education: A Latent Dirichlet Allocation and PyLDAvis Approach; real Time Traffic Management by Optimizing Level of Service; FGA-Net: Feature-Gated Attention for Glioma Brain Tumor Segmentation in Volumetric MRI Images; empowering Breast Cancer Detection: A Novel Hybrid Transfer Learning Approach with Aquila Optimizer; predictive Analytics in Weather Forecasting Using Machine Learning and Deep Learning; Brain Tumor Classification from MRI Scans Using a Novel CNN Architecture and Optimization Techniques; dual Model Dynamics: Enhancing Depression Prediction Through the Integrated Use of Convolutional Neural Networks and Support Vector Machines in Data-Driven Methods; quantum Simulation of 1D and 2D Lattice-Based Magnetic Quantum Systems Using Heisenberg Model via Variational Quantum Eigensolver; topological Quantum Computing for Engineers; traffic Forecasting with Spatio-Temporal Graph Neural Networks; A Deep Learning-Based Novel RNN-BiLSTM Architecture for Efficient Threat Detection in IoT Ecosystem; cyber-Attack Detection in Healthcare Systems Based on Modified -Recurrent Neural Network Approach; A Comparative Analysis of Aggregation Methods in Federated Learning on MNIST; hybrid Feature Approach for Enhancing Zero-Shot Image Classification; abusive Comment Detection from Bengali-English Code-Mixed Social Media Texts Using Ensemble of Deep Learning.
+ER  -
+
+TY  - CPAPER
+TI  - Proceedings - 2024 IEEE International Conference on Quantum Software, QSW 2024
+LA  - eng
+JF  - Proceedings - 2024 Ieee International Conference on Quantum Software, Qsw 2024
+PY  - 2024
+SN  - 9798350368475
+PB  - Institute of Electrical and Electronics Engineers Inc.
+AB  - The proceedings contain 21 papers. The topics discussed include: quantum circuit ansatz: patterns of abstraction and reuse of quantum algorithm design; towards application-aware quantum circuit compilation; efficient encodings of the travelling salesperson problem for variational quantum algorithms; AdvQuNN: a methodology for analyzing the adversarial robustness of quanvolutional neural networks; composable quantum oracles for shifting quantum circuits abstraction level; automated verification of SILQ quantum programs using SMT solvers; towards an automatic framework for solving optimization problems with quantum computers; bounding rounding errors in the simulation of quantum circuits; and stripping quantum decision diagrams of their identity.
+ER  -
+
+TY  - JOUR
+AU  - Cao, Chenfeng
+AU  - Yu, Yunlong
+AU  - Wu, Zipeng
+AU  - Shannon, Nic
+AU  - Zeng, Bei
+AU  - Joynt, Robert
+TI  - Mitigating algorithmic errors in quantum optimization through energy extrapolation
+LA  - eng
+JF  - Quantum Science and Technology
+VL  - 8
+IS  - 1
+PY  - 2023
+SN  - 20589565
+PB  - Institute of Physics
+DO  - 10.1088/2058-9565/ac969c
+AB  - Quantum optimization algorithms offer a promising route to finding the ground states of target Hamiltonians on near-term quantum devices. Nonetheless, it remains necessary to limit the evolution time and circuit depth as much as possible, since otherwise decoherence will degrade the computation. Even when this is done, there always exists a non-negligible error in estimates of the ground state energy. Here we present a scalable extrapolation approach to mitigating this algorithmic error, which significantly improves estimates obtained using three well-studied quantum optimization algorithms: quantum annealing (QA), the variational quantum eigensolver, and the quantum imaginary time evolution at fixed evolution time or circuit depth. The approach is based on extrapolating the annealing time to infinity or the variance of estimates to zero. The method is reasonably robust against noise. For Hamiltonians which only involve few-body interactions, the additional computational overhead is an increase in the number of measurements by a constant factor. Analytic derivations are provided for the quadratic convergence of estimates of energy as a function of time in QA, and the linear convergence of estimates as a function of variance in all three algorithms. We have verified the validity of these approaches through both numerical simulation and experiments on IBM quantum machines. This work suggests a promising new way to enhance near-term quantum computing through classical post-processing.
+ER  -
+
+TY  - JOUR
+AU  - Amelia Carolina, Sparavigna
+TI  - Quantum Computing Logistics
+LA  - eng
+JF  - Hal (le Centre Pour La Communication Scientifique Directe)
+PY  - 2022
+PB  - Le Centre pour la Communication Scientifique Directe
+DO  - 10.2139/ssrn.4249265
+ER  -
+
+TY  - BOOK
+AU  - Sergeyev, Yaroslav D.
+TI  - Numerical Computations: Theory and Algorithms : 4th International Conference, NUMTA 2023, Pizzo Calabro, Italy, June 14–20, 2023 Revised Selected Papers, Part III
+LA  - eng
+A2  - Sergeyev, Yaroslav D., Kvasov, Dmitri E., Astorino, Annabella
+JF  - Numerical Computations: Theory and Algorithms: 4th International Conference, Numta 2023, Pizzo Calabro, Italy, June 14–20, 2023 Revised Selected Papers, Part Iii
+PY  - 2025
+SN  - 3031812468, 3031812476, 9783031812460, 9783031812477
+PB  - Springer Nature Switzerland
+AB  - Circuit-Based Numerical Solutions of Transmission Lines: Application to Korteweg-de Vries Equations -- Deep Learning Methods for fMRI Classification -- Deep Learning for Scoliosis Diagnosis: Methods and Databases -- Understanding Spreading Dynamics of COVID-19 by Mining Human Mobility Patterns -- Variational Quantum Algorithms for Gibbs State Preparation -- Towards a Parallel Code for Cellular Behavior in Vitro Prediction -- Combinators as Observable Presheaves: A Characterization in the Grossone Framework -- Applying Variational Quantum Classifier on Acceptability Judgements: A QNLP experiment -- Unimaginable Numbers: A Case Study as a Starting Point for an Educational Experimentation -- Some Notes on a Continuous Class of Octagons -- Game Theory Presented to Italian High School Students in Connection with Infinity Computing -- Meta Discussion Pedagogical Model to Foster Mathematics Teacher's Professional Development -- A Variational Quantum Soft Actor-Critic Algorithm for Continuous Control Tasks -- Named Entity Recognition to Extract Knowledge from Clinical Texts -- Applied Mathematical Modelling in the Physics Problem-Solving Classroom -- AIR SAFE: Leveraging IoT Sensors and AI Models to Foster Optimal Indoor Conditions -- Unimaginable Numbers and Infinity Computing at School: An Experimentation in Northern Italy -- The Cantor-Vitali Function and Infinity Computing -- New Probabilistic Methods for Generating Risk Maps -- How to Deal with Different Densities of Urban Spatial Data? A Comparison of Clustering Approaches to Detect City Hotspots -- The Impact of Vectorization on The Efficiency of a Parallel PIC Code for Numerical Simulation of Plasma Dynamics in Open Trap -- Algorithms for Design with CNC Machines: The Case Study of Wood Furniture -- PyGrossone: A Python Library for the Infinity Computer -- Towards Reproducible Research in Machine Learning via Blockchain -- Dossier Classification to Support Workflow Management Optimization -- Self-Sovereign Identification of IoT Devices by Using Physically Unclonable Functions and Blockchain -- Introducing Nondum, a Mathematical Notation for Computation with Approximations -- Visualization of Multilayer Networks -- Legal Systems and Fractals, Towards Infinity Computing -- Exploit Innovative Computer Architecture with Molecular Dynamics -- A Sentiment Analysis on Reviews of Italian Healthcare.-A Numerical Approach to Basic Calculus -- Modelling Hyperentanglement for Quantum Information Processes -- An Innovative Sentiment Analysis Model for COVID-19 Tweets -- Exploring Hierarchical MPI Reduction Collective Algorithms Targeted to Multicore Node Clusters.
+ER  -
+
+TY  - JOUR
+AU  - Yu, Zhou
+AU  - Yu, Jun
+AU  - Zhu, Junjie
+AU  - Kuang, Zhenzhong
+TI  - Knowledge-representation-enhanced multimodal Transformer for scene text visual question answering
+LA  - chi
+JF  - Journal of Image and Graphics
+VL  - 27
+IS  - 9
+SP  - 2761
+EP  - 2774
+PY  - 2022
+SN  - 10068961
+PB  - Editorial and Publishing Board of JIG
+DO  - 10.11834/jig.211213
+ER  -
+
+TY  - JOUR
+TI  - Poster Presentations
+LA  - und
+JF  - Luminescence
+VL  - 29
+IS  - S1
+SP  - 55
+EP  - 106
+PY  - 2014
+SN  - 15227243, 15227235
+DO  - 10.1002/bio.2699_3
+ER  -

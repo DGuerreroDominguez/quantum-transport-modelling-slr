@@ -1,0 +1,1204 @@
+﻿TY  - JOUR
+AU  - Mohd Hairon, A.H.
+AU  - Mansor, H.
+AU  - Gunawan, T.S.
+AU  - Khan, S.
+TI  - Travel angle control of quanser bench-top helicopter based on Quantitative Feedback Theory technique
+PY  - 2016
+T2  - Indonesian Journal of Electrical Engineering and Computer Science
+VL  - 1
+IS  - 2
+SP  - 310
+EP  - 318
+DO  - 10.11591/ijeecs.v1.i2.pp310-318
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85014420675&doi=10.11591%2fijeecs.v1.i2.pp310-318&partnerID=40&md5=0c79a347c935665f840a3ed1f8c9f2ef
+AB  - A three degree of freedom (3-DOF) bench-top helicopter is a simplified aerial vehicle which is used to study the behaviors of the helicopter as well as testing multiple flight control approaches for their efficiency. Designing helicopter’s dynamic control is a challenging task due to the presence of high uncertainties and non-linear behavior. The main objective of this research is to achieve robust control over the helicopter model regardless parameter variation and disturbances using robust control technique, Quantitative Feedback Theory (QFT). QFT utilizes frequency domain methodology which ensures plant’s stability by considering the feedback of the system and thus removing the effect of disturbances and reducing sensitivity of parameter’s variation. The proposed technique is testedagainst LQR-tuned PID controller in both simulation and real hardware environment to verify its performance. The results obtained shown us that QFT algorithm managed to reduce settling time and steady state error of about 80% and 33% respectively over the classical PID controller. © 2016 Institute of Advanced Engineering and Science. All rights reserved.
+KW  - Bench-top helicopter
+KW  - Quantitative Feedback Theory
+KW  - Robust controller
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 4
+ER  -
+
+TY  - JOUR
+AU  - Lee, D.S.
+AU  - Lee, J.S.
+AU  - Kang, T.
+TI  - Robust molten steel level control in a strip-casting process
+PY  - 2005
+T2  - ISIJ International
+VL  - 45
+IS  - 8
+SP  - 1165
+EP  - 1172
+DO  - 10.2355/isijinternational.45.1165
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-27144494589&doi=10.2355%2fisijinternational.45.1165&partnerID=40&md5=e1d1d7d988b00e328115ff258a22bbca
+AB  - A robust molten steel level controller is developed for a strip-casting process by using the quantitative feedback theory (QFT). The plant model for the molten steel level system is first developed as a linear time-invariant system with parametric uncertainties. The parametric uncertainties reflect the uncertain discharge coefficients of the immersion nozzle and the stopper, the uncertain transport delay of the molten steel supply system, and the various hot strip production rate of the strip-casting process. In this paper, the robust stability requirement, reference tracking capability, and disturbance rejection capability at the plant input are specified in terms of the bounds on the magnitude of the closed-loop transfer function. Then the loop shaping technique is used to design a robust QFT controller in such a way that the nominal loop transmission can meet the constraints. The simulation and experimental results show that the performance of the closed-loop system with the proposed controller is better than that with a conventional PID controller. © 2005 ISIJ.
+KW  - Discharge coefficient
+KW  - Immersion nozzle
+KW  - Molten steel level
+KW  - QFT
+KW  - Robust controller
+KW  - Stopper
+KW  - Strip-casting
+KW  - Transport delay
+KW  - Casting
+KW  - Closed loop control systems
+KW  - Computer simulation
+KW  - Control equipment
+KW  - Mathematical models
+KW  - Molten materials
+KW  - Nozzles
+KW  - Parameter estimation
+KW  - Transfer functions
+KW  - Discharge coefficient
+KW  - Immersion nozzle
+KW  - Molten steel level
+KW  - QFT
+KW  - Robust controllers
+KW  - Stopper
+KW  - Strip casting
+KW  - Transport delay
+KW  - Steel
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 7
+ER  -
+
+TY  - JOUR
+AU  - Cho, Y.
+AU  - Woo, S.
+AU  - Noh, J.
+AU  - Lee, E.
+TI  - Application of the weather radar-based quantitative precipitation estimations for flood runoff simulation in a dam watershed
+PY  - 2020
+T2  - Journal of Korea Water Resources Association
+VL  - 53
+IS  - 3
+SP  - 155
+EP  - 166
+DO  - 10.3741/JKWRA.2020.53.3.155
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85159124254&doi=10.3741%2fJKWRA.2020.53.3.155&partnerID=40&md5=f74d0f7acd8a8e37823b704896a7c3e2
+AB  - In this study, we applied the Radar-AWS Rainrates (RAR), weather radar-based quantitative precipitation estimations (QPEs), to the Yongdam study watershed in order to perform the flood runoff simulation and calculate the inflow of the dam during flood events using hydrologic model. Since the Yongdam study watershed is a representative area of the mountainous terrain in South Korea and has a relatively large number of monitoring stations (water level/flow) and data compared to other dam watershed, an accurate analysis of the time and space variability of radar rainfall in the mountainous dam watershed can be examined in the flood modeling. HEC-HMS, which is a relatively simple model for adopting spatially distributed rainfall, was applied to the hydrological simulations using HEC-GeoHMS and ModClark method with a total of eight independent flood events that occurred during the last five years (2014 to 2018). In addition, two NCL and Python script programs are developed to process the radar-based precipitation data for the use of hydrological modeling. The results demonstrate that the RAR QPEs shows rather underestimate trends in larger values for validation against gauged observations (R2 0.86), but is an adequate input to apply flood runoff simulation efficiently for a dam watershed, showing relatively good model performance (ENS 0.86, R2 0.87, and PBIAS 7.49%) with less requirements for the calibration of transform and routing parameters than the spatially averaged model simulations in HEC-HMS. © 2020 Korea Water Resources Association.
+KW  - Flood runoff simulation
+KW  - HEC-HMS
+KW  - ModClark
+KW  - RAR QPEs
+KW  - Yongdam study watershed
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 1
+ER  -
+
+TY  - JOUR
+AU  - Germann, U.
+AU  - Berenguer, M.
+AU  - Sempere-Torres, D.
+AU  - Zappa, M.
+TI  - REAL - Ensemble radar precipitation estimation for hydrology in a mountainous region
+PY  - 2009
+T2  - Quarterly Journal of the Royal Meteorological Society
+VL  - 135
+IS  - 639
+SP  - 445
+EP  - 456
+DO  - 10.1002/qj.375
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-67349269753&doi=10.1002%2fqj.375&partnerID=40&md5=310b6a61917d90f389ce8a85fabc4f57
+AB  - An elegant solution to characterise the residual errors in radar precipitation estimates is to generate an ensemble of precipitation fields. The paper proposes a radar ensemble generator designed for usage in the Alps using LU decomposition (REAL), and presents first results from a real-time implementation coupling the radar ensemble with a semi-distributed rainfall-runoff model for flash flood modelling in a steep Alpine catchment. Each member of the radar ensemble is a possible realisation of the unknown true precipitation field given the observed radar field and knowledge of the space-time error structure of radar precipitation estimates. Feeding the alternative realisations into a hydrological model yields a distribution of response values, the spread of which represents the sensitivity of runoff to uncertainties in the input radar precipitation field. The presented ensemble generator is based on singular value decomposition of the error covariance matrix, stochastic simulation using the LU decomposition algorithm, and autoregressive filtering. It allows full representation of spatial dependence of the mean and covariances of radar errors. This is of particular importance in a mountainous region with large uncertainty in radar precipitation estimates and strong dependence of error structure on location. The real-time implementation of the radar ensemble generator coupled with a semi-distributed hydrological model in the framework of the forecast demonstration project MAP D-PHASE is one of the first experiments of this type worldwide, and is a fully novel contribution to this evolving area of applied research. Copyright © 2009 Royal Meteorological Society.
+KW  - Alpine radar
+KW  - MAP
+KW  - Orographic precipitation
+KW  - QPE
+KW  - Catchments
+KW  - Computational fluid dynamics
+KW  - Covariance matrix
+KW  - Errors
+KW  - Hydraulic models
+KW  - Rain
+KW  - Real time control
+KW  - Runoff
+KW  - Singular value decomposition
+KW  - Solute transport
+KW  - Uncertainty analysis
+KW  - Water
+KW  - Alpine catchments
+KW  - Alpine radar
+KW  - Applied research
+KW  - Auto-regressive
+KW  - Demonstration project
+KW  - Distributed hydrological model
+KW  - Error covariance matrix
+KW  - Error structures
+KW  - Flash flood
+KW  - Hydrological models
+KW  - Lu decomposition
+KW  - Mountainous regions
+KW  - Orographic precipitation
+KW  - Precipitation estimation
+KW  - QPE
+KW  - Rainfall-runoff models
+KW  - Real-time implementations
+KW  - Residual error
+KW  - Spatial dependence
+KW  - Stochastic simulations
+KW  - algorithm
+KW  - computer simulation
+KW  - covariance analysis
+KW  - decomposition analysis
+KW  - ensemble forecasting
+KW  - error analysis
+KW  - hydrological modeling
+KW  - hydrological response
+KW  - mountain region
+KW  - orographic effect
+KW  - precipitation assessment
+KW  - radar imagery
+KW  - rainfall-runoff modeling
+KW  - uncertainty analysis
+KW  - Radar
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 202
+ER  -
+
+TY  - CONF
+TI  - 40th AIAA Aerospace Sciences Meeting and Exhibit 2002
+PY  - 2002
+T2  - 40th AIAA Aerospace Sciences Meeting and Exhibit
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84894328110&partnerID=40&md5=2185b648a281b799f9ec55fd71649de9
+AB  - The proceedings contain 934 papers. The special focus in this conference is on Aerospace Sciences. The topics include: Matchsticks, scram jets, and black holes - numerical simulation faces reality; design of the blended-wing-body subsonic transport; nonlinear aeroelasticity and unsteady aerodynamics; an experimental and analytical investigation of boundary layer reattachment using piezoelectric synthetic jet actuators; second wake onset in the flow behind a cylinder - quantitative flow field measurements; X-38 rudder configuration and parafoil cavity investigation; material characterization of polyurethane foam under hydrostatic loading; review of a combustion experiment performed during a parabolic flight; PIV study of negative incidence stator unsteady aerodynamics; intelligent executive guidance agent for free flight; jet exhaust and wing flap interactions; POD analysis of sound generation by a turbulent jet; reduced-order dynamical modeling of sound generation from a jet; a numerical investigation of broad-band shock noise; interaction of a moving shock wave with multiple serial vortices; modeling turbulence anisotropy for jet noise prediction; effects of endwall geometry and stacking on two-stage supersonic turbine performance; gas turbine emissions control using variable geometry combustor and fuel staging; smart materials and structures for future aircraft engines; unsteady pressure measurements in turbomachinery using porous pressure sensitive paint; surface roughness effects on shear drag and heat transfer; towards a golden age of satellite drag; high-alpha aerodynamics of a slender tailless aircraft; topology of the flow on a 65-deg delta wing at sideslip; multifaceted influence of fuselage geometry on delta wing aerodynamics; aerodynamic characteristics of a 65-deg delta wing at steep spin; flight dynamic analysis of the flow incidence rate model; analysis and design of rotors at ultra-low Reynolds numbers; sensitivity analysis with sliding boundary conditions; excrescence effects on boundary layers with pressure gradient at high subsonic speeds; inverse design of 3D transonic compressor blade using 3D navier-stokes flow physics; an inverse design method for designing isolated and wing-mounted engine nacelles; multi-point nose shape optimization of space launcher using response surface method; a parallelized 3D unstructured Euler solver for unsteady aerodynamics; self-organizing hybrid Cartesian grid/solution system with multigrid; adaptive mesh refinement within a chimera grid system; NACA 0012 aerofoil in an oscillating transonic free-stream; camber effects in the near-wake of oscillating airfoils; unsteady aerodynamic simulations of an oscillating airfoil with miniflaps; injection parameters for an effective passive control of cavity flow instability; an unstructured dynamic mesh procedure for 2D unsteady viscous flow simulations; unstructured dynamic mesh for large movement and deformation; sensitivity of synthetic jets to the design of the jet cavity; lumped element modeling of piezoelectric-driven synthetic jet actuators; effect of geometric parameters on the velocity output of a synthetic jet actuator; characterization of a compact, high-power synthetic jet actuator for flow separation control; creation of steering moments in supersonic flow by off-axis plasma heat addition; boundary layer control in magnetohydrodynamic flows; a dynamic spectral vanishing viscosity method for LES; recent progress on MILES for high Reynolds-number flows; computing complex flows on coarse grids using vorticity confinement; vorticity confinement on unstructured grids; roughness-induced transient growth in a flat-plate boundary layer; receptivity to freestream disturbances of mach 4.5 flow over a flat plate; experimental study of spark-induced impulsive acoustic disturbances in supersonic flow; advanced algorithms for design and optimization of quiet supersonic platforms; a shape optimization methodology for reducing the sonic boom initial pressure rise; natural laminar flow for quiet and efficient supersonic aircraft; supersonic laminar flow control on swept wings using distributed roughness; engine placement for sonic boom mitigation; suppression of sonic boom by dynamic off-body energy addition and shape optimization; receptivity of goertler vortices in hypersonic boundary layers; hypersonic flow stability experiments; nonlinear interactions in a hypersonic boundary layer; hypersonic transitional modeling for scramjet and missile applications; crow-like instability in the hydrodynamic flow over a forward-facing step in a closed channel; comparison of two distinct models of rotor wakes with experiment; the critical swirl of compressible vortex flows; time dependent flow prediction using a multigrid approach; optimal vortex ring formation at the exit of a shock tube; simulation of supersonic turbulent flowfield with transverse sonic injection; on the juncture vortex in the transverse planes; the structure of dissipative scales in axisymmetric turbulent gas-phase jets; evaluation of a subgrid model for the Arrhenius reaction rate in a jet; investigation of an assumed PDF approach for finite-rate chemistry; planar imaging of CH/OH and velocity in turbulent nonpremixed jet flames; initial test of a wire suspension mount for missile virtual flight testing; a new forced oscillation capability for the transonic dynamics tunnel; some aviation growth events; a historical review of wind tunnels at Wright-Patterson air force base; subsystem and coupling cost considerations using a visual dependency structure matrix; empirical studies of selection method for multiobjective genetic algorithm; physical science programs in the era of the international space station; first commercial operations on the international space station; the Italian microgravity science program; NRC evaluation of ISS opportunities and challenges; directional solidification in the microgravity science glovebox; microwaves as a tool for energetic materials characterization; optical diagnostics of oscillatory combustion processes controlled by modification of atomizing properties; chemiluminescence based local equivalence ratio measurement in turbulent premixed flames; advanced laser diagnostics for reactive flows; three dimensional magneto-fluid dynamics algorithm development; electrode boundary conditions in magnetogasdynamic flow control; vibrational relaxation and population depletion of nitrogen in hypersonic flows; computation of magnetohydrodynamic flows using an iterative PNS algorithm; development of miniature thermoacoustic refrigerators; heat transfer correlations for plain fin array cooler; liquid impingement cooling of high power density silicon carbide semiconductor devices; heat transfer for a pair of rectangular jets impinging upon an inclined surface; nonlinear filtering of statistical noise in DSMC solutions; modeling of chemically reacting flows from a side jet at high altitudes; chemical and flowfield modeling for enhanced analysis of contamination experiments; the Boltzmann equation and the DSMC method for rarefied gas dynamics; sonic line location in reacting flows; reciprocity equation for vibrationally excited molecular collisions in rarefied gas dynamics; reciprocity modelling techniques for rarefied hypersonic flows; assessment of dispersion-relation-preserving and space-time schemes for wave equations; a numerical technique for trailing edge acoustic scattering problems; a 3D discontinuous galerkin method for multiple pure tone noise problems; thrust augmentation with mixer/ejector systems; PSP measurement of fuel mixing in a supersonic combustor of scram-jet engine model; experimental and computational studies on two-dimensional supersonic mixing flow physics; the past twenty years of icing research and development at sikorsky aircraft; effect of intercycle ice accretions on airfoil performance; unsteady aerodynamic measurements on an iced airfoil; effects of roughness on the aerodynamic performance of a business jet tail; hybrid wing design to match full-scale wing ice accretion; sliding mode control applied to reconfigurable flight control design; design and flight testing of a UAV SAS using QFT; use of the extended bifurcation analysis method for flight control law design; nonlinear control of unmanned combat aircraft during take-off; performance of h-infinity filter-based data fusion algorithm with outliers; optical microsensors for fluid flow diagnostics; MEMS-based acoustic array technology; optimum spanloads in formation flight; adaptive aerodynamic optimization of regional jet aircraft; an adjoint method for the calculation of remote sensitivities in supersonic flow; wing design by solving adjoint equations; parallelized design optimization for transonic wings using aerodynamic sensitivity analysis; aerodynamic shape design of laminar wings for Japanese experimental SST; detection and control of flow separation using pressure sensors and micro-vortex generators; axisymmetric coaxial synthetic jets; development of a MEMS based microvalve for flow control using active dimples; active reduction of skin friction drag using low-speed streak control; modification of base drag through boundary-layer manipulation; performance optimization of the hypervelocity launcher system based on experimental results; CFD predictions of dynamic derivatives for missiles; application of MISDL/KDA aerodynamics prediction method to penguin missile; store separation simulation of penguin missile from helicopters; evaluation of the capabilities of CFD to predict store trajectories from attack aircraft; an experimental study of open cavity flows at low subsonic speeds; application of neural networks to store loads grid-survey.
+M3  - Conference review
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Williams, M.R.
+AU  - Ford, W.I.
+AU  - Mumbi, R.C.K.
+TI  - Preferential flow in the shallow vadose zone: Effect of rainfall intensity, soil moisture, connectivity, and agricultural management
+PY  - 2023
+T2  - Hydrological Processes
+VL  - 37
+IS  - 12
+C7  - e15057
+DO  - 10.1002/hyp.15057
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85181224116&doi=10.1002%2fhyp.15057&partnerID=40&md5=f949a25bfd91a967f22093f96a1a5cfc
+AB  - Preferential flow is ubiquitous in soils, and it affects water infiltration, runoff, and contaminant transport. Undisturbed soil lysimeters (n = 10; 900 cm2) were collected from an agricultural field to quantify the effect of climate, soil moisture, connectivity, and agricultural practices on water transport through the shallow vadose zone. A series of 10 rainfall simulations was conducted on each lysimeter (n = 100 events) and data were analysed within a framework of five case studies where we assessed the impact of rainfall intensity (n = 30 events), soil moisture (n = 28), and tillage (n = 21). Three lysimeters that had near-zero flow initially were modified to investigate dynamics of direct surface connectivity through an artificial macropore in which we assessed the impacts of soil moisture (n = 12) and subsequent disruption via tillage (n = 9). Stable water isotopes were used to separate leachate into event (Qe) and pre-event water (Qpe). Results showed that event water transport in leachate was not affected by rainfall intensity (Qe/Q = 49% ± 21% to 50% ± 24%); however, event water decreased from 65% ± 5% to 23% ± 28% with increasing soil moisture. Lysimeters with artificial macropores resulted in leachate that was nearly all event water (85% ± 12% to 92% ± 4%) irrespective of soil moisture. Tillage decreased event water transport for both lysimeters with and without an artificial macropore by ~30%. Findings show how varying initial and boundary conditions produce a continuum of preferential flow. Water and tracer flux data collected in the current study are therefore essential for predicting conditions with high relevance of preferential flow and contaminant transport when assessing or modelling long-term hydrographs where these conditions are only met during a small proportion of the flow time. © 2023 John Wiley & Sons Ltd. This article has been contributed to by U.S. Government employees and their work is in the public domain in the USA.
+KW  - flow pathway
+KW  - hydrograph separation
+KW  - lysimeter
+KW  - macropore
+KW  - tracer
+KW  - water isotope
+KW  - Groundwater
+KW  - Groundwater flow
+KW  - Isotopes
+KW  - Lysimeters
+KW  - Rain
+KW  - Soil surveys
+KW  - Tillage
+KW  - Contaminants transport
+KW  - Flow pathways
+KW  - Hydrograph separation
+KW  - Leachates
+KW  - Macropores
+KW  - Preferential flows
+KW  - Rainfall intensity
+KW  - Vadose Zone
+KW  - Water isotope
+KW  - Water transport
+KW  - agricultural management
+KW  - connectivity
+KW  - hydrograph
+KW  - isotopic composition
+KW  - lysimeter
+KW  - porosity
+KW  - precipitation intensity
+KW  - preferential flow
+KW  - soil moisture
+KW  - tracer
+KW  - vadose zone
+KW  - Soil moisture
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 5
+ER  -
+
+TY  - JOUR
+AU  - Kowada, A.
+TI  - Cost effectiveness of interferon-gamma release assay for tuberculosis screening using three months of rifapentine and isoniazid among long-term expatriates from low to high incidence countries
+PY  - 2016
+T2  - Travel Medicine and Infectious Disease
+VL  - 14
+IS  - 5
+SP  - 489
+EP  - 498
+DO  - 10.1016/j.tmaid.2016.05.010
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84992365610&doi=10.1016%2fj.tmaid.2016.05.010&partnerID=40&md5=62afcd9e42b5ea6c03449ef612eeec8d
+AB  - Background Long-term expatriates from low to high tuberculosis (TB) incidence countries get high rates of active TB and latent TB infection (LTBI). TB screening for expatriates is important for occupational health. Interferon-gamma release assays are more accurate than tuberculin skin test (TST). Rifapentine plus isoniazid for 3 months (3HP) is as effective as 9 months of isoniazid (9H) with a higher treatment-completion rate. Methods Decision trees and Markov models were constructed using a societal perspective on a lifetime horizon. The target population was a hypothetical cohort of 30 year-old expatriates. Seven strategies; TST with 3HP or 9H, QuantiFERON®-TB Gold In-Tube (QFT) with 3HP or 9H, T-SPOT®.TB (TSPOT) with 3HP or 9H and chest X-ray examination (CXR) were modeled. The main outcome measure of effectiveness was quality-adjusted life-years (QALYs) gained. Results QFT with 3HP yielded the greatest benefits with the lowest cost ($US 674.8; 25.95660 QALYs [year 2012 values]). CXR was the least cost-effective ($US 13,666.8; 24.62917 QALYs). Cost-effectiveness was sensitive to adherence rate of 3HP and QFT specificity, but not to BCG vaccination rate. Conclusions Entry LTBI screening using QFT treated with 3HP is recommended on the basis of cost effectiveness among long-term expatriates from low to high incidence countries. © 2016 Elsevier Ltd
+KW  - Cost-effectiveness
+KW  - Expatriate
+KW  - Interferon-gamma release assay
+KW  - Latent tuberculosis infection
+KW  - Rifapentine
+KW  - Adult
+KW  - Computer Simulation
+KW  - Cost-Benefit Analysis
+KW  - Decision Trees
+KW  - Female
+KW  - Humans
+KW  - Incidence
+KW  - Interferon-gamma Release Tests
+KW  - Isoniazid
+KW  - Latent Tuberculosis
+KW  - Male
+KW  - Markov Chains
+KW  - Mass Screening
+KW  - Rifampin
+KW  - Travel
+KW  - isoniazid
+KW  - rifapentine
+KW  - isoniazid
+KW  - rifampicin
+KW  - rifapentine
+KW  - adult
+KW  - Article
+KW  - controlled clinical trial
+KW  - controlled study
+KW  - cost effectiveness analysis
+KW  - decision tree
+KW  - diagnostic accuracy
+KW  - diagnostic test accuracy study
+KW  - enzyme linked immunospot assay
+KW  - hidden Markov model
+KW  - human
+KW  - incidence
+KW  - interferon gamma release assay
+KW  - major clinical study
+KW  - Mycobacterium tuberculosis test kit
+KW  - priority journal
+KW  - quality adjusted life year
+KW  - sensitivity and specificity
+KW  - thorax radiography
+KW  - treatment duration
+KW  - tuberculin test
+KW  - tuberculosis
+KW  - analogs and derivatives
+KW  - computer simulation
+KW  - cost benefit analysis
+KW  - economics
+KW  - female
+KW  - interferon gamma release assay
+KW  - latent tuberculosis
+KW  - male
+KW  - Markov chain
+KW  - mass screening
+KW  - microbiology
+KW  - transmission
+KW  - travel
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 11
+ER  -
+
+TY  - CONF
+AU  - Chou, Hwei-Lan
+AU  - Biezad, Daniel J.
+TI  - Application of QFT to the problem of failed in-flight controllers during approach and landing of a B-720 aircraft
+PY  - 1993
+T2  - 1993 IEEE National Aerospace and Electronics Conference
+SP  - 455
+EP  - 461
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0027167179&partnerID=40&md5=988cc0ea2dcd48a051149b9e86db6808
+AB  - Previous studies by NASA Dryden have shown the use of throttles for emergency flight control to be extremely difficult, especially for landing. Flight control using only the throttles to achieve safe landing for a large jet transport airplane, the Boeing 720, is investigated using Quantitative Feedback Theory. Results are compared to an augmented control developed in a previous study. The controller corrected unsatisfactory open-loop characteristics by increasing system band width and damping, but improving the control bandwidth substantially proved very difficult. The pitch controller is robust in conditions of no or moderate turbulence. The roll controller performed well in conditions of no turbulence, but is sensitive to moderate turbulence. Handling qualities of the augmented control for approach and landing were evaluated by piloted simulation flights.
+KW  - Aircraft landing
+KW  - Control equipment
+KW  - Control theory
+KW  - Flight dynamics
+KW  - Flight simulators
+KW  - Robustness (control systems)
+KW  - Turbulence
+KW  - B-720 aircraft
+KW  - Emergency flight control
+KW  - Feedback control
+KW  - In-flight controllers
+KW  - NASA
+KW  - Military aircraft
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 1
+ER  -
+
+TY  - JOUR
+AU  - Gräfe, M.
+AU  - Heilmann, R.
+AU  - Lebugle, M.
+AU  - Guzman-Silva, D.
+AU  - Perez-Leija, A.
+AU  - Szameit, A.
+TI  - Integrated photonic quantum walks
+PY  - 2016
+T2  - Journal of Optics (United Kingdom)
+VL  - 18
+IS  - 10
+C7  - 103002
+DO  - 10.1088/2040-8978/18/10/103002
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84989927286&doi=10.1088%2f2040-8978%2f18%2f10%2f103002&partnerID=40&md5=42ae4e95f39e7aab9c43f12298495d37
+AB  - Over the last 20 years quantum walks (QWs) have gained increasing interest in the field of quantum information science and processing. In contrast to classical walkers, quantum objects exhibit intrinsic properties like non-locality and non-classical many-particle correlations, which renders QWs a versatile tool for quantum simulation and computation as well as for a deeper understanding of genuine quantum mechanics. Since they are highly controllable and hardly interact with their environment, photons seem to be ideally suited quantum walkers. In order to study and exploit photonic QWs, lattice structures that allow low loss coherent evolution of quantum states are demanded. Such requirements are perfectly met by integrated optical waveguide devices that additionally allow a substantial miniaturization of experimental settings. Moreover, by utilizing the femtosecond direct laser writing technique three-dimensional waveguide structures are capable of analyzing QWs also on higher dimensional geometries. In this context, advances and findings of photonic QWs are discussed in this review. Various concepts and experimental results are presented covering, such as different quantum transport regimes, the Boson sampling problem, and the discrete fractional quantum Fourier transform. © 2016 IOP Publishing Ltd.
+KW  - integrated structures
+KW  - quantum walks
+KW  - waveguides
+KW  - Optical waveguides
+KW  - Quantum optics
+KW  - Waveguide components
+KW  - Waveguides
+KW  - Direct laser writing
+KW  - Integrated optical waveguides
+KW  - Integrated structure
+KW  - Of quantum-information
+KW  - Particle correlations
+KW  - Quantum fourier transforms
+KW  - Quantum walk
+KW  - Three-dimensional waveguides
+KW  - Quantum chemistry
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 59
+ER  -
+
+TY  - JOUR
+AU  - Tszyunsi, C.
+AU  - Beterov, I.I.
+TI  - A Quantum Algorithm for Solving the Travelling Salesman Problem by Quantum Phase Estimation and Quantum Search
+PY  - 2023
+T2  - Journal of Experimental and Theoretical Physics
+VL  - 137
+IS  - 2
+SP  - 210
+EP  - 215
+DO  - 10.1134/S1063776123080095
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85173585891&doi=10.1134%2fS1063776123080095&partnerID=40&md5=694552944bcd03fc32133fdc8fb52928
+AB  - Abstract: A quantum algorithm for solving the traveling salesman problem by the quantum phase estimation and quantum search method is considered. An approach is developed that was previously proposed for solving this problem. A quantum register is used to encode the eigenstates of a unitary operator whose phase determines the length of each possible route. The quantum phase estimation algorithm is used to estimate the length of a route. Then, to find the minimum route length, the measured values of length are encoded into the states of the second quantum register, and the search for the optimal route is carried out using a modified Grover algorithm. Numerical simulation of the proposed quantum algorithm is carried out using the Qiskit library for one and two iterations of the modified Grover algorithm. © 2023, Pleiades Publishing, Inc.
+KW  - Quantum theory
+KW  - Algorithm for solving
+KW  - Eigenstates
+KW  - Grover's Algorithm
+KW  - Phase estimation algorithms
+KW  - Quantum algorithms
+KW  - Quantum phase estimation
+KW  - Quantum register
+KW  - Quantum search
+KW  - Search method
+KW  - Unitary operators
+KW  - Traveling salesman problem
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 2
+ER  -
+
+TY  - JOUR
+AU  - Delgado, A.
+AU  - Casares, P.A.M.
+AU  - Dos Reis, R.
+AU  - Zini, M.S.
+AU  - Campos, R.
+AU  - Cruz-Hernández, N.
+AU  - Voigt, A.-C.
+AU  - Lowe, A.
+AU  - Jahangiri, S.
+AU  - Martin-Delgado, M.A.
+AU  - Mueller, J.E.
+AU  - Arrazola, J.M.
+TI  - Simulating key properties of lithium-ion batteries with a fault-tolerant quantum computer
+PY  - 2022
+T2  - Physical Review A
+VL  - 106
+IS  - 3
+C7  - 032428
+DO  - 10.1103/PhysRevA.106.032428
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85139595424&doi=10.1103%2fPhysRevA.106.032428&partnerID=40&md5=abfb32fdbf490dc341f1f6aa8a26d3ca
+AB  - There is a pressing need to develop new rechargeable battery technologies that can offer higher energy storage, faster charging, and lower costs. Despite the success of existing methods for the simulation of battery materials, they can sometimes fall short of delivering accurate and reliable results. Quantum computing has been discussed as an avenue to overcome these issues, but only limited work has been done to outline how it may impact battery simulations. In this work, we provide a detailed answer to the following question: how can a quantum computer be used to simulate key properties of a lithium-ion battery? Based on recently introduced first-quantization techniques, we lay out an end-to-end quantum algorithm for calculating equilibrium cell voltages, ionic mobility, and thermal stability. These can be obtained from ground-state energies of materials, which are the core calculations executed by the quantum computer using qubitization-based quantum phase estimation. The algorithm includes explicit methods for preparing approximate ground states of periodic materials in first quantization. We bring these insights together to estimate the resources required to implement a quantum algorithm for simulating a realistic cathode material, dilithium iron silicate.  © 2022 American Physical Society. 
+KW  - Cathodes
+KW  - Ground state
+KW  - Iron compounds
+KW  - Quantum computers
+KW  - Quantum theory
+KW  - Silicates
+KW  - Battery materials
+KW  - Battery technology
+KW  - Fast charging
+KW  - Fault-tolerant
+KW  - Low-costs
+KW  - Pressung
+KW  - Property
+KW  - Quanta computers
+KW  - Quantisation
+KW  - Quantum algorithms
+KW  - Lithium-ion batteries
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 30
+ER  -
+
+TY  - CONF
+AU  - Loupe, D.
+AU  - Kim, H.
+AU  - Tekes, A.
+AU  - Tekes, C.
+AU  - Moghadam, A.A.A.
+TI  - Design of a compliant based biomimetic planar locomotive mechanism
+PY  - 2020
+T2  - ASME International Mechanical Engineering Congress and Exposition, Proceedings (IMECE)
+VL  - 7B-2020
+DO  - 10.1115/IMECE2020-23826
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85101246436&doi=10.1115%2fIMECE2020-23826&partnerID=40&md5=2a853dc17861afddf2135c7e7b258987
+AB  - This paper presents the design, development, modeling and control of a biomimetic multi degree of freedom compliant locomotive mechanism that can follow a prescribed trajectory. The research objective of this study is the design of a high mobility and flexible planar locomotive mechanism incorporating large deflecting compliant hinges. The actuation is realized using servo motors. Mechanism is consisted of five sliding carts, rail, 3D-printed supplementary pieces to house motors and pins. Carts are connected by monolithically designed two arm links joined by a large deflecting flexure. Four servo motors are mounted on the driven carts. Since sliding carts are identical, forward motion is achieved by changing the friction of carts through the connecting pins. Dynamical model is created in Matlab Simulink using Euler s laws of motion principle, pseudo rigid body modeling (PRBM), vector closure-loop equations and kinematic constraints. To robustly control the position of the mechanism, first its nonlinear dynamics replaced with a family of linear time invariant systems which have parameter uncertainty. Then a robust controller is designed based on the Quantitative Feedback Theory (QFT) for the desired robust tracking and stability bounds. QFT is one of the most powerful robust control techniques which can take into account both phase and magnitude information of the system and enables the designer to minimize the cost of feedback by clearly observing the design constraints through robust performance bounds. Finally, the performance of the designed controller is validated though nonlinear simulations using the nonlinear dynamics of the mechanism. It has been shown that the mechanism can consistently track the desired inputs both in frequency and time domains. © 2020 American Society of Mechanical Engineers (ASME). All rights reserved.
+KW  - Compliant mechanisms
+KW  - Modeling and locomotive motion
+KW  - 3D printers
+KW  - Biomimetics
+KW  - Controllers
+KW  - Degrees of freedom (mechanics)
+KW  - Dynamics
+KW  - Invariance
+KW  - Linear control systems
+KW  - Linear systems
+KW  - Locomotives
+KW  - MATLAB
+KW  - Robust control
+KW  - Time domain analysis
+KW  - Time varying control systems
+KW  - Vehicles
+KW  - Frequency and time domains
+KW  - Linear time invariant systems
+KW  - Multi degree-of-freedom
+KW  - Nonlinear simulations
+KW  - Parameter uncertainty
+KW  - Pseudo-rigid-body models
+KW  - Quantitative feedback theory
+KW  - Robust control techniques
+KW  - Feedback
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 4
+ER  -
+
+TY  - JOUR
+AU  - Cho, Y.
+AU  - Engel, B.A.
+TI  - Spatially distributed long-term hydrologic simulation using a continuous SCS CN method-based hybrid hydrologic model
+PY  - 2018
+T2  - Hydrological Processes
+VL  - 32
+IS  - 7
+SP  - 904
+EP  - 922
+DO  - 10.1002/hyp.11463
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85044601672&doi=10.1002%2fhyp.11463&partnerID=40&md5=410c1e2afb792b3144639065bf92c5bb
+AB  - A continuous Soil Conservation Service (SCS) curve number (CN) method that considers time-varied SCS CN values was developed based on the original SCS CN method with a revised soil moisture accounting approach to estimate run-off depth for long-term discontinuous storm events. The method was applied to spatially distributed long-term hydrologic simulation of rainfall-run-off flow with an underlying assumption for its spatial variability using a geographic information systems-based spatially distributed Clark's unit hydrograph method (Distributed-Clark; hybrid hydrologic model), which is a simple few parameter run-off routing method for input of spatiotemporally varied run-off depth, incorporating conditional unit hydrograph adoption for different run-off precipitation depth-based direct run-off flow convolution. Case studies of spatially distributed long-term (total of 6 years) hydrologic simulation for four river basins using daily NEXRAD quantitative precipitation estimations demonstrate overall performances of Nash–Sutcliffe efficiency (ENS) 0.62, coefficient of determination (R2) 0.64, and percent bias 0.33% in direct run-off and ENS 0.71, R2 0.72, and percent bias 0.15% in total streamflow for model result comparison against observed streamflow. These results show better fit (improvement in ENS of 42.0% and R2 of 33.3% for total streamflow) than the same model using spatially averaged gauged rainfall. Incorporation of logic for conditional initial abstraction in a continuous SCS CN method, which can accommodate initial run-off loss amounts based on previous rainfall, slightly enhances model simulation performance; both ENS and R2 increased by 1.4% for total streamflow in a 4-year calibration period. A continuous SCS CN method-based hybrid hydrologic model presented in this study is, therefore, potentially significant to improved implementation of long-term hydrologic applications for spatially distributed rainfall-run-off generation and routing, as a relatively simple hydrologic modelling approach for the use of more reliable gridded types of quantitative precipitation estimations. Copyright © 2018 John Wiley & Sons, Ltd.
+KW  - continuous SCS CN method
+KW  - GIS
+KW  - hybrid hydrologic model
+KW  - NEXRAD QPEs
+KW  - spatially distributed long-term rainfall-run-off flow estimation
+KW  - Geographic information systems
+KW  - Infiltration
+KW  - Rain
+KW  - Soil conservation
+KW  - Soil moisture
+KW  - Spatial distribution
+KW  - Stream flow
+KW  - Coefficient of determination
+KW  - Hydrologic applications
+KW  - Hydrologic modeling
+KW  - NEXRAD QPEs
+KW  - Quantitative precipitation estimation
+KW  - Scs-cn methods
+KW  - Soil conservation services
+KW  - Unit hydrograph methods
+KW  - computer simulation
+KW  - GIS
+KW  - hydrology
+KW  - numerical model
+KW  - quantitative analysis
+KW  - rainfall-runoff modeling
+KW  - reliability analysis
+KW  - soil moisture
+KW  - spatial distribution
+KW  - streamflow
+KW  - Information use
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 20
+ER  -
+
+TY  - JOUR
+AU  - Piltz, C.
+AU  - Sriarunothai, T.
+AU  - Ivanov, S.S.
+AU  - Wölk, S.
+AU  - Wunderlich, C.
+TI  - Versatile microwave-driven trapped ion spin system for quantum information processing
+PY  - 2016
+T2  - Science Advances
+VL  - 2
+IS  - 7
+C7  - e1600093
+DO  - 10.1126/sciadv.1600093
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85019489324&doi=10.1126%2fsciadv.1600093&partnerID=40&md5=b8d9f9995b1ccd45fac5c5145c8ee5ae
+AB  - Using trapped atomic ions, we demonstrate a tailored and versatile effective spin system suitable for quantum simulations and universal quantum computation. By simply applying microwave pulses, selected spins can be decoupled from the remaining system and, thus, can serve as a quantum memory, while simultaneously, other coupled spins perform conditional quantum dynamics. Also, microwave pulses can change the sign of spin-spin couplings, as well as their effective strength, even during the course of a quantum algorithm. Taking advantage of the simultaneous long-range coupling between three spins, a coherent quantum Fourier transform—an essential building block for many quantum algorithms—is efficiently realized. This approach, which is based on microwave-driven trapped ions and is complementary to laser-based methods, opens a new route to overcoming technical and physical challenges in the quest for a quantum simulator and a quantum computer. © 2016 The Authors.
+KW  - Ions
+KW  - Microwaves
+KW  - Models, Chemical
+KW  - Quantum Theory
+KW  - Spin Labels
+KW  - Ytterbium
+KW  - Ions
+KW  - Microwaves
+KW  - Quantum chemistry
+KW  - Quantum computers
+KW  - Quantum optics
+KW  - Quantum theory
+KW  - Spin dynamics
+KW  - ion
+KW  - spin label
+KW  - ytterbium
+KW  - Laser-based methods
+KW  - Microwave-driven
+KW  - Quantum algorithms
+KW  - Quantum fourier transforms
+KW  - Quantum simulations
+KW  - Quantum simulators
+KW  - Quantum-information processing
+KW  - Spin-spin couplings
+KW  - chemical model
+KW  - chemistry
+KW  - microwave radiation
+KW  - quantum theory
+KW  - Trapped ions
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 32
+ER  -
+
+TY  - CONF
+AU  - Tiranti, D.
+AU  - Bertolotto, P.
+AU  - Cremonini, R.
+AU  - Gaeta, A.R.
+AU  - Vela, N.
+TI  - The Territorial Debris Flow Early Warning System of Piemonte (North-western Italy)
+PY  - 2023
+T2  - E3S Web of Conferences
+VL  - 415
+C7  - 03030
+DO  - 10.1051/e3sconf/202341503030
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85172023283&doi=10.1051%2fe3sconf%2f202341503030&partnerID=40&md5=46d9dcf4052a014231e6a9b2ce125942
+AB  - Debris flows are one of the most frequent and dangerous phenomena affecting the Alpine environment; they are responsible of 36% of casualties due to gravitational phenomena in the Italian Alps during the last century. In the Western Italian Alps (Piemonte, Italy) a Territorial Debris Flow Early Warning System (Te-DFEWS) aimed to forecast and predict the occurrence of sediment mass-transport has been developed, based on the characterization of small Alpine catchments (< 50 km2) and the processes that take place in these. The Te-DFWES is based on the identification of predisposing and triggering factors that determinate debris flow occurrence. The Te-DFEWS operates from 2010 in present-time and nowcasting using weather radar observations as input data. Recently (2021), the Te-DFEWS has been improved extending the forecasting window (up to 48h from simulation) by the introduction of Quantitative Precipitation Estimate/Forecast (QPE/QPF) input from COSMO-2I and ICON-IT, local high-resolution weather models. The Te-DFEWS, named DEFENSE (DEbris Flows triggEred by storms - Nowcasting SystEm) and the related warning procedures are presented as an operational tool integrated in the Regional Warning System for Geo-hydrological and Hydraulic Risk at the Functional Centre of Piemonte, managed by the Regional Agency for Environmental Protection of Piemonte (Arpa Piemonte). © 2023 EDP Sciences. All rights reserved.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Boby, R.I.
+AU  - Mansor, H.
+AU  - Za'bah, N.F.
+AU  - Abidin, M.S.Z.
+AU  - Gunawan, T.S.
+AU  - Kazmi, S.A.
+TI  - QFT Controller for nonlinear system application to 3-DOF flight control module
+PY  - 2016
+T2  - ARPN Journal of Engineering and Applied Sciences
+VL  - 11
+IS  - 6
+SP  - 4172
+EP  - 4175
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84979263285&partnerID=40&md5=81a77b53a4e819a161640d3d6329c414
+AB  - In this paper we proposed a new control method based on Quantitative Feedback Theory (QFT) to design practical controller methodology for uncertain characterized with three degree of freedom flight control module. Again linearly least phase systems must sacrifice to desirable feedback control benefits to avoid an excessive uncertain disturbance. While preserving the robust stability Quantitative Feedback Theory (QFT) controller is proposed to control highly uncertain plants. A 3-DOF flight control system is intrinsically nonlinear, unstable and totally uncertain because of the nature of three individual angles known as pitch, elevation and travel. Most controllers which are designed for 3-DOF helicopter flight systems are base on a minimal linearized model where system variants and uncertainties are not accommodated. Again, the controllers are mostly designed to gratify the gains and phase margin specifications that may not guarantee to handle the sensitivity. In proposed controller QFT may explicitly deal with uncertainty, where large plant parameter uncertainties with lower bandwidth can be achieved by QFT controller. Pre-filter technique may improve both robust stability and robust tracking performance within a desired precision of the individual uncertain parameters of 3-DOF module. This controller may handle large parameter uncertainties and disturbance with rugged stability. The random optimization technique is engaged in the design to optimize the overall performance of the controller. Simulation results and equations are used to show effective result of the proposed control methodology. © 2006-2016 Asian Research Publishing Network (ARPN).
+KW  - 3DOF helicopter
+KW  - Pre-filter
+KW  - QFT controller
+KW  - Quantitative feedback theory
+KW  - Stability
+KW  - Uncertainties
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 1
+ER  -
+
+TY  - JOUR
+AU  - Paesani, S.
+AU  - Gentile, A.A.
+AU  - Santagati, R.
+AU  - Wang, J.
+AU  - Wiebe, N.
+AU  - Tew, D.P.
+AU  - O'Brien, J.L.
+AU  - Thompson, M.G.
+TI  - Experimental Bayesian Quantum Phase Estimation on a Silicon Photonic Chip
+PY  - 2017
+T2  - Physical Review Letters
+VL  - 118
+IS  - 10
+C7  - 100503
+DO  - 10.1103/PhysRevLett.118.100503
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85014898520&doi=10.1103%2fPhysRevLett.118.100503&partnerID=40&md5=3cd2a5ab4b2e44005a3604776907082c
+AB  - Quantum phase estimation is a fundamental subroutine in many quantum algorithms, including Shor's factorization algorithm and quantum simulation. However, so far results have cast doubt on its practicability for near-term, nonfault tolerant, quantum devices. Here we report experimental results demonstrating that this intuition need not be true. We implement a recently proposed adaptive Bayesian approach to quantum phase estimation and use it to simulate molecular energies on a silicon quantum photonic device. The approach is verified to be well suited for prethreshold quantum processors by investigating its superior robustness to noise and decoherence compared to the iterative phase estimation algorithm. This shows a promising route to unlock the power of quantum phase estimation much sooner than previously believed. © 2017 authors. Published by the American Physical Society. Published by the American Physical Society under the terms of the "https://creativecommons.org/licenses/by/4.0/" Creative Commons Attribution 4.0 International license. Further distribution of this work must maintain attribution to the author(s) and the published article's title, journal citation, and DOI.
+KW  - Bayesian networks
+KW  - Iterative methods
+KW  - Photonic devices
+KW  - Quantum chemistry
+KW  - Bayesian approaches
+KW  - Factorization algorithms
+KW  - Molecular energies
+KW  - Phase estimation algorithms
+KW  - Quantum phase estimation
+KW  - Quantum processors
+KW  - Quantum simulations
+KW  - Robustness to noise
+KW  - article
+KW  - intuition
+KW  - noise
+KW  - Quantum theory
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 141
+ER  -
+
+TY  - JOUR
+AU  - Gong, L.-H.
+AU  - He, X.-T.
+AU  - Tan, R.-C.
+AU  - Zhou, Z.-H.
+TI  - Single Channel Quantum Color Image Encryption Algorithm Based on HSI Model and Quantum Fourier Transform
+PY  - 2018
+T2  - International Journal of Theoretical Physics
+VL  - 57
+IS  - 1
+SP  - 59
+EP  - 73
+DO  - 10.1007/s10773-017-3541-1
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85029534675&doi=10.1007%2fs10773-017-3541-1&partnerID=40&md5=90d5782c10c7a67e662725907f2c15b5
+AB  - In order to obtain high-quality color images, it is important to keep the hue component unchanged while emphasize the intensity or saturation component. As a public color model, Hue-Saturation Intensity (HSI) model is commonly used in image processing. A new single channel quantum color image encryption algorithm based on HSI model and quantum Fourier transform (QFT) is investigated, where the color components of the original color image are converted to HSI and the logistic map is employed to diffuse the relationship of pixels in color components. Subsequently, quantum Fourier transform is exploited to fulfill the encryption. The cipher-text is a combination of a gray image and a phase matrix. Simulations and theoretical analyses demonstrate that the proposed single channel quantum color image encryption scheme based on the HSI model and quantum Fourier transform is secure and effective. © 2017, Springer Science+Business Media, LLC.
+KW  - Color image
+KW  - Hue-saturation intensity model
+KW  - Quantum Fourier transform
+KW  - Quantum image encryption algorithm
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 22
+ER  -
+
+TY  - JOUR
+AU  - Holmes, A.
+AU  - Johri, S.
+AU  - Guerreschi, G.G.
+AU  - Clarke, J.S.
+AU  - Matsuura, A.Y.
+TI  - Impact of qubit connectivity on quantum algorithm performance
+PY  - 2020
+T2  - Quantum Science and Technology
+VL  - 5
+IS  - 2
+C7  - 025009
+DO  - 10.1088/2058-9565/ab73e0
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85083488368&doi=10.1088%2f2058-9565%2fab73e0&partnerID=40&md5=5d1ffcc34aa86707ebd48616443bd235
+AB  - Quantum computing hardware is undergoing rapid development from proof-of-principle devices to scalable machines that could eventually challenge classical supercomputers on specific tasks. On platforms with local connectivity, the transition from one- to two-dimensional arrays of qubits is seen as a natural technological step to increase the density of computing power and to reduce the routing cost of limited connectivity. Here we map and schedule representative algorithmic workloads - the Quantum Fourier Transform (QFT) relevant to factoring, the Grover diffusion operator relevant to quantum search, and Jordan-Wigner parity rotations relevant to simulations of quantum chemistry and materials science - to qubit arrays with varying connectivity. In particular we investigate the impact of restricting the ideal all-to-all connectivity to a square grid, a ladder and a linear array of qubits. Our schedule for the QFT on a ladder results in running time close to that of a system with all-to-all connectivity. Our results suggest that some common quantum algorithm primitives can be optimized to have execution times on systems with limited connectivities, such as a ladder and linear array, that are competitive with systems that have all-to-all connectivity. © 2020 IOP Publishing Ltd.
+KW  - mapping and scheduling
+KW  - quantum compilation
+KW  - quantum computing
+KW  - qubit connectivity
+KW  - Ladders
+KW  - Quantum chemistry
+KW  - Quantum optics
+KW  - Supercomputers
+KW  - Computing power
+KW  - Diffusion operators
+KW  - Local connectivity
+KW  - Proof-of-principle device
+KW  - Quantum algorithms
+KW  - Quantum Computing
+KW  - Quantum fourier transforms
+KW  - Two-dimensional arrays
+KW  - Qubits
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 34
+ER  -
+
+TY  - CONF
+AU  - Muñoz-Mansilla, R.
+AU  - Díaz, J.M.
+AU  - Chaos, D.
+AU  - Aranda, J.
+TI  - Design of a stabilization control system for high-speed crafts based on robust techniques. Two different approaches
+PY  - 2016
+T2  - Proceedings of the 2016 IEEE 11th Conference on Industrial Electronics and Applications, ICIEA 2016
+C7  - 7603901
+SP  - 1920
+EP  - 1925
+DO  - 10.1109/ICIEA.2016.7603901
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84997159422&doi=10.1109%2fICIEA.2016.7603901&partnerID=40&md5=9ef85a6a1f4c694f6ea067038cdc13c8
+AB  - This work handles the design of a stabilization control for a high-speed craft in order to improve comfort and security in maritime transport. The goal is to damp the coupled dynamics of heave, pitch and roll by using active stabilization surfaces such as flaps, T-foil and fins. The methodology used is based on the Quantitative Feedback Theory (QFT) robust technique. Two approaches depending on the degree of coupling are presented. In the first approach, controllers for the longitudinal and transversal dynamics are designed separately and afterwards the actuator coupling is considered. The second approach provides a solution in cases where the effect of the actuator coupling is large. Hence, a combination of QFT and Eigenstructure Assignment (EA) methods is used. For both methods, time-domain simulations analyses for different conditions of sea state and angles of incidence provide satisfactory results and achieve damped responses. It is shown that robust techniques based on QFT methodology result feasible and very suitable since the problem can be applied to any angle of incidence and only one controller is required for any speed or sea state. Therefore they constitute attractive alternatives in the application of a stabilization control of an advanced marine system. © 2016 IEEE.
+KW  - coupling
+KW  - high-speed craft
+KW  - Quantitative Feedback Theory
+KW  - robust control
+KW  - system identification
+KW  - Actuators
+KW  - Controllers
+KW  - Couplings
+KW  - Feedback
+KW  - Identification (control systems)
+KW  - Industrial electronics
+KW  - Lifeboats
+KW  - Ocean currents
+KW  - Robust control
+KW  - Stabilization
+KW  - Active stabilization
+KW  - Angles of incidence
+KW  - Eigenstructure assignment
+KW  - High speed crafts
+KW  - Maritime transport
+KW  - Quantitative feedback theory
+KW  - Stabilization control
+KW  - Time-domain simulations
+KW  - Time domain analysis
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Coucoules, J.S.
+AU  - Houpis, C.H.
+AU  - Lamont, G.B.
+TI  - STUDY OF THE EFFECTS OF DISCRETIZING QUANTITATIVE FEEDBACK THEORY ANALOG CONTROL SYSTEM DESIGNS.
+PY  - 1986
+T2  - Proceedings of the IEEE Conference on Decision and Control
+SP  - 1603
+EP  - 1608
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0022984812&partnerID=40&md5=0b36283e235766ff889d46a5ef14eb71
+AB  - The authors examine the feasibility of using the pseudo continuous time (PCT) modeling approach for a sampled-data system in extending continuous domain (analog) quantitative feedback theory (QFT) flight control system designs to the discrete domain. The results of two analog designs are studied for digital implementation: a transport aircraft with robust analog fixed compensators for three different flight conditions, and a fighter aircraft, with inherent reconfiguration real-time requirements. For the transport aircraft, the analog compensators are modified to reflect the effects of the sampler and zero-order-hold discretized using two transformation techniques. Simulation results show that the Tustin transformation with PCT modeling provides good results using a sampling rate of 40 Hz. For the fighter aircraft, results are obtained with a sampling rate of 60 Hz, but only for two out of four flight conditions. Sampling and finite wordlength effects are also considered. A computer program is developed to simulate the effects of finite wordlength. It is sufficiently general to allow the specification of rounding or truncation, controller wordlength, and placement of the radix point. Simulations are conducted using various wordlengths, radix positions, and appropriately quantized controller coefficients.
+KW  - AVIONICS - Control Systems
+KW  - ANALOG CONTROL SYSTEM
+KW  - DISCRETIZING EFFECT
+KW  - FLIGHT CONTROL SYSTEM DESIGN
+KW  - QUANTITATIVE FEEDBACK THEORY
+KW  - CONTROL SYSTEMS, DISCRETE TIME
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Ingelmann, J.
+AU  - Bharadwaj, S.S.
+AU  - Pfeffer, P.
+AU  - Sreenivasan, K.R.
+AU  - Schumacher, J.
+TI  - Two quantum algorithms for solving the one-dimensional advection–diffusion equation
+PY  - 2024
+T2  - Computers and Fluids
+VL  - 281
+C7  - 106369
+DO  - 10.1016/j.compfluid.2024.106369
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85199497071&doi=10.1016%2fj.compfluid.2024.106369&partnerID=40&md5=8996d335ca5b3b80223473bcdb2ce7ce
+AB  - Two quantum algorithms are presented for the numerical solution of a linear one-dimensional advection–diffusion equation with periodic boundary conditions. Their accuracy and performance with increasing qubit number are compared point-by-point with each other. Specifically, we solve the linear partial differential equation with a Quantum Linear Systems Algorithm (QLSA) based on the Harrow–Hassidim–Lloyd method and a Variational Quantum Algorithm (VQA), for resolutions that can be encoded using up to 6 qubits, which corresponds to N=64 grid points on the unit interval. Both algorithms are hybrid in nature, i.e., they involve a combination of classical and quantum computing building blocks. The QLSA and VQA are solved as ideal statevector simulations using the in-house solver QFlowS and open-access Qiskit software, respectively. We discuss several aspects of both algorithms which are crucial for a successful performance in both cases. These are the accurate eigenvalue estimation with the quantum phase estimation for the QLSA and the choice of the algorithm of the minimization of the cost function for the VQA. The latter algorithm is also implemented in the noisy Qiskit framework including measurement noise. We reflect on the current limitations and suggest some possible routes of future research for the numerical simulation of classical fluid flows on a quantum computer. © 2024 The Author(s)
+KW  - Quantum computing
+KW  - Quantum linear systems algorithm
+KW  - Variational quantum algorithm
+KW  - Advection
+KW  - Boundary conditions
+KW  - Eigenvalues and eigenfunctions
+KW  - Flow of fluids
+KW  - Linear systems
+KW  - Partial differential equations
+KW  - Quantum optics
+KW  - Qubits
+KW  - Advection-diffusion equation
+KW  - Algorithm for solving
+KW  - One-dimensional
+KW  - Performance
+KW  - Quantum algorithms
+KW  - Quantum Computing
+KW  - Quantum linear system algorithm
+KW  - Quantum linear systems
+KW  - System algorithm
+KW  - Variational quantum algorithm
+KW  - Cost functions
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 7
+ER  -
+
+TY  - CONF
+AU  - Laskar, M.R.
+AU  - Naskar, S.
+AU  - Dutta, A.K.
+TI  - QRADCOM: Quantum Assisted Framework for Joint Detection and Estimation in Radar Communications
+PY  - 2023
+T2  - IEEE Vehicular Technology Conference
+VL  - 2023-June
+DO  - 10.1109/VTC2023-Spring57618.2023.10200135
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85169812452&doi=10.1109%2fVTC2023-Spring57618.2023.10200135&partnerID=40&md5=d27e7ebb5717215df372b944db7d20e8
+AB  - For next-generation vehicle-to-everything (V2X) communications, there has been a growing emerging technology at the intersection of Radar and Communications, namely RadCom. RadCom provides many benefits such as efficient usage of bandwidth, joint detection and estimation, and improved tracking performance for future intelligent transportation. However, there is a limitation in the computation of parameters for large dimensions (antennas, users, or targets). To provide, a computational complexity advantage for the target detection and parameters, we introduce Quantum-assisted Radar Communication systems, namely QRADCOM. In this work, we have proposed algorithms for the multi-target detection hypothesis based on quantum phase estimation (QPE), and also the quantum inversion method for communication signal detection in presence of observation noise, interference and multi-tap wireless channel. We show numerical results and analysis as well for the QRADCOM framework on both classical and IBM-Quantum computers.  © 2023 IEEE.
+KW  - Quantum Communication
+KW  - Quantum Machine Learning
+KW  - Quantum Search
+KW  - Quantum Signal Processing
+KW  - Quantum Simulation
+KW  - Autonomous vehicles
+KW  - Quantum chemistry
+KW  - Quantum communication
+KW  - Quantum computers
+KW  - Tracking radar
+KW  - Vehicle to Everything
+KW  - Vehicle to vehicle communications
+KW  - Detection and estimation
+KW  - Joint estimation
+KW  - Joint-detection
+KW  - Machine-learning
+KW  - Quantum machine learning
+KW  - Quantum machines
+KW  - Quantum search
+KW  - Quantum signal processing
+KW  - Quantum simulations
+KW  - Radar communication
+KW  - Quantum theory
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 1
+ER  -
+
+TY  - JOUR
+AU  - Li, A.
+AU  - Xu, X.
+AU  - Ke, J.
+AU  - Yuan, G.
+TI  - Applying total energy control to designing feasible large aircraft longitudinal landing control system
+PY  - 2011
+T2  - Xibei Gongye Daxue Xuebao/Journal of Northwestern Polytechnical University
+VL  - 29
+IS  - 1
+SP  - 22
+EP  - 26
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-79953835547&partnerID=40&md5=01edcdb59eade2358b6da4fc663ab7d2
+AB  - Aim. The introduction of the full paper reviews some papers in the open literature, mostly in Chinese, and then applies total energy control to achieving its feasibility. Sections 1, 2 and 3 explain our design and give simulation results to verify its feasibility. The core of section 2 consists of: (1) we utilize the Eigen-structure assignment (EA) method to design the pitch inner-loop of aircraft and its control augmentation system; (2) taking both the uncertainty and complexity of aircraft engine control loop into consideration, we use the quantitative feedback theory (QFT) method to perform the compensation design of a thrust loop. The core of section 3 consists of: (1) we take a B-737-100TSRV aircraft as a numerical example to design its longitudinal landing control system; (2) we apply total energy control to coordinating the elevator of aircraft and its thrust commands, thus implementing the decoupling of flight path from speed control, glide-down and landing; (3) we perform the simulation of our aircraft longitudinal automatic landing control system; the simulation results, given in Figs. 4 and 5, and the analysis of Fig. 5 show preliminarily that the landing control system is feasible for decoupling the flight path of aircraft from its speed control and thus achieving precise landing.
+KW  - Aircraft landing
+KW  - Automatic landing control system
+KW  - Control
+KW  - Control system analysis
+KW  - Total energy control
+KW  - Air traffic control
+KW  - Aircraft
+KW  - Aircraft control
+KW  - Aircraft engines
+KW  - Aircraft landing
+KW  - Control system analysis
+KW  - Design
+KW  - Flight control systems
+KW  - Flight paths
+KW  - Flight simulators
+KW  - Longitudinal control
+KW  - Speed control
+KW  - Speed regulators
+KW  - Systems analysis
+KW  - Augmentation systems
+KW  - Automatic landing
+KW  - Automatic landing control system
+KW  - Eigen-structure
+KW  - Engine control
+KW  - Landing control
+KW  - Numerical example
+KW  - Quantitative feedback theory
+KW  - Simulation result
+KW  - Total energy
+KW  - Aircraft landing systems
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 1
+ER  -
+
+TY  - JOUR
+AU  - Lermusiaux, P.F.J.
+AU  - Xu, J.
+AU  - Chen, C.-F.
+AU  - Jan, S.
+AU  - Chiu, L.Y.
+AU  - Yang, Y.-J.
+TI  - Coupled ocean-acoustic prediction of transmission loss in a continental shelfbreak region: Predictive skill, uncertainty quantification, and dynamical sensitivities
+PY  - 2010
+T2  - IEEE Journal of Oceanic Engineering
+VL  - 35
+IS  - 4
+C7  - 5638588
+SP  - 895
+EP  - 916
+DO  - 10.1109/JOE.2010.2068611
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-78649720672&doi=10.1109%2fJOE.2010.2068611&partnerID=40&md5=b614af7288100ddc9d1822e9334f61fa
+AB  - In this paper, we quantify the dynamical causes and uncertainties of striking differences in acoustic transmission data collected on the shelf and shelfbreak in the northeastern Taiwan region within the context of the 2008 Quantifying, Predicting, and Exploiting Uncertainty (QPE 2008) pilot experiment. To do so, we employ our coupled oceanographic (4-D) and acoustic (Nx2-D) modeling systems with ocean data assimilation and a best-fit depth-dependent geoacoustic model. Predictions are compared to the measured acoustic data, showing skill. Using an ensemble approach, we study the sensitivity of our results to uncertainties in several factors, including geoacoustic parameters, bottom layer thickness, bathymetry, and ocean conditions. We find that the lack of signal received on the shelfbreak is due to a 20-dB increase in transmission loss (TL) caused by bottom trapping of sound energy during up-slope transmissions over the complex and deeper bathymetry. Sensitivity studies on sediment properties show larger but isotropic TL variations on the shelf and smaller but more anisotropic TL variations over the shelfbreak. Sediment sound-speed uncertainties affect the shape of the probability density functions of the TLs more than uncertainties in sediment densities and attenuations. Diverse thicknesses of sediments lead to only limited effects on the TL. The small bathymetric data uncertainty is modeled and also leads to small TL variations. We discover that the initial transport conditions in the Taiwan Strait can affect acoustic transmissions downstream more than 100 km away, especially above the shelfbreak. Simulations also reveal internal tides and we quantify their spatial and temporal effects on the ocean and acoustic fields. One type of predicted waves are semidiurnal shelfbreak internal tides propagating up-slope with wavelengths around 4080 km, horizontal phase speeds of 0.51 m/s, and vertical peak-to-peak displacements of isotherms of 2060 m. These waves lead to variations of broadband TL estimates over 56-km range that are more isotropic and on bearing average larger (up to 58-dB amplitudes) on the shelf than on the complex shelfbreak where the TL varies rapidly with bearing angles. © 2005 IEEE.
+KW  - Coastal ocean
+KW  - data assimilation
+KW  - distributed and many-task computing
+KW  - ensemble prediction
+KW  - interdisciplinary modeling
+KW  - internal tides
+KW  - shelf and shelfbreak sound propagation
+KW  - uncertainty quantification
+KW  - underwater acoustics
+KW  - Acoustic fields
+KW  - Acoustic wave propagation
+KW  - Acoustic wave transmission
+KW  - Bathymetry
+KW  - Bearings (structural)
+KW  - Data processing
+KW  - Experiments
+KW  - Forecasting
+KW  - Probability density function
+KW  - Sedimentology
+KW  - Sensitivity analysis
+KW  - Tides
+KW  - Coastal ocean
+KW  - Data assimilation
+KW  - distributed and many-task computing
+KW  - Ensemble prediction
+KW  - interdisciplinary modeling
+KW  - Internal tides
+KW  - Sound propagation
+KW  - Uncertainty quantifications
+KW  - Underwater acoustics
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 57
+ER  -
+
+TY  - JOUR
+TI  - 4th International Conference on Optical and Wireless Technologies, OWT 2020
+PY  - 2022
+T2  - Lecture Notes in Electrical Engineering
+VL  - 771
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85115247908&partnerID=40&md5=7e3e23eb8169ddb8413dde1c7c2f39fc
+AB  - The proceedings contain 62 papers. The special focus in this conference is on Optical and Wireless Technologies. The topics include: Performance Evaluation of Routing Protocols in MANETs with Variation in Pause Time; three-Qubit Implementation of Quantum Fourier Transform for Shor’s Algorithm; Performance Enhancement of Surface Plasmon Resonance (SPR) Structure Using a Sinusoidal Diffraction Grating; wide-Band Meander Line Antenna for Ka Band Application; design of Silicon-on-Insulator Based Mode Splitters with Asymmetrical Variation of Slots; human Body Monitoring Wearable Antenna; on Design of Airborne Radomes with Brent’s Method for Radiation Pattern Peak Detection; Wideband Bandpass Substrate Integrated Waveguide (SIW) Filter for C Band Application; Design of Polarized 2 × 2 MIMO Antenna Using Partially Stepped Ground; study of Microstrip Antenna Geometry: Effect of Antenna Geometry on Antenna Parameters—A Comprehensive Review; Simulation Studies on Force Sensor Using PDMS Coated Fiber Bragg Grating for Robot-Assisted Surgery; design and Analysis of E Shaped Microstrip Patch Antenna with Defected Ground Structure for Improvement of Gain and Bandwidth; microwave Imaging Breast Cancer Detection Techniques: A Brief Review; Implementation of XOR Gate Using a Nonlinear Polarization Rotation in Highly Nonlinear Fiber; designing of Hybrid Photonic Crystal Fiber for Better Filter Characteristics Using Gallium Nitride; Silicon-On-Insulator Photonics Waveguide Design for Near-IR Evanescent Field-Based Blood Sensor; analysis of Upper Aortic Blood Vessels as a Data Communication Channel; a Ground Plane Modified Broadband Circularly Polarized Patch Antenna for Wireless Applications; Deterministic Two Qubit iSWAP Gate Using a Resonator as Coupler; Miniaturization and Gain Enhancement of Rectangular Patch Antenna Using CSRR.
+M3  - Conference review
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+TI  - 3rd International Conference on Futuristic Trends in Network and Communication Technologies, FTNCT 2020
+PY  - 2021
+T2  - Communications in Computer and Information Science
+VL  - 1396 CCIS
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85107314541&partnerID=40&md5=34da1b408f30578d8817cf4c1980b959
+AB  - The proceedings contain 80 papers. The special focus in this conference is on Futuristic Trends in Network and Communication Technologies. The topics include: Unmanned Vehicles: Safety Management Systems and Safety Functions; probabilistic Characteristics of a Two-Channel Detector with Two Inertial Single-Photon Photoemission Devices and an Electronic Adder; energy and Spectrum-Aware Cluster-Based Routing in Cognitive Radio Sensor Networks; The Hybrid Approach for the Partitioning of VLSI Circuits; maximization of IoT Network Lifetime Using Efficient Clustering Technique; a Hybrid Metaheuristic to Solve Capacitated Vehicle Routing Problem; Energy Conservation in IOT: A Survey; identification of Implicit Threats Based on Analysis of User Activity in the Internet Space; EERO: Energy Efficient Route Optimization Technique for IoT Network; representing a Quantum Fourier Transform, Based on a Discrete Model of a Quantum-Mechanical System; forecasting Non-Stationary Time Series Using Kernel Regression for Control Problems; A Smart Waste Management System Based on LoRaWAN; simulation of the Semantic Network of Knowledge Representation in Intelligent Assistant Systems Based on Ontological Approach; A Deep Learning Approach for Autonomous Navigation of UAV; framework for Processing Medical Data and Secure Machine Learning in Internet of Medical Things; path Planning for Autonomous Robot Navigation: Present Approaches; Development of a Routing Protocol Based on Clustering in MANET; threat Model for Trusted Sensory Information Collection and Processing Platform; autonomous Navigation of Mobile Robot with Obstacle Avoidance: A Review; Design of a Distributed Debit Management Network of Operating Wells of Deposits of the CMW Region; design of U-Shaped Multiline Microstrip Patch Antenna for Advanced Wireless Applications.
+M3  - Conference review
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Li, J.
+AU  - Yuan, D.
+AU  - Liu, J.
+AU  - Jiang, Y.
+AU  - Chen, Y.
+AU  - Hsu, K.L.
+AU  - Sorooshian, S.
+TI  - Predicting floods in a large karst river basin by coupling PERSIANN-CCS QPEs with a physically based distributed hydrological model
+PY  - 2019
+T2  - Hydrology and Earth System Sciences
+VL  - 23
+IS  - 3
+SP  - 1505
+EP  - 1532
+DO  - 10.5194/hess-23-1505-2019
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85063048364&doi=10.5194%2fhess-23-1505-2019&partnerID=40&md5=9c17a75928f199777c46410caffa6ec0
+AB  - In general, there are no long-term meteorological or hydrological data available for karst river basins. The lack of rainfall data is a great challenge that hinders the development of hydrological models. Quantitative precipitation estimates (QPEs) based on weather satellites offer a potential method by which rainfall data in karst areas could be obtained. Furthermore, coupling QPEs with a distributed hydrological model has the potential to improve the precision of flood predictions in large karst watersheds. Estimating precipitation from remotely sensed information using an artificial neural network-cloud classification system (PERSIANN-CCS) is a type of QPE technology based on satellites that has achieved broad research results worldwide. However, only a few studies on PERSIANN-CCS QPEs have occurred in large karst basins, and the accuracy is generally poor in terms of practical applications. This paper studied the feasibility of coupling a fully physically based distributed hydrological model, i.e., the Liuxihe model, with PERSIANN-CCS QPEs for predicting floods in a large river basin, i.e., the Liujiang karst river basin, which has a watershed area of 58 270 km-2, in southern China. The model structure and function require further refinement to suit the karst basins. For instance, the sub-basins in this paper are divided into many karst hydrology response units (KHRUs) to ensure that the model structure is adequately refined for karst areas. In addition, the convergence of the underground runoff calculation method within the original Liuxihe model is changed to suit the karst water-bearing media, and the Muskingum routing method is used in the model to calculate the underground runoff in this study. Additionally, the epikarst zone, as a distinctive structure of the KHRU, is carefully considered in the model. The result of the QPEs shows that compared with the observed precipitation measured by a rain gauge, the distribution of precipitation predicted by the PERSIANN-CCS QPEs was very similar. However, the quantity of precipitation predicted by the PERSIANN-CCS QPEs was smaller. A post-processing method is proposed to revise the products of the PERSIANN-CCS QPEs. The karst flood simulation results show that coupling the post-processed PERSIANN-CCS QPEs with the Liuxihe model has a better performance relative to the result based on the initial PERSIANN-CCS QPEs. Moreover, the performance of the coupled model largely improves with parameter re-optimization via the post-processed PERSIANN-CCS QPEs. The average values of the six evaluation indices change as follows: the Nash-Sutcliffe coefficient increases by 14 %, the correlation coefficient increases by 15 %, the process relative error decreases by 8 %, the peak flow relative error decreases by 18 %, the water balance coefficient increases by 8 %, and the peak flow time error displays a 5 h decrease. Among these parameters, the peak flow relative error shows the greatest improvement; thus, these parameters are of page1506 the greatest concern for flood prediction. The rational flood simulation results from the coupled model provide a great practical application prospect for flood prediction in large karst river basins. © 2019 Author(s).
+KW  - China
+KW  - Classification (of information)
+KW  - Climate models
+KW  - Errors
+KW  - Floods
+KW  - Forecasting
+KW  - Hydrogeology
+KW  - Neural networks
+KW  - Rain
+KW  - Rain gages
+KW  - Rivers
+KW  - Runoff
+KW  - Watersheds
+KW  - Weather satellites
+KW  - Application prospect
+KW  - Cloud classification systems
+KW  - Correlation coefficient
+KW  - Distributed hydrological model
+KW  - Hydrological models
+KW  - Nash-Sutcliffe coefficient
+KW  - Postprocessing methods
+KW  - Underground runoffs
+KW  - flood
+KW  - hydrological modeling
+KW  - karst hydrology
+KW  - peak flow
+KW  - precipitation (climatology)
+KW  - prediction
+KW  - rainfall
+KW  - river basin
+KW  - runoff
+KW  - water budget
+KW  - watershed
+KW  - Landforms
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 26
+ER  -
+
+TY  - JOUR
+AU  - Morin, E.
+AU  - Jacoby, Y.
+AU  - Navon, S.
+AU  - Bet-Halachmi, E.
+TI  - Towards flash-flood prediction in the dry Dead Sea region utilizing radar rainfall information
+PY  - 2009
+T2  - Advances in Water Resources
+VL  - 32
+IS  - 7
+SP  - 1066
+EP  - 1076
+DO  - 10.1016/j.advwatres.2008.11.011
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-67349281931&doi=10.1016%2fj.advwatres.2008.11.011&partnerID=40&md5=cec8b23d4283c37bbc637f03120c386d
+AB  - Flash-flood warning models can save lives and protect various kinds of infrastructure. In dry climate regions, rainfall is highly variable and can be of high-intensity. Since rain gauge networks in such areas are sparse, rainfall information derived from weather radar systems can provide useful input for flash-flood models. This paper presents a flash-flood warning model which utilizes radar rainfall data and applies it to two catchments that drain into the dry Dead Sea region. Radar-based quantitative precipitation estimates (QPEs) were derived using a rain gauge adjustment approach, either on a daily basis (allowing the adjustment factor to change over time, assuming available real-time gauge data) or using a constant factor value (derived from rain gauge data) over the entire period of the analysis. The QPEs served as input for a continuous hydrological model that represents the main hydrological processes in the region, namely infiltration, flow routing and transmission losses. The infiltration function is applied in a distributed mode while the routing and transmission loss functions are applied in a lumped mode. Model parameters were found by calibration based on the 5 years of data for one of the catchments. Validation was performed for a subsequent 5-year period for the same catchment and then for an entire 10-year record for the second catchment. The probability of detection and false alarm rates for the validation cases were reasonable. Probabilistic flash-flood prediction is presented applying Monte Carlo simulations with an uncertainty range for the QPEs and model parameters. With low probability thresholds, one can maintain more than 70% detection with no more than 30% false alarms. The study demonstrates that a flash-flood warning model is feasible for catchments in the area studied. © 2008 Elsevier Ltd. All rights reserved.
+KW  - Dead Sea
+KW  - Dry climate
+KW  - Flash floods
+KW  - Hydrological model
+KW  - Weather radar
+KW  - Asia
+KW  - Dead Sea
+KW  - Eurasia
+KW  - Middle East
+KW  - Alarm systems
+KW  - Catchments
+KW  - Errors
+KW  - Floods
+KW  - Gages
+KW  - Meteorological instruments
+KW  - Meteorological radar
+KW  - Monte Carlo methods
+KW  - Radar systems
+KW  - Rain
+KW  - Rain gages
+KW  - Runoff
+KW  - Seepage
+KW  - Soil mechanics
+KW  - Solute transport
+KW  - Dead Sea
+KW  - Dry climate
+KW  - Flash floods
+KW  - Hydrological model
+KW  - Weather radar
+KW  - catchment
+KW  - flash flood
+KW  - flood forecasting
+KW  - hydrological modeling
+KW  - Monte Carlo analysis
+KW  - precipitation assessment
+KW  - radar
+KW  - rainfall
+KW  - raingauge
+KW  - Hydraulic models
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 61
+ER  -
+
+TY  - CONF
+AU  - Takaba, H.
+AU  - Shimizu, N.
+AU  - Hisabe, T.
+AU  - Alam, M.K.
+TI  - Modeling of transport mechanisms of OH- in electrolyte of alkaline fuel cell
+PY  - 2014
+T2  - ECS Transactions
+VL  - 61
+IS  - 13
+SP  - 63
+EP  - 69
+DO  - 10.1149/06113.0063ecst
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84925297322&doi=10.1149%2f06113.0063ecst&partnerID=40&md5=1fd3e94e447c844ace7577cc23cfede0
+AB  - In the recent years, interest has grown in the development of anion exchange membranes (AEMs) for alkaline fuel cells, which have advantage over proton exchange membranes (PEM) fuel cells including cost and performance. In this work, we present molecular dynamics (MD) and first principles molecular dynamics (FPMD) studies to investigate transport mechanisms of OH- using quanternized multiblock copoly(arylene ether) (QPE) and poly (phthalazinone ether sulfone keton) (PPESK) anion exchange polymers. We report here Grotthus and vehicle mechanisms for OH- transport by molecular modeling. From our MD study for OH- diffusion in the QPE and PPESK, diffusion properties is comparable to experimental report and OH- transport mechanisms from FPMD simulation significantly differ with proton transport processes. © The Electrochemical Society.
+KW  - Alkaline fuel cells
+KW  - Electrolytes
+KW  - Ethers
+KW  - Fuel cells
+KW  - Ion exchange membranes
+KW  - Molecular dynamics
+KW  - Protons
+KW  - Anion exchange
+KW  - Anion exchange membrane
+KW  - Diffusion properties
+KW  - First principles molecular dynamics
+KW  - Model of transport
+KW  - Proton exchange membranes fuel cells
+KW  - Proton transport process
+KW  - Transport mechanism
+KW  - Proton exchange membrane fuel cells (PEMFC)
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 12
+ER  -
+
+TY  - JOUR
+AU  - Liberzon, A.
+AU  - Rubinstein, D.
+AU  - Gutman, P.O.
+TI  - Active suspension for single wheel station of off-road track vehicle
+PY  - 2001
+T2  - International Journal of Robust and Nonlinear Control
+VL  - 11
+IS  - 10
+SP  - 977
+EP  - 999
+DO  - 10.1002/rnc.636
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0035414854&doi=10.1002%2frnc.636&partnerID=40&md5=0ee85a4bac82b42d87639f7e7127cce9
+AB  - The main objective of ground vehicle suspension systems is to isolate a vehicle body (sprung mass) from road irregularities in order to maximize passenger ride comfort, control the attitude of the vehicle on the road, and retain continuous road-wheel contact in order to provide vehicle holding quality. An appropriate active suspension design must resolve the inherent tradeoffs between ride comfort, road holding quality, and suspension travel. In this study, a robust controller for the active suspension of an off-road, high-mobility tracked vehicle is designed, for the first time, using quantitative feedback theory (QFT). A simulation model of a single suspension unit of the M-113 armored personnel carrier vehicle was used to achieve a proper active suspension design. Two measured states of the 3-degrees-of-freedom mathematical model were used as feedback signals in a cascaded SISO control system. The nonlinear dynamics of the tracked vehicle suspension unit was represented as a set of linear time invariant (LTI) transfer functions, which were identified with the Fourier integral method. Computer simulations of the vehicle with passive and active suspension systems over different terrain profiles are provided. A significant reduction of the vertical accelerations induced to the sprung mass (e.g., ride comfort improvement) was achieved while keeping the road-arm between suspension travel limits (e.g., handling quality).
+KW  - Cascade control systems
+KW  - Computer simulation
+KW  - Degrees of freedom (mechanics)
+KW  - Feedback
+KW  - Fourier transforms
+KW  - Integral equations
+KW  - Mathematical models
+KW  - Off road vehicles
+KW  - Riding qualities
+KW  - Robustness (control systems)
+KW  - Transfer functions
+KW  - Vehicle suspensions
+KW  - Active suspension
+KW  - Attitude control
+KW  - Fourier integral method
+KW  - Linear time invariant transfer functions
+KW  - Quantitative feedback theory
+KW  - Vehicle holding quality
+KW  - Nonlinear control systems
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 19
+ER  -
+
+TY  - JOUR
+TI  - 3rd International Conference on Futuristic Trends in Network and Communication Technologies, FTNCT 2020
+PY  - 2021
+T2  - Communications in Computer and Information Science
+VL  - 1395 CCIS
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85107339865&partnerID=40&md5=040bf55e1249682b8b2c93a78291170b
+AB  - The proceedings contain 80 papers. The special focus in this conference is on Futuristic Trends in Network and Communication Technologies. The topics include: Unmanned Vehicles: Safety Management Systems and Safety Functions; probabilistic Characteristics of a Two-Channel Detector with Two Inertial Single-Photon Photoemission Devices and an Electronic Adder; energy and Spectrum-Aware Cluster-Based Routing in Cognitive Radio Sensor Networks; The Hybrid Approach for the Partitioning of VLSI Circuits; maximization of IoT Network Lifetime Using Efficient Clustering Technique; a Hybrid Metaheuristic to Solve Capacitated Vehicle Routing Problem; Energy Conservation in IOT: A Survey; identification of Implicit Threats Based on Analysis of User Activity in the Internet Space; EERO: Energy Efficient Route Optimization Technique for IoT Network; representing a Quantum Fourier Transform, Based on a Discrete Model of a Quantum-Mechanical System; forecasting Non-Stationary Time Series Using Kernel Regression for Control Problems; A Smart Waste Management System Based on LoRaWAN; simulation of the Semantic Network of Knowledge Representation in Intelligent Assistant Systems Based on Ontological Approach; A Deep Learning Approach for Autonomous Navigation of UAV; framework for Processing Medical Data and Secure Machine Learning in Internet of Medical Things; path Planning for Autonomous Robot Navigation: Present Approaches; Development of a Routing Protocol Based on Clustering in MANET; threat Model for Trusted Sensory Information Collection and Processing Platform; autonomous Navigation of Mobile Robot with Obstacle Avoidance: A Review; Design of a Distributed Debit Management Network of Operating Wells of Deposits of the CMW Region; design of U-Shaped Multiline Microstrip Patch Antenna for Advanced Wireless Applications.
+M3  - Conference review
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 0
+ER  -
+

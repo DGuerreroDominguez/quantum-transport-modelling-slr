@@ -1,0 +1,85 @@
+TY  - JOUR
+AU  - Ghimire, Ganesh R.
+AU  - Krajewski, Witold F.
+AU  - Quintero, Felipe
+TI  - Scale-Dependent Value of QPF for Real-Time Streamflow Forecasting
+LA  - eng
+JF  - Journal of Hydrometeorology
+VL  - 22
+IS  - 7
+SP  - 1931
+EP  - 1947
+PY  - 2021
+SN  - 15257541, 1525755x
+PB  - American Meteorological Society
+DO  - 10.1175/JHM-D-20-0297.1
+AB  - Incorporating rainfall forecasts into a real-time streamflow forecasting system extends the forecast lead time. Since quantitative precipitation forecasts (QPFs) are subject to substantial uncertainties, questions arise on the trade-off between the time horizon of the QPF and the accuracy of the streamflow forecasts. This study explores the problem sys-tematically, exploring the uncertainties associated with QPFs and their hydrologic predictability. The focus is on scale dependence of the trade-off between the QPF time horizon, basin-scale, space–time scale of the QPF, and streamflow forecasting accuracy. To address this question, the study first performs a comprehensive independent evaluation of the QPFs at 140 U.S. Geological Survey (USGS) monitored basins with a wide range of spatial scales (;10–40 000 km2) over the state of Iowa in the midwestern United States. The study uses High-Resolution Rapid Refresh (HRRR) and Global Forecasting System (GFS) QPFs for short and medium-range forecasts, respectively. Using Multi-Radar Multi-Sensor (MRMS) quantitative precipitation estimate (QPE) as a reference, the results show that the rainfall-to-rainfall QPF errors are scale dependent. The results from the hydrologic forecasting experiment show that both QPFs illustrate clear value for real-time streamflow forecasting at longer lead times in the short-to medium-range relative to the no-rain streamflow forecast. The value of QPFs for streamflow forecasting is particularly apparent for basin sizes below 1000 km2. The space– time scale, or reference time tr (ratio of forecast lead time to basin travel time),;1 depicts the largest streamflow forecasting skill with a systematic decrease in forecasting accuracy for tr. 1.
+ER  -
+
+TY  - JOUR
+AU  - Lin, Peirong
+AU  - Hopper, Larry J.
+AU  - Yang, Zong Liang
+AU  - Lenz, Mark
+AU  - Zeitler, Jon W.
+TI  - Insights into hydrometeorological factors constraining flood prediction skill during the May and October 2015 Texas Hill Country flood events
+LA  - eng
+JF  - Journal of Hydrometeorology
+VL  - 19
+IS  - 8
+SP  - 1339
+EP  - 1361
+PY  - 2018
+SN  - 15257541, 1525755x
+PB  - American Meteorological Society
+DO  - 10.1175/JHM-D-18-0038.1
+AB  - This study evaluates the May and October 2015 flood prediction skill of a physically based model resembling the U.S. National Water Model (NWM) over the Texas Hill Country. It also investigates hydrometeorological factors that contributed to a record flood along the Blanco River at Wimberley (WMBT2) in May 2015. Using two radar-based quantitative precipitation estimation (QPE) products-Stage IV and Multi-Radar Multi-Sensor (MRMS)-it is shown that the event precipitation accuracy dominates the prediction skill, where the finer-resolution MRMS QPE mainly benefits basins with small drainage areas. Overall, the model exhibits good performance at gauges with fast flood response from causative rainfall and gauges that are not forecast points in the National Weather Service's Advanced Hydrometeorological Prediction System, showing great promise for forecasts, warnings, and emergency response. However, the model suffers from poor prediction skill over regions without rapid flood response and regions with human-altered flows, suggesting the need to revisit the channel routing algorithm and incorporate modules to represent human alterations. Two contrasting flood events at WMBT2 with similar meteorological characteristics are examined in greater detail, revealing that the location of intense rainfall combined with land physiographic features are key to the flood response differences. Model sensitivity tests further show the record flood peak could be better obtained by tuning the deep-layer soil wetness and the flow velocity field in the river network, which offers hydrometeorological insights into the causes and the complex nature of such a flood and why the model struggles to predict the record flood peak.
+ER  -
+
+TY  - CPAPER
+AU  - Novák, Petr
+AU  - Sokol, Zbyněk
+TI  - Use of Czech weather radar network data for precipitation estimating and nowcasting
+LA  - eng
+JF  - World Environmental and Water Resources Congress 2008: Ahupua'a - Proceedings of the World Environmental and Water Resources Congress 2008
+VL  - 316
+PY  - 2008
+SN  - 0784409765, 0784472319, 9780784409763, 9780784472316
+DO  - 10.1061/40976(316)398
+AB  - The Czech weather radar network (CZRAD) is operated by the Czech Hydrometeorological Institute (national weather service of the Czech Republic). CZRAD data are used for severe weather and precipitation monitoring by national civil and military weather services, operational hydrology, air traffic control and many other users including general public. Several damaging floods, which hit the Czech Republic in last decade, emphasized importance of radar data for hydrological applications and accelerated research and development in the field of rainfall estimating and nowcasting. The development of the methods is performed in cooperation with the Institute of Atmospheric Physics (Czech Academy of Sciences) and US National Weather Service (US NWS). The paper presents the Czech weather radar network and operational implementations of radar based quantitative precipitation estimates (QPE) and forecast (QPF) methods. Status of the current development and future outlook is also discussed. © 2008 ASCE.
+ER  -
+
+TY  - CPAPER
+AU  - Tiranti, Davide
+AU  - Bertolotto, Paolo
+AU  - Cremonini, Roberto
+AU  - Gaeta, Armando Riccardo
+AU  - Vela, Naima
+TI  - The Territorial Debris Flow Early Warning System of Piemonte (North-western Italy)
+LA  - eng
+JF  - E3s Web of Conferences
+VL  - 415
+PY  - 2023
+SN  - 22671242, 25550403
+PB  - EDP Sciences
+DO  - 10.1051/e3sconf/202341503030
+AB  - Debris flows are one of the most frequent and dangerous phenomena affecting the Alpine environment; they are responsible of 36% of casualties due to gravitational phenomena in the Italian Alps during the last century. In the Western Italian Alps (Piemonte, Italy) a Territorial Debris Flow Early Warning System (Te-DFEWS) aimed to forecast and predict the occurrence of sediment mass-transport has been developed, based on the characterization of small Alpine catchments (< 50 km2) and the processes that take place in these. The Te-DFWES is based on the identification of predisposing and triggering factors that determinate debris flow occurrence. The Te-DFEWS operates from 2010 in present-time and nowcasting using weather radar observations as input data. Recently (2021), the Te-DFEWS has been improved extending the forecasting window (up to 48h from simulation) by the introduction of Quantitative Precipitation Estimate/Forecast (QPE/QPF) input from COSMO-2I and ICON-IT, local high-resolution weather models. The Te-DFEWS, named DEFENSE (DEbris Flows triggEred by storms - Nowcasting SystEm) and the related warning procedures are presented as an operational tool integrated in the Regional Warning System for Geo-hydrological and Hydraulic Risk at the Functional Centre of Piemonte, managed by the Regional Agency for Environmental Protection of Piemonte (Arpa Piemonte).
+ER  -
+
+TY  - JOUR
+AU  - Chen, Lian Shou
+AU  - Li, Ying
+AU  - Cheng, Zheng Quan
+TI  - An overview of research and forecasting on rainfall associated with landfalling tropical cyclones
+LA  - eng
+JF  - Advances in Atmospheric Sciences
+VL  - 27
+IS  - 5
+SP  - 967
+EP  - 976
+PY  - 2010
+SN  - 18619533, 02561530
+PB  - SCIENCE PRESS
+DO  - 10.1007/s00376-010-8171-y
+AB  - The ability to forecast heavy rainfall associated with landfalling tropical cyclones (LTCs) can be improved with a better understanding of the mechanism of rainfall rates and distributions of LTCs. Research in the area of LTCs has shown that associated heavy rainfall is related closely to mechanisms such as moisture transport, extratropical transition (ET), interaction with monsoon surge, land surface processes or topographic effects, mesoscale convective system activities within the LTC, and boundary layer energy transfer etc.. LTCs interacting with environmental weather systems, especially the westerly trough and mei-yu front, could change the rainfall rate and distribution associated with these mid-latitude weather systems. Recently improved technologies have contributed to advancements within the areas of quantitative precipitation estimation (QPE) and quantitative precipitation forecasting (QPF). More specifically, progress has been due primarily to remote sensing observations and mesoscale numerical models which incorporate advanced assimilation techniques. Such progress may provide the tools necessary to improve rainfall forecasting techniques associated with LTCs in the future. © 2010 Chinese National Committee for International Association of Meteorology and Atmospheric Sciences, Institute of Atmospheric Physics, Science Press and Springer-Verlag Berlin Heidelberg.
+ER  -

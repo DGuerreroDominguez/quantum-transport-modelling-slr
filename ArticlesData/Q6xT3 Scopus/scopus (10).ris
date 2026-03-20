@@ -1,0 +1,1168 @@
+﻿TY  - CONF
+TI  - 2021 12th International Symposium on Parallel Architectures, Algorithms and Programming, PAAP 2021
+PY  - 2021
+T2  - Proceedings - International Symposium on Parallel Architectures, Algorithms and Programming, PAAP
+VL  - 2021-December
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85126906726&partnerID=40&md5=50de6ad8b9274858ffe534c6ec5f84dc
+AB  - The proceedings contain 36 papers. The topics discussed include: accelerating a lossy compression method with fine-grained parallelism on a GPU; a parallel algorithm to construct node-independent spanning trees on the line graph of locally twisted cube; FEAS: a faster event-driven accelerator supporting inhibitory spiking neural network; efficient distributed parallel aligning reads and reference genome with many repetitive subsequences using compact De Bruijn graph; efficient algorithm for home care scheduling with budget constraint; optimizations of a linear matrix solver in a composite simulation for a vector computer; a GA-based energy aware virtual machine placement algorithm for cloud data centers; joint optimization of path planning and task assignment for space robot; infectious disease dynamics model considering suspected population; on the adoption of metaheuristics for solving 0–1 knapsack problems; ternary optical computer: an overview and recent developments; and path integral Monte Carlo quantum annealing-based clustering and routes optimization of clustered UAV network.
+M3  - Conference review
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Shopes, R.J.
+AU  - Wraight, C.A.
+TI  - Charge recombination from the P+Q-A state in reaction centers from Rhodopseudomonas viridis
+PY  - 1987
+T2  - BBA - Bioenergetics
+VL  - 893
+IS  - 3
+SP  - 409
+EP  - 425
+DO  - 10.1016/0005-2728(87)90093-4
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0023647477&doi=10.1016%2f0005-2728%2887%2990093-4&partnerID=40&md5=eee86b91ed04ebe78366f909741ad1dc
+AB  - The rate of decay of the flash-oxidized primary electron donor, P+, from the state P+Q-A was studied in reaction centers from Rhodopseudomonas viridis, containing only the primary menaquinone electron acceptor (QA). At 295 K, in 100 mM NaCl and in the presence of o-phenanthroline, the rate of recombination was 470 ± 15 s-1 at pH 7 and 570 ± 20 s-1 at pH 9. The rate at ambient temperatures varied somewhat with viscosity, pH and ionic strength. Between 310 K and 275 K, the temperature dependences of the rate, at pH 7 and pH 9, were linear in an Arrhenius plot, with apparent activation energies of 0.20 eV and 0.16 eV, respectively. At lower temperatures, however, the dependences deviated from this behavior. In 60% glycerol (pH 7) the recombination rate was 370 ± 10 s-1 at 295 K. As the temperature was lowered, the rate decreased but leveled off to a value of 105 ± 5 s-1 at 170 K and was independent of temperature from 170 K to 100 K. In 60% ethylene glycol, the temperature dependence was similar, but the rate fell to a minimum of 75 s-1 at 170 K and then increased slightly at lower temperatures; it finally became temperature independent, with a value of about 100 s-1, at 110 K. The overall temperature dependence is consistent with charge recombination by two competing pathways: a direct electron-tunneling process which dominates at low temperature (less than 250 K), and a thermally activated process via a higher energy state, M, which decays rapidly to the ground state. The indirect route dominates at high temperature (above 250 K). Taking into account the contribution from the low-temperature pathway, the activation energy (enthalpy) for the activated process, in aqueous buffer, was determined to be 0.25 eV (at pH 7) and 0.19 eV (at pH 9). A likely candidate for M is P+I- (PF), where I is the intermediate bacteriopheophytin electron acceptor, and energetic arguments are presented in favor of this assignment. If a rate of decay of P+I- to the ground state, derived from the experimental value, was used in the description of the thermally activated P+Q-A recombination process, the free-energy gap separating M and P+Q-A could be estimated to be 0.27-0.28 eV, placing it about 0.95 eV above the ground state and 0.30 eV below the excited singlet state, P*. This may imply additional relaxation compared to P+I- in the pico- to nanosecond time range of the forward pathway. The lack of an observable magnetic-field effect on the recombination process through P+I- can be explained by the expected rapid cycling between P+I- and P+Q-A, with the latter providing an efficient spin-rephasing state. The pH dependence of the recombination kinetics could be accounted for if the influence of protonation on the I-QA IQ-A equilibrium was taken into account. Further implications of the identity of M with P+I- are discussed. © 1987.
+KW  - (Rps. viridis)
+KW  - Bacterial photosynthesis
+KW  - Primary electron donor
+KW  - Reaction center
+KW  - Recombination kinetics
+KW  - Temperature dependence
+KW  - Electron Transport
+KW  - Hydrogen-Ion Concentration
+KW  - Kinetics
+KW  - Osmolar Concentration
+KW  - Pheophytins
+KW  - Photosynthesis
+KW  - Quinones
+KW  - Rhodopseudomonas
+KW  - Support, U.S. Gov't, Non-P.H.S.
+KW  - Support, U.S. Gov't, P.H.S.
+KW  - Temperature
+KW  - Thermodynamics
+KW  - Viscosity
+KW  - bacteriopheophytin
+KW  - pheophytin
+KW  - quinone derivative
+KW  - article
+KW  - electron transport
+KW  - kinetics
+KW  - metabolism
+KW  - osmolarity
+KW  - pH
+KW  - photosynthesis
+KW  - Rhodopseudomonas
+KW  - temperature
+KW  - thermodynamics
+KW  - viscosity
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 83
+ER  -
+
+TY  - JOUR
+AU  - Nouh, S.A.H.
+TI  - A new scheme for improving the fairness in BWB- DQDB
+PY  - 2001
+T2  - AEJ - Alexandria Engineering Journal
+VL  - 40
+IS  - 4
+SP  - 529
+EP  - 537
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0035386385&partnerID=40&md5=20c8d186f42f80f11327dbdd117e01f1
+AB  - The Distributed Queue Dual Bus (DQDB) is a protocol specified by the IEEE 802.6 Standard Committee for Metropolitan Area Network (MAN) for interconnecting hosts, local area networks and workstations. A potential problem with DQDB is the achievement of fair sharing of bandwidth, in case of over-load conditions, in terms of the location of the access node for "Queued Arbitrated" (QA) slots (e.g., for data packet and ATM communications). For the sake of compensating this unfairness, the IEEE standard recommends to utilize the Bandwidth Balancing (BWB) mechanism with proper value of the system parameter named BWB- MOD. This paper presents a new strategy, to overcome the unfairness problem of DQDB protocol, named Proportional Bandwidth Balancing (PR- BWB) mechanism. The proposed scheme performs bandwidth allocations to the individual stations in such a way that the assignments are in proportion to the individual offered traffic loads. Simulation examples, are employed to compare the performance of the proposed scheme with those of regular DQDB and BWB- DQDB. The simulation results provide a deep insight into the equilibrium access of data channel by all active stations. The results also show that the station throughputs are independent of the station's position and the state of the network when the overload occurs.
+KW  - Bandwidth balancing mechanism
+KW  - Distributed queue dual bus
+KW  - Fairness
+KW  - Proportional bandwidth balancing mechanism
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Hienerwadel, R.
+AU  - Grzybek, S.
+AU  - Fogel, C.
+AU  - Kreutz, W.
+AU  - Okamura, M.Y.
+AU  - Paddock, M.L.
+AU  - Breton, J.
+AU  - Nabedryk, E.
+AU  - Mantele, W.
+TI  - Protonation of Glu L212 following QB- Formation in the Photosynthetic Reaction Center of Rhodobacter sphaeroides: Evidence from Time-Resolved Infrared Spectroscopy
+PY  - 1995
+T2  - Biochemistry
+VL  - 34
+IS  - 9
+SP  - 2832
+EP  - 2843
+DO  - 10.1021/bi00009a013
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0028967120&doi=10.1021%2fbi00009a013&partnerID=40&md5=446d23f639bbb910162bff35bacfabd0
+AB  - The protonation events that occur upon QA-QB→QAQB- electron transfer in photosynthetic reaction centers from Rhodobacter sphaeroides were investigated by time-resolved infrared spectroscopy using tunable diode lasers as previously described [Mantele, W., Hienerwadel, R., Lenz, F., Riedel, E. J., Grisar, R., & Tacke, M. (1990) Spectrosc. Int. 2, 29-35; Hienerwadel, R., Thibodeau, D. L., Lenz, F., Nabedryk, E., Breton, J., Kreutz, W., & Mantele, W. (1992) Biochemistry 31, 5799-5808]. In the midinfrared region between 1695 and 1780 cm-1, transient signals associated with QA-QB→QAQB- electron transfer were observed and characterized. The dominant transient absorbance changes are three positive signals at 1732, 1725, and 1706 cm-1 and two negative signals at 1716 and at 1698 cm-1. The 1725 cm-1-signal disappears upon 1H→2H exchange as expected for an accessible COOH group and is absent in Glu L212 Gin mutant reaction centers. On this basis, we propose an assignment of this signal to the COOH group of Glu L212. The other signals could correspond to intensity changes and/or shifts of other carboxylic residues, although contributions from ester C=0 groups of bacteriopheophytins cannot be ruled out. In native reaction centers at pH 7 and at 4 °C, biphasic kinetics of the transient components were observed at most frequencies. The major signal at 1725 cm-1 exhibits a fast kinetic component of t1/2 = 0.18 ms (25% of the total amplitude) and a slow one of t1/2 = 1 ms (75% of the total amplitude). A global fit analysis of the signals between 1695 and 1780 cm-1 revealed that the spectral distributions of the fast and the slow components are different. Biphasic kinetics with comparable half-times were also observed for the Glu L212 to Gin mutant. The simplest model to explain these results is that the fast phase represents electron transfer and the slow phase represents proton transfer and/or conformational changes coupled to electron transfer. The difference spectra of the slow component from native reaction centers show that the 1725 cm-1 band corresponds to an absorbance increase and not to a shift of an existing band. The signal is therefore proposed to arise from the protonation of Glu L212. The amplitude of the 1725 cm-1 signal varies distinctly with pH as expected for protonation of a COO- group. With increasing pH, the amplitude of the slow component increases while that of the fast component decreases slightly. Both components slow down with increasing pH reaching half-times of 0.3 and 2.5 ms, respectively, at pH 10. These results can be explained if one assumes that Glu L212 is partly protonated upon single-electron reduction of QB. On the basis of integrated extinction coefficients of COOH residues, a proton uptake of 0.3-0.6 H+ at pH 7 per reaction center by Glu L212 is proposed. This proton uptake shows little variation from pH 5 to pH 9 but increases above pH 9. This behavior cannot be explained by the titration of a single isolated titrating residue. However, it can be interpreted by the interaction of Glu L212 with other charged groups in the QB site. © 1995, American Chemical Society. All rights reserved.
+KW  - Binding Sites
+KW  - Electron Transport
+KW  - Glutamic Acid
+KW  - Glutamine
+KW  - Hydrogen-Ion Concentration
+KW  - Kinetics
+KW  - Models, Chemical
+KW  - Molecular Structure
+KW  - Mutagenesis, Site-Directed
+KW  - Oxidation-Reduction
+KW  - Photosynthetic Reaction Center, Bacterial
+KW  - Protons
+KW  - Rhodobacter sphaeroides
+KW  - Spectrophotometry, Infrared
+KW  - Spectroscopy, Fourier Transform Infrared
+KW  - Support, Non-U.S. Gov't
+KW  - Support, U.S. Gov't, P.H.S.
+KW  - Rhodobacter sphaeroides
+KW  - Rhodopseudomonas
+KW  - glutamine
+KW  - article
+KW  - chemical reaction kinetics
+KW  - infrared spectrometry
+KW  - mathematical analysis
+KW  - pH measurement
+KW  - photosynthesis
+KW  - priority journal
+KW  - proton transport
+KW  - Rhodobacter sphaeroides
+KW  - structure analysis
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 112
+ER  -
+
+TY  - JOUR
+AU  - Tosun, U.
+TI  - A new tool for automated transformation of Quadratic Assignment Problem instances to Quadratic Unconstrained Binary Optimisation models
+PY  - 2022
+T2  - Expert Systems with Applications
+VL  - 201
+C7  - 116953
+DO  - 10.1016/j.eswa.2022.116953
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85128448335&doi=10.1016%2fj.eswa.2022.116953&partnerID=40&md5=e4dbd81f306ced0d878e9c016c9fe412
+AB  - Growing class of optimisation problems are reported to attract increasing interest even though they are very challenging and difficult to solve exactly. Quadratic Assignment Problem (QAP), Travelling salesman, weapon target assignment, and query optimisation in distributed databases are some of these well known problems. QAP is considered to be one of the most prominent combinatorial optimisation problems with various application areas. Economic aspects of design and location of factories, hospitals, industrial plants, network models, transportation infrastructures, and military bases can all be addressed by QAP. There is no known polynomial time algorithm reported for the solution of the problem since it is NP-hard. Even small problem instances take long times to be solved exhaustively. Exact solution techniques and parallelisation of these algorithms end up with only little or negligible increase in performance. Recent meta-heuristics based on genetic algorithms, simulated annealing, and tabu search provide promising results even for problem instances up to instance sizes of 256 which is currently the largest instance in the QAPLIB. The Quadratic Unconstrained Binary Optimisation (QUBO) model has a critical role for experiments conducted with quantum computers of D-Wave Systems and IBM. Quantum Annealing is a technique which exploits quantum fluctuations to reach the global minimum of a given cost function. The QUBO model and its connection with Ising problem constitute the foundations for quantum annealing. Advances in quantum computing highlight the fact that QUBO models can be an efficient alternative to traditional models. Even though QAP can be formulated by QUBO using penalty functions, there is no known automated transformation method to map a QAP instance to a QUBO model. In this paper, we propose an automated model for QAP to QUBO mappings which can generate these formulations using the pre-defined penalty functions. We also present the benchmark results for a group of QAPLIB instances using exact solver for our QUBO models. © 2022 Elsevier Ltd
+KW  - Quadratic Assignment Problem
+KW  - Quadratic Unconstrained Binary Optimisation
+KW  - Quantum computing
+KW  - Automation
+KW  - Cost functions
+KW  - Genetic algorithms
+KW  - Global optimization
+KW  - Polynomial approximation
+KW  - Quantum chemistry
+KW  - Quantum computers
+KW  - Simulated annealing
+KW  - Tabu search
+KW  - Automated transformations
+KW  - Binary optimization
+KW  - Optimization models
+KW  - Optimization problems
+KW  - Penalty function
+KW  - Problem instances
+KW  - Quadratic assignment problems
+KW  - Quadratic unconstrained binary optimization
+KW  - Quantum annealing
+KW  - Quantum Computing
+KW  - Combinatorial optimization
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 8
+ER  -
+
+TY  - JOUR
+AU  - Jáuregui, A.L.
+AU  - Oliden, P.E.
+TI  - Formulation and validation of a linear logistic model for a task fraction and mixed numbers addi tion and subtraction
+ST  - Formulación y validación de un modelo logístico lineal para la tarea de adición y sustracción de fracciones y números mixtos
+PY  - 2002
+T2  - Psicothema
+VL  - 14
+IS  - 4
+SP  - 802
+EP  - 809
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-24944499284&partnerID=40&md5=bafcf032e043ff6b3221d6a50f680209
+AB  - The aim of this study is to analyze the cognitive components involved in a mat hematical performance task, namely the addition and substraction of fractional and mixed numbers, using Fisher's linear logistic trait model (LLTM). The validation of the cognitive structure proposed, reflected in the component weight matrix, is performed with the quadratic assignment analysis (QA). The results confirm that the weight matrix describes adequately the cognitive components required to solve the test items. Copyright © 2002 Psicothema.
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 2
+ER  -
+
+TY  - CONF
+AU  - Karaguchi, S.
+AU  - Sakai, K.
+AU  - Fukumoto, S.
+TI  - Quality-Aware Task Assignment in Opportunistic Network-Based Crowdsourcing
+PY  - 2018
+T2  - 2018 IEEE 37th International Performance Computing and Communications Conference, IPCCC 2018
+C7  - 8711306
+DO  - 10.1109/PCCC.2018.8711306
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85066469423&doi=10.1109%2fPCCC.2018.8711306&partnerID=40&md5=d9d8a273677ee3c0ee17bc0f0778721e
+AB  - Mobile crowdsourcing in opportunistic networks outsources location-based tasks, such as taking photos and surveying Wi-Fi signal characteristic at points of interests, to a crowd of workers. The performance of tasks assignment is generally evaluated by the makespan. However, not only the makespan, but also the quality of performed tasks is important. Therefore, in this paper, we propose two task assignment schemes. One is the quality-aware task assignment (QA-TA) that tries to maximize the quality of tasks for given a deadline; the other is the minimum quality threshold task assignment (MQT-TA) that tries to minimize the makespan for a given minimum quality requirement. To this end, we apply the optimal stopping, which is one of the widely used techniques in mathematics, to the algorithm designs. The simulations using real mobility traces demonstrates that the proposed schemes successfully achieve their design goals. © 2018 IEEE.
+KW  - Mobile crowdsourcing
+KW  - optimal stopping
+KW  - quality-aware
+KW  - Task assignment
+KW  - Wi-Fi
+KW  - Algorithm design
+KW  - Mobile crowdsourcing
+KW  - Opportunistic networks
+KW  - Optimal stopping
+KW  - Points of interest
+KW  - Quality requirements
+KW  - Task assignment
+KW  - Tasks assignments
+KW  - Crowdsourcing
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 4
+ER  -
+
+TY  - JOUR
+AU  - Onidas, D.
+AU  - Stachnik, J.M.
+AU  - Brucker, S.
+AU  - Krätzig, S.
+AU  - Gerwert, K.
+TI  - Histidine is involved in coupling proton uptake to electron transfer in photosynthetic proteins
+PY  - 2010
+T2  - European Journal of Cell Biology
+VL  - 89
+IS  - 12
+SP  - 983
+EP  - 989
+DO  - 10.1016/j.ejcb.2010.08.007
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-78149409234&doi=10.1016%2fj.ejcb.2010.08.007&partnerID=40&md5=a3fbf8571b1801d9b70b01dc18e07dd5
+AB  - In photosynthesis, the central step in transforming light energy into chemical energy is the coupling of light-induced electron transfer to proton uptake and release. Despite intense investigations of different photosynthetic protein complexes, including the photosystem II (PS II) in plants and the reaction center (RC) in bacteria, the molecular details of this fundamental process remain incompletely understood. In the RC of Rhodobacter (Rb.) sphaeroides, fast formation of the charge separated state, P+QA-, is followed by a slower electron transfer from the primary acceptor, QA, to the secondary acceptor, QB, and the uptake of a proton from the cytoplasm. The proton transfer to QB takes place via a protonated water chain. Mutation of the amino acid AspL210 to Asn (L210DN mutant) near the entry of the proton pathway can disturb this water chain and consequently slow down proton uptake. Time-resolved step-scan Fourier transform infrared (FTIR) measurements revealed an intermediate X in the QA-QB to QAQB- transition. The nature of this transition remains a matter of debate. In this study, we investigated the role of the iron-histidine complex located between QA and QB. We used time-resolved fast-scan FTIR spectroscopy to characterize the Rb. sphaeroides L210DN RC mutant marked with isotopically labeled histidine. FTIR marker bands of the intermediate X between 1120cm-1 and 1050cm-1 are assigned to histidine vibrations and indicate the protonation of a histidine, most likely HisL190, during the disappearance of the intermediate. Based on these results we propose a novel mechanism of the coupling of electron and proton transfer in photosynthesis. © 2010 Elsevier GmbH.
+KW  - Band assignment
+KW  - Electron transfer
+KW  - Fourier transform infrared
+KW  - Histidine
+KW  - Isotopic labeling
+KW  - L210DN
+KW  - Photosynthesis
+KW  - Protonated water
+KW  - Reaction center
+KW  - Electron Transport
+KW  - Histidine
+KW  - Photosynthesis
+KW  - Protons
+KW  - Rhodobacter sphaeroides
+KW  - Spectroscopy, Fourier Transform Infrared
+KW  - Rhodobacter
+KW  - amino acid
+KW  - histidine
+KW  - iron
+KW  - proton
+KW  - article
+KW  - cytoplasm
+KW  - electron transport
+KW  - Fourier transformation
+KW  - nonhuman
+KW  - photosynthesis
+KW  - photosystem II
+KW  - priority journal
+KW  - proton transport
+KW  - Rhodobacter sphaeroides
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 19
+ER  -
+
+TY  - CONF
+AU  - Veshchezerova, M.
+AU  - Somov, M.
+AU  - Bertsche, D.
+AU  - Limmer, S.
+AU  - Schmitt, S.
+AU  - Perelshtein, M.
+AU  - Joshi Tripathi, A.
+TI  - A Hybrid Quantum-Classical Approach to the Electric Mobility Problem
+PY  - 2023
+T2  - Proceedings - 2023 IEEE International Conference on Quantum Computing and Engineering, QCE 2023
+VL  - 1
+SP  - 636
+EP  - 641
+DO  - 10.1109/QCE57702.2023.00078
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85180007732&doi=10.1109%2fQCE57702.2023.00078&partnerID=40&md5=d3bafbec0ba1cd2f262e704d221f8567
+AB  - We suggest a hybrid quantum-classical routine for the NP-hard Electric Vehicle Fleet Charging and Allocation Problem. The original formulation is a Mixed Integer Linear Program with continuous variables and inequality constraints. To separate inequality constraints that are difficult for quantum routines we use a decomposition in master and pricing problems: the former targets the assignment of vehicles to reservations and the latter suggests vehicle exploitation plans that respect the battery state-of-charge constraints. The master problem is equivalent to the search for an optimal set partition. In our hybrid scheme, the master problem is reformulated in a quadratic unconstrained binary optimization problem which can be solved with quantum annealing on the DWave Advantage system. On large instances, we benchmark the performance of the decomposition technique with classical and quantum-inspired metaheuristics: simulated annealing, tabu search, and vector annealing by NEC. The numerical results with purely classical solvers are comparable to the solutions from the traditional mixed integer linear programming approaches in terms of solution quality while being faster. In addition, it scales better to larger instances. The major advantage of the proposed approach is that it enables quantum-based methods for this realistic problem with many inequality constraints. We show this by initial studies on DWave hardware where optimal solutions can be found for small instances. © 2023 IEEE.
+KW  - column generation
+KW  - combinatorial optimization
+KW  - electric vehicles
+KW  - hybrid quantum-classical algorithms
+KW  - quantum annealing
+KW  - Benchmarking
+KW  - Charging (batteries)
+KW  - Constraint programming
+KW  - Constraint theory
+KW  - Fleet operations
+KW  - Hybrid vehicles
+KW  - Integer programming
+KW  - Quantum theory
+KW  - Simulated annealing
+KW  - Tabu search
+KW  - Vehicle routing
+KW  - Classical approach
+KW  - Column generation
+KW  - Electric mobility
+KW  - Hybrid quantum-classical algorithm
+KW  - Inequality constraint
+KW  - Master problems
+KW  - NP-hard
+KW  - Quantum annealing
+KW  - Quantum-classical
+KW  - Vehicle fleets
+KW  - Combinatorial optimization
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 1
+ER  -
+
+TY  - JOUR
+AU  - Zhao, Z.Z.
+AU  - Duffy, D.L.
+AU  - Thomas, S.A.
+AU  - Martin, N.G.
+AU  - Hayward, N.K.
+AU  - Montgomery, G.W.
+TI  - Polymorphisms in the syntaxin 17 gene are not associated with human cutaneous malignant melanoma
+PY  - 2009
+T2  - Melanoma Research
+VL  - 19
+IS  - 2
+SP  - 80
+EP  - 86
+DO  - 10.1097/CMR.0b013e328322fc45
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-65449130074&doi=10.1097%2fCMR.0b013e328322fc45&partnerID=40&md5=d5cab63b61ea0db9822b8a403781d9a0
+AB  - The prevalence of cutaneous malignant melanoma (CMM) has increased significantly in most Caucasian populations in recent decades. Both genetic and environmental risk factors are involved in the development of CMM. A germline mutation in the syntaxin 17 (STX17) gene of horses was recently identified, which causes premature hair graying and is associated with susceptibility to melanoma. We hypothesized that common germline variants in the STX17 gene might be associated with a predisposition to human CMM or might interact with other melanoma risk genes. We genotyped 26 tagging single nucleotide polymorphisms (SNPs) across the STX17 gene region in an Australian sample of 1560 melanoma cases and 1650 controls and performed logistic regression analysis to identify potential SNP interactions in a combined dataset. Our results do not support an association between CMM and any of the STX17 SNPs and provide no evidence for interactions between the melanoma risk SNP rs910873 on chromosome 20 and any of the STX17 SNPs. We conclude that common variants in the STX17 gene region do not play a key role in the pathogenesis of human melanoma. © 2009 Wolters Kluwer Health | Lippincott Williams & Wilkins.
+KW  - Animals
+KW  - Australia
+KW  - Case-Control Studies
+KW  - Chromosomes, Human, Pair 9
+KW  - DNA-Binding Proteins
+KW  - Facial Neoplasms
+KW  - Genetic Predisposition to Disease
+KW  - Horse Diseases
+KW  - Horses
+KW  - Humans
+KW  - Melanoma
+KW  - Membrane Proteins
+KW  - Molecular Chaperones
+KW  - Polymorphism, Single Nucleotide
+KW  - Qa-SNARE Proteins
+KW  - Receptors, Steroid
+KW  - Receptors, Thyroid Hormone
+KW  - Skin Neoplasms
+KW  - Species Specificity
+KW  - Transcription Factors
+KW  - syntaxin
+KW  - syntaxin 17
+KW  - unclassified drug
+KW  - chaperone
+KW  - DNA binding protein
+KW  - INVS protein, human
+KW  - membrane protein
+KW  - NR4A3 protein, human
+KW  - steroid receptor
+KW  - syntaxin
+KW  - thyroid hormone receptor
+KW  - transcription factor
+KW  - TXNDC4 protein, human
+KW  - article
+KW  - Australia
+KW  - cancer risk
+KW  - chromosome 20
+KW  - controlled study
+KW  - cutaneous malignant melanoma
+KW  - gene assignment
+KW  - gene interaction
+KW  - genetic predisposition
+KW  - genetic risk
+KW  - genetic variability
+KW  - genotype
+KW  - germ line
+KW  - human
+KW  - hypothesis
+KW  - major clinical study
+KW  - melanoma
+KW  - oncogene
+KW  - priority journal
+KW  - single nucleotide polymorphism
+KW  - skin cancer
+KW  - animal
+KW  - animal disease
+KW  - Australia
+KW  - case control study
+KW  - chromosome 9
+KW  - comparative study
+KW  - face tumor
+KW  - genetics
+KW  - horse
+KW  - horse disease
+KW  - melanoma
+KW  - physiology
+KW  - skin tumor
+KW  - species difference
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 8
+ER  -
+
+TY  - CONF
+AU  - Su, J.
+AU  - Tu, T.
+AU  - He, L.
+TI  - A quantum annealing approach for boolean satisfiability problem
+PY  - 2016
+T2  - Proceedings - Design Automation Conference
+VL  - 05-09-June-2016
+C7  - a148
+DO  - 10.1145/2897937.2897973
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84977079590&doi=10.1145%2f2897937.2897973&partnerID=40&md5=1bae9c9dd83660895b72d8ae744f5e6c
+AB  - Quantum annealing device has shown a great potential in solving discrete problems that are theoretically and empirically hard. Boolean Satisfiability (SAT) problem, determining if there is an assignment of variables that satisfies a given Boolean function, is the first proven NP-complete problem widely used in various domains. Here, we present a novel mapping of the SAT problem to the quadratic unconstrained binary optimization problem (QUBO), and further develop a tool flow embedding the proposed QUBO to the architecture of the commercialized quantum computer D-Wave. By leveraging electronic design automation techniques including synthesis, placement and routing, this is not only the first work providing the detail flow that embeds the QUBO, but also a technique scalable for real world applications and some hard SAT problems with over 6000 variables in QUBO. Based on our results, we discuss the challenges in solving SAT using the current generation of annealing device, and explore the problem solving capability of future quantum annealing computers. © 2016 ACM.
+KW  - Annealing
+KW  - Automation
+KW  - Boolean functions
+KW  - Computational complexity
+KW  - Computer aided design
+KW  - Computer aided software engineering
+KW  - Formal logic
+KW  - Optimization
+KW  - Quantum computers
+KW  - Quantum theory
+KW  - Integrated circuit design
+KW  - NP-hard
+KW  - Quantum electronics
+KW  - Binary optimization
+KW  - Boolean satisfiability
+KW  - Boolean satisfiability problems
+KW  - Current generation
+KW  - Discrete problems
+KW  - Electronic design
+KW  - Placement and routing
+KW  - Quantum annealing
+KW  - Complete problems
+KW  - Embeddings
+KW  - NP Complete
+KW  - Optimization problems
+KW  - Satisfiability problems
+KW  - Tool flow
+KW  - Problem solving
+KW  - Electronic design automation
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 29
+ER  -
+
+TY  - CONF
+AU  - Chitty, D.M.
+AU  - Charles, J.
+AU  - Moraglio, A.
+AU  - Keedwell, E.
+TI  - Applying a Quantum Annealer to the Traffic Assignment Problem
+PY  - 2024
+T2  - GECCO 2024 - Proceedings of the 2024 Genetic and Evolutionary Computation Conference
+SP  - 814
+EP  - 822
+DO  - 10.1145/3638529.3654131
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85206921696&doi=10.1145%2f3638529.3654131&partnerID=40&md5=a34def9eb0d6a3577ad48d580ed36e14
+AB  - The Traffic Assignment Problem (TAP) is a complex transportation optimisation problem typically solved using meta-heuristics on classical computers. Quantum computers, despite being a nascent technology, have the potential to significantly speed up computation by exploiting quantum parallelism. A quantum annealer (QA) is a quantum computer tailored to solve combinatorial optimisation problems formulated as a Quadratic Unconstrained Binary Optimisation (QUBO). Formulating complex optimisation problems as QUBO is an open challenge. This paper derives a new QUBO formulation for TAP by employing a streamlined methodology of general applicability. It also attempts a direct comparison at solving TAP encompassing a QA (D-WAVE), a hybrid quantum-classical algorithm, and classical methods including Simulated Annealing and Genetic Algorithms. This comparison is difficult and seldom done due to the inherent differences between quantum and classic hardware. As expected from the current quantum technology, our results show that a pure QA suffers from significant noise in qubits and requires significant additional computational time, although we show that the time required solely by the QPU does not increase with problem size. We also show that the hybrid QA mitigates these noise issues and is on a par with traditional methods. © 2024 Copyright is held by the owner/author(s). Publication rights licensed to ACM.
+KW  - digital annealer
+KW  - quantum unconstrained binary optimisation
+KW  - traffic assignment
+KW  - Air traffic control
+KW  - Combinatorial optimization
+KW  - Quantum computers
+KW  - Quantum electronics
+KW  - Simulated annealing
+KW  - Street traffic control
+KW  - Binary optimization
+KW  - Digital annealer
+KW  - Metaheuristic
+KW  - Optimization problems
+KW  - Quanta computers
+KW  - Quantum unconstrained binary optimization
+KW  - Speed up
+KW  - Traffic assignment
+KW  - Traffic assignment problem
+KW  - Transportation optimizations
+KW  - Genetic algorithms
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 1
+ER  -
+
+TY  - CONF
+AU  - El-Gallad, A.I.
+AU  - El-Hawary, M.E.
+TI  - New operators for integer permutation-based particle swarm optimizer
+PY  - 2005
+T2  - Canadian Conference on Electrical and Computer Engineering
+VL  - 2005
+C7  - 1557397
+SP  - 2080
+EP  - 2084
+DO  - 10.1109/CCECE.2005.1557397
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-33751313097&doi=10.1109%2fCCECE.2005.1557397&partnerID=40&md5=85ba6d7d87ce54c2170d04eb8d9ccec1
+AB  - This paper introduces new operators to particle swarm paradigm (PSO) that could lead to a stunt flocking in solving a class of combinatorial optimization problem. The term "stunt flocking" is analogous to clustering around an optimal solution in domain of the problem considered. Instead of looking at PSO as using individuality and sociality, we adopt the viewpoint of exploration (selecting among all available options and observing outcomes) and exploiting (consistently choosing the global best option). Accordingly, we define two new operators, namely: exploration and exploiting operators for a permutation-based particle swarm algorithm. For exploiting operator we use an order-based imitation function to simulate imitation of the global best option. However, exploration operator is carried out as a result of two lower level operations: recalling the best solution in the memory of each particle and random shuffling of some elements in the permutation that represents each particle. Traveling sales person (TSP) and quadratic assignment (QA) problems are considered here for testing the algorithm. Matlab subcommands are used to illustrate how these operators can take place in programming code. Results of implementing the proposed technique to the mentioned problems agree to great extent with the known optimal solutions. © 2005 IEEE.
+KW  - Artificial life
+KW  - Combinatorial optimization
+KW  - Evolutionary computing
+KW  - Algorithms
+KW  - Computer programming
+KW  - Computer software
+KW  - Optimization
+KW  - Problem solving
+KW  - Particle swarm paradigm (PSO)
+KW  - Quadratic assignment (QA)
+KW  - Traveling sales person (TSP)
+KW  - Combinatorial mathematics
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 1
+ER  -
+
+TY  - CONF
+AU  - Davies, E.
+AU  - Banfield, D.
+AU  - Carare, V.
+AU  - Weaver, B.
+AU  - White, C.
+AU  - Walker, N.
+TI  - Optical Routing with Binary Optimisation and Quantum Annealing
+PY  - 2024
+T2  - Proceedings of the 2024 International Conference on Optical Network Design and Modeling, ONDM 2024
+DO  - 10.23919/ONDM61578.2024.10582776
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85199274309&doi=10.23919%2fONDM61578.2024.10582776&partnerID=40&md5=66e74134101a80c588a16c726677e3a5
+AB  - A challenge for scalability of demand-responsive, elastic optical Dense Wavelength Division Multiplexing (DWDM) and Flexgrid networks is the computational complexity of allocating many optical routes on large networks. We demonstrate that demand satisfaction problems in communication networks can be formulated as quadratic unconstrained binary optimisation (QUBO) problems, and solved using a hybrid quantum annealer. Efficient encodings are developed which solve both unicast and multicast multicommodity-flow problems, while also adhering to individual requirements for maximum latency and resilience for each route. We present several QUBO formulations and analyse the qubit scaling. We demonstrate solutions using a hybrid solver, D-Wave Quantum Advantage QPU. Progress in generating optimal solutions with efficient use of computational resources will be beneficial to telecoms operators, enabling them to run dynamic optical network infrastructures which use resources efficiently, are resilient to local faults and cyber-attacks, and can be elastically responsive to demands.  © 2024 IFIP.
+KW  - flexgrid
+KW  - multicast
+KW  - optical routing
+KW  - quantum annealing
+KW  - qubo
+KW  - routing spectral assignment
+KW  - Multicasting
+KW  - Network security
+KW  - Quantum cryptography
+KW  - Binary optimization
+KW  - Flexgrid
+KW  - Multicast
+KW  - Optical routing
+KW  - Optimization annealing
+KW  - Quantum annealing
+KW  - Qubo
+KW  - Routing spectral assignment
+KW  - Routings
+KW  - Spectral assignments
+KW  - Dense wavelength division multiplexing
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 1
+ER  -
+
+TY  - JOUR
+TI  - 14th Metaheuristics International Conference, MIC 2022
+PY  - 2023
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 13838 LNCS
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85149655363&partnerID=40&md5=bf038d66d63ef0a8861b6d79a4ae04a9
+AB  - The proceedings contain 48 papers. The special focus in this conference is on Metaheuristics. The topics include: Neural Architecture Search Using Differential Evolution in MAML Framework for Few-Shot Classification Problems; neural Architecture Search Using Metaheuristics for Automated Cell Segmentation; analytical Methods to Separately Evaluate Convergence and Diversity for Multi-objective Optimization; how a Different Ant Behavior Affects on the Performance of the Whole Colony; evaluating the Effects of Chaos in Variable Neighbourhood Search; investigating Fractal Decomposition Based Algorithm on Low-Dimensional Continuous Optimization Problems; a Comparative Analysis of Different Multilevel Approaches for Community Detection; tchebycheff Fractal Decomposition Algorithm for Bi-objective Optimization Problems; local Search for Integrated Predictive Maintenance and Scheduling in Flow-Shop; A BRKGA with Implicit Path-Relinking for the Vehicle Routing Problem with Occasional Drivers and Time Windows; an Investigation of Hyper-Heuristic Approaches for Teeth Scheduling; a Mixed-Integer Programming Formulation and Heuristics for an Integrated Production Planning and Scheduling Problem; construct, Merge, Solve and Adapt Applied to the Maximum Disjoint Dominating Sets Problem; fixed Set Search Applied to the Territory Design Problem; the P-Next Center Problem with Capacity and Coverage Radius Constraints: Model and Heuristics; automatic Configuration of Metaheuristics for Solving the Quadratic Three-Dimensional Assignment Problem Using Irace; hyper-parameter Optimization Using Continuation Algorithms; selecting the Parameters of an Evolutionary Algorithm for the Generation of Phenotypically Accurate Fractal Patterns; addressing Sustainability in Precision Agriculture via Multi-Objective Factored Evolutionary Algorithms; modeling and Solving the K-Track Assignment Problem; Metaheuristic Algorithms for UAV Trajectory Optimization in Mobile Networks; instance Space Analysis for the Generalized Assignment Problem; decision Support for Agri-Food Supply Chains in the E-Commerce Era: The Inbound Inventory Routing Problem with Perishable Products; a Multi-objective Biased Random-Key Genetic Algorithm for the Siting of Emergency Vehicles; simulated Annealing for a Complex Industrial Scheduling Problem; a Matheuristic for Multi-Depot Multi-Trip Vehicle Routing Problems; Comparing QUBO Models of the Magic Square Problem for Quantum Annealing; self-adaptive Publish/Subscribe Network Design; variable Neighborhood Descent for Software Quality Optimization.
+M3  - Conference review
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Taguchi, A.T.
+AU  - Mattis, A.J.
+AU  - O'Malley, P.J.
+AU  - Dikanov, S.A.
+AU  - Wraight, C.A.
+TI  - Tuning cofactor redox potentials: The 2-methoxy dihedral angle generates a redox potential difference of >160 mV between the primary (QA) and secondary (QB) quinones of the bacterial photosynthetic reaction center
+PY  - 2013
+T2  - Biochemistry
+VL  - 52
+IS  - 41
+SP  - 7164
+EP  - 7166
+DO  - 10.1021/bi4011896
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84886016723&doi=10.1021%2fbi4011896&partnerID=40&md5=4b2a3b3e2f53705612618fe557aecb9d
+AB  - Only quinones with a 2-methoxy group can act simultaneously as the primary (QA) and secondary (QB) electron acceptors in photosynthetic reaction centers from Rhodobacter sphaeroides. 13C hyperfine sublevel correlation measurements of the 2-methoxy in the semiquinone states, SQA and SQB, were compared with quantum mechanics calculations of the 13C couplings as a function of the dihedral angle. X-ray structures support dihedral angle assignments corresponding to a redox potential gap (ΔEm) between QA and Q B of ∼180 mV. This is consistent with the failure of a ubiquinone analogue lacking the 2-methoxy to function as QB in mutant reaction centers with a ΔEm of ≈160-195 mV. © 2013 American Chemical Society.
+KW  - Bacterial Proteins
+KW  - Binding Sites
+KW  - Coenzymes
+KW  - Electron Transport
+KW  - Kinetics
+KW  - Models, Molecular
+KW  - Oxidation-Reduction
+KW  - Photosynthetic Reaction Center Complex Proteins
+KW  - Quinones
+KW  - Rhodobacter sphaeroides
+KW  - Dihedral angle
+KW  - Photosynthesis
+KW  - Quantum theory
+KW  - Secondary batteries
+KW  - carbon 13
+KW  - semiquinone
+KW  - ubiquinone
+KW  - Bacterial photosynthetic reaction
+KW  - Correlation measurement
+KW  - Electron acceptor
+KW  - Photosynthetic reaction center
+KW  - Reaction center
+KW  - Redox potentials
+KW  - Rhodobacter sphaeroides
+KW  - X-ray structure
+KW  - article
+KW  - bacterium mutant
+KW  - conformation
+KW  - controlled study
+KW  - electron
+KW  - electron transport
+KW  - nonhuman
+KW  - oxidation reduction potential
+KW  - photosynthesis
+KW  - priority journal
+KW  - quantum mechanics
+KW  - Rhodobacter sphaeroides
+KW  - X ray
+KW  - Redox reactions
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 17
+ER  -
+
+TY  - JOUR
+AU  - Cooper, C.H.V.
+TI  - Exploring Potential Applications of Quantum Computing in Transportation Modelling
+PY  - 2022
+T2  - IEEE Transactions on Intelligent Transportation Systems
+VL  - 23
+IS  - 9
+SP  - 14712
+EP  - 14720
+DO  - 10.1109/TITS.2021.3132161
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85121838743&doi=10.1109%2fTITS.2021.3132161&partnerID=40&md5=5b2794f0f060a22b537e38d63e6fdc8d
+AB  - The idea that quantum effects could be harnessed to allow faster computation was first proposed by Feynman. As of 2020 we appear to have achieved 'quantum supremacy', that is, a quantum computer that performs a given task faster than its classical counterpart. This paper examines some possibilities opened up by potential future application of quantum computing to transportation simulation and planning. To date, no such research was found to exist, therefore we begin with an introduction to quantum computing for the programmers of transport models. We discuss existing quantum computing research relevant to transportation, finding developments in network analysis, shortest path computation, multi-objective routing, optimization and calibration - of which the latter three appear to offer the greater promise in future research. Two examples are developed in greater detail, (1) an application of Grover's quantum algorithm for extracting the mean, which has general applicability towards summarizing distributions which are expensive to compute classically, is applied to an assignment or betweenness model - quantum speedup is elusive in the general case but achievable when trading speed for accuracy for limited outputs; (2) quantum optimization is applied to an activity-based model, giving a theoretically quadratic speedup. Recent developments notwithstanding, implementation of quantum transportation algorithms will for the foreseeable future remain a challenge due to space overheads imposed by the requirement for reversible computation.  © 2000-2011 IEEE.
+KW  - activity models
+KW  - assignment
+KW  - betweenness
+KW  - flows
+KW  - Quantum computing
+KW  - tour models
+KW  - Computation theory
+KW  - Computer circuits
+KW  - Logic gates
+KW  - Quantum chemistry
+KW  - Quantum electronics
+KW  - Activity modeling
+KW  - Annealing
+KW  - Assignment
+KW  - Betweenness
+KW  - Computational modelling
+KW  - Flow
+KW  - Quantum annealing
+KW  - Quantum Computing
+KW  - Tour model.
+KW  - Quantum computers
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 17
+ER  -
+
+TY  - JOUR
+AU  - Medina-Díaz, M.
+TI  - Analysis of Cognitive Structure Using the Linear Logistic Test Model and Quadratic Assignment
+PY  - 1993
+T2  - Applied Psychological Measurement
+VL  - 17
+IS  - 2
+SP  - 117
+EP  - 130
+DO  - 10.1177/014662169301700202
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84976929932&doi=10.1177%2f014662169301700202&partnerID=40&md5=01e306b5fe90bab86fad6edd54db173e
+AB  - The cognitive structure of an algebra test was defined and validated using the linear logistic test model (LLTM) and quadratic assignment (QA), respectively. The LLTM is an extension of the Rasch model with a linear constraint that describes the difficulty of a test item in terms of the cognitive operations required to solve it. The cognitive structure of a test is specified using the weight matrix W. The cognitive structure defined here was based on a set of eight production rules that represented the mathematical procedures employed in solving linear equations with one variable. A 29-item test was constructed and administered to 235 ninth-graders. Item response data were analyzed using Fischer & Formann's (1972) LLTM computer program. A QA confirmatory approach was used to validate the cognitive structure of the test. The structure was validated—examinees solved the items using the set of rules specified in the W matrix. The parameters estimated using the LLTM are quantitative indexes of the difficulties of each of the cognitive rules included in the W matrix. © 1993, Sage Publications. All rights reserved.
+KW  - cog nitive structure
+KW  - Componen tial models
+KW  - confirmatory analysis
+KW  - content validity
+KW  - linear logistic test model
+KW  - quadratic assignment
+KW  - validation
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 22
+ER  -
+
+TY  - CONF
+AU  - Hucke, Mathias
+AU  - Schweitzer, Gerd
+AU  - Griebenow, Kai
+AU  - Mueller, Marc G.
+AU  - Holzwarth, Alfred R.
+TI  - Time-resolved fluorescence studies of isolated photosynthetic reaction centers from chloroflexus aurantiacus at low temperatures
+PY  - 1991
+T2  - Institute of Physics Conference Series
+VL  - 126
+SP  - 609
+EP  - 612
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0026274577&partnerID=40&md5=a46267f099a3b1e1255819be74e41345
+AB  - The picosecond fluorescence kinetics of closed (quinone acceptor QA reduced) reaction centers isolated from the phototrophic bacterium C. aurantiacus shows time constants of ≈20 ps and ≈300 ps (amplitude ratio ≈1:1). They are nearly independent of temperature (7K to 80K). Assuming a three-state kinetic model, two assignments of the kinetics to the electron transfer processes seem to be possible. One model includes a reversible electron transfer between P* and HM, the pheophytin(s) in the M-branch. The other model involves the formation of a monomeric bacteriochlorophyll anion.
+KW  - Electron transport properties
+KW  - Emission spectroscopy
+KW  - Fluorescence
+KW  - Low temperature effects
+KW  - Mathematical models
+KW  - Photosynthesis
+KW  - Pigments
+KW  - Reaction kinetics
+KW  - Ultrafast phenomena
+KW  - Chloroflexus aurantiacus
+KW  - Electron transfer processes
+KW  - Isolated photosynthetic reaction centers
+KW  - Picosecond fluorescence kinetics
+KW  - Three state kinetic model
+KW  - Bacteria
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Zander, R.
+AU  - Seidel, R.
+AU  - Inajetovic, M.
+AU  - Steinmann, N.
+AU  - Petrič, M.
+TI  - Solving the Product Breakdown Structure Problem with constrained QAOA
+PY  - 2024
+T2  - Proceedings - IEEE Quantum Week 2024, QCE 2024
+VL  - 2
+SP  - 462
+EP  - 463
+DO  - 10.1109/QCE60285.2024.10356
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85217187658&doi=10.1109%2fQCE60285.2024.10356&partnerID=40&md5=45458d64b0f72de4cddf382a1d72a4d1
+AB  - Constrained optimization problems, where not all possible variable assignments are feasible solutions, comprise numerous practically relevant optimization problems such as the Traveling Salesman Problem (TSP), or portfolio optimization. Established methods such as quantum annealing or vanilla QAOA usually transform the problem statement into a Quadratic Unconstrained Binary Optimization (QUBO) form, where the constraints are enforced by auxiliary terms in the QUBO objective. Consequently, such approaches fail to utilize the additional structure provided by the constraints. In this work, we present a method for solving the industry relevant Product Breakdown Structure problem. The method is based on constrained QAOA, which by construction never explores the part of the Hilbert space that represents solutions forbidden by the problem constraints. The size of the search space is thereby reduced significantly. We experimentally show that this approach has not only a very favorable scaling behavior, but also appears to suppress the negative effects of Barren Plateaus. © 2024 IEEE.
+KW  - quantum algorithm
+KW  - quantum optimization
+KW  - Hilbert spaces
+KW  - Investments
+KW  - Optimization algorithms
+KW  - Quantum electronics
+KW  - Shape optimization
+KW  - Structural optimization
+KW  - Traveling salesman problem
+KW  - Vector spaces
+KW  - Binary optimization
+KW  - Breakdown structures
+KW  - Constrained optimi-zation problems
+KW  - Feasible solution
+KW  - Optimization problems
+KW  - Product breakdowns
+KW  - Quantum algorithms
+KW  - Quantum optimization
+KW  - Travelling salesman
+KW  - Variable assignment
+KW  - Constrained optimization
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Balakrishnan, G.
+AU  - Babaei, A.
+AU  - McQuillan, A.J.
+AU  - Umapathy, S.
+TI  - Resonance raman and infrared spectral studies on radical anions of model photosynthetic reaction center quinones (naphthoquinone derivatives)
+PY  - 1998
+T2  - Journal of Biomolecular Structure and Dynamics
+VL  - 16
+IS  - 1
+SP  - 123
+EP  - 131
+DO  - 10.1080/07391102.1998.10508233
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0031708369&doi=10.1080%2f07391102.1998.10508233&partnerID=40&md5=7238da0876b2bd349d635ec8dcbb8dac
+AB  - Quinones play a vital role in the processes of electron transfer in bacterial photosynthetic reaction centers. It is of interest to investigate photochemical reactions involving quinones with a view to elucidate structure-function relationships in biological processes. Resonance Raman and FTIR spectra of electrochemically generated radical anions of 2-methyl-l,4-naphthoquinone, and 2-methyl-3-phytyl-l,4-naphthoquinone, also known as Vitamin K3 and Vitamin K1, respectively, (model compound for QA in Rhodopseudomonas viridis, a bacterial photosynthetic reaction center) have been reported. The same study has also been extended to 1,4-naphthoquinone for comparison. The vibrational assignments were carried out on the basis of comparison with our earlier time resolved resonance Raman studies on photochemically generated radical anions of 1,4-naphthoquinone and 2-methyl-l,4-naphthoquinone (Balakrishnan et al., J. Phys. Chem., 100, (1996), 16472–16478). These in vitro results have been compared with the reported vibrational spectral data under in vivo conditions. © 1998 Taylor & Francis Group, LLC.
+KW  - Bacteria (microorganisms)
+KW  - Blastochloris viridis
+KW  - Rhodopseudomonas
+KW  - 1,4 naphthoquinone derivative
+KW  - anion
+KW  - menadione
+KW  - phytomenadione
+KW  - quinone derivative
+KW  - article
+KW  - cyclic potentiometry
+KW  - electrochemistry
+KW  - electron transport
+KW  - infrared spectroscopy
+KW  - model
+KW  - photochemistry
+KW  - photosynthesis
+KW  - priority journal
+KW  - Raman spectrometry
+KW  - structure activity relation
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 5
+ER  -
+
+TY  - JOUR
+AU  - Kissmehl, R.
+AU  - Schilde, C.
+AU  - Wassmer, T.
+AU  - Danzer, C.
+AU  - Nuehse, K.
+AU  - Lutter, K.
+AU  - Plattner, H.
+TI  - Molecular identification of 26 syntaxin genes and their assignment to the different trafficking pathways in paramecium
+PY  - 2007
+T2  - Traffic
+VL  - 8
+IS  - 5
+SP  - 523
+EP  - 542
+DO  - 10.1111/j.1600-0854.2007.00544.x
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-34247463919&doi=10.1111%2fj.1600-0854.2007.00544.x&partnerID=40&md5=528a415fae0ffb756e74196764f5cd0e
+AB  - SNARE proteins have been classified as vesicular (v)- and target (t)-SNAREs and play a central role in the various membrane interactions in eukaryotic cells. Based on the Paramecium genome project, we have identified a multigene family of at least 26 members encoding the t-SNARE syntaxin (Pt Syx) that can be grouped into 15 subfamilies. Paramecium syntaxins match the classical build-up of syntaxins, being 'tail-anchored' membrane proteins with an N-terminal cytoplasmic domain and a membrane-bound single C-terminal hydrophobic domain. The membrane anchor is preceded by a conserved SNARE domain of ∼60 amino acids that is supposed to participate in SNARE complex assembly. In a phylogenetic analysis, most of the Paramecium syntaxin genes were found to cluster in groups together with those from other organisms in a pathway-specific manner, allowing an assignment to different compartments in a homology-dependent way. However, some of them seem to have no counterparts in metazoans. In another approach, we fused one representative member of each of the syntaxin isoforms to green fluorescent protein and assessed the in vivo localization, which was further supported by immunolocalization of some syntaxins. This allowed us to assign syntaxins to all important trafficking pathways in Paramecium. © 2007 The Authors Journal compilation.
+KW  - Exocytosis
+KW  - Golgi
+KW  - Paramecium
+KW  - SNAREs
+KW  - Syntaxin
+KW  - Amino Acid Sequence
+KW  - Animals
+KW  - Biological Transport
+KW  - Cell Membrane
+KW  - Endoplasmic Reticulum
+KW  - Golgi Apparatus
+KW  - Green Fluorescent Proteins
+KW  - Intracellular Membranes
+KW  - Microscopy, Immunoelectron
+KW  - Models, Biological
+KW  - Models, Molecular
+KW  - Molecular Sequence Data
+KW  - Paramecium
+KW  - Phylogeny
+KW  - Protein Isoforms
+KW  - Protein Structure, Tertiary
+KW  - Protozoan Proteins
+KW  - Qa-SNARE Proteins
+KW  - Recombinant Fusion Proteins
+KW  - RNA Interference
+KW  - Sequence Analysis, DNA
+KW  - Sequence Homology, Amino Acid
+KW  - Transfection
+KW  - Transport Vesicles
+KW  - Vesicular Transport Proteins
+KW  - amino acid
+KW  - green fluorescent protein
+KW  - isoprotein
+KW  - membrane protein
+KW  - SNARE protein
+KW  - syntaxin
+KW  - amino terminal sequence
+KW  - article
+KW  - carboxy terminal sequence
+KW  - controlled study
+KW  - cytoplasm
+KW  - gene cluster
+KW  - genetic code
+KW  - genome
+KW  - hydrophobicity
+KW  - immunolocalization
+KW  - in vivo study
+KW  - metazoon
+KW  - molecular genetics
+KW  - multigene family
+KW  - nonhuman
+KW  - nucleotide sequence
+KW  - Paramecium tetraurelia
+KW  - phylogeny
+KW  - priority journal
+KW  - protein domain
+KW  - protein family
+KW  - protein localization
+KW  - protozoal genetics
+KW  - sequence homology
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 42
+ER  -
+
+TY  - JOUR
+TI  - 1st International Workshop on Quantum Technology and Optimization Problems, QTOP 2019 was held in conjunction with the International Conference on Networked Systems, NetSys 2019
+PY  - 2019
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 11413 LNCS
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85064057945&partnerID=40&md5=f2ff81837162516a8bed932ed3623091
+AB  - The proceedings contain 19 papers. The special focus in this conference is on Quantum Technology and Optimization Problems. The topics include: Solving Large Maximum Clique Problems on a Quantum Annealer; quantum Annealing Based Optimization of Robotic Movement in Manufacturing; quantum Annealing of Vehicle Routing Problem with Time, State and Capacity; boosting Quantum Annealing Performance Using Evolution Strategies for Annealing Offsets Tuning; Quantum Photonic TRNG with Dual Extractor; secure Quantum Data Communications Using Classical Keying Material; continuous-Variable Quantum Network Coding Against Pollution Attacks; On the Influence of Initial Qubit Placement During NISQ Circuit Compilation; towards a Pattern Language for Quantum Algorithms; embedding Inequality Constraints for Quantum Annealing Optimization; Assessing Solution Quality of 3SAT on a Quantum Annealing Platform; principles and Guidelines for Quantum Performance Analysis; nash Embedding and Equilibrium in Pure Quantum States; a Quantum Algorithm for Minimising the Effective Graph Resistance upon Edge Addition; variational Quantum Factoring; function Maximization with Dynamic Quantum Search; flight Gate Assignment with a Quantum Annealer.
+M3  - Conference review
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - MacMillan, F.
+AU  - Lendzian, F.
+AU  - Renger, G.
+AU  - Lubitz, W.
+TI  - EPR and ENDOR Investigation of the Primary Electron Acceptor Radical Anion QA.- in Iron-Depleted Photosystem II Membrane Fragments
+PY  - 1995
+T2  - Biochemistry
+VL  - 34
+IS  - 25
+SP  - 8144
+EP  - 8156
+DO  - 10.1021/bi00025a021
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0029020170&doi=10.1021%2fbi00025a021&partnerID=40&md5=ac592f8df2d8aeff3f0d72152579d8f9
+AB  - Photosystem II (PS II) membrane fragments were treated with trypsin at pH = 7.4 followed by incubation with o-phenanthroline and lithium perchlorate. This procedure removes and/or decouples the non-heme Fe2+ associated with the quinones QA and QB in the PS II reaction center (RC). Treatment of such samples (referred to as iron-depleted) with sodium dithionite or illumination in the presence of dichlorophenol indophenol (DCIP) and sodium ascorbate yielded EPR spectra similar to those of the plastoquinone-9 (PQ-9) radical anion generated in organic solvents. Q-band EPR yielded the principal values of the g-tensor for PQ-9.- in 2-propanol and Qa.- in PS II. Electron nuclear double resonance (ENDOR) experiments were performed both on PQ-9.- in vitro and on Qa.- in the iron-depleted PS II samples. For the former a complete set of isotropic hyperfine coupling constants and hyperfine tensors of the two methyl groups and the α-proton were obtained. On the basis of H/D exchange experiments two different hydrogen bonds could be detected in frozen solution that are formed between the carbonyl oxygens of the radical and protons from the surrounding solvent molecules. The hydrogen bond distances were estimated using the point-dipole model. 1H-ENDOR spectra of Qa.- in iron-depleted PS II samples have been measured in buffers made in H2O and D2O. The spectrum in deuterated buffer allowed the determination of two different methyl group hyperfine tensors. Differences detected between the spectra in protonated and deuterated buffer reveal the hyperfine tensors of two exchangeable protons belonging to hydrogen bonds between the oxygens of Qa and specific protein residues. The assignment of these hydrogen bonds in PS II is discussed and compared with the situation found in the bacterial reaction center. © 1995, American Chemical Society. All rights reserved.
+KW  - Anions
+KW  - Benzoquinones
+KW  - Deuterium
+KW  - Electron Spin Resonance Spectroscopy
+KW  - Freezing
+KW  - Hydrogen Bonding
+KW  - Iron
+KW  - Light
+KW  - Molecular Structure
+KW  - Photosynthetic Reaction Center, Plant
+KW  - Plastoquinone
+KW  - Solutions
+KW  - Support, Non-U.S. Gov't
+KW  - Temperature
+KW  - Bacteria (microorganisms)
+KW  - 1,10 phenanthroline
+KW  - 2,6 dichlorophenolindophenol
+KW  - ascorbic acid
+KW  - quinone derivative
+KW  - article
+KW  - covalent bond
+KW  - electron transport
+KW  - hydrogen bond
+KW  - iron transport
+KW  - nonhuman
+KW  - oxidation reduction reaction
+KW  - priority journal
+KW  - protein localization
+KW  - protein structure
+KW  - protein synthesis
+KW  - site directed mutagenesis
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 67
+ER  -
+
+TY  - JOUR
+AU  - Hasegawa, M.
+AU  - Ito, H.
+AU  - Takesue, H.
+AU  - Aihara, K.
+TI  - Optimization by neural networks in the coherent ising machine and its application to wireless communication systems
+PY  - 2021
+T2  - IEICE Transactions on Communications
+VL  - E104B
+IS  - 3
+SP  - 210
+EP  - 216
+DO  - 10.1587/transcom.2020NVI0002
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85102200570&doi=10.1587%2ftranscom.2020NVI0002&partnerID=40&md5=e9d4b58c3a6f58901830568cc3bee613
+AB  - Recently, new optimization machines based on non-silicon physical systems, such as quantum annealing machines, have been developed, and their commercialization has been started. These machines solve the problems by searching the state of the Ising spins, which minimizes the Ising Hamiltonian. Such a property of minimization of the Ising Hamiltonian can be applied to various combinatorial optimization problems. In this paper, we introduce the coherent Ising machine (CIM), which can solve the problems in a milli-second order, and has higher performance than the quantum annealing machines especially on the problems with dense mutual connections in the corresponding Ising model. We explain how a target problem can be implemented on the CIM, based on the optimization scheme using the mutually connected neural networks. We apply the CIM to traveling salesman problems as an example benchmark, and show experimental results of the real machine of the CIM. We also apply the CIM to several combinatorial optimization problems in wireless communication systems, such as channel assignment problems. The CIM's ultra-fast optimization may enable a real-time optimization of various communication systems even in a dynamic communication environment. Copyright © 2021 The Institute of Electronics, Information and Communication Engineers
+KW  - Coherent Ising machines
+KW  - Combinatorial optimization problems
+KW  - Mutually connected neural networks
+KW  - Quantum annealing
+KW  - Wireless communication systems
+KW  - Combinatorial optimization
+KW  - Hamiltonians
+KW  - Ising model
+KW  - Optimization
+KW  - Quantum theory
+KW  - Real time systems
+KW  - Traveling salesman problem
+KW  - Channel assignment problem
+KW  - Combinatorial optimization problems
+KW  - Dynamic communication
+KW  - Ising Hamiltonians
+KW  - Optimization scheme
+KW  - Quantum annealing
+KW  - Real-time optimization
+KW  - Wireless communication system
+KW  - Neural networks
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 15
+ER  -
+
+TY  - JOUR
+AU  - Koulougliotis, D.
+AU  - Shen, J.-R.
+AU  - Ioannidis, N.
+AU  - Petrouleas, V.
+TI  - Near-IR irradiation of the S2 state of the water oxidizing complex of photosystem II at liquid helium temperatures produces the metalloradical intermediate attributed to S1YZ.
+PY  - 2003
+T2  - Biochemistry
+VL  - 42
+IS  - 10
+SP  - 3045
+EP  - 3053
+DO  - 10.1021/bi027051o
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0347296367&doi=10.1021%2fbi027051o&partnerID=40&md5=bcfc022b232f47f0821d33dc4d50d103
+AB  - Near-IR (NIR) excitation at liquid He temperatures of photosystem II (PSII) membranes from the cyanobacterium Synechococcus vulcanus or from spinach poised in the S2 state results in the production of a g = 2.035 EPR resonance, reminiscent of metalloradical signals. The signal is smaller in the spinach preparations, but it is significantly enhanced by the addition of exogenous quinones. Ethanol (2 - 3%, v/v) eliminates the ability to trap the signal. The g = 2.035 signal is identical to the one recently obtained by Nugent et al. by visible-light illumination of the S1 state, and preferably assigned to S1Yz. [Nugent, J. H. A., Muhiuddin, I. P., and Evans, M. C. W. (2002) Biochemistry 41, 4117-4126]. The production of the g = 2.035 signal by liquid He temperature NIR excitation of the S2 state is paralleled by a significant reduction (typically 40 - 45% in S. vulcanus) of the S2 state multiline signal. This is in part due to the conversion of the Mn cluster to higher spin states, an effect documented by Boussac et al. [Boussac, A., Un, S., Horner, O., and Rutherford, A. W. (1998) Biochemistry 37, 4001-4007], and in part due to the conversion to the g = 2.035 configuration. Following the decay of the g = 2.035 signal at liquid helium temperatures (decay halftimes in the time range of a few to tens of minutes depending on the preparation), annealing at elevated temperatures (-80 °C) results in only partial restoration of the S2 state multiline signal. The full size of the signal can be restored by visible-light illumination at -80 °C, implying that during the near-IR excitation and subsequent storage at liquid helium temperatures recombination with QA- (and therefore decay of the S2 state to the S1 state) occurred in a fraction of centers. In support of this conclusion, the g = 2.035 signal remains stable for several hours (at 11 K) in centers poised in the S2⋯QA configuration before the NIR excitation. The extended stability of the signal under these conditions has allowed the measurement of the microwave power saturation and the temperature dependence in the temperature range of 3.8-11 K. The signal intensity follows Curie law temperature dependence, which suggests that it arises from a ground spin state, or a very low-lying excited spin state. The P1/2 (microwave power at half-saturation) value is 1.7 mW at 3.8 K and increases to 96 mW at 11 K. The large width of the g = 2.035 signal and its relatively fast relaxation support the assignment to a radical species in the proximity of the Mn cluster. The whole phenomenology of the g = 2.035 signal production is analogous to the effects of NIR excitation on the S3 state [Ioannidis, N., Nugent, J. H. A., and Petrouleas, V. (2002) Biochemistry 41, 9589-9600] producing an S2′Yz. intermediate. In the present case, the intermediate is assigned to S1Yz.. The NIR-induced increase in the oxidative capability of the Mn cluster is discussed in relation to the photochemical properties of a Mn(III) ion that exists in both S2 and S3 states. The EPR properties of the S1Yz. intermediate cannot be reconciled easily with our current understanding of the magnetic properties of the S1 state. It is suggested that oxidation of tyr Z alters the magnetic properties of the Mn cluster via exchange of a proton.
+KW  - Benzoquinones
+KW  - Cyanobacteria
+KW  - Electron Spin Resonance Spectroscopy
+KW  - Free Radicals
+KW  - Helium
+KW  - Infrared Rays
+KW  - Intracellular Membranes
+KW  - Kinetics
+KW  - Manganese
+KW  - Oxygen
+KW  - Photosynthetic Reaction Center Complex Proteins
+KW  - Photosystem II Protein Complex
+KW  - Spinacia oleracea
+KW  - Temperature
+KW  - Tyrosine
+KW  - Water
+KW  - Bacteria (microorganisms)
+KW  - Negibacteria
+KW  - Spinacia oleracea
+KW  - Synechococcus sp. PCC 6301
+KW  - Thermosynechococcus vulcanus
+KW  - Annealing
+KW  - Helium
+KW  - Irradiation
+KW  - Oxidation
+KW  - Paramagnetic resonance
+KW  - Protons
+KW  - alcohol
+KW  - helium
+KW  - manganese
+KW  - metal derivative
+KW  - quinone derivative
+KW  - acceleration
+KW  - article
+KW  - decomposition
+KW  - electron spin resonance
+KW  - Gram negative bacterium
+KW  - illumination
+KW  - infrared radiation
+KW  - magnetism
+KW  - microwave radiation
+KW  - nonhuman
+KW  - oxidation
+KW  - photosystem II
+KW  - priority journal
+KW  - proton transport
+KW  - reduction
+KW  - signal transduction
+KW  - spinach
+KW  - synechococcus vulcanus
+KW  - temperature dependence
+KW  - Photosystem membranes
+KW  - Biological membranes
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 54
+ER  -
+
+TY  - CONF
+AU  - Stollenwerk, T.
+AU  - Lobe, E.
+AU  - Jung, M.
+TI  - Flight Gate Assignment with a Quantum Annealer
+PY  - 2019
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 11413 LNCS
+SP  - 99
+EP  - 110
+DO  - 10.1007/978-3-030-14082-3_9
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85064051376&doi=10.1007%2f978-3-030-14082-3_9&partnerID=40&md5=2ef0a260dc10dd97e50a83450d45c32e
+AB  - Optimal flight gate assignment is a highly relevant optimization problem from airport management. Among others, an important goal is the minimization of the total transit time of the passengers. The corresponding objective function is quadratic in the binary decision variables encoding the flight-to-gate assignment. Hence, it is a quadratic assignment problem being hard to solve in general. In this work we investigate the solvability of this problem with a D-Wave quantum annealer. These machines are optimizers for quadratic unconstrained optimization problems (QUBO). Therefore the flight gate assignment problem seems to be well suited for these machines. We use real world data from a mid-sized German airport as well as simulation based data to extract typical instances small enough to be amenable to the D-Wave machine. In order to mitigate precision problems, we employ bin packing on the passenger numbers to reduce the precision requirements of the extracted instances. We find that, for the instances we investigated, the bin packing has little effect on the solution quality. Hence, we were able to solve small problem instances extracted from real data with the D-Wave 2000Q quantum annealer. © 2019, Springer Nature Switzerland AG.
+KW  - Airport planning
+KW  - Quadratic assignment problem
+KW  - Quantum annealing
+KW  - QUBO
+KW  - Airports
+KW  - Annealing
+KW  - Combinatorial optimization
+KW  - Data mining
+KW  - Optimization
+KW  - Airport management
+KW  - Assignment problems
+KW  - Objective functions
+KW  - Optimization problems
+KW  - Quadratic assignment problems
+KW  - Quantum annealing
+KW  - QUBO
+KW  - Unconstrained optimization problems
+KW  - Problem solving
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 36
+ER  -
+
+TY  - JOUR
+AU  - Demeter, S.
+TI  - Thermoluminescence in plants
+PY  - 1989
+T2  - Physiologia Plantarum
+VL  - 75
+IS  - 1
+SP  - 121
+EP  - 130
+DO  - 10.1111/j.1399-3054.1989.tb02073.x
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84989751883&doi=10.1111%2fj.1399-3054.1989.tb02073.x&partnerID=40&md5=1f779dbd716d425b63aa2d1e8c9ef2aa
+AB  - Recently considerable progress has been achieved in the elucidation of the origin of thermoluminescence in chloroplasts. The assignment of 2 of the thermoluminescence bands, peaking at around +5°C (Q or D band) and +30°C (B band), to the recombination of charges, originating from the oxidzed species of the oxygen evolving complex (the so‐called S states) and to the reduced primary and secondary quinone acceptors QA and QB, respectively, has aided in the investigation of reactions involving both the electron donor and acceptor sides of photosystem II. In this paper we review recent thermoluminescence results concerning the deactivation of S states, temperature and pH dependence of S state transition, and the activity of the water oxidizing system after removal of Cl−, manganese or the 33 kDa protein. Reports on the use of thermoluminescence in investigations on the sites of action of herbicides and redox changes of QB conferred by herbicide resistance are also discussed. The effect of pH, bicarbonate, and Acceleration of Deactivation Reaction of enzyme “Y” (ADRY) reagents on the photosystem II reactions are presented in the light of thermoluminescence observations. Further possible applications of thermoluminescence promising better understanding of the photosynthetic processes are suggested. Copyright © 1989, Wiley Blackwell. All rights reserved
+KW  - Delayed light emission
+KW  - electron transport
+KW  - herbicide
+KW  - photosystem II
+KW  - thermoluminescence
+KW  - water splitting
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 78
+ER  -
+
+TY  - CONF
+AU  - Yoshikawa, N.
+TI  - PAIRWISE SWAPPING SEQUENCE OPTIMIZATION BY METROPOLIS-HASTING ALGORITHM WITH QUANTUM ANNEALING FOR AIR TRAFFIC CONTROL
+PY  - 2024
+T2  - ICAS Proceedings
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85208807036&partnerID=40&md5=e6e5c49f2a94012667820615c3752a83
+AB  - The sequence optimization method with quantum annealing sampler-based Metropolis-Hasting algorithm is investigated. Quantum annealing is power full tools to find the optimal solution of combinatorial optimization problem like aircraft sequencing problems. However in actual large airport, the number of aircraft to be considered is too large to compute with the quantum annealer, and it leads constraints violating solutions. To avoid this issue, pairwise swapping sequence optimization on Markov Chain Monte Carlo algorithm-based evolutionaly computation is proposed. This method can solve the sequencing problem with more than 100 aircraft and multiple runway assignment problem in 10 sec. This paper shows that proposed quantum algorithm show 5 times faster than classical algorithm. © 2024, International Council of the Aeronautical Sciences. All rights reserved.
+KW  - air traffic management
+KW  - optimization
+KW  - quantum annealing
+KW  - Adaptive boosting
+KW  - Air navigation
+KW  - Air transportation
+KW  - Airport runways
+KW  - Combinatorial optimization
+KW  - Intelligent systems
+KW  - Markov chains
+KW  - Optimal systems
+KW  - Problem solving
+KW  - Air Traffic Management
+KW  - Air traffics
+KW  - Combinatorial optimization problems
+KW  - Metropolis-Hastings algorithm
+KW  - Optimal solutions
+KW  - Optimisations
+KW  - Optimization method
+KW  - Power
+KW  - Quantum annealing
+KW  - Sequence optimization
+KW  - Air traffic control
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 0
+ER  -
+

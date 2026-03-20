@@ -1,0 +1,106 @@
+TY  - CPAPER
+AU  - Chieza, H. A.
+AU  - Khumalo, M. T.
+AU  - Prag, K.
+AU  - Woolway, M.
+TI  - On the Computational Performance of IBM Quantum Devices Applied to Combinatorial Optimisation Problems
+LA  - eng
+JF  - 2020 7th International Conference on Soft Computing and Machine Intelligence, Iscmi 2020
+SP  - 260
+EP  - 264
+PY  - 2020
+SN  - 26400146, 26400154
+SN  - 1728175593, 1728175607, 9781728175591, 9781728175607, 1728175585, 9781728175584
+PB  - Institute of Electrical and Electronics Engineers Inc.
+DO  - 10.1109/ISCMI51676.2020.9311605
+AB  - The prevalence of NP-Hard Combinatorial Optimisation Problems (COP) requires a continuous search for powerful heuristic techniques to efficiently solve problems of this nature, due to the exponentially growing CPU times faced by deterministic methods. This paper focuses on two COP, namely the Travelling Salesmen Problem (TSP) and the Quadratic Assignment Problem (QAP). In particular, the computational performance of classical optimisation techniques, Branch and Bound (BNB) and Simulated Annealing (SA), are compared to the Variational Quantum Eigensolver (VQE) algorithm. These algorithms are executed respectively on classical and Noisy Intermediate-Scale Quantum (NISQ) computers, in this case, a host of IBM quantum devices. The experimental results resemble and extend on previously reported results found in the literature. Furthermore, this research critically analyses, compares and comments on the performance of quantum computing techniques to that of classical techniques. The results highlight the current shortcomings of NISQ devices, as classical optimisation techniques significantly outperform the VQE algorithm when run on state of the art IBM Quantum devices.
+ER  -
+
+TY  - JOUR
+AU  - Chai, Yahui
+AU  - Funcke, Lena
+AU  - Hartung, Tobias
+AU  - Jansen, Karl
+AU  - Kühn, Stefan
+AU  - Stornati, Paolo
+AU  - Stollenwerk, Tobias
+TI  - Optimal Flight-Gate Assignment on a Digital Quantum Computer
+LA  - eng
+JF  - Physical Review Applied
+VL  - 20
+IS  - 6
+PY  - 2023
+SN  - 23317019
+PB  - American Physical Society
+DO  - 10.1103/PhysRevApplied.20.064025
+AB  - We investigate the performance of the variational quantum eigensolver (VQE) for the problem of optimal flight-gate assignment. This is a combinatorial-optimization problem that aims at finding an optimal assignment of flights to the gates of an airport, in order to minimize the passenger travel time. To study the problem, we adopt a qubit-efficient binary encoding with a cyclic mapping, which is suitable for a digital quantum computer. Using this encoding in conjunction with the conditional value at risk (CVaR) as an aggregation function, we systematically explore the performance of the approach by classically simulating the CVaR VQE. Our results indicate that the method allows for finding a good solution with high probability and that it significantly outperforms the naive VQE approach. We examine the role of entanglement for the performance and find that ansätze with entangling gates allow for better results than pure product states. Studying the problem for various sizes, our numerical data show that the scaling of the number of cost-function calls for obtaining a good solution is not exponential for the regimes that we investigate in this work.
+ER  -
+
+TY  - JOUR
+AU  - Khumalo, Maxine T.
+AU  - Chieza, Hazel A.
+AU  - Prag, Krupa
+AU  - Woolway, Matthew
+TI  - An investigation of IBM quantum computing device performance on combinatorial optimisation problems
+LA  - eng
+JF  - Neural Computing and Applications
+VL  - 37
+IS  - 2
+PY  - 2025
+SN  - 14333058, 09410643
+PB  - Springer Science and Business Media Deutschland GmbH
+DO  - 10.1007/s00521-022-07438-4
+AB  - The intractability of deterministic solutions in solving NP-Hard Combinatorial Optimisation Problems (COP) is well reported in the literature. One mechanism for overcoming this difficulty has been the use of efficient COP non-deterministic approaches. However, with the advent of quantum technology, these modern devices’ potential to overcome this tractability limitation requires exploration. This paper juxtaposes classical and quantum optimisation algorithms’ performance to solve two common COP, namely the Travelling Salesman Problem and the Quadratic Assignment Problem. Two accepted classical optimisation methods, Branch and Bound and Simulated Annealing, are compared to two quantum optimisation methods, Variational Quantum Eigensolver (VQE) algorithm and Quantum Approximate Optimisation Algorithm (QAOA). These algorithms are, respectively, executed on both classical devices and IBM’s suite of Noisy Intermediate-Scale Quantum (NISQ) devices. We have encoded the COP problems for the respective technologies and algorithms and provided the computational encodings for the NISQ devices. Our experimental results show that current classical devices significantly outperform the presently available NISQ devices, which both agree with and extend on those findings reported in the literature. Further, we introduce additional performance metrics to better compare the two approaches with respect to computational time, feasibility and solution quality. Our results show that the VQE performs better than QAOA with respect to these metrics, and we infer that this is due to the increased number of operations required. Additionally, we investigate the impact of a new set of basis gates on the quantum optimisation techniques and show they yield no notable improvement on obtained results. Finally, we highlight the present shortcomings of state-of-the-art NISQ IBM quantum devices and argue for continued future work on improving evolving devices.
+ER  -
+
+TY  - JOUR
+AU  - Khumalo, Maxine T.
+AU  - Chieza, Hazel A.
+AU  - Prag, Krupa
+AU  - Woolway, Matthew
+TI  - An investigation of IBM Quantum Computing device performance on
+  Combinatorial Optimisation Problems
+LA  - und
+PY  - 2022
+AB  - The intractability of deterministic solutions in solving $\mathcal{NP}$-Hard
+Combinatorial Optimisation Problems (COP) is well reported in the literature.
+One mechanism for overcoming this difficulty has been the use of efficient COP
+non-deterministic approaches. However, with the advent of quantum technology,
+these modern devices' potential to overcome this tractability limitation
+requires exploration. This paper juxtaposes classical and quantum optimisation
+algorithms' performance to solve two common COP, the Travelling Salesman
+Problem (TSP) and the Quadratic Assignment Problem (QAP). Two accepted
+classical optimisation methods, Branch and Bound (BNB) and Simulated Annealing
+(SA), are compared to two quantum optimisation methods, Variational Quantum
+Eigensolver (VQE) algorithm and Quantum Approximate Optimisation Algorithm
+(QAOA). These algorithms are respectively executed on both classical devices
+and IBM's suite of Noisy Intermediate-Scale Quantum (NISQ) devices. We have
+encoded the COP problems for the respective technologies and algorithms and
+provided the computational encodings for the NISQ devices. Our experimental
+results show that current classical devices significantly outperform the
+presently available NISQ devices, which agrees and extends with findings in the
+literature. Further, we introduce additional performance metrics to better
+compare the two approaches concerning computational time, feasibility and
+solution quality. Our results show that the VQE performs better than QAOA for
+these metrics, and we infer that this is due to the increased number of
+operations required. Additionally, we investigate the impact of a new set of
+basis gates on the quantum optimisation techniques and show they yield no
+notable improvement in the results. Finally, we present the shortcomings of
+state-of-the-art NISQ IBM quantum devices and argue for potential future work
+and investigation.
+ER  -
+
+TY  - CPAPER
+AU  - Li, Rui
+AU  - Ren, Tingting
+AU  - Wen, Jie
+AU  - Li, Jinxing
+TI  - Optimal Transport-based Labor-free Text Prompt Modeling for Sketch Re-identification
+LA  - eng
+JF  - Advances in Neural Information Processing Systems
+VL  - 37
+PY  - 2024
+SN  - 10495258
+PB  - Neural information processing systems foundation
+AB  - Sketch Re-identification (Sketch Re-ID), which aims to retrieve target person from an image gallery based on a sketch query, is crucial for criminal investigation, law enforcement, and missing person searches. Existing methods aim to alleviate the modality gap by employing semantic metrics constraints or auxiliary modal guidance. However, they incur expensive labor costs and inevitably omit fine-grained modality-consistent information due to the abstraction of sketches. To address this issue, this paper proposes a novel Optimal Transport-based Labor-free Text Prompt Modeling (OLTM) network, which hierarchically extracts coarse- and fine-grained similarity representations guided by textual semantic information without any additional annotations. Specifically, multiple target attributes are flexibly obtained by a pre-trained visual question answering (VQA) model. Subsequently, a text prompt reasoning module employs learnable prompt strategy and optimal transport algorithm to extract discriminative global and local text representations, which serve as a bridge for hierarchical and multi-granularity modal alignment between sketch and image modalities. Additionally, instead of measuring the similarity of two samples by only computing their distance, a novel triplet assignment loss is further proposed, in which the whole data distribution also contributes to optimizing the inter/intra-class distances. Extensive experiments conducted on two public benchmarks consistently demonstrate the robustness and superiority of our OLTM over state-of-the-art methods.
+ER  -

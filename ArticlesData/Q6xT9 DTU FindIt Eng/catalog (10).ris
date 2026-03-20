@@ -1,0 +1,107 @@
+TY  - CPAPER
+TI  - 14th Metaheuristics International Conference, MIC 2022
+LA  - eng
+JF  - Lecture Notes in Computer Science (including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 13838
+PY  - 2023
+SN  - 16113349, 03029743
+SN  - 3031265033, 3031265041, 9783031265037, 9783031265044
+PB  - Springer Science and Business Media Deutschland GmbH
+AB  - The proceedings contain 48 papers. The special focus in this conference is on Metaheuristics. The topics include: Neural Architecture Search Using Differential Evolution in MAML Framework for Few-Shot Classification Problems; neural Architecture Search Using Metaheuristics for Automated Cell Segmentation; analytical Methods to Separately Evaluate Convergence and Diversity for Multi-objective Optimization; how a Different Ant Behavior Affects on the Performance of the Whole Colony; evaluating the Effects of Chaos in Variable Neighbourhood Search; investigating Fractal Decomposition Based Algorithm on Low-Dimensional Continuous Optimization Problems; a Comparative Analysis of Different Multilevel Approaches for Community Detection; tchebycheff Fractal Decomposition Algorithm for Bi-objective Optimization Problems; local Search for Integrated Predictive Maintenance and Scheduling in Flow-Shop; A BRKGA with Implicit Path-Relinking for the Vehicle Routing Problem with Occasional Drivers and Time Windows; an Investigation of Hyper-Heuristic Approaches for Teeth Scheduling; a Mixed-Integer Programming Formulation and Heuristics for an Integrated Production Planning and Scheduling Problem; construct, Merge, Solve and Adapt Applied to the Maximum Disjoint Dominating Sets Problem; fixed Set Search Applied to the Territory Design Problem; the P-Next Center Problem with Capacity and Coverage Radius Constraints: Model and Heuristics; automatic Configuration of Metaheuristics for Solving the Quadratic Three-Dimensional Assignment Problem Using Irace; hyper-parameter Optimization Using Continuation Algorithms; selecting the Parameters of an Evolutionary Algorithm for the Generation of Phenotypically Accurate Fractal Patterns; addressing Sustainability in Precision Agriculture via Multi-Objective Factored Evolutionary Algorithms; modeling and Solving the K-Track Assignment Problem; Metaheuristic Algorithms for UAV Trajectory Optimization in Mobile Networks; instance Space Analysis for the Generalized Assignment Problem; decision Support for Agri-Food Supply Chains in the E-Commerce Era: The Inbound Inventory Routing Problem with Perishable Products; a Multi-objective Biased Random-Key Genetic Algorithm for the Siting of Emergency Vehicles; simulated Annealing for a Complex Industrial Scheduling Problem; a Matheuristic for Multi-Depot Multi-Trip Vehicle Routing Problems; Comparing QUBO Models of the Magic Square Problem for Quantum Annealing; self-adaptive Publish/Subscribe Network Design; variable Neighborhood Descent for Software Quality Optimization.
+ER  -
+
+TY  - JOUR
+AU  - Hulianitskyi, Leonid
+AU  - Korolyov, Vyacheslav
+AU  - Khodzinskyi, Oleksandr
+TI  - An Overview of Algorithms for Solving Vehicle Routing Problems in the Quantum-Classical Cloud
+LA  - und
+JF  - Кібернетика Та Комп'ютерні Технології
+IS  - 2
+SP  - 23
+EP  - 31
+PY  - 2023
+SN  - 2707451x, 27074501
+PB  - V.M. Glushkov Institute of Cybernetics
+DO  - 10.34229/2707-451X.23.2.3
+AB  - Introduction. The hope of solving the problem of the avalanche-like growth of requirements for computing power, essential for solving complex routing problems and other problems of combinatorial optimization, relies on the latest quantum computers, in the development of which governments and corporations invest multi-billion investments.
+The article examines modern routing algorithms and performs their analysis and verification, if the authors of the algorithm provided appropriate test programs.
+The purpose of the article is to review the current state of development in the field of development of routing algorithms for hybrid quantum-classical clouds, analyze them and propose a classification of algorithms.
+Results. Modern quantum computers (QCs) make it possible to find approximate solutions to some of mathematical problems faster than classical computers. The inaccuracy of the solutions obtained by the QC is a consequence of physical and technological limitations: calculation errors are caused by thermal noise, a small number of computational elements - qubits and connections between them, which requires the decomposition of the problem and the use of heuristic algorithms.
+The analysis of approaches to the solution of optimization problems on QC allows us to single out: quantum response and variational search of eigenvalues based on quantum logic gates as the general directions of development of the vast majority of algorithms for solving routing problems. The considered algorithms reduce the vehicle routing problem to a quadratic unconstrained binary optimization problem, which is isomorphic to the Hamilton-Ising model. In this form, the problem is suitable for embedding in QC, which finds an approximate solution that has the best statistical reliability or corresponds to the quantum state with the lowest energy.
+As a separate class, vehicle routing algorithms for classical computers that use quantum computing to accelerate problem solving can be distinguished. For example, neural networks that calculate weighting factors using QC or an ant algorithm that calculates a pheromone trail in a hybrid cloud. It should be mentioned the quantum-inspired algorithms, which are based on software tools for the simulation of QC and the corresponding libraries and allow creating an effective class of algorithms for solving problems of vehicle routing.
+Conclusions. Combining hardware quantum annealing with a number of software tools for calculating optimization problems for classical computers in a hybrid quantum-classical cloud service allows to obtain advantages in speed and accuracy of some types of complex optimization problems of a commercial scale, in particular, routing vehicles, which is already bringing substantial profits to a number of corporations.
+ER  -
+
+TY  - JOUR
+AU  - Sinno, Salvatore
+AU  - Groß, Thomas
+AU  - Mott, Alan
+AU  - Sahoo, Arati
+AU  - Honnalli, Deepak
+AU  - Thuravakkath, Shruthi
+AU  - Bhalgamiya, Bhavika
+TI  - Performance of Commercial Quantum Annealing Solvers for the Capacitated Vehicle Routing Problem [arXiv]
+LA  - eng
+PY  - 2023
+DO  - 10.48550/arXiv.2309.05564
+AB  - Quantum annealing (QA) is a heuristic search algorithm that can run on Adiabatic Quantum Computation (AQC) processors to solve combinatorial optimization problems. Although theoretical studies and simulations on classic hardware have shown encouraging results, these analyses often assume that the computation occurs in adiabatically closed systems without environmental interference. This is not a realistic assumption for real systems; therefore, without extensive empirical measurements on real quantum platforms, theory-based predictions, simulations on classical hardware or limited tests do not accurately assess the current commercial capabilities. This study has assessed the quality of the solution provided by a commercial quantum annealing platform compared to known solutions for the Capacitated Vehicle Routing Problem (CVRP). The study has conducted extensive analysis over more than 30 hours of access to QA commercial platforms to investigate how the size of the problem and its complexity impact the solution accuracy and the time used to find a solution. Our results have found that the absolute error is between 0.12 and 0.55, and the quantum processor unit (QPU) time is between 30 and 46 micro seconds. Our results show that as the constraint density increases, the quality of the solution degrades. Therefore, more than the problem size, the model complexity plays a critical role, and practical applications should select formulations that minimize the constraint density.
+ER  -
+
+TY  - CPAPER
+AU  - Tambunan, Toufan Diansyah
+AU  - Suksmono, Andriyan Bayu
+AU  - Edward, Ian Joseph Matheus
+AU  - Mulyawan, Rahmat
+TI  - Quantum annealing for vehicle routing problem with weighted segment
+LA  - eng
+A2  - Sudrajat, Hanggara, Saputri, Wahyu Dita, Sunnardianto, Gagus Ketut, Wella, Sasfan Arman, Suprayoga, Edi, Ukhtary, Muhammad Shoufie, Hung, Nguyen Tuan
+JF  - Aip Conference Proceedings
+VL  - 2906
+IS  - 1
+PY  - 2023
+SN  - 15517616, 0094243x
+PB  - American Institute of Physics Inc.
+DO  - 10.1063/5.0178362
+AB  - Quantum annealing technologies aim to solve combinatorial optimization and sampling problems. Studies on combi-natorial optimization problems include the selection of vehicle routes on road traffic, known as the NP-hard problem. We propose a vehicle route problem that can be formulated in the Quadratic Unconstrained Binary Optimization (QUBO) model as a combina-torial problem to optimize vehicle route selection. The solution aims to optimize the vehicle's journey to reach a destination. The experiment presents a formulation to solve traffic congestion problems on certain roads. The selection of vehicle routes results in optimizing the distribution of alternative road vehicle flows. The level of road density is a cost function that will be optimized, and the constraint is a limitation on the route choice for each vehicle. This vehicle routing problem considers the weight parameter (as distance in actual road conditions) of the road segment that affects the cost function. The simulations on the D-Wave quantum annealer show optimal results on the route deployment of several vehicles. The cost value on route choice with weighted segments gives better results than in previous studies. Each vehicle can go through different road options and accurately reduce road conges-tion. This solution provides an opportunity to develop QUBO modeling on more complex vehicle routing problems to reduce road congestion.
+ER  -
+
+TY  - JOUR
+AU  - Tambunan, Toufan D.
+AU  - Suksmono, Andriyan B.
+AU  - Edward, Ian J. M.
+AU  - Mulyawan, Rahmat
+TI  - Quantum Annealing for Vehicle Routing Problem with weighted Segment
+LA  - und
+PY  - 2022
+AB  - Quantum annealing technologies aim to solve computational optimization and
+sampling problems. QPU (Quantum Processing Unit) machines such as the D-Wave
+system use the QUBO (Quadratic Unconstrained Binary Optimization) formula to
+define model optimization problems for quantum annealing. This machine uses
+quantum effects to speed up computing time better than classical computers. We
+propose a vehicle routing problem that can be formulated in the QUBO model as a
+combinatorial problem, which gives the possible route solutions increases
+exponentially. The solution aims to optimize the vehicle's journey to reach a
+destination. The study presents a QUBO formulation to solve traffic congestion
+problems on certain roads. The resulting route selection by optimizing the
+distribution of the flow of alternative road vehicles based on the weighting of
+road segments. Constraints formulated as a condition for the level of road
+density. The road weight parameter influences the cost function for each road
+choice. The simulations on the D-Wave quantum annealer show optimal results on
+the route deployment of several vehicles. So that each vehicle will be able to
+go through different road options and reduce road congestion accurately. This
+solution provides an opportunity to develop QUBO modeling for more complex
+vehicle routing problems for road congestion.
+ER  -
+
+TY  - CPAPER
+TI  - 1st International Workshop on Quantum Technology and Optimization Problems, QTOP 2019 was held in conjunction with the International Conference on Networked Systems, NetSys 2019
+LA  - eng
+JF  - Lecture Notes in Computer Science (including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 11413
+PY  - 2019
+SN  - 16113349, 03029743
+SN  - 3030140814, 3030140822, 9783030140816, 9783030140823
+PB  - Springer Verlag
+AB  - The proceedings contain 19 papers. The special focus in this conference is on Quantum Technology and Optimization Problems. The topics include: Solving Large Maximum Clique Problems on a Quantum Annealer; quantum Annealing Based Optimization of Robotic Movement in Manufacturing; quantum Annealing of Vehicle Routing Problem with Time, State and Capacity; boosting Quantum Annealing Performance Using Evolution Strategies for Annealing Offsets Tuning; Quantum Photonic TRNG with Dual Extractor; secure Quantum Data Communications Using Classical Keying Material; continuous-Variable Quantum Network Coding Against Pollution Attacks; On the Influence of Initial Qubit Placement During NISQ Circuit Compilation; towards a Pattern Language for Quantum Algorithms; embedding Inequality Constraints for Quantum Annealing Optimization; Assessing Solution Quality of 3SAT on a Quantum Annealing Platform; principles and Guidelines for Quantum Performance Analysis; nash Embedding and Equilibrium in Pure Quantum States; a Quantum Algorithm for Minimising the Effective Graph Resistance upon Edge Addition; variational Quantum Factoring; function Maximization with Dynamic Quantum Search; flight Gate Assignment with a Quantum Annealer.
+ER  -

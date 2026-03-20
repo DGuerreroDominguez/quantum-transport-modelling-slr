@@ -1,0 +1,130 @@
+TY  - JOUR
+AU  - Van Rees, Balt C.
+AU  - Zhao, Xiang
+AB  - The boundary correlation functions for a quantum field theory (QFT) in a fixed anti-de Sitter (AdS) background should reduce to S-matrix elements in the flat-space limit. We consider this procedure in detail for four-point functions. With minimal assumptions we rigorously show that the resulting S-matrix element obeys a dispersion relation, the nonlinear unitarity conditions, and the Froissart-Martin bound. QFT in AdS thus provides an alternative route to fundamental QFT results that normally rely on the LSZ axioms.
+TI  - Quantum Field Theory in AdS Space instead of Lehmann-Symanzik-Zimmerman Axioms
+LA  - eng
+JF  - Physical Review Letters
+VL  - 130
+IS  - 19
+PY  - 2023
+SN  - 10797114, 00319007, 10920145
+PB  - American Physical Society
+DO  - 10.1103/physrevlett.130.191601, 10.1103/PhysRevLett.130.191601
+ER  -
+
+TY  - 
+AU  - Ghosh, J. K.
+AU  - Kiritsis, E.
+AU  - Nitti, F.
+AU  - Witkowski, L. T.
+AB  - Maximally symmetric curved-brane solutions are studied in dilatonic braneworld models which realise the self-tuning of the effective four-dimensional cosmological constant. It is found that no vacua in which the brane has de Sitter or anti-de Sitter geometry exist, unless one modifies the near-boundary asymptotics of the bulk fields. In the holographic dual picture, this corresponds to coupling the UV CFT to a curved metric (possibly with a defect). Alternatively, the same may be achieved in a flat-space QFT with suitable variable scalar sources. With these ingredients, it is found that maximally symmetric, positive and negative curvature solutions with a stabilised brane position generically exist. The space of such solutions is studied in two different types of realisations of the self-tuning framework. In some regimes we observe a large hierarchy between the curvature on the brane and the boundary UV CFT curvature. This is a dynamical effect due to the self-stabilisation mechanism. This setup provides an alternative route to realising de Sitter space in string theory.
+TI  - De sitter and anti-de sitter branes in self-tuning models
+LA  - eng
+JF  - Arxiv
+PY  - 2018
+PB  - arXiv
+ER  -
+
+TY  - JOUR
+AU  - Ghosh, J. K.
+AU  - Kiritsis, E.
+AU  - Nitti, F.
+AU  - Witkowski, L. T.
+AB  - Maximally symmetric curved-brane solutions are studied in dilatonic braneworld models which realise the self-tuning of the effective four-dimensional cosmological constant. It is found that no vacua in which the brane has de Sitter or anti-de Sitter geometry exist, unless one modifies the near-boundary asymptotics of the bulk fields. In the holographic dual picture, this corresponds to coupling the UV CFT to a curved metric (possibly with a defect). Alternatively, the same may be achieved in a flat-space QFT with suitable variable scalar sources. With these ingredients, it is found that maximally symmetric, positive and negative curvature solutions with a stabilised brane position generically exist. The space of such solutions is studied in two different types of realisations of the self-tuning framework. In some regimes we observe a large hierarchy between the curvature on the brane and the boundary UV CFT curvature. This is a dynamical effect due to the self-stabilisation mechanism. This setup provides an alternative route to realising de Sitter space in string theory.
+TI  - De Sitter and Anti-de Sitter branes in self-tuning models
+LA  - eng
+JF  - Journal of High Energy Physics
+VL  - 2018
+IS  - 11
+PY  - 2018
+SN  - 10298479, 11266708, 11272236
+PB  - Springer Verlag
+DO  - 10.1007/JHEP11(2018)128, 10.1007/jhep11(2018)128
+ER  -
+
+TY  - JOUR
+AU  - Pacheco-Plata, Felícitas
+AU  - Gutiérrez-Dorado, Roberto
+AU  - Iribe-Salazar, Rosalina
+AU  - Carrazco-Escalante, Marco
+AU  - Caro-Hernández, Olivia
+AU  - Camacho-Hernández, Leticia
+AU  - Vázquez-López, Yessica
+AU  - Cronin, Kevin
+AU  - Caro-Corrales, José
+AB  - Abstract: Baking is a healthier alternative to frying, since texture, color, smell, and flavor are developed, without adding oil. The objective was to estimate the moisture content in potato slices, during baking using Fick's law of diffusion to model internal moisture transport and to assess the impact on quality attributes. Moisture transport kinetics were examined at three baking temperatures of 120, 130, and 140°C. Fick's law was employed to estimate average moisture content using different methods: considering both a constant (method of slopes by subperiods, MSS; and method of successive approximations, MSA) and a variable (represented as a quadratic function of time, QFT) behavior of effective diffusivity (De). Three quality variables were analyzed: water activity (aw, dew point hygrometry), total color difference (∆E, colorimetry), and fracturability (F, universal testing machine). The diffusivity estimated with the time-varying De method provided a more realistic description of moisture migration during baking. The aw, ∆E, and F for baked potato slices ranged from 0.234 to 0.276, 17.9 to 24.6, and 5.20 to 5.49 N, respectively. These attributes imply improved stability and extended shelf life, showing typical colors and texture changes for baked snacks. These changes are linked to variations in diffusivity, influenced by the size and quantity of micropores within the food structure. This study could allow an accurate prediction of mass transfer by considering variable De, facilitating the optimization of baking conditions. Practical Application: The analysis of the moisture content using Fick's law, considering a time-varying diffusivity, enables the optimization of the baking process for foods. This helps minimize the occurrence of defective products.
+TI  - Modeling of moisture content during baking with different approaches for effective diffusivity and evaluation of quality variables in baked potato slices
+LA  - eng
+JF  - Journal of Food Science
+VL  - 89
+IS  - 9
+SP  - 5763
+EP  - 5773
+PY  - 2024
+SN  - 17503841, 00221147
+PB  - Wiley
+DO  - 10.1111/1750-3841.17257
+ER  -
+
+TY  - JOUR
+AU  - Susskind, Leonard
+AU  - of Technology. Dept. of Physics., Massachusetts Institute
+AU  - of Technology. Dept. of Physics., Massachusetts Institute
+AU  - Dyson, Lisa Marie
+AB  - Thesis (Ph. D.)--Massachusetts Institute of Technology, Dept. of Physics, 2004.
+Includes bibliographical references (p. 144-154).
+We begin by presenting some results of studying certain axially symmetric super- gravity geometries corresponding to a distribution of BPS D6-branes wrapped on K3, obtained as extremal limits of a rotating solution. The geometry's unphysical regions resulting from the wrapping can be repaired by the enhancon mechanism, with the result that there are two nested enhancon shells. For a range of parameters, the two shells merge into a single toroidal surface. Given the quite intricate nature of the geometry, it is an interesting system in which to test previous techniques that have been brought to bear in spherically symmetric situations. We are able to check the consistency of the construction using supergravity surgery techniques, and probe brane results. Implications for the Coulomb branch of (2+1)-dimensional pure SU(N) gauge theory are extracted from the geometry. Related results for wrapped D4-- and D5-brane distributions are also discussed. Next, we turn to the issue of time travel. Many solutions of General Relativity appear to allow the possibility of time travel. This was initially a fascinating discovery, but geometries of this type violate causality, a basic physical law which is believed to be fundamental. Although string theory is a proposed fundamental theory of quantum gravity, geometries with closed timelike curves have resurfaced as solutions to its low energy equations of motion. In chapter 3, we will study the class of solutions to low energy effective supergravity theories related to the BMPV black hole and the D1--D5-brane-SSW system. Time travel appears to be possible in these geometries. We will attempt to build the causality violating regions and propose that stringy effects prohibit their construction.
+(cont.) We will show how the geometry is corrected and that, once corrected, causality is preserved. We will track our chronology protection proposal in the dual conformal field theory. The absence of closed timelike curves in the geometry coincides with the preservation of unitarity ill the conformal field theory. Our mechanism will also have the pleasing result of being an enforcer of the second law of thermodynamics. We will generalize our results to a broader class of geometries. Finally we discuss physics associated with horizons. A de Sitter Space version of Black Hole Complementarity is formulated which states that an observer in de Sitter Space describes the surrounding space as a sealed finite temperature cavity bounded by a horizon which allows no loss of information. We then discuss the implications of this for the existence of boundary correlators in the hypothesized dS/CFT correspondence. We find that dS complementarity precludes the existence of the appropriate limits. We find that the limits exist only in approximations in which the entropy of the de Sitter Space is infinite. The reason that the correlators exist in quantum field theory in the de Sitter Space background is traced to the fact that horizon entropy is infinite in QFT. We will consider the implications of a cosmological constant for the evolution of the universe, under a set of assumptions motivated by the holographic and horizon complementarity principles. We discuss the "causal patch" description of spacetime required by this framework, and present some simple examples of cosmologies ...
+by Lisa Marie Dyson.
+Ph.D.
+TI  - Three lessons in causality : what string theory has to say about naked singularities, time travel and horizon complementarity - 3 lessons in causality
+LA  - eng
+PY  - 2004
+PB  - Massachusetts Institute of Technology
+ER  -
+
+TY  - JOUR
+AU  - Chakraborty, Chiranjib
+AU  - Bhattacharya, Manojit
+AU  - Dhama, Kuldeep
+AU  - Lee, Sang Soo
+TI  - Quantum computing on nucleic acid research: Approaching towards next-generation computing
+LA  - eng
+JF  - Molecular Therapy Nucleic Acids
+VL  - 33
+SP  - 53
+EP  - 56
+PY  - 2023
+SN  - 21622531
+PB  - Cell Press
+DO  - 10.1016/j.omtn.2023.06.007
+ER  -
+
+TY  - JOUR
+AU  - Reynolds, Paul N.
+AU  - Ansari, Sameera
+AU  - Hernandez-Sebastian, Rosalyn
+AU  - Boonsawat, Watchara
+AU  - Chen, Shih Yu
+AU  - Lan, Landy
+AU  - Yang, Dawei
+AU  - Habib, G. M.Monsur
+AU  - Mendoza-Wi, Jennifer Ann
+AU  - Huang, Hung Ling
+AU  - Lan, Le Thi Tuyet
+AU  - Vinh, Nguyen Nhu
+AU  - De Leon, Maria Lowella F.
+AU  - Chang, Anne B.
+TI  - Towards regional progress: APSR 2022 Big Five Lung Diseases Workshop
+LA  - eng
+JF  - Respirology
+VL  - 28
+IS  - 8
+SP  - 807
+EP  - 816
+PY  - 2023
+SN  - 14401843, 13237799
+PB  - John Wiley and Sons Inc
+DO  - 10.1111/resp.14548
+ER  -

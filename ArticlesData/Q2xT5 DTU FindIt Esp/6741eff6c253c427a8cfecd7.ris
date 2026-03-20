@@ -1,0 +1,15 @@
+TY  - JOUR
+AU  - Rocío, Muñoz-Mansilla
+AU  - José Manuel, Martínez
+AU  - Dictino, Chaos
+AU  - David, Moreno-Salinas
+AU  - Joaquín Aranda, Almansa
+TI  - Diseño de un sistema de control de estabilización de un buque de alta velocidad basados en técnicas QFT
+LA  - spa
+JF  - Actas De Las Xxxvii Jornadas De Automática 7, 8 Y 9 De Septiembre De 2016, Madrid
+SP  - 645
+EP  - 652
+PY  - 2022
+DO  - 10.17979/spudc.9788497498081.0645
+AB  - Este trabajo presenta el diseño de un sistema de control de estabilización de un buque de alta velocidad (BAV) para mejorar el confort y seguridad en el transporte marítimo. El objetivo es conseguir la amortiguación de las dinámicas acopladas de arfada, cabececeo y balance mediante el uso de superficies de estabilización activa (aletas de proa, de popa y laterales). La metodología empleada se basa en la técnica de control robusto en el dominio de la frecuencia denominada Teoría de la Realimentación Quantitativa QFT (Quantitative Feedback Theory). En este trabajo se van a presentar dos aproximaciones, dependiendo del nivel de acoplamiento debido a la acción de los actuadores. En la primera solución, se considera un nivel de acoplamiento bajo y se diseñan de forma separada los controladores para las dinámicas longitudinal y transversal. En la segunda solución, se considera un nivel de acoplamiento alto debido a la acción de los actuadores. En este caso se emplea una combinación de la técnica QFT y Asignación de Autoestructuras (AE). Para las dos aproximaciones, los análisis de las simulaciones temporales para diferentes estados de la mar y ángulos de incidencia del oleaje demuestran resultados satisfactorios y se consigue el amortiguamiento. Se demuestra con ello que las técnicas de control robusto basadas en las metodologías QFT resultan factibles y apropiadas para el control de estabilización de sistemas marinos avanzados, pues resuelven la problemática en diferentes velocidades y ángulos de incidencia.
+ER  -

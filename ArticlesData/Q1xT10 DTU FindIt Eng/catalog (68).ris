@@ -1,0 +1,1331 @@
+TY  - CPAPER
+AB  - The proceedings contain 32 papers. The special focus in this conference is on Cellular Automata for Research and Industry. The topics include: A Simple Model of Knowledge Percolation; Identification of Periodic Boundary SACA Rules Exploring NSRT Diagram; cluster Motion of Multiple Elevators and Indices Related to the Transportation Efficiency Studied in a Discrete Model Simulation; pedestrian Movement: An Analysis of Transition Regime the Real-Life Experiment, a Comparison with a Simulation Data at an Example of the “SigmaEva” Software; analysis of Congestion Caused by a Bottleneck in a Crowded Aquarium with a Fixed One-Way Route; maximum Traffic Flow Patterns in Interacting Autonomous Vehicles; density Estimates in Cellular Automata Models of Pedestrian Dynamics; integrating the Implications of Distance-Based Affective States in Cellular Automata Pedestrian Simulation; wildfire Simulation Model Based on Cellular Automata and Stochastic Rules; automatic Evolutionary Adjustment of Cellular Automata Model for Forest Fire Propagation; spreadability and Vulnerability via Attributes for Systems Described by Cellular Automata: Application to Wildfire; exploring Lightweight S-boxes Using Cellular Automata and Reinforcement Learning; Towards Self–optimizing Sensor Networks: Game–Theoretic Second–Order CA–Based Approach; idea of Cellular Automata Application in Two-Slit Experiments; performance Analysis of Regular Clocking Based Quantum-Dot Cellular Automata Logic Circuit: Fault Tolerant Approach; modeling Phase Change Materials Using Cellular Automata; a Cellular Automaton Model of a Laser with Saturable Absorber Reproducing Laser Passive Q-switching; the Evolution of Vermicular Structures and Sintering Behavior of Alumina; four State Deterministic Cellular Automaton Rule Emulating Random Diffusion; evolving Quantum Circuits to Implement Stochastic and Deterministic Cellular Automata Rules; lyapunov Profiles of Three-State Totalistic Cellular Automata; cellular Automata Application on Chemical Computing Logic Circuits; double Population Lattice Boltzmann Model for Magneto-Hydrodynamic Blood Flow in Stenotic Artery; stimulus-Induced Swarming in Soldier Crabs: A Behavioral Model by Cellular Automata; preface.
+TI  - 15th International Conference on Cellular Automata for Research and Industry, ACRI 2022
+LA  - eng
+JF  - Lecture Notes in Computer Science (including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 13402
+PY  - 2022
+SN  - 16113349, 03029743
+SN  - 3031149254, 3031149262, 9783031149252, 9783031149269
+PB  - Springer Science and Business Media Deutschland GmbH
+ER  -
+
+TY  - BOOK
+AU  - Wyrzykowski, Roman
+AB  - -- First Workshop on Advancements of Global Challenges Applications. -- Simulation of wildfires using EuroHPC resources: challenges and opportunities. -- Ktirio Urban Building: A Computational Framework for City Energy Simulations Enhanced by CI/CD Innovations on EuroHPC Systems. -- Fostering uncertainty quantification in Global Challenges with mUQSA toolkit. -- Portability of Multiphysics Applications on Heterogeneous Modular Supercomputers. -- Efficient allocation of image recognition and LLM tasks on multi-GPU system. -- Parallel reinforcement learning and Gaussian process regression for improved physics-based nasal surgery planning. -- Second Workshop on Applications of Machine Learning and Artificial Intelligence in High Performance Computing. -- AI-Driven Acceleration of Computational Fluid Dynamic Simulations. -- A Framework and Methodology for Performance Prediction of HPC Workloads. -- EM algorithm for cluster of multicore nodes using Level 3 BLAS operations to learn Gaussian mixture models. -- MLP-based Adaptive Sampling and Optimization of Laser-Ion Acceleration with Ultra-Short Laser Pulses. -- Minimization of Nonlinear Energies in Python Using FEM and Automatic Differentiation Tools. -- Comparison of multigrid and machine learning-based Poisson solvers. -- Adaptive Parallel Average Schwarz Preconditioner for reduced Hsieh-Clouh-Tocher Macro Element. -- Special Session on Parallel EVD/SVD and its Application in Matrix Computations. -- Preconditioning of the One-Sided Block-Jacobi SVD Algorithm by Polar Decomposition. -- Comparison of Two QUBO Formulations of Approximate Block Diagonalization and Their Performance on the D-Wave Advantage Quantum Annealing Machine. -- 6th Minisymposium on HPC Applications in Physical Sciences. -- Efficient Algorithm for U(N) to U(3) Representation Reduction in Isospin-Adapted Nuclear Structure Calculations. -- Study of the magnetic behaviour of oleic-acid coated Co ferrite nanoparticles: A multiscale modeling approach using high-performance computing. -- 8th Workshop on Complex Collective Systems. -- High-Resolution Agent-Based Modeling of Campus Population Behaviors for Pandemic Response Planning. -- A comparison of selected agent-based modelling frameworks. -- Modelling of opinion formation process on different social networks. -- Machine learning approach for detecting potential anomalous cosmic rays particles tracks in Earth-scale Cosmic Ray Extremely Distributed Observatory. -- A multi-cell cellular automata model for roundabout traffic flow considering the heterogeneity of human delay and acceleration. -- Kernel estimates of pedestrian density applied in simulation of recreational pedestrian movement. -- Personal Space of People in Movement under Different Conditions.
+TI  - Parallel Processing and Applied Mathematics : 15th International Conference, PPAM 2024, Ostrava, Czech Republic, September 8–11, 2024, Revised Selected Papers, Part III
+LA  - eng
+A2  - Wyrzykowski, Roman, Dongarra, Jack, Deelman, Ewa, Karczewski, Konrad
+JF  - Parallel Processing and Applied Mathematics: 15th International Conference, Ppam 2024, Ostrava, Czech Republic, September 8–11, 2024, Revised Selected Papers, Part Iii
+PY  - 2025
+SN  - 303185702x, 3031857038, 9783031857027, 9783031857034
+PB  - Springer Nature Switzerland
+ER  -
+
+TY  - CPAPER
+AB  - The proceedings contain 47 papers. The special focus in this conference is on Cellular Automata for Research and Industry. The topics include: Towards Self-organizing Sensor Networks: Game-Theoretic e-Learning Automata-Based Approach; Termination and Stability Levels in Evolved CA Agents for the Black–Pattern Task; size Effect in Cellular Automata Based Disease Spreading Model; pheromone Interactions in a Cellular Automata-Based Model for Surveillance Robots; Agent-Based Simulation of Information Spreading in VANET; analysis of Rates of Agents’ Decisions in Learning to Cross a Highway in Populations with Risk Takers and Risk Avoiders; The Automatic Generation of an Efficient Floor Field for CA Simulations in Crowd Management; traffic on Small Grids and the Ramp Problem; the Impact of Different Angle Paths on Discrete-Continuous Pedestrian Dynamics Model; modeling Spatio-Temporal Dynamics of Metabolic Networks with Cellular Automata and Constraint-Based Methods; two-Way Road Cellular Automaton Model with Loading/Unloading Bays for Traffic Flow Simulation; A Microscopic CA Model of Traffic Flow?; regional Control of Probabilistic Cellular Automata; regional Synchronization of a Probabilistic Cellular Automaton; Firsts Steps in Cellular Fields Optimization: A FSSP Case Study; Implementations of FSSP Algorithms on Fault-Tolerant Cellular Arrays; do There Exist Non-linear Maximal Length Cellular Automata? A Study; polynomial Equations over Finite, Discrete-Time Dynamical Systems; the Representation Role for Basic Operations Embodied in Cellular Automata: A Suitability Example for Addition in Redundant Numeral Systems vs Conventional Ones; quantum Walks on Quantum Cellular Automata Lattices: Towards a New Model for Quantum Computation; a Novel Cellular Automata Modelling Framework for Micro-environmental Interaction and Co-invasion; self-verifying Cellular Automata.
+TI  - 13th International Conference on Cellular Automata for Research and Industry, ACRI 2018
+LA  - eng
+JF  - Lecture Notes in Computer Science (including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 11115
+PY  - 2018
+SN  - 16113349, 03029743
+SN  - 3319998129, 3319998137, 9783319998121, 9783319998138
+PB  - Springer Verlag
+ER  -
+
+TY  - CPAPER
+AB  - The proceedings contain 40 papers. The special focus in this conference is on Practical Applications of Agents and Multi-Agent Systems. The topics include: A Multi-agent Approach for Evacuation Support in Mountainous Areas Using UAV; a Simple Agent Based Modeling Tool for Plastic and Debris Tracking in Oceans; Multi-agent CHANS: BDI Farmer Intentions and Decision Making; modelling Individual Preferences to Study and Predict Effects of Traffic Policies; dynamical Perceptual-Motor Primitives for Better Deep Reinforcement Learning Agents; inference of the Intentions of Unknown Agents in a Theory of Mind Setting; SMASH: A Semantic-Enabled Multi-agent Approach for Self-adaptation of Human-Centered IoT; Agent-Based Modelling and Simulation of Airport Terminal Operations Under COVID-19-Related Restrictions; semantic Services Catalog for Multiagent Systems Society; towards Quantum-Secure Authentication and Key Agreement via Abstract Multi-Agent Interaction; fully Decentralized Planner-Guided Robot Swarms; winning at Any Cost - Infringing the Cartel Prohibition with Reinforcement Learning; swarm of Satellites: Implementation and Experimental Study of Multi-Agent Solution for Adaptive Scheduling of Large-Scale Space Observation Systems; towards an Online Agent Based Collision Avoidance by Mobile Edge Computing; formal Specification of Fault-Tolerant Multi-agent Systems; integrating Valence and Arousal Within an Agent-Based Model of Emotion Contagion; towards a Versatile Intelligent Conversational Agent as Personal Assistant for Migrants; Comparing Thread Migration, Mobile Agents, and ABM Simulators in Distributed Data Analysis; demonstrating Exception Handling in JaCaMo; dial4JaCa – A Demonstration; HAIL: Modular Agent-Based Pedestrian Imitation Learning; experiments on User-Centered Control of Lights in Open-Plan Office Spaces Using IoT Devices and Distributed Constraint Optimization; A DBDN with the MAS Ellipsis; nego-Bot: A Human-Robot Negotiation System.
+TI  - 19th International Conference on Practical Applications of Agents and Multi-Agent Systems, PAAMS 2021
+LA  - eng
+JF  - Lecture Notes in Computer Science (including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 12946
+PY  - 2021
+SN  - 16113349, 03029743
+SN  - 3030857387, 3030857395, 9783030857387, 9783030857394
+PB  - Springer Science and Business Media Deutschland GmbH
+ER  -
+
+TY  - JOUR
+AU  - Torres-Ruiz, Miguel
+AU  - Moreno-Ibarra, Marco
+AU  - Alhalabi, Wadee
+AU  - Quintero, Rolando
+AU  - Guzmán, Giovanni
+TI  - Towards a microscopic model for analyzing the pedestrian mobility in an urban infrastructure
+LA  - eng
+JF  - Journal of Science and Technology Policy Management
+VL  - 9
+IS  - 2
+SP  - 170
+EP  - 188
+PY  - 2018
+SN  - 20534639, 20534620
+PB  - Emerald Group Holdings Ltd.
+DO  - 10.1108/JSTPM-05-2017-0023
+ER  -
+
+TY  - CPAPER
+AB  - The proceedings contain 136 papers. The special focus in this conference is on Computational Science. The topics include: DunDi: Improving Robustness of Neural Networks Using Distance Metric Learning; autism Screening Using Deep Embedding Representation; function and Pattern Extrapolation with Product-Unit Networks; fast and Scalable Outlier Detection with Metric Access Methods; Deep Learning Based LSTM and SeqToSeq Models to Detect Monsoon Spells of India; data Analysis for Atomic Shapes in Nuclear Science; a Novel Partition Method for Busy Urban Area Based on Spatial-Temporal Information; mention Recommendation with Context-Aware Probabilistic Matrix Factorization; synchronization Under Control in Complex Networks for a Panic Model; application of Continuous Time Quantum Walks to Image Segmentation; personalized Ranking in Dynamic Graphs Using Nonbacktracking Walks; an Agent-Based Model for Emergent Opponent Behavior; fine-Grained Label Learning via Siamese Network for Cross-modal Information Retrieval; MeshTrust: A CDN-Centric Trust Model for Reputation Management on Video Traffic; optimizing Spatial Accessibility of Company Branches Network with Constraints; a Fast 3D Finite-Element Solver for Large-Scale Seismic Soil Liquefaction Analysis; Performance Evaluation of Tsunami Inundation Simulation on SX-Aurora TSUBASA; parallel Computing for Module-Based Computational Experiment; Heuristic Optimization with CPU-GPU Heterogeneous Wave Computing for Estimating Three-Dimensional Inner Structure; a Generic Interface for Godunov-Type Finite Volume Methods on Adaptive Triangular Meshes; synchronized Detection and Recovery of Steganographic Messages with Adversarial Learning; distributed Memory Parallel Implementation of Agent-Based Economic Models; augmenting Multi-agent Negotiation in Interconnected Freight Transport Using Complex Networks Analysis; security-Aware Distributed Job Scheduling in Cloud Computing Systems: A Game-Theoretic Cellular Automata-Based Approach; multi-source Manifold Outlier Detection.
+TI  - 19th International Conference on Computational Science, ICCS 2019
+LA  - eng
+JF  - Lecture Notes in Computer Science (including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 11537
+PY  - 2019
+SN  - 16113349, 03029743
+SN  - 3030227405, 3030227413, 9783030227401, 9783030227418
+PB  - Springer Verlag
+ER  -
+
+TY  - JOUR
+AU  - Zhang, Yuxuan
+AU  - Zhang, Ruizhe
+AU  - Potter, Andrew C.
+AB  - We present a general framework for modifying quantum approximate optimization algorithms (QAOA) to solve constrained network flow problems. By exploiting an analogy between flow-constraints and Gauss' law for electromagnetism, we design lattice quantum electrodynamics (QED)- inspired mixing Hamiltonians that preserve flow constraints throughout the QAOA process. This results in an exponential reduction in the size of the configuration space that needs to be explored, which we show through numerical simulations, yields higher quality approximate solutions compared to the original QAOA routine. We outline a specific implementation for edge-disjoint path (EDP) problems related to traffic congestion minimization, numerically analyze the effect of initial state choice, and explore trade-offs between circuit complexity and qubit resources via a particle-vortex duality mapping. Comparing the effect of initial states reveals that starting with an ergodic (unbiased) superposition of solutions yields better performance than beginning with the mixer ground-state, suggesting a departure from the "short-cut to adiabaticity" mechanism often used to motivate QAOA.
+TI  - QED driven QAOA for network-flow optimization
+LA  - eng
+JF  - Quantum
+VL  - 5
+PY  - 2021
+SN  - 2521327x
+PB  - Verein zur FÃ¶rderung des Open Access Publizierens in den Quantenwissenschaften
+DO  - 10.22331/Q-2021-07-27-510
+ER  -
+
+TY  - JOUR
+AU  - Rajkumar, K.
+AU  - Shalinie, S. Mercy
+AB  - Securing IoT networks against cyber-attacks, especially Distributed Denial of Service (DDoS) attacks, is a growing challenge due to their ability to disrupt services and overwhelm network resources. This study introduces a novel post-processing methodology that integrates Explainable AI (XAI) with Quantum Neural Networks (QNN) to enhance the interpretability of DDoS attack detection. We utilize the CICFlowMeter tool for feature extraction, processing bidirectional network traffic data and generating up to 87 distinct features. Notably, the CICFlowMeter removes potentially tampered features such as IP addresses and ports to prevent manipulation, addressing the limitations associated with the use of these features in the presence of attackers. After a QNN generates expectation values for a given input, SHAP (SHapley Additive exPlanations) values are applied to interpret the contributions of individual features in the decision-making process. Although the QNN output indicates whether a network flow is benign or malicious, the quantum model's complexity makes it difficult to interpret. By using SHAP values, we identify which features such as IP addresses, ports, and traffic patterns significantly influence the QNN's classification, providing human-understandable explanations for the model's predictions. For evaluation, we used the CIC-IoT 2022and proposed SDN-DDoS24 datasets, with SDN-DDoS24 outperforming others when integrated with the proposed methodology. The QNN was implemented on IonQ quantum hardware through Amazon Braket, achieving an expectation value of 0.98 with a low latency of 113 milliseconds, making it suitable for applications requiring both precision and speed. This study demonstrates that integrating XAI with QNN not only improves DDoS attack detection accuracy but also enhances transparency, making the model more trustworthy for real-world cybersecurity applications. By offering clear explanations of model behavior, the approach ensures that security experts can make informed decisions based on the quantum-enhanced detection system, improving its reliability and usability in dynamic network environments.
+TI  - SHAP-based intrusion detection in IoT networks using quantum neural networks on IonQ hardware
+LA  - eng
+JF  - Journal of Parallel and Distributed Computing
+VL  - 204
+PY  - 2025
+SN  - 10960848, 07437315
+PB  - Academic Press Inc.
+DO  - 10.1016/j.jpdc.2025.105133
+ER  -
+
+TY  - CPAPER
+AB  - The proceedings contain 34 papers. The special focus in this conference is on Cellular Automata for Research and Industry. The topics include: Simulating spatial dynamics by probabilistic cellular automata; cellular automata models for transportation applications; an evolutionary approach to the study of non-trivial collective behavior in cellular automata; artificially evolved asynchronous cellular automata for the density task; evolving cellular automata as pattern classifier; an efficient mapping scheme for embedding any one-dimensional firing squad synchronization algorithm onto two-dimensional arrays; chaotic subshifts generated by one dimensional elementary ca; stochastic analysis of cellular automata and the voter model; universality class of probabilistic cellular automata; kinetic approach to lattice quantum mechanics; emergence of self-replicating loops in an interactive, hardware-implemented game-of-life environment; spontaneous emergence of robust cellular replicators; emergence of macro spatial structures in dissipative cellular automata; enhancing cellular spaces by multilayered multi agent situated systems; perturbing the regular topology of cellular automata; a path-planner for mobile robots of generic shape with multilayered cellular automata; dynamics of populations in extended systems; simulation of vegetable populations dynamics based on cellular automata; a fish migration model; a parallel cellular ant colony algorithm for clustering and sorting; a multiparticle lattice gas automata model for a crowd; CA approach to collective phenomena in pedestrian dynamics; opinion formation and phase transitions in a probabilistic cellular automaton with two absorbing states and cellular automata machine for pattern recognition.
+TI  - 5th International Conference on Cellular Automata for Research and Industry, ACRI 2002
+LA  - eng
+JF  - Lecture Notes in Computer Science (including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 2493
+SP  - 1
+EP  - 368
+PY  - 2002
+SN  - 16113349, 03029743
+SN  - 3540443045, 3540458301, 9783540443049, 9783540458302
+PB  - Springer Verlag
+ER  -
+
+TY  - CPAPER
+AB  - The proceedings contain 74 papers. The topics discussed include: from CA to gene expression: machines and mechanisms; what's new in Wolfram's new kind of science?; quantum walks and quantum cellular automata; modelling of transport and traffic problems; occurrence of gliders in an infinite class of life-like cellular automata; cellular automata-based structures to compute the solutions of linear difference equations; computing by swarm networks; on a membrane formation in a spatio-temporally generalized prisoner's dilemma; an asynchronous cellular automaton implementing 2-state 2-input 2-output reversed-twin reversible elements; on the representation of gliders in rule 54 by De Bruijn and cycle diagrams; a cellular automaton model for tribological problems; stabilizing and destabilizing effects of embedding 3-node subgraphs on the state space of Boolean networks; and about 4-states solutions to the firing squad synchronization problem.
+TI  - Cellular Automata - 8th International Conference on Cellular Automata for Research and Industry, ACRI 2008, Proceedings
+LA  - eng
+JF  - Lecture Notes in Computer Science (including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 5191
+PY  - 2008
+SN  - 16113349, 03029743
+SN  - 3540799915, 3540799923, 9783540799917, 9783540799924
+ER  -
+
+TY  - CPAPER
+AU  - Batistuta, M. V.
+AU  - Stella, M. F.
+AU  - Da Costa, J. C.
+AB  - Coupled quantum dot cells are the basic functional structures in implementing Quantum Cellular Automata (QCA), which may offer higher computational capabilities for integrated circuits. In this work a transport dynamics model, and a robust numerical simulation strategy, for behavior prediction and optimization were developed, where thermal noise is considered in order to validate stable operation at finite temperatures. © The Electrochemical Society.
+TI  - Stability of coupled quantum dot cells at finite temperatures
+LA  - eng
+JF  - Ecs Transactions
+VL  - 9
+IS  - 1
+SP  - 433
+EP  - 439
+PY  - 2007
+SN  - 19386737, 19385862
+SN  - 1566775655, 9781566775656
+DO  - 10.1149/1.2766915
+ER  -
+
+TY  - BOOK
+AU  - Paszynski, Maciej.
+AB  - (Credible) Multiscale Modelling and Simulation -- Novel Hierarchical Decision Tree Frameworks Introducing Tree Method Bagging-Stump Integration and Height Optimization -- Modelling Heat Conduction between Two Contacting Particles in Vacuum Insulation Panels Made with Granular Porous Media -- Multiscale Parallel Simulation of Malignant Pleural Mesothelioma via Adaptive Domain Partitioning – an Efficiency Analysis Study -- Node-level Performance of Adaptive Resolution in ls1 mardyn -- A Multiscale Modeling Framework for Organizational Resilience: Integrating Agent-Based, Discrete Event, and System Dynamics Approaches -- mUQSA - An Online Service for Uncertainty Quantification and Sensitivity Analysis -- FUMEplot: a Prototype Tool for Automated Visualisation of Uncertainties in Ensemble Modelling Outputs -- AI-enhanced Agent-based Modelling Approach for Forced Displacement Predictions -- Numerical Algorithms and Computer Arithmetic for Computational Science -- On Floating Point Approximation of the Reciprocal Cube Root Function -- Fourier Error Analysis of Caputo Derivative Approximations based on Lagrange Interpolation over Uniform Mesh -- Time and Energy Consumption of Multithreaded Matrix Factorization using Various Compilers Optimizations -- Quantum Computing -- Modeling the Cyclic Bandwidth Problem in QUBO for Quantum Annealing -- Optimization Framework for Reducing Mid-circuit Measurements and Resets -- Quantum-Classical Dual Kernel SVMs for Power Quality Classification -- Quantum-aware Transformer Model for State Classification -- Hyperspectral Image Segmentation with a Machine Learning Model Trained using Quantum Annealer -- Classification of the Polish Handwritten Letters by the use of Quantum Convolutional Neural Network -- Retrieval-Augmented Generation -- AggTruth: Contextual Hallucination Detection using Aggregated Attention Scores in LLMs -- CiteVerifier: How Good Are Citation Verifiers and How to Use Them?- From Statement of Facts to Statutory Provisions – Efficient Retrieval of Relevant Legislation -- PoliChat: Retrieval Augmented Generation on University Documents and Regulations -- Simulations of Flow and Transport: Modeling, Algorithms and Computation -- Isogeometric Galerkin-characteristic Analysis for Miscible Flows in Porous Media -- An Unconditionally Stable Parallel Splitting Algorithm for the Coupled Stokes-Parabolic Equation Based on the Three-Field Biot Model -- A Thermodynamically Consistent Model for Compressible Fluid Flow in Fractured Porous Elastic Media -- {\tt DarcyLite} Modules for Property-preserving Transport Solvers -- Natural Convection in Periodically Heated Porous-fluid System under Local Thermal Non-equilibrium Conditions: A Numerical Study for Enhanced Thermal Management -- Development of a Library for Far-field Sonic Boom Prediction in OpenFOAM -- Numerical Analysis of Dolphin Kick in Competitive Swimming with Free Surface Effects -- DNS of Bubble Dynamics in the Wobbling Regime using the Unstructured Conservative Level-Set Method.
+TI  - Computational Science - ICCS 2025 Workshops : 25th International Conference, Singapore, Singapore, July 7-9, 2025 : proceedings, part V
+LA  - eng
+A2  - Paszyński, Maciej, Barnard, Amanda, Zhang, Yongjie Jessica
+JF  - Computational Science - Iccs 2025 Workshops : 25th International Conference, Singapore, Singapore, July 7-9, 2025, Proceedings, Part V
+PY  - 2025
+SN  - 3031975693, 3031975707, 9783031975691, 9783031975707
+PB  - Springer
+ER  -
+
+TY  - CPAPER
+AB  - The proceedings contain 70 papers. The topics discussed include: a multiscale model for Australian army recruitment and training planning; a review of quantum modeling and simulation approaches for lithium-ion batteries; discrepancy of lane flow distribution and lane-wise speed distribution when simulating lane drop bottleneck in simulation of urban mobility (SUMO): a comparison of two car-following models; reproducibility and replicability of simulation models; simulating combinatorial double auctions: a DEVS and multi-agent approach with different participant behavior; simulating Web3 Tokenomics with agent-based models; and an adaptive data transfer technique for sensor-based systems.
+TI  - Annual Modeling and Simulation Conference, ANNSIM 2025
+LA  - eng
+JF  - Simulation Series
+VL  - 57
+IS  - 1
+PY  - 2025
+SN  - 07359276
+PB  - The Society for Modeling and Simulation International
+ER  -
+
+TY  - BOOK
+AU  - Abraham, Ajith
+AB  - The following topics are dealt with: artificial neural networks; biodegradability prediction; cellular automata; evolutionary algorithms; swarm intelligence; emergent systems; artificial life; Lindenmayer systems; digital organisms; artificial immune systems; membrane computing; simulated annealing; communication networks and protocols; computing with words; common sense computing; cognitive modeling and architecture; connectionism; metaheuristics; hybrid approaches; quantum computing; nano computing; information retrieval; robotics; fault diagnosis; bioinformatics; Web intelligence; speech processing; business information systems; knowledge management; evolvable hardware; image and signal processing; pattern recognition; traffic and transportation system; decision analysis; data mining; computer vision; information and communication technology; control system.
+TI  - Proceedings of the 2009 World Congress on Nature & Biologically Inspired Computing (NaBIC 2009)
+LA  - eng
+JF  - 2009 World Congress on Nature and Biologically Inspired Computing (nabic)
+PY  - 2009
+SN  - 1424450535, 9781424450534, 1424456126, 9781424456123, 1424450527, 9781424450527
+PB  - IEEE
+ER  -
+
+TY  - JOUR
+AU  - Baek, Kyunghyun
+AU  - Lee, Seungjin
+AU  - Huh, Joonsuk
+AU  - Lee, Dongkeun
+AU  - Lee, Jinhyoung
+AU  - Kim, M. S.
+AU  - Bang, Jeongho
+AB  - Ground-state estimation lies at the heart of a broad range of quantum simulations. Most near-term approaches are cast as variational energy minimization and thus inherit the challenges of problem-specific energy landscapes. We develop the quantum amplitude-amplification eigensolver (QAAE), which departs from the variational paradigm and instead coherently drives a trial state toward the ground state via quantum amplitude amplification. Each amplitude-amplification round interleaves a reflection about the learned trial state with a controlled short-time evolution under a normalized Hamiltonian; an ancilla readout yields an amplitude-amplified pure target state that a state-learning step then re-encodes into an ansatz circuit for the next round - without evaluating the energy gradients. Under standard assumptions (normalized ∧H, a nondegenerate ground-state, and a learning update), the ground-state overlap increases monotonically per round and the procedure converges; here, a per-round depth bound in terms of the ansatz depth and Hamiltonian-simulation cost establishes hardware compatibility. Cloud experiments on IBMQ processor verify our amplification mechanism on a two-level Hamiltonian and a two-qubit Ising model, and numerical benchmarks on H2, LiH, and a 10-qubit longitudinal-and-transverse-field Ising model show that QAAE integrates with chemistry-inspired and hardware-efficient circuits and can surpass gradient-based VQE in accuracy and stability. These results position QAAE as a variational-free and hardware-compatible route to ground-state estimation for near-term quantum simulation.
+TI  - Quantum Amplitude-Amplification Eigensolver: A State-Learning-Assisted Approach beyond Energy-Gradient-Based Heuristics
+LA  - eng
+PY  - 2025
+DO  - 10.48550/arXiv.2511.12062
+ER  -
+
+TY  - CPAPER
+AB  - The proceedings contains 149 papers from NANOTECH 2003 : Technical Proceedings of the 2003 Nanotechnology Conference and Trade Show - Volume 2. Topics discussed include: application of nano-carbon cold cathodes for lighting elements; information coding for intramolecular integration of logic functionality; study of alloy disorder in quantum dots through multi-million atom simulations; RAM design using quantum-dot cellular automata; nanocomputer systems engineering; clocked quantum-dot cellular automata circuits; USIM design considerations; and theory of spin transport in an n-typed GaAs quantum well.
+TI  - NANOTECH 2003: Technical Proceedings of the 2003 Nanotechnology Conference and Trade Show - Volume 2
+LA  - eng
+JF  - 2003 Nanotechnology Conference and Trade Show - Nanotech 2003
+VL  - 2
+PY  - 2003
+SN  - 0972842209, 9780972842204
+ER  -
+
+TY  - JOUR
+AU  - Hashemi, Sara
+AU  - Rahimi Azghadi, Mostafa
+AU  - Zakerolhosseini, Ali
+AU  - Navi, Keivan
+AB  - The Quantum-dot cellular automata (QCA) is a novel nanotechnology, promising extra low-power, extremely dense and very high-speed structure for the construction of logical circuits at a nanoscale. In this paper, initially previous works on QCA-based FPGAs routing elements are investigated, and then an efficient, symmetric and reliable QCA programmable switch matrix (PSM) interconnection element is introduced. This element has a simple structure and offers a complete routing capability. It is implemented using a bottom-up design approach that starts from a dense and high-speed 2:1 multiplexer and utilise it to build the target PSM interconnection element. In this study, simulations of the proposed circuits are carried out using QCAdesigner, a layout and simulation tool for QCA circuits. The results demonstrate high efficiency of the proposed designs in QCA-based FPGA routing.
+TI  - A novel FPGA-programmable switch matrix interconnection element in quantum-dot cellular automata
+LA  - eng
+JF  - International Journal of Electronics
+VL  - 102
+IS  - 4
+SP  - 703
+EP  - 724
+PY  - 2015
+SN  - 13623060, 00207217
+PB  - Taylor and Francis Ltd.
+DO  - 10.1080/00207217.2014.936526
+ER  -
+
+TY  - CPAPER
+AU  - Radkowski, Peter P F
+AU  - Sands, Timothy D.
+AB  - Thermoelectric performance may be enhanced by selectively manipulating electron and phonon scattering. To assess these processes, the reported effort is developing a Cellular Automata (CA) simulation that couples phonon and electron populations. The CA incorporates quantum effects in a mesoscopic, nonequilibrium transport simulation.
+TI  - Quantum effects in nanoscale transport: Simulating coupled electron and phonon systems in quantum wires and superlattices
+LA  - eng
+JF  - International Conference on Thermoelectrics, Ict, Proceedings
+SP  - 623
+EP  - 625
+PY  - 1999
+SN  - 10942734
+SN  - 0780354516, 9780780354517
+PB  - IEEE
+DO  - 10.1109/ICT.1999.843466
+ER  -
+
+TY  - 
+AU  - Retallick, Jacob
+AU  - Babcock, Michael
+AU  - Aroca-Ouellette, Miguel
+AU  - McNamara, Shane
+AU  - Wilton, Steve
+AU  - Roy, Aidan
+AU  - Johnson, Mark
+AU  - Walus, Konrad
+AB  - Advancements in computing based on qubit networks, and in particular the flux-qubit processor architecture developed by D-Wave System's Inc., have enabled the physical simulation of quantum-dot cellular automata (QCA) networks beyond the limit of classical methods. However, the embedding of QCA networks onto the available processor architecture is a key challenge in preparing such simulations. In this work, two approaches to embedding QCA circuits are characterized: a dense placement algorithm that uses a routing method based on negotiated congestion; and a heuristic method implemented in D-Wave's Solver API package. A set of benchmark QCA networks is used to characterise the algorithms and a stochastic circuit generator is employed to investigate the performance for different processor sizes and active flux-qubit yields.
+TI  - Algorithms for embedding quantum-dot cellular automata networks onto a quantum annealing processor
+LA  - eng
+JF  - Arxiv
+PY  - 2017
+PB  - arXiv
+ER  -
+
+TY  - JOUR
+AU  - Retallick, Jacob
+AU  - Babcock, Michael
+AU  - Aroca-Ouellette, Miguel
+AU  - McNamara, Shane
+AU  - Wilton, Steve
+AU  - Roy, Aidan
+AU  - Johnson, Mark
+AU  - Walus, Konrad
+AB  - Advancements in computing based on qubit networks, and in particular the
+flux-qubit processor architecture developed by D-Wave System's Inc., have
+enabled the physical simulation of quantum-dot cellular automata (QCA) networks
+beyond the limit of classical methods. However, the embedding of QCA networks
+onto the available processor architecture is a key challenge in preparing such
+simulations. In this work, two approaches to embedding QCA circuits are
+characterized: a dense placement algorithm that uses a routing method based on
+negotiated congestion; and a heuristic method implemented in D-Wave's Solver
+API package. A set of benchmark QCA networks is used to characterise the
+algorithms and a stochastic circuit generator is employed to investigate the
+performance for different processor sizes and active flux-qubit yields.
+TI  - Algorithms for Embedding Quantum-Dot Cellular Automata Networks onto a
+  Quantum Annealing Processor
+LA  - und
+PY  - 2017
+ER  -
+
+TY  - CPAPER
+AB  - The proceedings contain 68 papers. The special focus in this conference is on Advanced Computing, Networking and Informatics. The topics include: Parallel processing concept based vehicular bridge traffic problem; analysis of GPS based vehicle trajectory data for road traffic congestion learning; fast estimation of coverage area in a pervasive computing environment; a fault tolerance approach for mobile agents; path discovery for sinks mobility in obstacle resisting WSNs; blackhole attack defending trusted on-demand routing in ad-hoc network; level wise initial energy assignment in wireless sensor network for better network lifetime; tree based group key agreement - a survey for cognitive radio mobile ad hoc networks; performance analysis of interference aware power control scheme for TDMA in wireless sensor networks; cluster based controlling of route exploring packets in ad-hoc networks; random backoff sleep protocol for energy efficient coverage in wireless sensor networks; distributed diagnosis of permanent and intermittent faults in wireless sensor networks; efficient coverage protocol for homogeneous wireless sensor networks; a novel ICI self-cancellation scheme for improving the performance of OFDM system; design issues and user experience challenges; building a robust software based router; a global routing optimization scheme based on ABC algorithm; AODV routing protocol performance in malicious environment; a probabilistic essential visual cryptographic scheme for plural secret images; the attack back mechanism; privacy preservation of time series data using discrete wavelet transforms; exploring security theory approach in BYOD environment; a framework for analysing the security of chrome extensions; perspective based variable key encryption in LSB steganography; a novel un-compressed video watermarking in wavelet domain using fuzzy inference system; cryptanalysis and security enhancement of two advanced authentication protocols; an efficient RC4 based secure content sniffing for web browsers supporting text and image files; a pairing free certificateless group key agreement protocol with constant round; enhancing the security levels in WLAN via novel IBSPS; varying password based scheme for user authentication; DCT based robust multi-bit steganographic algorithm; service adaptive broking mechanism using MROSP algorithm; performance comparison of hypervisors in the private cloud; an ant colony based load balancing strategy in cloud computing; a demand based resource provisioner for cloud infrastructure; large scale cloud for biometric identification; implementation of symmetric functions using quantum dot cellular automata; dynamic page replacement at the cache memory for the video on demand server; hybrid function based analysis of simple networks; performance augmentation of a FAT filesystem by a hybrid storage system; an approach for compiler optimization to exploit instruction level parallelism; architecting fabricated implant in interconnect for multi-core processor; data concentration on torus embedded hypercube network; SAT based scheduling in high level synthesis; hybrid function based microprocessor realisation of closed loop analysis and synthesis; RFID for indoor position determination; to reduce training cost in EW simulations; detection of communities in social networks using spanning tree; implementation of compressed brute-force pattern search algorithm using VHDL and a modified collaborative filtering approach for collaborating community.
+TI  - 2nd International Conference on Advanced Computing, Networking and Informatics, ICACN 2014
+LA  - eng
+JF  - Smart Innovation, Systems and Technologies
+VL  - 28
+IS  - 2
+PY  - 2014
+SN  - 21903026, 21903018
+SN  - 1322040346, 3319073494, 3319073508, 9781322040349, 9783319073491, 9783319073507
+PB  - Springer Science and Business Media Deutschland GmbH
+ER  -
+
+TY  - CPAPER
+AB  - The proceedings contain 62 papers. The topics discussed include: secure information processing during system-level: exploration of an optimized Trojan secured datapath for CDFGs during HLS based on user constraints; energy aware synthesis of application kernels expressed in functional languages on a coarse grained composable reconfigurable array; designing nanoelectronic-compatible 8-bit square root circuit by quantum-dot cellular automata; nanoscale memory design for efficient computation: trends, challenges and opportunity; robust energy efficient multipath routing protocol for wireless sensor networks; multicore ICs: recent trends in developing methodologies and frameworks for simulation; gradient descent with momentum based neural network pattern classification for the prediction of soil moisture content in precision agriculture; intelligent vision systems: exploring the state-of-the-art and opportunities for the future; and power minimization of a memristor-based Wien bridge oscillator through a Simscape framework.
+TI  - Proceedings - 2015 IEEE International Symposium on Nanoelectronic and Information Systems, iNIS 2015
+LA  - eng
+JF  - Proceedings - 2015 Ieee International Symposium on Nanoelectronic and Information Systems, Inis 2015
+PY  - 2015
+SN  - 1467396915, 1467396923, 1467396931, 9781467396912, 9781467396929, 9781467396936
+PB  - Institute of Electrical and Electronics Engineers Inc.
+ER  -
+
+TY  - JOUR
+AU  - Milošević, M. V.
+AU  - Berdiyorov, G. R.
+AU  - Peeters, F. M.
+AB  - We propose a quantum cellular automata composed of nanostructured mesoscopic superconducting squares, where the logic states are defined by two trapped vortices in a 2×2 blind hole matrix. We present the functioning logic gate based on this fluxonic cellular automata, where the logic operations are verified through theoretical simulations within the Ginzburg-Landau formalism. The input signals are defined using the vortex interaction with current loops placed on top of the two diagonal blind holes of the input cell. The readout technology may be chosen from a large variety of modern vortex imaging methods, transport, and local density of states measurements. © 2007 American Institute of Physics.
+TI  - Fluxonic cellular automata
+LA  - eng
+JF  - Applied Physics Letters
+VL  - 91
+IS  - 21
+PY  - 2007
+SN  - 10773118, 00036951
+PB  - AMER INST PHYSICS
+DO  - 10.1063/1.2813047
+ER  -
+
+TY  - CPAPER
+AB  - The proceedings contain 75 papers. The topics discussed include: trajectory-based representations of quantum transport theory and their connection with semi-classical physics; coherent control of interband transitions in semiconductor quantum wells; complemental theory for vertical transport in semiconductor superlattices; modeling of electronic states and electron-phonon interaction in quantum dots; spontaneous polarization of quantum dots; numerical method for the calculation of self-consistent charge densities of reservoir-coupled quantum dots; effect of ionized impurity on the sequential tunneling transfer of an electron through a quantum disk; the effect of size scaling on the magneto-transport fluctuations in ballistic quantum dots; quantum computing with quantum-dot cellular automata using coherent vector; 3D pseudopotential self-consistent field approximation; a point collocation method for meshless analysis of microelectronic and microelectromechanical devices; parallel processor system specific for Monte Carlo analysis based on ring bus architecture; combined opto-electronic simulation of CCD cell structures by means of finite-difference time-domain method; optical simulation of oxide-confined vertical cavity surface emitting lasers; and a master equation approach to the simulation of electron transport in small semiconductor devices.
+TI  - Extended Abstracts of 1998 6th International Workshop on Computational Electronics, IWCE 1998
+LA  - eng
+JF  - Extended Abstracts of 1998 6th International Workshop on Computational Electronics, Iwce 1998
+VL  - 1998-
+PY  - 1998
+SN  - 0780343697, 9780780343696
+PB  - Institute of Electrical and Electronics Engineers Inc.
+ER  -
+
+TY  - CHAP
+AU  - Kamaraj, A.
+AU  - Marichamy, P.
+AU  - Senthil Kumar, J.
+AU  - Selva Nidhyananthan, S.
+AU  - Kalyana Sundaram, C.
+AB  - The reversible logic is a promising technology for zero power dissipation. The reversible logic circuits are realized in quantum cellular automata (QCA), which are called as quantum circuits. The router is a predominant device in the modern communication era. The router is expected to perform faster with minimum area requirement and power consumption. In this paper, a nano router is designed in reversible logic and it is realized in quantum cellular automata. The memory plane and the routing data plane are the major functional components of the router. These are constructed from the basic peripherals decoder, memory array, multiplexer, switch fabric and parallel-to-serial converter. The constructed router peripherals are combined together to form the integrated router and it is realized in QCA. The QCA realized structure has the significance of multilayer crossing for its wire crossing. The multilayer crossing reduces the number of cells required for realization and also it passes the signal without any degradation. The simulation results confirm that the proposed router consumes minimum resources for its realization (up to 50% improvement) than the existing. The nano router is suitable for nano-communication applications. The realization is performed in QCADesigner tool.
+TI  - Design of Space-Efficient Nano Router in Reversible Logic with Multilayer Architecture
+LA  - eng
+A2  - Mohan, Anand, Singh, Ashutosh Kumar, Fujita, Masahiro
+JF  - Lecture Notes in Electrical Engineering
+VL  - 577
+SP  - 233
+EP  - 250
+PY  - 2020
+SN  - 18761119, 18761100
+SN  - 9811388202, 9811388210, 9789811388200, 9789811388217
+PB  - Springer Verlag
+DO  - 10.1007/978-981-13-8821-7_13
+ER  -
+
+TY  - CPAPER
+AU  - Jegadeeshwari, P.
+AU  - Anitha, T.
+AU  - Arulaalan, M.
+AB  - In this paper, design, layout, and successful simulation of a Digital Pulse Width Modulator in QCA is presented. Due to its extraordinary feature of small size and congruent power consumption, Quantum-dot cellular automata (QCA) has become one of most rapidly expanding nanotechnology research field and has endured a lot of attentiveness within engineering community in comparison with CMOS technology. According to reports, Quantum Dot Cellular has high device density and also has a low power consumption. Unlike traditional computers, which transport data by sending an electrical current from one location to another, QCA sends data by generating a polarization state. Several researchers have been employing QCA to investigate very complex circuit topologies in recent years. The architecture of Quantum Dot Cellular Automata for counter based Digital Pulse Width Modulation is presented in this brief. The counter and comparator circuits are included in the planned counter based Digital Pulse Width Modulation.
+TI  - Digital Design of Counter based Pulse Width Modulation in Quantum dot Cellular Automata
+LA  - eng
+JF  - 1st Ieee International Conference on Smart Technologies and Systems for Next Generation Computing, Icstsn 2022
+PY  - 2022
+SN  - 1665421118, 9781665421119, 1665421126, 9781665421126
+PB  - Institute of Electrical and Electronics Engineers Inc.
+DO  - 10.1109/ICSTSN53084.2022.9761352
+ER  -
+
+TY  - BOOK
+AB  - non-uniform cellular automata called attractor basin, and classify the patterns on the basis of two-class classifier architecture similar to support vector machines.Chapter 4 presents cellular automata models are useful tools to simulate biological systems.One of the prominent issues in cellular automata modeling is choosing correct parameter values in the absence of experimental results.This chapter addresses this issue with global sensitivity analysis.By means of "first-order" and "total effect" indices, this Monte Carlo based method explains the influence individual parameters have on the model output.Chapter 5 proposes routing misbehavior detection in wireless sensor networks using irregular cellular learning automata.The proposed protocol uses the concept of cellular learning automata to detect suspect nodes based on behavior and energy level of each node in packet forwarding in order to achieve an energy aware intrusion detection system.Simulation results show that the system has good detection capabilities in finding malicious nodes in network.Chapter 6 provides a brief investigation for variant phase spaces construction.Ten propositions and four predictions are established in the chapter as the main results to provide a foundation for further exploration on quantum interpretation, statistical mechanics, complex dynamic systems and cellular automata.We hope that, after the reading of the outstanding contributions compiled in this book, we will have succeeded in bringing across what engineers and scientists are now doing about the application of cellular automata for solving practical problems in diverse disciplines.We also hope that this book will have been to your interest and liking.Lastly, we would like to thank all the authors for their excellent contributions in the different topics of the field of cellular automata covered in this book.
+TI  - Emerging Applications of Cellular Automata
+LA  - eng
+JF  - Directory of Open Access Books (oapen Foundation)
+PY  - 2013
+PB  - OAPEN Foundation
+DO  - 10.5772/3370
+ER  -
+
+TY  - JOUR
+AU  - Wang, Boyuan
+AU  - Meng, Zhaoyuan
+AU  - Zhao, Yaomin
+AU  - Yang, Yue
+AB  - Quantum computing holds great promise to accelerate scientific computations
+in fluid dynamics and other classical physical systems. While various quantum
+algorithms have been proposed for linear flows, developing quantum algorithms
+for nonlinear problems remains a significant challenge. We introduce a novel
+node-level ensemble description of lattice gas for simulating nonlinear fluid
+dynamics on a quantum computer. This approach combines the advantages of the
+lattice Boltzmann method, which offers low-dimensional representation, and
+lattice gas cellular automata, which provide linear collision treatment.
+Building on this framework, we propose a quantum lattice Boltzmann method that
+relies on linear operations with medium dimensionality. We validated the
+algorithm through comprehensive simulations of benchmark cases, including
+vortex-pair merging and decaying turbulence on $2048^2$ computational grid
+points. The results demonstrate remarkable agreement with direct numerical
+simulation, effectively capturing the essential nonlinear mechanisms of fluid
+dynamics. This work offers valuable insights into developing quantum algorithms
+for other nonlinear problems, and potentially advances the application of
+quantum computing across various transport phenomena in engineering.
+TI  - Quantum lattice Boltzmann method for simulating nonlinear fluid dynamics
+LA  - und
+PY  - 2025
+ER  -
+
+TY  - 
+AU  - Arrighi, Pablo
+AU  - Molfetta, Giuseppe Di
+AU  - Eon, Nathanael
+AB  - Gauge-invariance is a fundamental concept in physics-known to provide mathematical justifications for the fundamental forces. In this paper, we provide discrete counterparts to the main gauge theoretical concepts, directly in terms of Cellular Automata. More precisely, we describe a step-by-step gauging procedure to enforce local symmetries upon a given Cellular Automaton. We apply it to a simple Reversible Cellular Automaton for concreteness. From a Computer Science perspective, discretized gauge theories may be of use in numerical analysis, quantum simulation, fault-Tolerant (quantum) computation. From a mathematical perspective, discreteness provides a simple yet rigorous route straight to the core concepts.
+TI  - A gauge-invariant reversible cellular automaton
+LA  - eng
+JF  - Arxiv
+PY  - 2018
+PB  - arXiv
+ER  -
+
+TY  - CPAPER
+AU  - Arrighi, Pablo
+AU  - Di Molfetta, Giuseppe
+AU  - Eon, Nathanaël
+AB  - Gauge-invariance is a fundamental concept in physics—known to provide mathematical justifications for the fundamental forces. In this paper, we provide discrete counterparts to the main gauge theoretical concepts, directly in terms of Cellular Automata. More precisely, we describe a step-by-step gauging procedure to enforce local symmetries upon a given Cellular Automaton. We apply it to a simple Reversible Cellular Automaton for concreteness. From a Computer Science perspective, discretized gauge theories may be of use in numerical analysis, quantum simulation, fault-tolerant (quantum) computation. From a mathematical perspective, discreteness provides a simple yet rigorous route straight to the core concepts.
+TI  - A gauge-invariant reversible cellular automaton
+LA  - eng
+A2  - Baetens, JM, Kutrib, M
+JF  - Lecture Notes in Computer Science (including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 10875
+SP  - 1
+EP  - 12
+PY  - 2018
+SN  - 16113349, 03029743
+SN  - 3319926748, 3319926756, 9783319926742, 9783319926759
+PB  - Springer Verlag
+DO  - 10.1007/978-3-319-92675-9_1
+ER  -
+
+TY  - JOUR
+AU  - Jaiswal, Vineet
+AU  - Sasamal, Trailokya Nath
+AB  - Magnetic Quantum-dot Cellular Automata (MQCA) based technologies hold significant promise in outperforming CMOS technology due to their reduced power consumption and increased device density. This new technology has several challenges in carrying tasks like circuit mapping, placement, and routing. This study presents a method for automatically mapping and routing a gate-level circuit using a Nanomagnetic Logic (NML) layout. Our approach leverages the Breadth-First Search algorithm for placement and the A* algorithm for each node's circuit traversal and route generation. Clock synchronization, layout area, and other essential circuit design elements are skilfully integrated into the proposed algorithms. To validate the effectiveness of the proposed algorithms, we implemented various circuits, including 2:1 & 4:1 multiplexers, 1-bit & 2-bit full adders, XOR gate, and the C17 ISCAS 85 benchmark circuit. Moreover, to demonstrate the scalability of the algorithms, we also present ripple carry adders (RCAs) of different sizes. For a 64-bit RCA, our algorithms achieve significant improvements, with reductions of ∼91%–98% in clock zones, ∼91%–99% in nanomagnet counts, and a ∼99% reduction in the total bounded area compared to the state-of-the-art designs. Furthermore, to ensure the correctness of the proposed algorithms, we provide a detailed simulation analysis of implemented circuits using the NMLSim 2.0 micromagnetic simulator.
+TI  - Placement and routing approach for MQCA-based designs with BFS and A* algorithms
+LA  - eng
+JF  - Computers and Electrical Engineering
+VL  - 120
+PY  - 2024
+SN  - 18790755, 00457906
+PB  - Elsevier Ltd
+DO  - 10.1016/j.compeleceng.2024.109771
+ER  -
+
+TY  - CPAPER
+AU  - Retallick, Jacob
+AU  - Babcock, Michael
+AU  - Aroca-Ouellette, Miguel
+AU  - McNamara, Shane
+AU  - Wilton, Steve
+AU  - Roy, Aidan
+AU  - Johnson, Mark
+AU  - Walus, Konrad
+AB  - Simulations of quantum-dot cellular automata (QCA) on classical computers are highly limited due to the exponential growth in resources required for the numerical simulation of quantum mechanics involving networks of finite state nodes. Recent advancements in computing based on networks of flux-qubits, and in particular the platform technology developed by D-Wave Systems Inc., have made it possible to explore QCA networks that are intractable on classical machines. However, the embedding of such networks onto the available processor architecture is a key challenge in setting up such simulations. In this work, two approaches to embedding QCA circuits are characterized: a dense placement algorithm that uses a routing method based on negotiated congestion; and a heuristic method implemented in D-Wave's SAPI package. Both embedding methods are characterized using a set of basic QCA benchmark circuits of various sizes and complexities. When including diagonal interactions only in the case of an inverter, both methods were able to embed a 4-bit 2-1 multiplexer circuit containing 192 non-driver QCA cells onto the 512 qubit D-Wave Vesuvius chip architecture. Including diagonal interactions for all cells, both methods successfully embedded a serial adder circuit containing 126 non-driver cells.
+TI  - Embedding of quantum-dot cellular automata circuits onto a quantum annealing processor
+LA  - eng
+A2  - Faraone, L, Martyniuk, M
+JF  - 2014 Conference on Optoelectronic and Microelectronic Materials and Devices, Commad 2014
+SP  - 200
+EP  - 203
+PY  - 2014
+SN  - 23775505, 10972137
+SN  - 1479968676, 1479968684, 1479968692, 9781479968671, 9781479968688, 9781479968695
+PB  - Institute of Electrical and Electronics Engineers Inc.
+DO  - 10.1109/COMMAD.2014.7038689
+ER  -
+
+TY  - CPAPER
+AB  - The proceedings contain 68 papers. The topics discussed include: ample probability in cognition; s-boxes construction based on quantum chaos and PWLCM chaotic mapping; the analysis of traffic energy infrastructures service efficiency based on different information scenarios with cellular automata simulation; educating for the future in the age of obsolescence; person identification system in a platform for enabling interaction with individuals affected by profound and multiple learning disabilities; multi-scale PointPillars 3D object detection network; and learning dynamics of cognitive parallel processing based on a collective evaluation.
+TI  - Proceedings of 2019 IEEE 18th International Conference on Cognitive Informatics and Cognitive Computing, ICCI*CC 2019
+LA  - eng
+JF  - Proceedings of 2019 Ieee 18th International Conference on Cognitive Informatics and Cognitive Computing, Icci*cc 2019
+PY  - 2019
+SN  - 1728104963, 1728114195, 9781728104966, 9781728114194
+PB  - Institute of Electrical and Electronics Engineers Inc.
+ER  -
+
+TY  - JOUR
+AU  - Avalle, Michele
+AU  - Genoni, Marco G.
+AU  - Serafini, Alessio
+AB  - We model the transport of an unknown quantum state on one dimensional qubit lattices by means of a quantum cellular automata (QCA) evolution. We do this by first introducing a class of discrete noisy dynamics, in the first excitation sector, in which a wide group of classical stochastic dynamics is embedded within the more general formalism of quantum operations. We then extend the Hilbert space of the system to accommodate a global vacuum state, thus allowing for the transport of initial on-site coherences besides excitations, and determine the dynamical constraints that define the class of noisy QCA in this subspace. We then study the transport performance through numerical simulations, showing that for some instances of the dynamics perfect quantum state transfer is attainable. Our approach provides one with a natural description of both unitary and open quantum evolutions, where the homogeneity and locality of interactions allow one to take into account several forms of quantum noise in a plausible scenario.
+TI  - Quantum state transfer through noisy quantum cellular automata
+LA  - eng
+JF  - Journal of Physics A: Mathematical and Theoretical
+VL  - 48
+IS  - 19
+SP  - 1
+EP  - 19
+PY  - 2015
+SN  - 17518121, 17518113
+PB  - Institute of Physics Publishing
+DO  - 10.1088/1751-8113/48/19/195304
+ER  -
+
+TY  - CPAPER
+AU  - Vishnu, B.
+AU  - Sinha, Abhishek
+AB  - This paper considers the problem of secure packet routing at the maximum achievable rate in a Quantum key distribution (QKD) network. Assume that a QKD protocol generates symmetric private keys for secure communication over each link in a multi-hop network. The quantum key generation process, which is affected by noise, is assumed to be modeled by a stochastic counting process. Packets are first encrypted with the available quantum keys for each hop and then transmitted on a point-to-point basis over the communication links. A fundamental problem that arises in this setting is to design a secure and capacity-achieving routing policy that accounts for the time-varying availability of the quantum keys for encryption and finite link capacities for transmission. In this paper, by combining the QKD protocol with the Universal Max Weight (UMW) routing policy [1] - [3], we design a new secure throughput-optimal routing policy, called Tandem Queue Decomposition (TQD). TQD solves the problem of secure routing efficiently for a wide class of traffic, including unicast, broadcast, and multicast. One of our main contributions in this paper is to show that the problem can be reduced to the usual generalized network flow problem on a transformed network without the key availability constraints. Simulation results show that the proposed policy incurs a substantially smaller delay as compared to the state-of-the-art routing and key management policies. The proof of throughput-optimality of the proposed policy makes use of the Lyapunov stability theory along with a careful treatment of the key-storage dynamics.
+TI  - Fast and Secure Routing Algorithms for Quantum Key Distribution Networks
+LA  - eng
+JF  - 2022 14th International Conference on Communication Systems and Networks, Comsnets 2022
+SP  - 120
+EP  - 128
+PY  - 2022
+SN  - 21552509, 21552487
+SN  - 1665421045, 9781665421041
+PB  - Institute of Electrical and Electronics Engineers Inc.
+DO  - 10.1109/COMSNETS53615.2022.9668578
+ER  -
+
+TY  - CPAPER
+AB  - The proceedings contain 40 papers. The special focus in this conference is on Evolving Technologies for Computing, Communication and Smart World. The topics include: Event-Triggered Share Price Prediction; a Review: Efficient Transportation—Future Aspects of IoV; Compact High Gain 28 GHz Concentric Circular Director Low-Cost Antenna for 5G Millimeter-Wave Communication; preface; toward Response-Type Identification for the Real Time; questionnaire-Based Prediction of Hypertension Using Machine Learning; nature-Inspired Computing Behaviour of Cellular Automata; a Survey on Transport Layer Protocols for Reliable and Secure Wireless Sensor Networks; A Lightweight Exchangeable Encryption Scheme for IoT Devices Based on Vigenere Cipher and MLS Keystream; improving Steepest Descent Method by Learning Rate Annealing and Momentum in Neural Network; fingerprint and Face-Based Secure Biometric Authentication System Using Optimized Robust Features; DevOps, DevSecOps, AIOPS- Paradigms to IT Operations; Optimized Route Discovery and Node Registration for FANET; 4.1 GHz Low-Phase Noise Differential XCP LC-VCO with High Q and LC Noise Filtering; secured Surveillance Storage Model Using Blockchain; automatic Leaf Species Recognition Using Deep Neural Network; information Retrieval in Financial Documents; VNF Security in Telco Environment; Rank-Level Fusion of Random Indexing, Word Embedding, and TF-IDF-Based Rankings for Clinical Document Retrieval; a Novel Feature Engineering Approach for Twitter-Based Text Sentiment Analysis; Survey on DDoS and EDoS Attack in Cloud Environment; preprocessing Steps for Opinion Mining on Tweets; machine Learning-Based Lightweight Android Malware Detection System with Static Features; area and Power Efficient 2 Bit Multiplier by Using Enhanced Half Adder; the Modified Algorithm of Quantum Key Distribution System Synchronization; breast Cancer Classification Using Transfer Learning.
+TI  - International Conference on Evolving Technologies for Computing, Communication and Smart World, ETCCS 2020
+LA  - eng
+JF  - Lecture Notes in Electrical Engineering
+VL  - 694
+PY  - 2021
+SN  - 18761119, 18761100
+SN  - 9811578036, 9811578044, 9789811578038, 9789811578045
+PB  - Springer Science and Business Media Deutschland GmbH
+ER  -
+
+TY  - CPAPER
+AB  - The proceedings contain 80 papers. The topics discussed include: modeling and characterization of copper interconnects for SoC design; experimental studies of dopant diffusion in strained Si and SiGe; quantum-dot cellular automata: an architecture for molecular computing; microstructure development and evolution; scaling laws for the resistivity increase of sub-100 nm interconnects; non-destructive inverse modeling of copper interconnect structure for 90nm technology node; a novel technique for full-wave modeling of large-scale three-dimensional high-speed on/off-chip interconnect structures; photoresist flow simulation using the viscous flow model; mobility in UTB-SOI PFETS: local coordinate-based modeling with the density gradient method; and substrate orientation-dependence of electron mobility in strained SiGe layers.
+TI  - International Conference on Simulation of Semiconductor Processes and Devices, SISPAD
+LA  - eng
+JF  - International Conference on Simulation of Semiconductor Processes and Devices, Sispad
+VL  - 2003-
+PY  - 2003
+SN  - 0780378261, 9780780378261
+PB  - Institute of Electrical and Electronics Engineers Inc.
+ER  -
+
+TY  - JOUR
+AU  - Das, Jadav Chandra
+AU  - De, Debashis
+AB  - The computational fidelity is the measure, which imposes the knowledge about how far any noisy computational channel resembles the accurate output for the distribution of the same input. The logical operations and signalpropagation through semiconductor quantum-dot cellular automata (QCA) having different cell's polarization are affected with environmental noise such as thermal randomness. This paper outlines the computational fidelity in reversible QCA channel routing for noiseless, as well as noisy reversible QCA channels. To show the fidelity for reversible QCA channels, QCA based Feynman gate, Fredkin gate, Peres gate and Toffoli gate have been assumed as a reversible routing channels. Shannon's theory has been applied to measure the fidelity, which confirms the robustness in reversible QCA channel routing. The temperature range at which reversible QCA channels yield trustworthy computation is proposed in this article. It is established that the computational fidelity of the routing channels deteriorates with thermal randomness. On an average, those routing channels have reliable fidelity when perform computation in between 1K to 10K temperatures. Hence, all the routing channels yield considerable computational fidelity over the low thermal regions. The evaluation of theoretical values through simulation results establishes the design accuracy for the proposed reversible QCA routing channels.
+TI  - Computational fidelity in reversible quantum-dot cellular automata channel routing under thermal randomness
+LA  - eng
+JF  - Nano Communication Networks
+VL  - 18
+SP  - 17
+EP  - 26
+PY  - 2018
+SN  - 18787797, 18787789
+PB  - Elsevier B.V.
+DO  - 10.1016/j.nancom.2018.08.003
+ER  -
+
+TY  - JOUR
+AU  - Zhang, Bing
+AU  - Peng, Fei
+AU  - Li, Gaisheng
+AU  - Li, Yangshuai
+AU  - Xie, Guangjun
+AB  - To meet the needs of the market launch, placement and routing(P&R) algorithms for conventional circuits have started to adopt a hierarchical design, divide and conquer philosophy for the layout of VLSI circuits. Quantum-dot cellular automata (QCA) circuits are considered a solution to overcome the limitations of Moore's Law. However, the current automated design of QCA circuits is still in its preliminary stages. This paper uses a hierarchical structure, which borrows from traditional circuits that should be laid out in large-scale circuits, to hierarchically process QCA circuits, laying them out layer by layer while using the A* algorithm for wiring to find feasible solutions. The algorithm is implemented using the C++ programming language, and simulation results verify the correctness of the algorithm.
+TI  - Quantum-dot Cellular Automata Placement and Routing with Hierarchical Algorithm
+LA  - eng
+JF  - Nano Communication Networks
+VL  - 39
+PY  - 2024
+SN  - 18787797, 18787789
+PB  - Elsevier B.V.
+DO  - 10.1016/j.nancom.2024.100495
+ER  -
+
+TY  - CPAPER
+AU  - Garlando, Umberto
+AU  - Walter, Marcel
+AU  - Wille, Robert
+AU  - Riente, Fabrizio
+AU  - Torres, Frank Sill
+AU  - Drechsler, Rolf
+AB  - Field-coupled Nanocomputing (FCN) is a computing concept with several promising post-CMOS candidate implementations that offer tremendously low power dissipation and highest processing performance at the same time. Two of the manifold physical implementations are Quantum-dot Cellular Automata (QCA) and Nanomagnet Logic (NML). Both inherently come with domain-specific properties and design constraints that render established conventional design algorithms inapplicable. Accordingly, dedicated design tools for those technologies are required. This paper provides an overview of two leading examples of such tools, namely fiction and ToPoliNano. Both tools provide effective methods that cover aspects such as placement, routing, clocking, design rule checking, verification, and logical as well as physical simulation. By this, both freely available tools provide platforms for future research in the FCN domain.
+TI  - ToPoliNano and fiction: Design Tools for Field-coupled Nanocomputing
+LA  - eng
+A2  - Trost, A, Zemva, A, Skavhaug, A
+JF  - Proceedings - Euromicro Conference on Digital System Design, Dsd 2020
+SP  - 408
+EP  - 415
+PY  - 2020
+SN  - 1728195357, 1728195365, 9781728195353, 9781728195360
+PB  - Institute of Electrical and Electronics Engineers Inc.
+DO  - 10.1109/DSD51259.2020.00071
+ER  -
+
+TY  - CPAPER
+AU  - Marciano, Abner Luis Panho
+AU  - Oliveira, Andre B.
+AU  - Nacif, Jose Augusto Miranda
+AU  - Neto, Omar P.Vilela
+AB  - This paper describes the complete implementation of an efficient FPGA in quantum-dot cellular automata (QCA). FPGAs are reconfigurable digital devices which are extensively used in a wide range of industry applications. QCA is a promising nanotechnology able to overcome the limits of current CMOS technology. QCA technology consists of a group of cells which, when combined and arranged in a particular way, are able to perform computational functions. QCA technology transfers information by means of the polarization state of various cells in contrast to traditional computers, which use the flow of electrical current to transfer information. We propose an area efficient 4×1 multiplex-based Configurable Logic Block (CLB). We also propose a novel routing technique that is able to connect CLBs located at three different range groups. The proposed CLB and routing elements can be externally programmable by the user, giving rise to the desired digital circuit. We present QCADesigner simulation results for a 2×2 CLB FPGA. © 2013 IEEE.
+TI  - An efficient FPGA implementation in quantum-dot cellular automata
+LA  - eng
+JF  - Chip in Curitiba 2013 - Sbcci 2013: 26th Symposium on Integrated Circuits and Systems Design
+PY  - 2013
+SN  - 1479911305, 1479911321, 9781479911301, 9781479911325
+PB  - IEEE Computer Society
+DO  - 10.1109/SBCCI.2013.6644867
+ER  -
+
+TY  - BOOK
+AU  - on Nanotechnology, Conference
+AB  - The following topics were dealt with: molecular electronics; nanobiotechnology; electron waves; spin-related transport and interference based on the Rashba spin-orbit interaction; nanomagnets; localized guided propagation modes of 2D-photonic crystal nanocavities; nano-optics; InP nanobridges; quantum confinement effect of isolated ZnO nanorod single-quantum-well structures; sequential assembly of DNA based nanostructures; spin filter; quantum computation; quantum-dot cellular automata; micro-nano electromechanical systems; spin MOSFETs as a basis for integrated spin-electronics; nano electromagnets; bio-nano-CMOS interface simulation; InAs/AlGaAs/GaAs quantum dot infrared photodetector; logic circuits using nano-wires; nanocore-CMOS hybrid system-on-package architecture for autonomous effort-tolerant (AET) cellular array network; CNT-Based MEMS piezoresistive pressure sensors; quantum-based nanosensor; quantum wire plasmons; hybrid inorganic-polymer photodetector; FSF single electron transistor; logic gates design; many-electron system; MEMS cantilever for nano-biosensor applications; electrochemical immuno sensors; polymer micro/nanofiber fabrication; electrochemical energy storage devices; carbon nanofibers for on-chip interconnect applications; spin injection, precession, diffusion and transport in semiconductor nanostructures.
+TI  - 2005 5th IEEE International Conference on Nanotechnology (IEEE Cat. No.05TH8816)
+LA  - eng
+JF  - 5th Ieee Conference on Nanotechnology, 2005
+PY  - 2005
+SN  - 0780391993, 9780780391994, 1509097422, 9781509097425
+PB  - IEEE
+ER  -
+
+TY  - CPAPER
+AB  - The proceedings contain 120 papers. The topics discussed include: graph convolution network with temporal features for autism disorder classification; design and simulation of on grid solar powered electric vehicles charging station; efficient bi-directional charging solutions for compact electric vehicles for sustainable mobility; design of positive edge triggered d flip-flop using quantum dot cellular automata; a novel video encryption scheme using chaotic map based simultaneous permutation-diffusion; a review of micro-hydro system topologies operating at off-grid locations; utilizing transfer learning for automated detection of diabetic retinopathy; variance based key-frame extraction technique to summarize educational videos; and common-grounding dual-boost nine-level inverter for transformerless PV system.
+TI  - 2024 International Conference on Computer, Electronics, Electrical Engineering and their Applications, IC2E3 2024
+LA  - eng
+JF  - 2024 International Conference on Computer, Electronics, Electrical Engineering and Their Applications, Ic2e3 2024
+PY  - 2024
+SN  - 9798350388534
+PB  - Institute of Electrical and Electronics Engineers Inc.
+ER  -
+
+TY  - CPAPER
+AB  - The proceedings contain 34 papers. The topics discussed include: realization of electronically controllable, wide bandwidth instrumentation amplifier using single DVCCTA; study of characteristics and applications of microwave photonic radar; disaster-news datasets for multi-label document classification, sentence classification, and abstractive document summarization tasks; design and simulation of a novel cell interaction based square calculator in quantum-dot cellular automata; design of noise transfer function for delta sigma modulator based on modified Jacobi polynomial approximations; customized CNN with Adam and Nadam optimizers for emotion recognition using facial expressions; maximizing highway safety through ai-enabled detection of pedestrians and animals in V2X environments; texture image classification with dilated convolution layers; quad port pattern reconfigurable antenna for indoor applications; a multi-objective weight based optimal cluster head selection for lifetime augmentation in IoT based heterogeneous wireless sensor networks; and enhanced deep convolutional neural network for identifying and classification of silicon wafer faults in IC fabrication industries.
+TI  - WiSPNET 2023 - International Conference on Wireless Communications, Signal Processing and Networking
+LA  - eng
+JF  - Wispnet 2023 - International Conference on Wireless Communications, Signal Processing and Networking
+PY  - 2023
+PB  - Institute of Electrical and Electronics Engineers Inc.
+ER  -
+
+TY  - CPAPER
+AB  - The proceedings contain 14 papers. The topics discussed include: asynchronous circuits design using quantum-dot cellular automata for molecular computing; multiplierless multiband filter for fractional sample rate conversion; on a multiplierless FIR filter design for IS-95 CDMA systems; a full-wave two-dimensional finite-difference frequency-domain analysis of ferrite-loaded structures; an anticipated handoff management mechanism for next generation wireless networks; a new multi-path AODV routing based on distance of nodes from the network center; performance evaluation of IEEE802.16 protocol using FDD allocation scheme; QoS improvement in WCDMA system using smart soft handover (SSHO) algorithm; statistical analysis of ultra wideband indoor channel; performance analysis of ultra wide band indoor channel; system-level integration and simulation of ultra wideband receiver front-end; and a robust power allocation scheme for multibeam opportunistic strategies.
+TI  - 2008 Mosharaka International Conference on Communications, Propagation and Electronics, MIC-CPE
+LA  - eng
+JF  - 2008 Mosharaka International Conference on Communications, Propagation and Electronics, Mic-cpe
+PY  - 2008
+SN  - 9957486020, 9789957486020
+PB  - IEEE Computer Society
+ER  -
+
+TY  - CPAPER
+AB  - The proceedings contain 15 papers. The special focus in this conference is on Silicon Photonics and High Performance Computing. The topics include: An Optimized Design of Complex Multiply-Accumulate (MAC) Unit in Quantum Dot Cellular Automata (QCA); Modification of L2 Learning Switch Code for Firewall Functionality in POX Controller; Estimation Procedure of Improved High-Resolution DOA of Coherent Signal Source for Underwater Applications with Existing Techniques; finite Element Analysis of Fiber Optic Concentric Composite Mandrel Hydrophone for Underwater Condition; a Simulation Study of Design Parameter for Quantum Dot-Based Solar Cells; energy Theft Identification in Smart Grid; voltage Stability Analysis for Planning and Operation of Power System; application of Distributed Static Series Compensator for Improvement of Power System Stability; a Novel Transmission Power Efficient Routing in Cognitive Radio Networks Using Game Theory; study of Effect of Strain, Quantum Well Width, and Temperature on Optical Gain in Nano-Heterostructures; a Survey on Scheduling Algorithms for Parallel and Distributed Systems; Analysis of On Chip Optical Source Vertical Cavity Surface Emitting Laser (VCSEL); Photonic Crystal Based Sensor for DNA Analysis of Cancer Detection.
+TI  - 50th Annual Convention of Computer Society of India: Silicon Photonics and High Performance Computing, CSI 2015
+LA  - eng
+JF  - Advances in Intelligent Systems and Computing
+VL  - 718
+PY  - 2018
+SN  - 21945357
+SN  - 9811076553, 9811076561, 9789811076558, 9789811076565
+PB  - Springer Verlag
+ER  -
+
+TY  - CPAPER
+AU  - Wang, Ruiyu
+AU  - Chilla, Michele
+AU  - Palucci, Alessio
+AU  - Graziano, Mariagrazia
+AU  - Piccinini, Gianlucca
+AB  - Field-coupled nanocomputing (FCN) paradigms offer fundamentally new approaches for digital computing. As one of several FCN paradigms currently under active investigation, Molecular Quantum-dot Cellular Automata (MQCA) is based upon electrostatic interactions among quantum dot cells that does not require charge transport. Hence its energy dissipation is significantly reduced. Moreover, an external clock signal has to be adopted desirably while controlling switch in QCA devices. In this paper, with the aim of analyzing information propagation on clocked molecular QCA device from an electronic point of view, an effective algorithm has been implemented relied on data obtained from ab-initio simulations, electrostatic equations and models of the molecular interaction. The quantitative results generated from the algorithm depict correct behaviors of clocked QCA devices and provide important feedback for future QCA experimental implementation.
+TI  - An effective algorithm for clocked field-coupled nanocomputing paradigm
+LA  - eng
+JF  - Nanotechnology Materials and Devices Conference, Nmdc 2016 - Conference Proceedings
+PY  - 2016
+SN  - 24730718, 2378377x
+SN  - 1509043527, 1509043535, 9781509043521, 9781509043538
+PB  - Institute of Electrical and Electronics Engineers Inc.
+DO  - 10.1109/NMDC.2016.7777166
+ER  -
+
+TY  - BOOK
+AU  - on Parallel, International Conference
+TI  - Euro-Par 2024: parallel processing workshops : Euro-Par 2024 international workshops, Madrid, Spain, August 26-30, 2024 : proceedings, Part II
+LA  - eng
+A2  - Caino-Lores, Silvina, Zeinalipour, Demetris, Doudali, Thaleia Dimitra, Singh, David E., Garzón, Gracia Ester Martín, Sousa, Leonel Seabra de, Andrade, Diego, Cucinotta, Tommaso, D'Ambrosio, Donato, Diehl, Patrick, Dolz, Manuel F., Jukan, Admela, Montella, Raffaele, Nardelli, Matteo, Garcia-Gasulla, Marta, Neuwirth, Sarah
+JF  - Euro-par 2024: Parallel Processing Workshops
+PY  - 2025
+SN  - 3031902025, 3031902033, 9783031902024, 9783031902031
+PB  - Springer
+ER  -
+
+TY  - JOUR
+AU  - Gassoumi, Ismail
+AU  - Touil, Lamjed
+AU  - Mtibaa, Abdellatif
+AB  - Quantum-dot cellular automata (QCA) is a promising nanotechnology that offers an alternative to complementary metal-oxide-semiconductor (CMOS) technology. Nanoscale size, ultra-low power dissipation, and Terahertz range operating frequency make QCA more attractive to circuit designers. Recently, numerous designs of QCA have been proposed but aren't practically implementable due to random clocks in the design. In QCA designs, there is a need for proper clocking scheme to favour placement and routing and to facilitate QCA nano-computing synthesis. In this paper, a novel design of Binary-Coded Decimal (BCD) adder, based on QCA technology, with a realistic clocking scheme is presented. System simulations of the proposed designs are performed using QCA designer software Ver. 2.0.3 while power dissipation is investigated using the QCA Pro tool. Besides, in terms of power dissipation, the suggested QCA BCD adder dissipates 2.788 × 10−5 mW, whereas CMOS- based design consume 1.34 mW of power.
+TI  - Design of efficient binary-coded decimal adder in QCA technology with a regular clocking scheme
+LA  - eng
+JF  - Computers and Electrical Engineering
+VL  - 101
+PY  - 2022
+SN  - 18790755, 00457906
+PB  - Elsevier Ltd
+DO  - 10.1016/j.compeleceng.2022.107999
+ER  -
+
+TY  - JOUR
+AU  - Yadav, Anurag
+AU  - Singh, Raj Mohan
+AB  - Land use and land cover (LULC) are basic input for planning and management at different administrative levels. LULC dynamics are significantly impacted by human population expansion, mobility, industrialization, and demand. Assessment of these anthropogenic activities in any area requires the analysis and prediction of LULC changes. In recent years, state of the techniques of LULC prediction based on MOLUSCE (Modules for Land Use Change Evaluation) plugin in QGIS (Quantum Geographic Information System) gained popularity. Consequently, this study employs the MOLUSCE plugin for LULC prediction. The Digital Elevation Model (DEM), aspect, slope, distance from rivers, and distance from roads, five spatial variables are input into the learning processes of the artificial neural network and cellular automata (ANN-CA) model within MOLUSCE to predict future LULC. This study performs predictions and analysis for the years 2027 and 2037 LULC for the Jagdalpur sub-division in the Bastar district of Chhattisgarh state of India. LULC maps from 2012, 2017, and 2022 are used as base maps. Using the 2012 and 2017 LULC maps along with spatial variable maps, the 2022 LULC map was predicted. In the validation phase, the predicted LULC for 2022 achieved 89.38% accuracy and an overall kappa of 0.795, indicating a high degree of prediction accuracy. LULC for 2027 and 2037 was predicted using subsequent LULC maps and spatial variables. The predicted LULC for the years 2027 and 2037 shows significant growth in cropland and built-up areas, with increases of 8.48% and 0.65% in 2027, and 14.67% and 1.32% in 2037, respectively. This study assists farmers and decision-makers in creating optimal land use plans and management strategies for the sustainable utilization of natural resources.
+TI  - Spatio-Temporal Analysis and Prediction of Land Use and Land Cover in Jagdalpur Sub-Division of Bastar District in State of Chhattisgarh, India from 2012 to 2037
+LA  - eng
+JF  - Journal of the Institution of Engineers (india): Series a
+VL  - 106
+IS  - 1
+SP  - 45
+EP  - 57
+PY  - 2025
+SN  - 22502157, 22502149
+PB  - Springer
+DO  - 10.1007/s40030-024-00849-7
+ER  -
+
+TY  - CPAPER
+AU  - Radkowski, Peter P.F.
+AU  - Sands, Timothy D.
+AB  - Thin-film devices pose unique challenges to device simulators. Relaxation approximations to the Boltzmann Transport Equation may be vitiated as the width and length of the thin-film components approach the mean free path lengths of electrons and phonons. Concomitant with these reduced lengths, surface and other interface scattering mechanisms exert greater influences on the transport processes. Consequently, it may not be effective to use transport models that depend upon analytic or other pre-ordained representations of electron, phonon, and photon distribution functions. Finally, thin-film simulations must account for tunneling processes, local defects, nanoscale dopant gradients, nanoscale roughness, and nanoscale variations in local geometries. Consequently, it is desirable to develop a nanoscale simulation technique that (1) can arbitrarily vary material properties in real space while (2) tracking reciprocal space scattering for arbitrary and volatile distributions of electrons, phonons, and photons. The Discrete State Simulation (DSS) forms the backbone of such a simulation. Written with the run-time flexibility of object-oriented code, the Discrete State Simulation (DSS) is a coupled cellular automata (CA) simulator that builds upon the objects and rules of quantum mechanics. The DSS represents global non-equilibrium processes as patterns that emerge through an ensemble of scattering events that are localized at vibronic nodes. The run-time flexibility of the DSS enables dynamic rule construction - computational algorithms that evolve in response to the conditions that are being simulated. The reported DSS effort simulated nanoscale transport processes at dopant-defined junctions by coupling electron-phonon and electron-photon scattering mechanisms. Using electronic band structures, phonon band structures, and deformation potentials analogous to silicon <100> material properties, the DSS generated data depicted the dynamic band bending induced by femtosecond variations in applied electric fields.
+TI  - A coupled cellular automata representation of nanoscale transport across semiconductor interfaces
+LA  - eng
+A2  - Ginley, DS, Carter, SA, Gratzel, M, Birkmire, RW
+JF  - Materials Research Society Symposium - Proceedings
+VL  - 796
+IS  - 1
+SP  - 151
+EP  - 162
+PY  - 2003
+SN  - 19464274, 02729172
+SN  - 1558997342, 9781558997349
+PB  - Materials Research Society
+DO  - 10.1557/proc-796-v3.5
+ER  -
+
+TY  - CPAPER
+AU  - Radkowski, P. P. F.
+AU  - Sands, T. D.
+AB  - Thin-film devices pose unique challenges to device simulators. Relaxation approximations to the Boltzmann transport equation may be vitiated as the width and length of the thin-film components approach the mean free path lengths of electrons and phonons. Concomitant with these reduced lengths, surface and other interface scattering mechanisms exert greater influences on the transport processes. Consequently, it may not be effective to use transport models that depend upon analytic or other pre-ordained representations of electron, phonon, and photon distribution functions. Finally, thin-film simulations must account for tunneling processes, local defects, nanoscale dopant gradients, nanoscale roughness, and nanoscale variations in local geometries. Consequently, it is desirable to develop a nanoscale simulation technique that (1) can arbitrarily vary material properties in real space while (2) tracking reciprocal space scattering for arbitrary and volatile distributions of electrons, phonons, and photons. The Discrete State Simulation (DSS) forms the backbone of such a simulation. Written with the run-time flexibility of object-oriented code, the Discrete State Simulation (DSS) is a coupled cellular automata (CA) simulator that builds upon the objects and rules of quantum mechanics. The DSS represents global non-equilibrium processes as patterns that emerge through an ensemble of scattering events that are localized at vibronic nodes. The run-time flexibility of the DSS enables dynamic rule construction - computational algorithms that evolve in response to the conditions that are being simulated. The reported DSS effort simulated nanoscale transport processes at dopant-defined junctions by coupling electron-phonon and electron-photon scattering mechanisms. Using electronic band structures, phonon band structures, and deformation potentials analogous to silicon 〈100〉 material properties, the DSS generated data depicted the dynamic band bending induced by femtosecond variations in applied electric fields.
+TI  - A coupled cellular automata representation of nanoscale transport across semiconductor interfaces
+LA  - eng
+A2  - Ginley, D. S., Carter, S. A., Gratzel, M., Birkmire, R. W.
+JF  - Critical Interfacial Issues in Thin-film Optoelectronic and Energy Conversion Devices Symposium (mater. Res. Soc. Symposium Proceedings Vol.796)
+SP  - 151
+EP  - 162
+PY  - 2004
+SN  - 1558997342, 9781558997349
+PB  - Mater. Res. Soc.
+ER  -
+
+TY  - JOUR
+AU  - Talamala, Anjaiah
+AU  - Patro, Ajit Kumar
+AU  - Pinninti, Kishore
+AB  - Quantum-dot Cellular Automata (QCA) was popular due to its very low power consumption and fast operating speed. QCA Designers are fascinated with developing and implementing nanoscale devices of digital circuits with rapid operating speed, low power consumption, and less area requirement. This paper describes an efficient layout design of CLB for FPGA implemented using Lookup Tables (LUTs) constructed by using efficient Multiplexers and DFF. A 4-input LUT is implemented using 2x1 multiplexers, and D Flip Flop is incorporated into the LUT to frame CLB. Programmable routing resources for signal propagation and control are done by quantum cells. The proposed D Flip Flop was implemented with an area-efficient and less delay requirement. The functionality of the D Flip Flop in the CLB was analyzed using the simulation results of the QCA Designer tool. It is implemented with 53 quantum cells in a small area of 0.07μm2 and a delay of one clock cycle. Furthermore, the flexible logic block developed using the proposed D Flip Flop structure has proven to be the best among existing modules. The CLB architecture has 655 quantum cells spread across 1.32 μm2 with three clock cycles delay and a power dissipation of 43. 33nW. It is clear that the present is a better and more effective solution in terms of area, complexity, cell count, and latency. The QCA Pro and QCA Designer software is used for all designs and simulation results.
+TI  - Implementation Of An Ultra-Low-Power High-Speed CLB Using A Memory Element And Its Power Dissipation Analysis For FPGA with Quantum-dot Cellular Automata
+LA  - eng
+JF  - International Journal of Computational and Experimental Science and Engineering
+VL  - 11
+IS  - 1
+SP  - 1117
+EP  - 1127
+PY  - 2025
+SN  - 21499144
+PB  - Prof.Dr. İskender AKKURT
+DO  - 10.22399/ijcesen.1066
+ER  -
+
+TY  - BOOK
+AU  - Schöll, Eckehard
+AB  - The theoretical understanding of transport properties of semiconductor structures on short length and short time scales and in the nonlinear high-field regime is of particular relevance for future electronic and optoelectronic materials. This book presents a state-of-the-art overview of theoretical methods, results, and applications in this field. It contains 11 chapters which are written by leading researchers. It starts with a tutorial introduction to the subject, then in the following five chapters a hierarchy of different approaches to transport theory is presented, descending from a macroscopic level (quasihydrodynamic simulation) via semiclassical Monte Carte techniques and cellular automata to a full quantum transport theory covering both Green's functions and density matrix theory. In the last five chapters the formalism is applied to more specific topics which are of current interest such as transport in mesoscopic structures, chaotic dynamics in lateral superlattices, Bloch oscillations and Wannier-Stark localization in semiconductor superlattices, vertical transport and domain formation in multiple quantum wells, and scattering processes in low-dimensional structures. The book is addressed to physicists, electronic engineers, materials scientists and applied mathematicians. It may be used in research, as a professional reference in microelectronics and optoelectronics, and for graduate teaching.
+TI  - Theory of transport properties of semiconductor nanostructures
+LA  - eng
+JF  - Theory of Transport Properties of Semiconductor Nanostructures
+PY  - 1998
+SN  - 0412731002, 1461558077, 9780412731006, 9781461558071
+PB  - Chapman & Hall
+ER  -
+
+TY  - JOUR
+AU  - Li, Weijie
+AU  - Liu, Zhihai
+AU  - Mu, Jingwei
+AU  - Luo, Yi
+AU  - Pan, Dong
+AU  - Zhao, Jianhua
+AU  - Xu, H. Q.
+AB  - A serial triple quantum dot (TQD) integrated with a quantum dot (QD) charge sensor is realized from an InAs nanowire via a fine finger-gate technique. The complex charge states and intriguing properties of the device are studied in the few-electron regime by direct transport measurements and by charge-sensor detection measurements. The charge stability diagram for a capacitively coupled, parallel double-QD formed from a QD in the TQD and the sensor QD show a visible capacitance coupling between the TQD and the sensor QD, indicating a good sensitivity of the charge sensor. The charge stability diagrams of the TQD are measured by the charge sensor and the global features in the charge stability diagrams are well reproduced by the simultaneous direct transport measurements and by the simulation made based on an effective capacitance network model. The complex charge stability diagrams of the TQD are measured in detail with the integrated charge sensor in an energetically degenerate region, where all the three QDs are on or nearly on resonance, and the formations of quadruple points and of all possible eight charge states are observed. In addition, the operation of the TQD as a quantum cellular automata is demonstrated and discussed.
+TI  - Charge States, Triple Points, and Quadruple Points in an InAs Nanowire Triple Quantum Dot Revealed by an Integrated Charge Sensor
+LA  - eng
+JF  - Advanced Quantum Technologies
+VL  - 6
+IS  - 5
+PY  - 2023
+SN  - 25119044
+PB  - John Wiley and Sons Inc
+DO  - 10.1002/qute.202200158
+ER  -
+
+TY  - JOUR
+AU  - Li, Weijie
+AU  - Liu, Zhihai
+AU  - Mu, Jingwei
+AU  - Luo, Yi
+AU  - Pan, Dong
+AU  - Zhao, Jianhua
+AU  - Xu, H. Q.
+AB  - A serial triple quantum dot (TQD) integrated with a quantum dot (QD) charge sensor is realized from an InAs nanowire via a fine finger-gate technique. The complex charge states and intriguing properties of the device are studied in the few-electron regime by direct transport measurements and by charge-sensor detection measurements. The measurements of the charge stability diagram for a capacitively coupled, parallel double-QD formed from a QD in the TQD and the sensor QD show a visible capacitance coupling between the TQD and the sensor QD, indicating a good sensitivity of the charge sensor. The charge stability diagrams of the TQD are measured by the charge sensor and the global features seen in the measured charge stability diagrams are well reproduced by the simultaneous measurements of the direct transport current through the TQD and by the simulation made based on an effective capacitance network model. The complex charge stability diagrams of the TQD are measured in detail with the integrated charge sensor in an energetically degenerate region, where all the three QDs are on or nearly on resonance, and the formations of quadruple points and of all possible eight charge states are observed. In addition, the operation of the TQD as a quantum cellular automata is demonstrated and discussed.
+TI  - Charge states, triple points and quadruple points in an InAs nanowire triple quantum dot revealed by an integrated charge sensor [arXiv]
+LA  - eng
+PY  - 2023
+DO  - 10.48550/arXiv.2303.01114
+ER  -
+
+TY  - JOUR
+AU  - Goswami, Mrinal
+AU  - Mondal, Anindan
+AU  - Mahalat, Mahabub Hasan
+AU  - Sen, Bibhash
+AU  - Sikdar, Biplab K.
+AB  - Fast pace growth in the IC industry is facing the challenges of feature size reduction which in turn demands an alternative to current CMOS VLSI. Quantum-dot cellular automata are emerging as one of the viable alternative nanotechnologies with high device density, high operating frequency and low power characteristics. Information transition and propagation in QCA take place with the underlying clocking circuitry. Thus, clocking is the main source of power of the QCA circuit as well as play the vital role of information synchronisation in QCA circuit. For efficient design and to provide routing option, a regular, scalable clocking structure becomes the utmost necessity of QCA circuit. In this context, a robust, efficient and scalable (RES) clocking scheme for QCA circuit is proposed which can facilitate three directional information flow within a single clock zone. Also, it can facilitate the feedback path without extra layer (unlike 2DDwave scheme) and overcome the complex multilayer wire crossing (unlike USE scheme) with most promising coplanar crossover. Simulation results underpin the significant improvement in terms of clocking zone, area and cells.
+TI  - An efficient clocking scheme for quantum-dot cellular automata
+LA  - eng
+JF  - International Journal of Electronics Letters
+VL  - 8
+IS  - 1
+SP  - 83
+EP  - 96
+PY  - 2020
+SN  - 21681732, 21681724
+PB  - Taylor and Francis Ltd.
+DO  - 10.1080/21681724.2019.1570551
+ER  -
+
+TY  - CPAPER
+AU  - Radkowski, P. P. F.
+AU  - Sands, T. D.
+AB  - A novel computational scheme has been used to predict the electric potentials generated by arbitrary temperature gradients in semiconductor materials. Written in object-oriented code, the Discrete State Simulation (DSS) is a coupled cellular automata simulator that builds upon the objects and rules of quantum mechanics. The DSS represents global non-equilibrium processes as patterns that emerge through an ensemble of scattering events that are localized at vibronic nodes. By tracking the energy-momentum-position coordinates of the individual particles that define the vibronic state at a node, the DSS undercuts equilibrium concepts such as temperature. Consequently, the DSS can represent physical systems that are described by more than one temperature or that contain physical features that defy definitions of temperature. Using modified bootstrap sampling algorithms, the DSS depicted (1) shifts in distribution functions induced by external fields and temperature gradients, (2) field-dependent transitions from linear mobility to non-linear mobility, (3) saturation velocities, (4) non-exponential decay functions generated by multiple phonon scattering modes, and (5) charge separations and electric potentials generated by temperature gradients. Ensemble averages were sensitive to the structure of dispersion relations, to the energy of the system, and to quantum coupling strengths. Seebeck coefficients were sensitive to the features of the electronic and the vibrational band structures; and their associated coupling coefficients.
+TI  - Calculating Seebeck coefficients for arbitrary temperature gradients
+LA  - eng
+A2  - Nolas, G. S., Yang, J., Hogan, T. P., Johnson, D. C.
+JF  - Thermoelectric Materials 2003 - Research and Applications Symposium (mater. Res. Soc. Symposium Proceedings Vol.793)
+SP  - 207
+EP  - 12
+PY  - 2004
+SN  - 1558997318, 9781558997318
+PB  - Mater. Res. Soc.
+ER  -
+
+TY  - CPAPER
+AU  - Radkowski, Peter P.F.
+AU  - Sands, Timothy D.
+AB  - A novel computational scheme has been used to predict the electric potentials generated by arbitrary temperature gradients in semiconductor materials. Written in object-oriented code, the Discrete State Simulation (DSS) is a coupled cellular automata simulator that builds upon the objects and rules of quantum mechanics. The DSS represents global non-equilibrium processes as patterns that emerge through an ensemble of scattering events that are localized at vibronic nodes. By tracking the energy-momentum-position coordinates of the individual particles that define the vibronic state at a node, the DSS undercuts equilibrium concepts such as temperature. Consequently, the DSS can represent physical systems that are described by more than one temperature or that contain physical features that defy definitions of temperature. Using modified bootstrap sampling algorithms, the DSS depicted (1) shifts in distribution functions induced by external fields and temperature gradients, (2) field-dependent transitions from linear mobility to non-linear mobility, (3) saturation velocities, (4) non-exponential decay functions generated by multiple phonon scattering modes, and (5) charge separations and electric potentials generated by temperature gradients. Ensemble averages were sensitive to the structure of dispersion relations, to the energy of the system, and to quantum coupling strengths. Seebeck coefficients were sensitive to the features of the electronic and the vibrational band structures, and their associated coupling coefficients.
+TI  - Calculating seebeck coefficients for arbitrary temperature gradients
+LA  - eng
+A2  - Nolas, GS, Yang, J, Hogan, TP, Johnson, DC
+JF  - Materials Research Society Symposium - Proceedings
+VL  - 793
+IS  - 1
+SP  - 207
+EP  - 212
+PY  - 2003
+SN  - 02729172, 19464274
+SN  - 1558997318, 9781558997318
+PB  - Materials Research Society
+DO  - 10.1557/proc-793-s8.7
+ER  -
+
+TY  - JOUR
+AU  - Abdullah-Al-Shafi, Mohammad
+AB  - Quantum-dot cellular automata (QCA) is incipient as a groundbreaking substitution to conventional CMOS archetype for nanoscale logic circuit design. Unlike transistor-based approaches, QCA uses cell polarization to achieve high-density, low-power digital circuits at the nanoscale levels. This innovative framework extends substantial features in extent efficacy and energy consumption, particularly for critical components such as RAM or Random Access Memory and logic circuits. QCA nanoscale-based RAM provides compact, energy-efficient data storage, while QCA demultiplexers (DeMuX) enable precise data routing that are essential for integrated communication in digital systems. Arithmetic logic unit (ALU) built on QCA are fundamental for executing both logical and arithmetic operations. However, traditional QCA implementations of RAM, DeMuX, and ALUs often suffer from excessive cell usage, larger area footprints, and increased latency. Balancing trade-offs between size, power, and synchronization remains a design challenge. In this study, new compact and cost-efficient RAM and DeMuX circuits have been proposed and designed for optimal performance. These designs reduce cell count, area, and clock delay significantly. Furthermore, a high-performance ALU is developed based on these components. Simulations using QCADesigner 2.0.3 and Hamming distance analysis confirm superior performance and energy efficiency, reinforcing QCA’s promise for next-generation digital circuits. The proposed RAM, demultiplexer and ALU layouts minimize cell usage, circuit area, and energy consumption, offering enhanced functioning compared to traditional models.RAM design reduces cell count by 67%, area usage by 66%, and quantum cost by nearly 92%, with a 20% decrease in latency. Similarly, the demultiplexer achieves over 50% improvement in multiple parameters, including cell count and latency. The designed ALU indicates significant improvements regarding all parameters comparing.Using simulation tools and energy dissipation models, the designs are shown to function effectively at low operating temperatures, indicating potential for low-energy applications.
+TI  - RAM, DEMUX and ALU in nanoscale: a quantum-dot cellular automata-based architecture
+LA  - eng
+JF  - Discover Electronics
+VL  - 2
+IS  - 1
+PY  - 2025
+SN  - 29481600
+PB  - Springer International Publishing
+DO  - 10.1007/s44291-025-00066-x
+ER  -
+
+TY  - JOUR
+AU  - Abutaleb, M. M.
+AB  - One of the most attractive fields in quantum-dot cellular automata (QCA) is the implementation of configurable structures. In this paper, a novel QCA structure of a configurable flip-flop (CFF) element is introduced. In a bottom-up design approach, this paper firstly proposes well-organized QCA layouts for a positive/negative clock signal generator, a level/edge pulse converter, and a bit transport/toggle storage block. In the next step, these blocks are connected in a cascade construction to form a robust and efficient flip-flop element with a comprehensive configurable capability. The simulation results demonstrate the accuracy of proposed QCA-based structures. Design capability and flexibility of the proposed CFF element are further evaluated through the synthesis of high-level circuits including registers and counters. Consequently, this new element is the best building block to be used in the next generation of configurable systems such as QCA-based FPGAs.
+TI  - A novel configurable flip flop design using inherent capabilities of quantum-dot cellular automata
+LA  - eng
+JF  - Microprocessors and Microsystems
+VL  - 56
+SP  - 101
+EP  - 112
+PY  - 2018
+SN  - 01419331, 18729436
+PB  - Elsevier B.V.
+DO  - 10.1016/j.micpro.2017.11.003
+ER  -
+
+TY  - JOUR
+AU  - Alshammari, Sultanah
+AU  - Mikler, Armin
+TI  - Data-Driven Computational Model to Assess the Risk of Epidemics in
+Global Mass Gatherings
+LA  - und
+JF  - Online Journal of Public Health Informatics
+VL  - 10
+IS  - 1
+PY  - 2018
+SN  - 19472579
+PB  - University of Illinois at Chicago Library
+DO  - 10.5210/ojphi.v10i1.8319
+ER  -
+
+TY  - JOUR
+AU  - Sharma, Vijay Kumar
+AU  - Kaushik, Neeraj
+AB  - Integrated circuit designers face challenges in using complementary metal oxide semiconductor (CMOS) technology as it has a large leakage current and scalability challenge in ultra-nanoscale regime. Quantum-dot Cellular Automata (QCA) is a nanotechnology that can replace CMOS for designing ultra-deep submicron circuits and overcoming CMOS limitations. In this research paper, a novel area-efficient 1:2 demultiplexer is proposed using QCA technology. A demultiplexer is an important combinational circuit used in communication systems and computer memories. It receives serial input data and routes data in parallel to multiple outputs. QCA Designer and QCA Pro-tools are used for layout, simulation, and analysis of power dissipation. 11 QCA cells are utilized in the construction of the proposed 1:2 demultiplexer. The cell area and layout cost of the proposed demultiplexer have improved to 42.11 % and 55.56 % of the current best design, respectively. An essential factor to consider when developing integrated circuits is power dissipation. The proposed design dissipates less power. The energy dissipation of the proposed design has improved to 57.67 % at the kink energy level of 1.5 of the current best design.
+TI  - Ultra-optimized demultiplexer unit design in quantum-dot cellular automata nanotechnology
+LA  - eng
+JF  - E-prime - Advances in Electrical Engineering, Electronics and Energy
+VL  - 7
+PY  - 2024
+SN  - 27726711
+PB  - Elsevier Ltd
+DO  - 10.1016/j.prime.2024.100445
+ER  -
+
+TY  - JOUR
+AU  - Alharbi, Mohammed
+AU  - Edwards, Gerard
+AU  - Stocker, Richard
+AB  - Abstract Quantum-dot cellular automata (QCA) is a technological approach to implement digital circuits with exceptionally high integration density, high switching frequency, and low energy dissipation. QCA circuits are a potential solution to the energy dissipation issues created by shrinking microprocessors with ultra-higher integration densities. Current QCA circuit designs are nonreversible, yet reversible circuits are known to increase energy efficiency. Thus, the development of reversible QCA circuits will further reduce energy dissipation. This paper presents novel reversible and nonreversible sequential QCA set/reset (SR), data (D), Jack Kilby (JK), and toggle (T) flip-flop designs based on the majority gate that utilizes the universal, standard, and efficient (USE) clocking scheme, which allows the implementation of feedback paths and easy routing for sequential QCA-based circuits. The simulation results confirm that the proposed reversible QCA USE sequential flip-flop circuits exhibit energy dissipation less than the Landauer energy limit. Nonreversible QCA USE flip-flop designs, although having higher energy dissipation, sometimes have floorplan areas and delay times less than those of reversible designs; therefore, they are also explored. The trade-offs between the energy dissipation versus the area cost and delay time for the reversible and nonreversible QCA circuits are examined comprehensively.
+TI  - Novel Ultra-Energy-Efficient Reversible Designs of Sequential Logic Quantum-Dot Cellular Automata Flip-Flop Circuits
+LA  - eng
+JF  - Research Square (research Square)
+PY  - 2022
+PB  - Research Square
+DO  - 10.21203/rs.3.rs-2145478/v1
+ER  -
+
+TY  - JOUR
+AU  - Alharbi, Mohammed
+AU  - Edwards, Gerard
+AU  - Stocker, Richard
+AB  - Quantum-dot cellular automata (QCA) is a technological approach to implement digital circuits with exceptionally high integration density, high switching frequency, and low energy dissipation. QCA circuits are a potential solution to the energy dissipation issues created by shrinking microprocessors with ultra-high integration densities. Current QCA circuit designs are irreversible, yet reversible circuits are known to increase energy efficiency. Thus, the development of reversible QCA circuits will further reduce energy dissipation. This paper presents novel reversible and irreversible sequential QCA set/reset (SR), data (D), Jack Kilby (JK), and toggle (T) flip-flop designs based on the majority gate that utilizes the universal, standard, and efficient (USE) clocking scheme, which allows the implementation of feedback paths and easy routing for sequential QCA-based circuits. The simulation results confirm that the proposed reversible QCA USE sequential flip-flop circuits exhibit energy dissipation less than the Landauer energy limit. Irreversible QCA USE flip-flop designs, although having higher energy dissipation, sometimes have floorplan areas and delay times less than those of reversible designs; therefore, they are also explored. The trade-offs between the energy dissipation versus the area cost and delay time for the reversible and irreversible QCA circuits are examined comprehensively.
+TI  - Novel ultra-energy-efficient reversible designs of sequential logic quantum-dot cellular automata flip-flop circuits
+LA  - eng
+JF  - Journal of Supercomputing
+VL  - 79
+IS  - 10
+SP  - 11530
+EP  - 11557
+PY  - 2023
+SN  - 15730484, 09208542
+PB  - Springer
+DO  - 10.1007/s11227-023-05134-1
+ER  -
+
+TY  - JOUR
+AU  - Talamala, Anjaiah
+AU  - Patro, Dr Ajit Kumar
+AU  - Pinninti, Dr Kishore
+AB  - Abstract: This paper presents the design and implementation of a layout of the D flip flop and integrates into a configurable logic block (CLB) using quantum-dot cellular automata (QCA), a promising ultra-fast and low power nanotechnology. QCA, in fact, overcomes the issues of CMOS technology like sub-threshold leakage currents, short channel effects and etc. The CLB is a fundamental building block of the FPGA, enabling users to create custom digital logic circuits to suit specific application requirements. The D flip flop is an essential sequential logic element used to store and synchronize data in digital systems. The proposed D flip flop hasa reset pin which is used to make output to zero irrespective of clock and input conditions. This paper describes the logic design of the D flip flop, including the schematic representation and truth table, showcasing its ability to store data on the rising or falling edge of the clock signal. Furthermore, the D flip flop is integrated into the CLB, taking advantage of multiplexer based 4-input look-up tables (LUTs) and programmable routing resources for signal propagation and control using quantum cells. To validate the functionality of the D flip flop in the CLB, we have conducted extensive simulations using QCADesigner tool. The proposed D flipflop has been implemented with 28 number of quantum cells in a small area of 0.03 µm2 with a delay of 1 clock cycle. Moreover, the configurable logic block has been built with the help of the proposed D flip flop’s layout and is proven to be the best among existing modules. The CLB architecture employs 640 quantum cells spread across 1.38 µm2, 3 clock cycles delay, and a power dissipation of 39.33 nW.
+TI  - Design and Analysis of Ultra-Low Power and High-Speed Configurable Logic Block Using a Memory Element for FPGA
+LA  - eng
+JF  - Russian Microelectronics
+VL  - 54
+IS  - 3
+SP  - 303
+EP  - 313
+PY  - 2025
+SN  - 16083415, 10637397
+PB  - Hybrid
+DO  - 10.1134/S1063739724600985
+ER  -
+
+TY  - JOUR
+AU  - Khitun, Alexander
+AU  - Bao, Mingqiang
+AU  - Wang, Kang L.
+AB  - We describe and analyze a cellular nonlinear network based on magnetic nanostructures for image processing. The network consists of magneto-electric cells integrated onto a common ferromagnetic film-spin wave bus. The magneto-electric cell is an artificial two-phase multiferroic structure comprising piezoelectric and ferromagnetic materials. A bit of information is assigned to the cell's magnetic polarization, which can be controlled by the applied voltage. The information exchange among the cells is via the spin waves propagating in the spin wave bus. Each cell changes its state as a combined effect: magneto-electric coupling and the interaction with the spin waves. The distinct feature of a network with a spin wave bus is the ability to control the inter-cell communication by an external global parameter - magnetic field. The latter makes it possible to realize different image processing functions on the same template without rewiring or reconfiguration. We present the results of numerical simulations illustrating image filtering, erosion, dilation, horizontal and vertical line detection, inversion and edge detection accomplished on one template by the proper choice of the strength and direction of the external magnetic field. We also present numerical assets on the major network parameters such as cell density, power dissipation and functional throughput, and compare them with the parameters projected for other nano-architectures such as CMOL-CrossNet, Quantum-Dot Cellular Automata, and Quantum Dot-Image Processor. Potentially, the utilization of spin wave phenomena at the nanometer scale may provide a route to low-power consumption and functional logic circuits for special task data processing. © 2009 Elsevier Ltd. All rights reserved.
+TI  - Magnetic cellular nonlinear network with spin wave bus for image processing
+LA  - eng
+JF  - Superlattices and Microstructures
+VL  - 47
+IS  - 3
+SP  - 464
+EP  - 483
+PY  - 2010
+SN  - 10963677, 07496036
+PB  - ACADEMIC PRESS LTD- ELSEVIER SCIENCE LTD
+DO  - 10.1016/j.spmi.2009.11.004
+ER  -
+
+TY  - CPAPER
+AU  - Hook, Loyd R.
+AU  - Lee, Samuel C.
+AB  - Quantum-dot Cellular Automata (QCA) are one of the few currently well developed nanoelectronics paradigms which offer a potentially suitable replacement to CMOS ICs. However, to compete as a CMOS alternative, QCA circuits must show advantages in speed, density, and/or power dissipation requirements while maintaining reliabilities which are acceptable to hardware designers. Past and recent studies of these QCA properties have produced evidence that QCA may indeed provide advantages over end-of-the-line CMOS, however, not without their own set of challenges. In particular, current implementation strategies to create QCA which produce reliable room temperature operation depend on single nanometer molecular cells with no near-term fabrication solutions. In an attempt to resolve this issue, the QCA architecture has been modified to provide a reasonable route to near term implementation. These new designs feature lattice placed 2-dot QCA cells that utilize adjustable wire and gate widths which self-correct faulty signals and provide increased QCA reliabilities. With these designs, larger materials, which are able to be fabricated with near term technologies, could be explored for reliable room temperature QCA operation. This work introduces these new geometries and cell structures forming the Lattice-based Integrated-signal Nanocellular Automata (LINA) QCA variant. Simulation results of the LINA designs are also presented which show additional improvements in power, speed, and circuit density against traditional QCA designs. © 2011 IEEE.
+TI  - Lattice-based Integrated-signal Nanocellular Automata (LINA) for the future of QCA-based nanoelectronics
+LA  - eng
+JF  - Proceedings of the Ieee Conference on Nanotechnology
+SP  - 1301
+EP  - 1306
+PY  - 2011
+SN  - 19449399, 19449380
+SN  - 1457715147, 1457715155, 1457715163, 9781457715143, 9781457715150, 9781457715167
+PB  - IEEE
+DO  - 10.1109/NANO.2011.6144417
+ER  -
+
+TY  - JOUR
+AU  - Zhou, Zheng
+AU  - Huang, Shao Yun
+AB  - Serial triple quantum dot (STQD) systems have received extensive attention in the past decade, not only because quantum dot scaling up is an indispensable ingredient for integrations, but also due to the fact that specific charge states of STQD can be employed to achieve fast full-electrical manipulation of spin qubits. For the latter, a comprehensive understanding of the relationship between neighboring charge occupancy states of STQD is essential for three-electron exchange-only spin qubit-based quantum computations. Charge stability diagram is usually employed to map out the charge occupation states about the plunger gate voltages of STQDs and to study the degeneracy among charge occupation states. Experimentally, two- rather than three-dimensional charge stability diagram was obtained in a lot of early studies by keeping one of plunger gates unchanged to reduce complexity. The obtained two-dimensional diagram can only provide limited information and is subject to blurred boundary of charge occupation states due to the low tunneling current and the energy level broading effects. It is, therefore, challenge to searching for the working points where quantum manipulation can be performed promptly and accurately. In principle, three-dimensional charge occupation stability diagram can be efficiently constructed by numerical simulations based on constant interaction (CI) model. In this study, we calculate the electrochemical potential of STQD about three plunger gate voltages by using the CI model-based capacitance network to reproduce any desired two-dimensional charge stability diagram. The simulated diagram not only well accords with the diagrams obtained from the early experimental data of STQD, but also provides high clarity of the charge state boundaries with tunable parameters. The systematical study of two-dimensional charge stability diagram reviews the energy degeneracy triple and quadruple points of STQD charge occupation states and concludes the energy degeneracy points in three types to compare with experimental data. For each of the energy degeneracy points, we discuss both the electron and hole transport by using the electrochemical potential alignment schematics. We reveal the common and unique triple points of STQD in comparison with those of double quantum dot. The quadruple points of STQD are also addressed in the manipulation of quantum cellular automata and quantum logical gate. The comprehensive understanding of these energy degeneracy points can efficiently guide experiments to build an optimal working point of the STQD system for quantum computations and simulations.
+TI  - Charge stability diagram of serial triple quantum dots
+LA  - chi
+JF  - Wuli Xuebao/acta Physica Sinica
+VL  - 72
+IS  - 1
+PY  - 2023
+SN  - 10003290
+PB  - Institute of Physics, Chinese Academy of Sciences
+DO  - 10.7498/aps.72.20221512
+ER  -
+
+TY  - JOUR
+AU  - Biswas, Sounak
+AU  - Kwan, Yves H.
+AU  - Parameswaran, S. A.
+AB  - We construct models hosting classical fractal spin liquids on two realistic three-dimensional (3D) lattices of corner-sharing triangles: trillium and hyperhyperkagome (HHK). Both models involve the same form of three-spin Ising interactions on triangular plaquettes as the Newman-Moore (NM) model on the 2D triangular lattice. However, in contrast to the NM model and its 3D generalizations, their degenerate ground states and low-lying excitations cannot be described in terms of scalar cellular automata (CA), because the corresponding fractal structures lack a simplifying algebraic property, often termed the "freshman's dream."By identifying a link to matrix CAs - that makes essential use of the crystallographic structure - we show that both models exhibit fractal symmetries of a distinct class to the NM-type models. We devise a procedure to explicitly construct low-energy excitations consisting of finite sets of immobile defects or "fractons,"by flipping arbitrarily large self-similar subsets of spins, whose fractal dimensions we compute analytically. We show that these excitations are associated with energetic barriers which increase logarithmically with system size, leading to "fragile"glassy dynamics, whose existence we confirm via classical Monte Carlo simulations. We also discuss consequences for spontaneous fractal symmetry breaking when quantum fluctuations are introduced by a transverse magnetic field, and propose multispin correlation function diagnostics for such transitions. Our findings suggest that matrix CAs may provide a fruitful route to identifying fractal symmetries and fractonlike behavior in lattice models, with possible implications for the study of fracton topological order.
+TI  - Beyond the freshman's dream: Classical fractal spin liquids from matrix cellular automata in three-dimensional lattice models
+LA  - eng
+JF  - Physical Review B
+VL  - 105
+IS  - 22
+PY  - 2022
+SN  - 24699969, 24699950
+PB  - American Physical Society
+DO  - 10.1103/PhysRevB.105.224410
+ER  -
+
+TY  - CPAPER
+AB  - The proceedings contain 47 papers. The special focus in this conference is on Automation Control Theory Perspectives in Intelligent Systems. The topics include: A novel color image encryption algorithm using chaotic map and improved RC4; modified discrete LQ control algorithm for situations with the scan period variance; polynomial approximation of quasipolynomials based on digital filter design principles; an implementation of a tilt-compensated eCompass; calibration of triaxial accelerometer and triaxial magnetometer for tilt compensated electronic compass; single scheduling variable approach; inverted pendulum optimal control based on first principle model; a cross-layer routing metric for multihop wireless networks; mean square stability and dissipativity of split-step theta method for stochastic delay differential equations with poisson white noise excitations; nonlinearity and time-delay compensations in state-space model based predictive control; plant-wide control of a reactive distillation column on biodiesel production; state-space predictive control of two liquid tanks system; quantum evolutionary cellular automata mapping optimization technique targeting regular network on chip; development of a set of applications for intelligent control system of compressor facilities at an industrial enterprise; simulation approach for optimal maintenance intervals estimation of electronic devices; scanning system for ballistic analysis; predictive-based stochastic modelling of power transmission system for leveraging fault tolerance; a matlab program for analysis of robust stability under parametric uncertainty; FPGA based self-tuning PI controller using IFT technique; design and implementation of an integrated system with secure encrypted data transmission and web application for simple system identification from experimental data.
+TI  - 5th Computer Science On-line Conference, CSOC 2016
+LA  - eng
+JF  - Advances in Intelligent Systems and Computing
+VL  - 466
+SP  - 1
+EP  - 507
+PY  - 2016
+SN  - 21945357
+SN  - 3319333879, 3319333895, 9783319333878, 9783319333892
+PB  - Springer Verlag
+ER  -
+
+TY  - CPAPER
+AU  - Kumari, N. Prameela
+AU  - Gurumurthy, K. S.
+AB  - Quantum Dot Cellular Automata is one among the various technologies proposed by the International Technology Roadmap for Semiconductors (ITRS) as a viable alternative to CMOS. Circuits designed in QCA are potentially better with respect to speed, power and area when compared to their counter parts in CMOS. But as the circuit complexity increases, there is a linear growth in the horizontal area leading to lengthier interconnects with increased delay. To circumvent this problem we propose a new design paradigm using vertically stacked QCA cells. As the active elements are placed right one above the other in this new approach, the number of cells used for the interconnection will be drastically reduced. Thus would result in very compact designs. This technique provides greater flexibility in routing due to the availability of both vertical and horizontal planes. Each majority gate which forms the basic element of a QCA circuit/Block is implemented in a different layer; hence it explores a new concept of reusability in QCA along with the reduction of time for determination of errors. In this paper we establish this idea with the design of adders, subtractors, ripple adders, ripple adder cum subtractors using vertically stacked QCA circuits. These circuits are implemented using the least number of cells and minimum clocking zones. Results obtained by simulation show a maximum reduction in the number of cells used for the overall design by 77% and the cells used for the interconnection by 90% in comparison to their primitive counterparts respectively.
+TI  - QCA system design using blocks with vertically stacked active elements
+LA  - eng
+JF  - Proceedings of the Ieee International Caracas Conference on Devices, Circuits and Systems, Iccdcs
+PY  - 2014
+SN  - 21653569, 15416275
+SN  - 1479913545, 1479913561, 9781479913541, 9781479913565, 1479913553, 9781479913558
+PB  - Institute of Electrical and Electronics Engineers Inc.
+DO  - 10.1109/ICDCSyst.2014.6926132
+ER  -
+
+TY  - JOUR
+AU  - Fijany, Amir
+AU  - Modarress, Katayoon
+AU  - Toomarian, Nikzad
+AU  - Spotnitz, Matthew
+AB  - Architectures that would exploit the distinct characteristics of quantum-dot cellular automata (QCA) have been proposed for digital communication networks that connect advanced digital computing circuits. In comparison with networks of wires in conventional very-large-scale integrated (VLSI) circuitry, the networks according to the proposed architectures would be more compact. The proposed architectures would make it possible to implement complex interconnection schemes that are required for some advanced parallel-computing algorithms and that are difficult (and in many cases impractical) to implement in VLSI circuitry. The difficulty of implementation in VLSI and the major potential advantage afforded by QCA were described previously in Implementing Permutation Matrices by Use of Quantum Dots (NPO-20801), NASA Tech Briefs, Vol. 25, No. 10 (October 2001), page 42. To recapitulate: Wherever two wires in a conventional VLSI circuit cross each other and are required not to be in electrical contact with each other, there must be a layer of electrical insulation between them. This, in turn, makes it necessary to resort to a noncoplanar and possibly a multilayer design, which can be complex, expensive, and even impractical. As a result, much of the cost of designing VLSI circuits is associated with minimization of data routing and assignment of layers to minimize crossing of wires. Heretofore, these considerations have impeded the development of VLSI circuitry to implement complex, advanced interconnection schemes. On the other hand, with suitable design and under suitable operating conditions, QCA-based signal paths can be allowed to cross each other in the same plane without adverse effect. In principle, this characteristic could be exploited to design compact, coplanar, simple (relative to VLSI) QCA-based networks to implement complex, advanced interconnection schemes. The proposed architectures require two advances in QCA-based circuitry beyond basic QCA-based binary-signal wires described in the cited prior article. One of these advances would be the development of QCA-based wires capable of bidirectional transmission of signals. The other advance would be the development of QCA circuits capable of high-impedance state outputs. The high-impedance states would be utilized along with the 0- and 1-state outputs of QCA.
+TI  - Compact Interconnection Networks Based on Quantum Dots
+LA  - und
+PY  - 2003
+ER  -
+
+TY  - JOUR
+AU  - Ardesi, Yuri
+AU  - Wang, Ruiyu
+AU  - Turvani, Giovanna
+AU  - Piccinini, Gianluca
+AU  - Graziano, Mariagrazia
+AB  - Among the emerging technologies that are intended to outperform the current CMOS technology, the field-coupled nanocomputing (FCN) paradigm is one of the most promising. The molecular quantum-dot cellular automata (MQCA) has been proposed as possible FCN implementation for the expected very high device density and possible room temperature operations. The digital computation is performed via electrostatic interactions among nearby molecular cells, without the need for charge transport, extremely reducing the power dissipation. Due to the lack of mature analysis and design methods, especially from an electronics standpoint, few attempts have been made to study the behavior of logic circuits based on real molecules, and this reduces the design capability. In this article, we propose a novel algorithm, named self-consistent electrostatic potential algorithm (SCERPA), dedicated to the analysis of molecular FCN circuits. The algorithm evaluates the interaction among all molecules in the system using an iterative procedure. It exploits two optimizations modes named Interaction Radius and Active Region which reduce the computational cost of the evaluation, enabling SCERPA to support the simulation of complex molecular FCN circuits and to characterize consequentially the technology potentials. The proposed algorithm fulfills the need for modeling the molecular structures as electronic devices and provides important quantitative results to analyze the information propagation, motivating and supporting further research regarding molecular FCN circuits and eventual prototype fabrication.
+TI  - SCERPA: A Self-Consistent Algorithm for the Evaluation of the Information Propagation in Molecular Field-Coupled Nanocomputing
+LA  - eng
+JF  - Ieee Transactions on Computer-aided Design of Integrated Circuits and Systems
+VL  - 39
+IS  - 10
+SP  - 2749
+EP  - 2760
+PY  - 2020
+SN  - 19374151, 02780070
+PB  - Institute of Electrical and Electronics Engineers Inc.
+DO  - 10.1109/TCAD.2019.2960360
+ER  -
+
+TY  - THES
+AU  - Zhang, Huan
+AB  - Understanding and accurately estimating rare events in high-dimensional systems is a central challenge in applied mathematics, physics, and computational science. This dissertation develops new methodologies that integrate machine learning with domain-specific knowledge to improve tail accuracy in probabilistic modeling and the study of extreme events.The thesis begins by addressing tail behavior in quantum ground state estimation, introducing techniques to mitigate spurious modes and improve wavefunction accuracy within the Variational Monte Carlo framework. Subsequent work contributes theoretical insights into the stability and error analysis of time-dependent parametric solvers for partial differential equations, unifying optimize-then-discretize and discretize-then-optimize training schemes. The study then shifts to the climate sciences, where it develops a transfer learning framework combining Convolutional Neural Networks and Explainable AI to forecast the persistence of Atlantic blocking events from limited observational data. Finally, a novel low-variance algorithm is proposed for estimating large deviation rate functions in high-dimensional stochastic systems by learning transport terms that evolve particle ensembles along rare-event trajectories. Collectively, these contributions demonstrate how machine learning techniques—when informed by physical structure and mathematical principles—can significantly enhance our understanding and predictive capabilities for tail phenomena across scientific disciplines.
+TI  - Learning the Tails of Distributions and Processes in Physics
+LA  - eng
+PY  - 2025
+PB  - ProQuest Dissertations & Theses
+ER  -
+
+TY  - CPAPER
+AB  - The proceedings contain 96 papers. The topics discussed include: bounds and algorithms for frameproof codes and related combinatorial structures; optimal zero-error coding for computing under pairwise shared side information; transfer learning for quantum classifiers: an information-theoretic generalization analysis; construction and secrecy gain of formally unimodular lattices in odd dimensions; a communication optimal transport approach to the computation of rate distortion functions; recurrent variational information bottleneck for time series trend prediction; generic decoding in the cover metric; multi-user privacy mechanism design with non-zero leakage; lossy compression via sparse regression codes: an approximate message passing approach; on the state estimation error of ‘beam-pointing’ channels: the binary case; secure distributed gram matrix multiplication; entropy rate bounds of integer-valued processes via second-order statistics; testing against independence with an eavesdropper; and approximate message passing for multi-layer estimation in rotationally invariant models.
+TI  - 2023 IEEE Information Theory Workshop, ITW 2023
+LA  - eng
+JF  - 2023 Ieee Information Theory Workshop, Itw 2023
+PY  - 2023
+PB  - Institute of Electrical and Electronics Engineers Inc.
+ER  -
+
+TY  - BOOK
+AU  - of India, Computer Society
+TI  - 2014 International Conference on High-Performance Computing and Applications (ICHPCA). Proceedings
+LA  - eng
+JF  - High Performance Computing and Applications (ichpca), 2014 International Conference on
+PY  - 2014
+SN  - 1479959596, 9781479959594, 147995957x, 1479959588, 9781479959570, 9781479959587, 147995957X
+PB  - IEEE
+ER  -
+
+TY  - CPAPER
+TI  - Table of contents
+LA  - eng
+JF  - 2014 International Conference on High Performance Computing and Applications (ichpca)
+PY  - 2014
+SN  - 147995957X, 147995957x, 1479959588, 1479959596, 9781479959570, 9781479959587, 9781479959594
+PB  - IEEE
+DO  - 10.1109/ICHPCA.2014.7045288
+ER  -
+
+TY  - CPAPER
+AB  - The proceedings contain 34 papers. The special focus in this conference is on Sensors and Microsystems. The topics include: Safety Measures in Smart Car Using IoT; an Overview: Fog Computing in Internet of Things: Implementation, Applications, Challenges, and Issues; novel Approaches to Shipyard Layout Management: An Overview; smart City Traffic Management System Using IoT; sustainable Home Gardening with Smart Irrigation Techniques Using Artificial Intelligence and Internet of Things; Analyzing Load Patterns in Real Distribution Systems and Peak Load Compensation Through PV Application; comparison and Analysis for Pneumonia Detection Using Deep Learning Models; object Recognition Using Pattern Analysis; A Critical Review on Brain Tumor Segmentation Methods in MRI Images; robust Localization in Dynamic and Noisy Wireless Sensor Networks Using Machine Learning; a Focus on Weighted Least-Square Phasor Measurements in State Estimation; machine Learning Approaches for Polymorphic Malware Detection: A Comprehensive Review; green Synthesis of Novel Cube-Shaped Calcium Hydroxyapatite and Investigation of Its Size-Dependent Optical Absorbance; IOT-Based Electricity Theft Detection; behavior of Zener Diode for Ac Input and Applications; A Comprehensive Evaluation of the Effectiveness and Practical Applications of Radio Frequency (RF) Sensors in Contemporary Material Analysis; automatic Irrigation System Using Arduino Uno; dissecting the Deep Learning Engine: An Analysis of Path Choices in Automated English Scoring; analysis of Quantum Phase Estimation Algorithm Using Quantum Fourier Transform; early Detection and Diagnosis of Seasonal Diseases Using Machine Learning; optical Properties and Potential Applications of Nanoscale Heterostructures: A Survey; Comparative Study of EV Range Prediction Using Deep Learning Algorithms; border Management Using IoT-Based Surveillance.
+TI  - 1st International Conference on Sensors and Microsystems, ICSM 2024
+LA  - eng
+JF  - Lecture Notes in Electrical Engineering
+VL  - 1381
+PY  - 2025
+SN  - 18761119, 18761100
+SN  - 9819636434, 9789819636433
+PB  - Springer Science and Business Media Deutschland GmbH
+ER  -
+
+TY  - JOUR
+AU  - Wolfram, S
+AU  - Gad-el-Hak, M
+TI  - A New Kind of Science
+LA  - eng
+JF  - Applied Mechanics Reviews
+VL  - 56
+IS  - 2
+PY  - 2003
+SN  - 10888535, 00036900, 23790407
+PB  - ASME International
+DO  - 10.1115/1.1553433
+ER  -
+
+TY  - CPAPER
+TI  - 4th International Conference on Mathematical Modeling in Physical Sciences (IC-MSquare2015)
+LA  - eng
+JF  - Journal of Physics: Conference Series
+VL  - 633
+PY  - 2015
+SN  - 17426588, 17426596
+ER  -
+
+TY  - BOOK
+AU  - NUMTA
+AB  - Dimensionality Reduction with Proper Symplectic Decomposition for Learning Hamiltonian Dynamics -- Aspects of Optimization in Domestic Drinking Water Purification Systems -- Parallel Cyclic Reduction of Bordered Almost Block Diagonal Matrices -- A Direct/Indirect Approach to Optimal Control Problems -- Metaplectic Gabor Frames of Wigner-Decomposable Distributions -- Identifying Dengue Hotspots in Baguio City, Philippines through Spatiotemporal Analysis -- Discontinuous Galerkin Schemes for Master Equations Modeling Open Quantum Systems -- The Scaling Behavior of High-Order Structure Functions for a Turbulent Jet Induced by a Rotating Propeller -- Analysis of Computational Fluid Dynamics Approaches for the Development of Microfluidic Devices -- Extragradient Method For Monotone Variational Inequality in CAT(0) Spaces -- A Symbolic-Numerical Approach to Index Reduction and Solution of Differential-Algebraic Equations -- A MATLAB Code for Handling Efficiently Discontinuous BVPs -- Optimal Transport Flow Distribution and Construction of Wardrop Optimal Networks -- Optimizing the Reuse of Building Demolition Materials for Coastal Dunes Reestablishment -- A Simple Mathematical Solution to an Invariance Problem in Water Networks -- Scalability of Saharan Dust Outbreak Modelling with the Advanced Weather Research and Forecasting Model Coupled with Chemistry (WRF-Chem) -- Choosing Kernel Shape Parameters in Partition of Unity Methods by Univariate Global Optimization Techniques -- A Bayesian Approach for Simultaneously Radial Kernel Parameter Tuning in the Partition of Unity Method -- Application of Deep Learning for Wildfire Risk Management: Preliminary Results -- Node-Binded Communities for Interpolation on Graphs -- A Fast Algorithm for Numerical Differentiation from Scattered Data -- Preconditioning Strategies for RBF Interpolation -- An Alternative Nonlinear Diffusion Algorithm for Image Denoising and Deblurring -- Some Numerical Approaches for Bifurcation of Nonlinear Dynamic Systems -- The Effects of Different Mesh Sizes on a Cellular Automata-Based Hydrological Model -- Computation of the Confluent Hypergeometric Function M(a,b,x) -- Multi-Objective Support Vector Machine Classification Algorithm for Estimation of the Potential Atmospheric Water Harvesting -- IoT and Artificial Intelligence Integration for a Stormwater Monitoring and Management System -- Optimization Method Development for Water Management of Green Roof Systems -- Weighted Finite Element Method and Body of Optimal Parameters for One Problem of the Fracture Mechanics -- A Shallow Water Model: Analytical and Numerical Study for Simulating the Coastline Evolution -- On the Division in the Computation of Binary BBP-Type Formulas for Mathematical Constants -- Numerical Analysis of Sedimentation Tanks Efficiency Using CFD Simulation -- A Probabilistic Note on the WY Representation of Householder QR -- Applying Machine Learning to Improve Weather Forecasting in a Mediterranean Area: Preliminary Experiments.
+TI  - Numerical computations: theory and algorithms : 4th International Conference, NUMTA 2023, Pizzo Calabro, Italy, June 14-20, 2023 : revised selected papers, part II
+LA  - eng
+A2  - Sergeyev, Yaroslav D., Kvasov, Dmitri E., Astorino, Annabella
+JF  - Numerical Computations: Theory and Algorithms: 4th International Conference, Numta 2023, Pizzo Calabro, Italy, June 14–20, 2023, Revised Selected Papers, Part II
+PY  - 2025
+SN  - 3031812433, 3031812441, 9783031812439, 9783031812446
+PB  - Springer
+ER  -
+
+TY  - CPAPER
+TI  - 3rd International Conference on Measurement, Instrumentation and Automation, ICMIA 2014
+LA  - eng
+JF  - Applied Mechanics and Materials
+VL  - 568-570
+PY  - 2014
+SN  - 16627482, 16609336
+SN  - 3038265217, 3038351385, 9783038265214, 9783038351382
+PB  - Trans Tech Publications Ltd
+ER  -
+
+TY  - 
+TI  - New books
+LA  - und
+JF  - Physics Today
+VL  - 68
+IS  - 2
+SP  - 51
+EP  - 52
+PY  - 2015
+SN  - 19450699, 00319228
+PB  - American Institute of Physics
+DO  - 10.1063/PT.3.2693
+ER  -
+
+TY  - 
+AU  - Massotte, Pierre
+AU  - Corsi, Patrick
+TI  - References
+LA  - eng
+SP  - 313
+EP  - 326
+PY  - 2020
+DO  - 10.1002/9781119695004.refs
+ER  -
+
+TY  - JOUR
+AU  - Doumanidis, Charalabos C.
+TI  - A prelude to fractal engineering and biomedicine
+LA  - eng
+JF  - Journal of Nanotechnology in Engineering and Medicine
+VL  - 6
+IS  - 4
+PY  - 2015
+SN  - 19492952, 19492944
+PB  - American Society of Mechanical Engineers (ASME)
+DO  - 10.1115/1.4033099
+ER  -
+
+TY  - 
+AU  - Velten, Prof. Dr. Kai
+TI  - References
+LA  - und
+SP  - 325
+EP  - 333
+PY  - 2008
+DO  - 10.1002/9783527627608.refs
+ER  -
+
+TY  - JOUR
+AU  - Hameiri, Ziv
+TI  - Photovoltaics literature survey (No. 165)
+LA  - eng
+JF  - Progress in Photovoltaics: Research and Applications
+VL  - 29
+IS  - 3
+SP  - 414
+EP  - 419
+PY  - 2021
+SN  - 1099159x, 10627995
+PB  - John Wiley and Sons Ltd
+DO  - 10.1002/pip.3394
+ER  -
+
+TY  - 
+AU  - Ito, K.
+TI  - New Books
+LA  - und
+JF  - Physics Today
+VL  - 59
+IS  - 4
+SP  - 73
+EP  - 77
+PY  - 2006
+SN  - 19450699, 00319228
+PB  - American Institute of Physics
+DO  - 10.1063/1.2405535
+ER  -
+
+TY  - 
+TI  - New books
+LA  - und
+JF  - Physics Today
+VL  - 69
+IS  - 10
+SP  - 58
+EP  - 61
+PY  - 2016
+SN  - 19450699, 00319228
+PB  - American Institute of Physics
+DO  - 10.1063/PT.3.3334
+ER  -
+
+TY  - CHAP
+TI  - Index
+LA  - und
+JF  - Emerald Handbook of Blockchain for Business
+SP  - 417
+EP  - 433
+PY  - 2021
+PB  - Emerald Publishing Limited
+DO  - 10.1108/978-1-83982-198-120211030
+ER  -
+
+TY  - JOUR
+TI  - New books
+LA  - eng
+JF  - Physics Today
+VL  - 61
+IS  - 9
+SP  - 70
+EP  - 74
+PY  - 2008
+SN  - 19450699, 00319228
+PB  - American Institute of Physics
+DO  - 10.1063/1.2982130
+ER  -
+
+TY  - 
+AU  - Dunn, Ian S.
+TI  - Bibliography
+LA  - eng
+SP  - 374
+EP  - 439
+PY  - 2009
+DO  - 10.1002/9780470551455.biblio
+ER  -

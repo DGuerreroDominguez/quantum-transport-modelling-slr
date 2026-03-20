@@ -1,0 +1,239 @@
+TY  - CPAPER
+AU  - Spiridonos, F.
+TI  - Transport demand modelling in melbourne
+LA  - eng
+JF  - Wit Transactions on the Built Environment
+VL  - 130
+SP  - 331
+EP  - 347
+PY  - 2013
+SN  - 17433509, 17464498
+SN  - 1845647165, 1845647173, 9781845647162, 9781845647179
+PB  - WIT Press
+DO  - 10.2495/UT130261
+AB  - Transport demand models are a systematic representation of the large and complex real-world transport system as it exists, and as it might be. The development and application of such models is fundamental to the transport project and policy development and economic appraisals undertaken within the Victorian Department of Transport (VDOT) and its agencies. Transport demand models provide an analytical framework to understand and assess the performance of the transport system under existing and future demands. Additionally, transport demand models can be used to: assess the impacts of integrated transport and land-use strategies on a systematic basis provide the background analysis to identify the implications of transport policies and strategies; and identify the quantum and location of congestion. Furthermore, the application of such models enables quantitative measures to be generated that act as key inputs to the project appraisal process. Some of these inputs can only be derived in a sufficiently robust and disaggregate manner by using transport demand models. The VDOT has developed the Victorian Integrated Transport Model (VITM) to undertake multi-modal transport demand modelling of transport project, policy and land use initiatives. The VITM also incorporates a Melbourne Freight Movement Model (MFMM) for the modelling of freight demand across metropolitan Melbourne. © 2013 WIT Press.
+ER  -
+
+TY  - JOUR
+AU  - Jamaludin, Sharinatol Akmanida
+AU  - Borhan, Muhamad Nazri
+AU  - Yazid, Muhamad Razuhanafi Mat
+AU  - Yaakub, Nik Mohd Iznan Tuan
+TI  - Analysing bicycle route potential towards sustainable transport in ipoh city
+LA  - eng
+JF  - International Journal of Recent Technology and Engineering
+VL  - 8
+IS  - 1
+SP  - 1
+EP  - 10
+PY  - 2019
+SN  - 22773878
+PB  - Blue Eyes Intelligence Engineering and Sciences Publication
+AB  - Sustainable transport has grow into an imperative goal for urban development and exploration in recent decades. Bicycle transportation as a non-motorised transport is indicate an imperative role in emerging sustainable transport. As the economy moved from unindustrialized base to industrial and amenities, the people tend to migrating at rising towns and cities. Thus, there has been an increasing of air pollution, high levels of utilization of biodiversity, isolation of city spaces, growth in the number of road traffic accidents and more urban change. The use of bicycle transportation is not only to decrease carbon but also to create the fit routine by physical movement. This research presents the bicycle route-choice model developed from Quantum Geographic Information System (QGIS) data for Ipoh town. An evaluation was through by transportation experts to collect data about the weights of the criteria and sub-criteria in this study. The consideration was prioritize the clusters by using the Analytic Hierarchy Process (AHP). The result of the study reveals that the priority factors concerned by experts in choosing bicycle route are the road characteristics (w = 0.588) and the traffic characteristics (w = 0.281). The facilities (w = 0.079) and land use characteristics (w = 0.052) are secondary considerations. These findings would encourage all interested municipalities to implement cycling as a part of transportation planning by determining key designing and planning factors to encourage cycling activities.
+ER  -
+
+TY  - CHAP
+AU  - Di Gangi, Massimo
+AU  - Vitetta, Antonino
+TI  - Specification and Aggregate Calibration of a Quantum Route Choice Model from Traffic Counts
+LA  - eng
+A2  - Scrimali, Laura, Daniele, Patrizia
+JF  - Airo Springer Series
+VL  - 1
+SP  - 227
+EP  - 235
+PY  - 2018
+SN  - 25237055, 25237047
+SN  - 3030004724, 3030004732, 9783030004729, 9783030004736
+PB  - Springer Nature
+DO  - 10.1007/978-3-030-00473-6_25
+AB  - This paper analyses certain aspects related to the route choice model in transport systems. The effects of an interference term have been taken into consideration in addition to the effect of a traditional covariance term. Both the specification and calibration of an interference term in a quantum route choice model are shown in the context of an assignment model. An application to a real system is reported where the calibration of QUMs (Quantum Utility Models) was performed using traffic counts. Results are compared with traditional and consolidated models belonging to the Logit family. Based on the theoretical and numeric results, it is highlighted how the interference term and quantum model can consider other aspects (such as information) with respect to traditional RUMs (Random Utility Models).
+ER  -
+
+TY  - JOUR
+AU  - Hancock, Thomas O.
+AU  - Broekaert, Jan
+AU  - Hess, Stephane
+AU  - Choudhury, Charisma F.
+TI  - Quantum probability: A new method for modelling travel behaviour
+LA  - eng
+JF  - Transportation Research Part B: Methodological
+VL  - 139
+SP  - 165
+EP  - 198
+PY  - 2020
+SN  - 18792367, 01912615
+PB  - Elsevier Ltd
+DO  - 10.1016/j.trb.2020.05.014
+AB  - There has been an increasing effort to improve the behavioural realism of mathematical models of choice, resulting in efforts to move away from random utility maximisation (RUM) models. Some new insights have been generated with, for example, models based on random regret minimisation (RRM, μ-RRM). Notwithstanding work using for example Decision Field Theory (DFT), many of the alternatives to RUM tested on real-world data have however only looked at only modest departures from RUM, and differences in results have consequently been small. In the present study, we address this research gap again by investigating the applicability of models based on quantum theory. These models, which are substantially different from the state-of-the-art choice modelling techniques, emphasise the importance of contextual effects, state dependence, interferences and the impact of choice or question order. As a result, quantum probability models have had some success in better explaining several phenomena in cognitive psychology. In this paper, we consider how best to operationalise quantum probability into a choice model. Additionally, we test the quantum model frameworks on a best/worst route choice dataset and demonstrate that they find useful transformations to capture differences between the attributes important in a most favoured alternative compared to that of the least favoured alternative. Similar transformations can also be used to efficiently capture contextual effects in a dataset where the order of the attributes and alternatives are manipulated. Overall, it appears that models incorporating quantum concepts hold significant promise in improving the state-of-the-art travel choice modelling paradigm through their adaptability and efficient modelling of contextual changes.
+ER  -
+
+TY  - CPAPER
+TI  - 11th International IFIP TC6 Conference on Optical Network Design and Modeling, ONDM 2007
+LA  - eng
+JF  - Lecture Notes in Computer Science (including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 4534
+SP  - 1
+EP  - 459
+PY  - 2007
+SN  - 16113349, 03029743
+SN  - 3540727299, 3540727310, 9783540727293, 9783540727316
+PB  - Springer Verlag
+AB  - The proceedings contain 48 papers. The special focus in this conference is on Optical Network Design and Modeling. The topics include: Performance comparison of multi-wavelength conversion using SOA-MZI and DSF for optical wavelength multicast; mutual impact of physical impairments and grooming in multilayer networks; impairment aware based routing and wavelength assignment in transparent long haul networks; an educational tool for network planning in wavelength-routing networks; all-optical signal processing subsystems based on highly non-linear fibers and their limitations for networking applications; securing passive optical networks against signal injection attacks; novel passive optical switching using shared electrical buffer and wavelength converter; 160 GBPS simulation of a quantum dot semiconductor optical amplifier based optical buffer; sip based OBS networks for grid computing; job demand models for optical grid research; optical burst switching network testbed; TCP traffic analysis for timer-based burstifiers in OBS networks; TCP performance experiment on lobs network testbed; improvement of TCP performance over optical burst switching networks; routing optimization in optimal burst switching networks; performance analysis of routing algorithms for optical burst switching; transport plane resource discovery mechanisms for ASON/GMPLS meshed transport networks; a study of connection management approaches for an impairment-aware optical control plane; an automatic model-based reconfiguration and monitoring mechanism for flexible GMPLS-based optical networking testbeds; clustering for hierachical traffic grooming in large scale mesh WDM networks and grooming-enhanced multicast in multilayer networks.
+ER  -
+
+TY  - JOUR
+AU  - Di Gangi, Massimo
+AU  - Vitetta, Antonino
+TI  - Quantum utility and random utility model for path choice modelling: Specification and aggregate calibration from traffic counts
+LA  - eng
+JF  - Journal of Choice Modelling
+VL  - 40
+PY  - 2021
+SN  - 17555345
+PB  - Elsevier Ltd
+DO  - 10.1016/j.jocm.2021.100290
+AB  - In assignment models a key role is played by the path choice model, which computes the set of decisions made by the user before (and during) the routing on the network according to perceived paths and related costs. The path choice is a component of the assignment models. This paper considers the effects of an interference term in addition to the effect of the traditional covariance term in the choice process. It shows how the quantum path choice models can be developed and applied by integrating an interference term into the probability computation. The interference term can be considered for perception of alternatives, during their generation, where the interference is significant; covariance can be taken into account when choosing alternatives, where the overlap represents a relevant aspect. The path choice model, embedded inside the assignment procedure, is specified, calibrated, and validated using traffic counts in two real systems. The numerical results obtained in the analysed systems, in terms of reproduction of the counted flows, demonstrate that the new term can explain aspects that are not represented by consolidated random utility models. Results confirm the theoretical hypotheses stated in the paper.
+ER  -
+
+TY  - JOUR
+AU  - Vitetta, Antonino
+TI  - Path choice in transport systems: comparing random, quantum, and fuzzy utility models in a small network
+LA  - eng
+JF  - Frontiers in Future Transportation
+VL  - 6
+PY  - 2025
+SN  - 26735210
+PB  - Frontiers Media S.A.
+DO  - 10.3389/ffutr.2025.1544947
+AB  - This paper considers the problem of path choice models in transport systems. It is studied within the wider problem of choice models. The main issues discussed are the classification of the utility choice model, also considering the non-random classes as quantum and fuzzy; the specification of path choice with particular reference to the easy-to-apply models within the assignment model; and a numerical results comparison in a small test system to allow the results control in each element and the reproduction. The random, quantum, and fuzzy utility models are different, and the validity of each must be tested case by case. With the assumed parameters, the models cover different trends in simulating paths overlapping. The models require application in a real system and calibration of the parameters with real data.
+ER  -
+
+TY  - JOUR
+AU  - Chakraborty, Kaushik
+AU  - Rozpedek, Filip
+AU  - Dahlberg, Axel
+AU  - Wehner, Stephanie
+TI  - Distributed Routing in a Quantum Internet
+LA  - und
+PY  - 2019
+AB  - We develop new routing algorithms for a quantum network with noisy quantum
+devices such that each can store a small number of qubits. We thereby consider
+two models for the operation of such a network. The first is a continuous
+model, in which entanglement between a subset of the nodes is produced
+continuously in the background. This can in principle allows the rapid creation
+of entanglement between more distant nodes using the already pre-generated
+entanglement pairs in the network. The second is an on-demand model, where
+entanglement production does not commence before a request is made. Our
+objective is to find protocols, that minimise the latency of the network to
+serve a request to create entanglement between two distant nodes in the
+network. We propose three routing algorithms and analytically show that as
+expected when there is only a single request in the network, then employing
+them on the continuous model yields a lower latency than on the on-demand one.
+We study the performance of the routing algorithms in a ring, grid, and
+recursively generated network topologies. We also give an analytical upper
+bound on the number of entanglement swap operations the nodes need to perform
+for routing entangled links between a source and a destination yielding a lower
+bound on the end to end fidelity of the shared entangled state. We proceed to
+study the case of multiple concurrent requests and show that in some of the
+scenarios the on-demand model can outperform the continuous one. Using
+numerical simulations on ring and grid networks we also study the behaviour of
+the latency of all the routing algorithms. We observe that the proposed routing
+algorithms behave far better than the existing classical greedy routing
+algorithm. The simulations also help to understand the advantages and
+disadvantages of different types of continuous models for different types of
+demands.
+ER  -
+
+TY  - JOUR
+AU  - Chakraborty, Kaushik
+AU  - Rozpedek, Filip
+AU  - Dahlberg, Axel
+AU  - Wehner, Stephanie
+TI  - Distributed Routing in a Quantum Internet [arXiv]
+LA  - eng
+JF  - Arxiv
+PY  - 2019
+AB  - We develop new routing algorithms for a quantum network with noisy quantum devices such that each can store a small number of qubits. We thereby consider two models for the operation of such a network. The first is a continuous model, in which entanglement between a subset of the nodes is produced continuously in the background. This can in principle allows the rapid creation of entanglement between more distant nodes using the already pre-generated entanglement pairs in the network. The second is an on-demand model, where entanglement production does not commence before a request is made. Our objective is to find protocols, that minimise the latency of the network to serve a request to create entanglement between two distant nodes in the network. We propose three routing algorithms and analytically show that as expected when there is only a single request in the network, then employing them on the continuous model yields a lower latency than on the on-demand one. We study the performance of the routing algorithms in a ring, grid, and recursively generated network topologies. We also give an analytical upper bound on the number of entanglement swap operations the nodes need to perform for routing entangled links between a source and a destination yielding a lower bound on the end to end fidelity of the shared entangled state. We proceed to study the case of multiple concurrent requests and show that in some of the scenarios the on-demand model can outperform the continuous one. Using numerical simulations on ring and grid networks we also study the behaviour of the latency of all the routing algorithms. We observe that the proposed routing algorithms behave far better than the existing classical greedy routing algorithm. The simulations also help to understand the advantages and disadvantages of different types of continuous models for different types of demands.
+ER  -
+
+TY  - JOUR
+AU  - Hancock, Thomas O.
+AU  - Broekaert, Jan
+AU  - Hess, Stephane
+AU  - Choudhury, Charisma F.
+TI  - Quantum choice models: A flexible new approach for understanding moral decision-making
+LA  - eng
+JF  - Journal of Choice Modelling
+VL  - 37
+PY  - 2020
+SN  - 17555345
+PB  - Elsevier Ltd
+DO  - 10.1016/j.jocm.2020.100235
+AB  - Quantum probability, first developed in theoretical physics, has recently been successfully used in cognitive psychology to model data from experiments that previously resisted effective modelling by classical methods. This has led to the development of choice models based on quantum probability, which have greater flexibility than standard models due to the implementation of complex numbers through, for example, complex phases or ‘quantum rotations’. This paper tests whether these new models can also capture choice modification under implicit ‘changing perspectives’ in choice contexts with salient moral attributes. We apply these models to two distinctly different case-studies. In the first, respondents have to make choices between route alternatives with variable ‘concrete’ and ‘moral’ attributes — Chorus et al. (2018)’s ‘taboo trade-off’ between time-cost and deaths-injuries. The second study investigates how an individual weighs wages and commuting times for themselves relative to the wages and commuting times for their partner. Under both scenarios, we find that the flexibility provided by quantum choice models allows them to accurately capture and formally explain choices across the differing contexts.
+ER  -
+
+TY  - JOUR
+AU  - Hensher, David A.
+AU  - Balbontin, Camila
+AU  - Beck, Matthew J.
+AU  - Wei, Edward
+TI  - The impact of working from home on modal commuting choice response during COVID-19: Implications for two metropolitan areas in Australia
+LA  - eng
+JF  - Transportation Research Part A: Policy and Practice
+VL  - 155
+SP  - 179
+EP  - 201
+PY  - 2022
+SN  - 18792375, 09658564
+PB  - Elsevier Ltd
+DO  - 10.1016/j.tra.2021.11.011
+AB  - The need to recognise and account for the influence of working from home on commuting activity has never been so real as a result of the COVID-19 pandemic. Not only does this change the performance of the transport network, it also means that the way in which transport modellers and planners use models estimated on a typical weekday of travel and expand it up to the week and the year must be questioned and appropriately revised to adjust for the quantum of working from home. Although teleworking is not a new phenomenon, what is new is the ferocity by which it has been imposed on individuals throughout the world, and the expectation that working from home is no longer a temporary phenomenon but one that is likely to continue to some non-marginal extent given its acceptance and revealed preferences from both many employees and employ where working from home makes good sense. This paper formalises the relationship between working from home and commuting by day of the week and time of day for two large metropolitan areas in Australia, Brisbane and Sydney, using a mixed logit choice model, identifying the influences on such choices together with a mapping model between the probability of working from home and socioeconomic and other contextual influences that are commonly used in strategic transport models to predict demand for various modes by location. The findings, based on Wave 3 (approximately 6 months from the initial outbreak of the pandemic) of an ongoing data collection exercise, provide the first formal evidence for Australia in enabling transport planners to adjust their predicted modal shares and overall modal travel activity for the presence of working from home.
+ER  -
+
+TY  - JOUR
+AU  - Vitetta, Antonino
+TI  - A quantum utility model for route choice in transport systems
+LA  - eng
+JF  - Travel Behaviour and Society
+VL  - 3
+SP  - 29
+EP  - 37
+PY  - 2016
+SN  - 22143688, 2214367x
+PB  - Elsevier Ltd
+DO  - 10.1016/j.tbs.2015.07.003
+AB  - One of the main components of the transport system is users' choice behaviour. Choices result from users' behaviour and are simulated by means of demand models. These models simulate how users' behaviour is influenced by system activities and supply performance. The most common demand approaches are based on the Random Utility Model (RUM).According to the RUM, a user knows of and considers mutually exclusive alternatives and associates each alternative with a perceived utility. The choice probability for each alternative is estimated using the RUM. An analyst evaluates the same value of pre-trip choice probability in the case of a unique sequence of decisions for his final choice of an alternative as in the case of a not-unique sequence of decisions for his final choice of an alternative.A new class of models simulates the case in which the user has an unclear sequence of decision for his final choice of an alternative. This model, the Quantum Utility Model (QUM), derives from quantum mechanics models. In QUM, it is possible to simulate the sequence of decisions in the cases of unique or not-unique pre-trip decision in the intermediate levels.In this paper, a comparison between the RUM and the QUM for the transport demand simulation is reported. A specification of the model is reported for the route choice level. The models are specified and compared in terms of numerical results in two test networks.
+ER  -
+
+TY  - CPAPER
+AU  - Zakharova, Yulia
+AU  - Zakharov, Aleksey
+TI  - On Analysis of Some Bi-criteria Discrete Choice Problems with Triangular Fuzzy Numbers
+LA  - eng
+JF  - 2022 Ieee International Multi-conference on Engineering, Computer and Information Sciences, Sibircon 2022
+SP  - 900
+EP  - 905
+PY  - 2022
+SN  - 1665464798, 1665464801, 9781665464796, 9781665464802
+PB  - Institute of Electrical and Electronics Engineers Inc.
+DO  - 10.1109/SIBIRCON56155.2022.10017109
+AB  - Discrete optimization problems with uncertain input data presented by triangular fuzzy numbers are considered. Objective function is defined as the sum of fuzzy input values. Original fuzzy problem is modified to crisp bi-criteria choice model with initial objective function, its membership function and decision maker's preference relation. Also an elementary information quantum showing the quantitative relationship between components of criteria are used (one component is more important then another). The problem of the Pareto set reduction by information quantum for this crisp bi-criteria model is analyzed. Theoretical results of the paper present the estimates on the cardinality of the reduced Pareto set. Instances of vehicle routing problems, scheduling problems and covering-type problems with objective function as sum of triangular fuzzy numbers are constructed. The Pareto set of its bi-criteria crisp modification has specific structure. Such structure allows to obtain the reduced Pareto set with cardinality according to the theoretical results on all considered instances.
+ER  -
+
+TY  - JOUR
+AU  - Gemmi, Gabriele
+AU  - Segata, Michele
+AU  - Maccari, Leonardo
+TI  - Estimating coverage and capacity of high frequency mobile networks in ultradense urban areas
+LA  - eng
+JF  - Computer Communications
+VL  - 223
+SP  - 81
+EP  - 89
+PY  - 2024
+SN  - 1873703x, 01403664
+PB  - Elsevier
+DO  - 10.1016/j.comcom.2024.04.030
+AB  - High frequency communications (mmWave and TeraHz) in urban areas require a higher density of base stations compared to pre-5G mobile networks, but open the way to a quantum leap in increased throughput and reduced latency. However, we currently have no indication of how much we need to densify the deployment, and on the trade-off between the density of base stations and the performance improvement. This paper studies the problem of base stations placement to guarantee coverage to vehicles and pedestrians in urban areas when using high frequency communications. Our novel methodology takes advantage of vehicular traffic simulations and precise urban maps to generate a realistic demand model for vehicles and pedestrians in urban areas. We use a bounded error heuristic to find the maximal coverage that can be achieved with a given density of base stations, primarily using line-of-sight communications. We implemented the heuristic using CUDA libraries on Nvidia GPUs and evaluated the coverage in an urban area in the city of Luxembourg, for which vehicular traffic patterns are available. We focus on coverage and capacity analysis for the mmWave frequency, but the results are easily extended to TeraHz communications. Our results are the first to show that a reasonably low density (15 base stations per km2) is sufficient to provide coverage for vehicles in urban environments. However, optimizing on vehicles or on pedestrians are competing objectives: the operator needs to choose which one to target based on its business model when designing the network infrastructure. Our algorithms, code and open data can be used to perform this task and reproduce our results in different settings.
+ER  -

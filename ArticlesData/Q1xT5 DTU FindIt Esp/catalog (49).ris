@@ -1,0 +1,125 @@
+TY  - JOUR
+AU  - Ariel Pablo, Cédola
+TI  - Estudio de dispositivos semiconductores modernos mediante simulaciones numéricas: modelización de celdas solares de puntos cuánticos basadas en materiales III-V
+LA  - spa
+PY  - 2016
+DO  - 10.35537/10915/54754
+AB  - En los últimos años, la celda solar de puntos cuánticos ha atraído la atención de la comunidad científica como una de las más prometedoras implementaciones del concepto de celda solar de banda intermedia, que de acuerdo a predicciones teóricas basadas en el principio del balance detallado, podría alcanzar una eficiencia superior al 63% bajo máxima concentración de luz solar. Capas de puntos cuánticos embebidas en la región intrínseca de una celda solar p-i-n introducen estados energéticos en la banda prohibida, que actúan como niveles intermedios e incrementan la captación de luz a partir de la absorción de fotones de baja energía. La extracción de los portadores fotogenerados en los estados confinados y la subsiguiente colección en los contactos conducen a un aumento de la corriente de cortocircuito de la celda solar que, según reportes experimentales, es siempre acompañado de una reducción notable de la tensión de circuito abierto, que impide lograr una mejora en la eficiencia con respecto a dispositivos convencionales. La pobre performance lograda por las celdas solares de puntos cuánticos hasta el momento ha impulsado la investigación de estos dispositivos desde el punto de vista de la modelización y simulación. Los modelos aplicados usualmente se basan en la teoría de la banda intermedia y no son capaces de brindar resultados confiables, ya que desestiman los procesos de transferencia de portadores inter-subbanda que involucran a los estados de los puntos cuánticos. En esta tesis se desarrolla un modelo físico para la simulación de celdas solares de puntos cuánticos y se lo aplica al estudio detallado de su performance, haciendo foco particularmente en celdas basadas en materiales semiconductores III-V. Se analiza minuciosamente la dependencia de las características eléctricas y ópticas de estos dispositivos con diferentes parámetros físicos, condiciones de operación y variantes en el diseño. El modelo combina ecuaciones de arrastre-difusión para el transporte en el bulk y ecuaciones fenomenológicas de tasas para la dinámica de los portadores en los puntos cuánticos. A diferencia de otras formulaciones existentes, el modelo desarrollado tiene en cuenta la transición de portadores entre los estados confinados introducidos por las nanoestructuras, y además considera espectros de absorción razonables, lo que conduce a resultados de simulaciones más realistas. Esto está respaldado por la muy buena concordancia con datos experimentales publicados en la literatura.
+ER  -
+
+TY  - JOUR
+AU  - Santiago Rodrigo, Muñoz
+TI  - A double full-stack architecture for multi-core quantum computers
+LA  - spa
+PY  - 2023
+DO  - 10.5821/dissertation-2117-405941
+ER  -
+
+TY  - JOUR
+AU  - Daniel González, Cuadra
+TI  - A cold-atom approach to topological quantum matter across the energy scale
+LA  - spa
+PY  - 2020
+DO  - 10.5821/dissertation-2117-337021
+ER  -
+
+TY  - JOUR
+AU  - Pau Garcias, Salva
+TI  - Simulación Monte Carlo de transistores bipolares de heterounión abrupta (HBT)
+LA  - spa
+PY  - 1999
+DO  - 10.5821/dissertation-2117-93661
+AB  - El desarrollo de la tecnología electrónica hace necesario disponer de modelos fiables de los dispositivos y convierte la simulación de los mismos en un elemento estratégico para su desarrollo presente y futuro. El transistor bipolar de heterounión (HBT) es uno de los componentes más prometedores dentro del campo de los dispositivos de alta velocidad, ya que es capaz de controlar densidades de corriente elevadas a frecuencias muy elevadas. Dentro de esta familia destacan los HBTs de InP/InGaAs, que registran actualmente la frecuencia de operación más alta. Estos dispositivos exhiben una discontinuidad abrupta en las bandas de energía (en la interfaz base-emisor), cuya presencia invalida los modelos convencionales de transporte, basados en los mecanismos de arrastre-difusión (DD) o en el modelo hidrodinámico (HD) y ampliados con la emisión termoiónica y la transmisión túnel en la heterounión. Tanto el modelo DD como el HD derivan de aproximaciones de la ecuación de transporte de Boltzmann (BTE) que, alternativamente, puede ser resuelta de forma exacta por el método de Monte Carlo (MC). De esta forma, se superan las limitaciones intrínsecas de los simuladores convencionales y es posible determinar su margen de validez. El inconveniente principal de los simuladores MC es su elevado requerimiento de tiempo de cálculo. El objetivo de la tesis es desarrollar un simulador MC para HBTs abruptos que sea computacionalmente eficiente, por aplicación de técnicas de supercomputación paralela. La memoria de la tesis consta de seis capítulos. En el primero se introducen la problemática de la simulación de dispositivos, los HBTs y el método de MC aplicado a este campo. En el segundo se presenta el método convencional de simulación de HBTs, puesto que su resultado será utilizado como aproximación inicial en el simulador MC desarrollado y como referencia comparativa. El tercer capítulo se dedica a presentar el esquema básico de simulación MC de transistores bipolares, mientras que en el cuarto se dan detalles de la implementación eficiente del simulador MCHBT, con la aplicación de técnicas de supercomputación paralela y la utilización de técnicas específicas como el MC ponderado. El capítulo quinto contiene los resultados de simulación de BJTs de GaAs, para resaltar las diferencias del nuevo método de simulación con el convencional sobre un dispositivo y un material conocidos. Finalmente, se amplía el simulador MC con la resolución de la ecuación de Schrodinger en la interfaz abrupta, para incorporar los fenómenos cuánticos de transporte en el HBT. Asimismo, se utiliza la ecuación de balance del momento para interpretar los resultados y establecer un margen de validez de los simuladores convencionales ampliados para el estudio de HBTs abruptos.
+ER  -
+
+TY  - JOUR
+AU  - Soria Salazar, Jorge
+AU  - Aldás Palacios, Oswaldo
+TI  - Estudios de interacciones entre moléculas antioxidantes y moléculas relacionadas con radicales oxidativos mediante cálculos mecano cuánticos y simulaciones de dinámica molecular
+LA  - und
+JF  - La Granja
+VL  - 14
+IS  - 2
+PY  - 2011
+SN  - 13908596, 13903799
+PB  - Universidad Politécnica Salesiana
+DO  - 10.17163/lgr.n14.2011.02
+AB  - Los flavonoides son reconocidos por su actividad antioxidante; sin embargo, su relación estructura-actividad antioxidante no es muy clara. Mediante cálculos mecano cuánticos se determinaron las estructuras de equilibrio de éstos y de moléculas relacionadas con radicales libres del oxígeno. Los cálculos fueron realizados al nivel de teoría RHF/6-311G utilizando el programa GAMESS. La quercetina, fisetina, y los ácidos caféico y ferúlico presentaron estructuras de equilibrio planas. La genisteína y la floretina presentaron desviaciones de la planaridad de 47,2 ◦C y 90,9 ◦C. El potencial electrostático molecular (MEP) en el nivel de teoría RHF/6-311G** mostró que en las moléculas planas, la deslocalización electrónica se extiende a largo de toda su estructura. Los MEPs permitieron identificar las regiones favorables para las interacciones, alrededor de los grupos hidroxilo de los anillos A y B. Las simulaciones de dinámica molecular para las interacciones Quercetina-O2 y Quercetina-H2O; mostraron que las primeras son débiles, mientras que en las últimas la interacción es mediante enlaces hidrógeno en 4’-OH y 7-OH. El criterio de reactividad basado en las magnitudes de las cargas parciales de los oxígenos de los grupos hidroxilo, sugirió que el sitio más reactivo está ubicado en 4’-OH, lo que concuerda con datos experimentales y de estudios teóricos. En este grupo hidroxilo la distancia promedio del enlace hidrógeno fue 1,76 Å, formando un ángulo de 111,6 ◦C.
+ER  -
+
+TY  - JOUR
+AU  - Esther, Córdova‐Mateo
+TI  - Application of computer simulation approaches to study the structure and properties of polymeric systems
+LA  - spa
+PY  - 2014
+DO  - 10.5821/dissertation-2117-118406
+ER  -
+
+TY  - JOUR
+AU  - Renwen, Yu
+TI  - Toward next-generation nanophotonic devices
+LA  - spa
+PY  - 2019
+DO  - 10.5821/dissertation-2117-166972
+ER  -
+
+TY  - JOUR
+AU  - Santiago Daniel, Barrionuevo
+TI  - Nuevos nanomateriales derivados de grafeno: bicapa rotado, puntos cuánticos y nanohíbridos con aplicaciones avanzadas
+LA  - spa
+PY  - 2024
+DO  - 10.35537/10915/169400
+ER  -
+
+TY  - JOUR
+AU  - Peter, Schmidt
+TI  - Exploring intersubbands in 2D materials
+LA  - spa
+PY  - 2019
+DO  - 10.5821/dissertation-2117-132777
+ER  -
+
+TY  - JOUR
+AU  - Silvana Carina, Pamies
+TI  - Estructura electrónica y dinámica molecular de los disacáridos trehalosa, maltosa y sacarosa
+LA  - spa
+PY  - 2022
+DO  - 10.35537/10915/143541
+AB  - La preservación de biomateriales es un tema de vital importancia en las industrias alimentaria, cosmética y farmacéutica. Durante el secado y almacenamiento de estos biomateriales ocurren reacciones de deterioro, como las de Maillard, que afectan a las propiedades organolépticas de los alimentos y a las propiedades funcionales de las proteínas. La estabilización a menudo se logra incorporando estos materiales a soluciones de azúcares amorfos. Profundizar en el conocimiento del mecanismo por el cual estos azúcares son capaces de estabilizar y proteger biomoléculas lábiles ha motivado el desarrollo de este trabajo de tesis. Para el logro de este objetivo, se utilizaron diferentes métodos teóricos. En el Capítulo I se introducen brevemente los antecedentes históricos acerca del origen del interés por parte de la comunidad científica en los carbohidratos como agentes bioprotectores. Se presentan además a los disacáridos trehalosa, sacarosa y maltosa, los cuales serán el objeto de estudio de esta tesis, así como a los reactantes de Maillard modelados. También se presentan las hipótesis que intentan explicar el papel de estos azúcares en la preservación de materiales biológicos, ante situaciones de escasez de agua como la originada en la liofilización de alimentos. En este capítulo también se plantea el objetivo del trabajo de tesis y se realiza una breve descripción de los métodos teóricos usadas en la misma. En el Capítulo II se introducen los fundamentos teóricos de las metodologías utilizadas. Se presenta un resumen de la teoría AIM y NBO y de la Densidad del Funcional, DFT. Además, se introduce a la Dinámica Molecular, las leyes en las que se fundamenta y los términos involucrados en sus campos de fuerza. En el Capítulo III se realiza un estudio detallado de la estructura electrónica de los azúcares trehalosa, sacarosa y maltosa con métodos mecanocuánticos incluyendo los análisis QTAIM y NBO. Luego, con métodos de simulación de dinámica molecular, se comparan las propiedades de los tres disacáridos en vacío y en solución acuosa diluida. Se realiza un estudio estructural de los azúcares y se compara con los resultados obtenidos por los métodos cuánticos. También se calculan interacciones del tipo puente de hidrógeno, inter e intramoleculares y ciertas propiedades de transporte. El análisis muestra la importancia de los puentes de Hidrógeno intramoleculares en la conformación de los disacáridos, especialmente uno en el caso de la trehalosa, el cual se considera influye en su mayor rigidez. También muestra la mayor labilidad de los enlaces establecidos entre trehalosa y el solvente. En el Capítulo IV, se estudiaron sistemas cuaternarios compuestos por reactantes de Maillard (glucosa y lisina) embebidos en matrices altamente concentradas de los mismos azúcares. Por medio de Dinámica Molecular Se comparan cambios conformacionales, interaciones del tipo soluto-soluto, soluto-solvente, reactantes-soluto y otras, y propiedades tales como difusión. Los resultados muestran que en situaciones de escaso contenido de agua, la trehalosa muestra mayor rigidez conformacional que maltosa y sacarosa. Esta rigidez influye en las interacciones que ésta establece así como en la movilidad de los otros componentes de la matriz vítrea. Finalmente, aunque cada capítulo cuenta con sus conclusiones particulares, en el Capítulo V se exponen las conclusiones generales de esta tesis. En forma sintética, el estudio realizado en esta tesis muestra la importancia de la dinámica de las interacciones de enlaces de hidrógeno y de la estructura conformacional de los azúcares en el mecanismo de bioprotección.
+ER  -
+
+TY  - JOUR
+AU  - Revista de Física, Momento
+TI  - Departamento de Física, Universidad Nacional de Colombia Santafé de Bogotá
+LA  - und
+JF  - Momento
+PY  - 1997
+SN  - 25008013, 01214470
+PB  - Universidad Nacional de Colombia
+AB  - 1. Magister Scientiae Física
+
+
+Caracterización Óptica de Películas Delgadas Semiconductoras midiendo el espectro de Transmitancia; Puntos Cuánticos: Una aproximación por el método l/N; Dosimetría termoluminiscente con LiF en el estudio de las distribuciones de dosis para una fuente de 192Ir, en aplicaciones de braquiterapia intracavitaria ginecológica; Estudio de procesos de colisión mediante un potencial complejo.
+Aplicación a sistemas ion-átomo o átomo-molécula a bajas energías; Simulación de tiempo de poblamiento desde el continuo de estados discretos para núcleos A == 80 en reacciones de iones pesados; Estudio del comportamiento de la corriente crítica en películas delgadas superconductoras de Bi(2-2-2-3); Estudio de los mecanismos de transporte eléctrico en películas delgadas
+deSn02; Correciones a la Reseña Académica del número 13.
+
+2. Trabajo de Grado
+
+Efectos de la sustentación de Cu por Ni y Co en el sistema (Bl,Pb)Sr-CaCu-O (2223); Estudio de la simulación de la fibra muscular; Elaboración y aplicación de un protocolo de control de calidad para los equipos de rayos X en radiografía diagnóstica; Medición de termopotencia en películas delgadas de Sn02; Generación, Identificación y Caracterización de Ondas Sísmicas P y S.; Estudio del problema de inversión de un modelo de velocidad a partir de reflexiones verticales; Solución de la ecuación de advección-difusión por el método de líneas para
+el estudiu de la propagación de contaminante en un río; Sistemas integrables y aplicación del grupo simpléctico; Análisis de los Protocolos para la dosimetría absoluta de fotones y
+electrones en radioterapia; Cálculo de la estructura de bandas y de la densidad de estados de la aleación ternaria semicoductora ZnSexTel_x en bloque; Modelos con constante cosmológica.
+
+3. Trabajo Dirigido
+
+Producción y Caracterización de Celdas Solares de SnOz/cdS/CdTe; Cálculo de la energía del estado base para átomos con dos electrones median,te el método de Hartree- Fock- Rootha; Prgspección Geoeléctrica aplicada para caracterizilr algunas arenas de la zona insular de Cartagena de Cartagena de Indias;Calculo de la sección Eficaz diferencial clásica a bajas energías; Dispersión semiclásica por un potencial esféricamente simétrico; Aplicación del método WKB para determinar niveles vibracionales y rotacionales en moléculas diatómicas; Determinación espectral de la radiación solar directa sobre la superficie terrestre por medio de imágenes de satélite; Estudio de los ceros de la función de partición gran canónica y su
+implicación en las transiciones de fase; Medidas de resistencia de contacto en películas delgadas semiconductoras de CdTe; Diseño y Construcción de un cronómetro electrónico digital; Propuesta Metodológica para el Aprendizaje de la Física del grado 3° al grado 9° del Colegio Marco Fidel Suárez; Prácticas de Electrónica Básica; Prácticas Demostrativas para el Estudio de fenómenos Oscilatorios con Tevescopio; Cálculo de la Radiación global espectral por medio de datos digitales satelitales; Determinación de la Transmitividad Atmosférica a través de imagen de satélite; Construcción de un equipo de vacío y diseño de experimentos para Física básica a nivel universitario; Preparación y caracterización de películas delgadas fotoconductoras de CdSe; Clasificación de áreas terrestres de acuerdo con su reflectancia; Módulos de talleres de Física para la Media Académica; Efectos de la sustitución de Cu por Ag en (Bi Pb). -Sr-Ca-Cu-O (2234); Energía del estado base de átomos de la sucesión isoelectrónica del ortohelio; Construcción de una fuente de alto voltaje para la activación de un láser; Determinación por el método de Monte Cario de la dosis absorbida por el seno en función de la energía del fotón y la distancia de la fuente durante la mamografía con Rayos X.; Estudio y análisis de la protección Radiológica en los centros de
+radio diagnóstico de la ciudad de Montería
+ER  -
+
+TY  - JOUR
+AU  - Jarosław, Serafin
+TI  - Titanium dioxide and nanoshaped ceria for solar hydrogen production
+LA  - spa
+PY  - 2022
+DO  - 10.5821/dissertation-2117-386795
+ER  -

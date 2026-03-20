@@ -1,0 +1,523 @@
+TY  - JOUR
+AU  - Xiang, Debin
+AU  - Jiang, Qifan
+AU  - Lu, Liqiang
+AU  - Tan, Siwei
+AU  - Yin, Jianwei
+TI  - Choco-Q: Commute Hamiltonian-based QAOA for Constrained Binary
+  Optimization
+LA  - und
+PY  - 2025
+AB  - Constrained binary optimization aims to find an optimal assignment to
+minimize or maximize the objective meanwhile satisfying the constraints, which
+is a representative NP problem in various domains, including transportation,
+scheduling, and economy. Quantum approximate optimization algorithms (QAOA)
+provide a promising methodology for solving this problem by exploiting the
+parallelism of quantum entanglement. However, existing QAOA approaches based on
+penalty-term or Hamiltonian simulation fail to thoroughly encode the
+constraints, leading to extremely low success rate and long searching latency.
+  This paper proposes Choco-Q, a formal and universal framework for constrained
+binary optimization problems, which comprehensively covers all constraints and
+exhibits high deployability for current quantum devices. The main innovation of
+Choco-Q is to embed the commute Hamiltonian as the driver Hamiltonian,
+resulting in a much more general encoding formulation that can deal with
+arbitrary linear constraints. Leveraging the arithmetic features of commute
+Hamiltonian, we propose three optimization techniques to squeeze the overall
+circuit complexity, including Hamiltonian serialization, equivalent
+decomposition, and variable elimination. The serialization mechanism transforms
+the original Hamiltonian into smaller ones. Our decomposition methods only take
+linear time complexity, achieving end-to-end acceleration. Experiments
+demonstrate that Choco-Q shows more than 235$\times$ algorithmic improvement in
+successfully finding the optimal solution, and achieves 4.69$\times$ end-to-end
+acceleration, compared to prior QAOA designs.
+ER  -
+
+TY  - JOUR
+AU  - Padmasola, Venkat
+AU  - Li, Zhaotong
+AU  - Chatterjee, Rupak
+AU  - Dyk, Wesley
+TI  - Solving the Traveling Salesman Problem via Different Quantum Computing Architectures
+LA  - eng
+PY  - 2025
+DO  - 10.48550/arXiv.2502.17725
+AB  - We study the application of emerging photonic and quantum computing architectures to solving the Traveling Salesman Problem (TSP), a well-known NP-hard optimization problem. We investigate several approaches: Simulated Annealing (SA), Quadratic Unconstrained Binary Optimization (QUBO-Ising) methods implemented on quantum annealers and Optical Coherent Ising Machines, as well as the Quantum Approximate Optimization Algorithm (QAOA) and the Quantum Phase Estimation (QPE) algorithm on gate-based quantum computers. QAOA and QPE were tested on the IBM Quantum platform. The QUBO-Ising method was explored using the D-Wave quantum annealer, which operates on superconducting Josephson junctions, and the QCI Dirac machine, a nonlinear optoelectronic Ising machine. Gate-based quantum computers demonstrated accurate results for small TSP instances in simulation. However, real quantum devices are hindered by noise and limited scalability. Circuit complexity grows with problem size, restricting performance to TSP instances with a maximum of 6 nodes. In contrast, Ising-based architectures show improved scalability for larger problem sizes. SQUID-based Ising machines can handle TSP instances with up to 12 nodes, while nonlinear optoelectronic Ising machines extend this capability to 18 nodes. Nevertheless, the solutions tend to be suboptimal due to hardware limitations and challenges in achieving ground state convergence as the problem size increases. Despite these limitations, Ising machines demonstrate significant time advantages over classical methods, making them a promising candidate for solving larger-scale TSPs efficiently.
+ER  -
+
+TY  - JOUR
+AU  - Matt, Paul-Amaury
+AU  - Roth, Marco
+TI  - A heuristic for solving the irregular strip packing problem with quantum
+  optimization
+LA  - und
+PY  - 2024
+AB  - We introduce a novel quantum computing heuristic for solving the irregular
+strip packing problem, a significant challenge in optimizing material usage
+across various industries. This problem involves arranging a set of irregular
+polygonal pieces within a fixed-height, rectangular container to minimize
+waste. Traditional methods heavily rely on manual optimization by specialists,
+highlighting the complexity and computational difficulty of achieving
+quasi-optimal layouts. The proposed algorithm employs a quantum-inspired
+heuristic that decomposes the strip packing problem into two sub-problems:
+ordering pieces via the traveling salesman problem and spatially arranging them
+in a rectangle packing problem. This strategy facilitates a novel application
+of quantum computing to industrial optimization, aiming to minimize waste and
+enhance material efficiency. Experimental evaluations using both classical and
+quantum computational methods demonstrate the algorithm's efficacy. We evaluate
+the algorithm's performance using the quantum approximate optimization
+algorithm and the quantum alternating operator ansatz, through simulations and
+real quantum computers, and compare it to classical approaches.
+ER  -
+
+TY  - CPAPER
+AU  - Decusatis, Casimer
+AU  - Spillane, Evan
+AU  - Foti, Dominick
+AU  - O'Loughlin, Megan
+TI  - Comparison of quantum computing algorithms for network traffic partitioning and mitigation of DoS and DDoS attacks
+LA  - eng
+A2  - Paul, R, Kundu, A
+JF  - 2024 Ieee 15th Annual Ubiquitous Computing, Electronics and Mobile Communication Conference, Uemcon 2024
+SP  - 454
+EP  - 460
+PY  - 2024
+SN  - 9798331540906, 9798331540913
+PB  - Institute of Electrical and Electronics Engineers Inc.
+DO  - 10.1109/UEMCON62879.2024.10754735
+AB  - We investigate application of quantum computing algorithms to classifying network traffic and mitigating denial of service and distributed denial of service attacks. Using actual honeynet data, we compare solutions of the Max Cut problem using both the quantum approximate optimization algorithm (QAOA) and Variational Quantum Eigensolver (VQE). Experimental results from a 6-qubit quantum computer show that optimal solutions can be found with about 98% accuracy in polynomial execution time. We found that VQE is more accurate than QAOA (compared with classical brute force solutions) but also requires significantly longer execution times. Simulations predict this approach can scale to much larger quantum computing hardware (when available) and may achieve quantum advantage on hardware with 30-35 qubits.
+ER  -
+
+TY  - JOUR
+AU  - Matt, Paul-Amaury
+AU  - Roth, Marco
+TI  - A heuristic for solving the irregular strip packing problem with quantum optimization [arXiv]
+LA  - eng
+JF  - Arxiv (cornell University)
+PY  - 2024
+PB  - Cornell University
+DO  - 10.48550/arXiv.2402.17542
+AB  - We introduce a novel quantum computing heuristic for solving the irregular strip packing problem, a significant challenge in optimizing material usage across various industries. This problem involves arranging a set of irregular polygonal pieces within a fixed-height, rectangular container to minimize waste. Traditional methods heavily rely on manual optimization by specialists, highlighting the complexity and computational difficulty of achieving quasi-optimal layouts. The proposed algorithm employs a quantum-inspired heuristic that decomposes the strip packing problem into two sub-problems: ordering pieces via the traveling salesman problem and spatially arranging them in a rectangle packing problem. This strategy facilitates a novel application of quantum computing to industrial optimization, aiming to minimize waste and enhance material efficiency. Experimental evaluations using both classical and quantum computational methods demonstrate the algorithm's efficacy. We evaluate the algorithm's performance using the quantum approximate optimization algorithm and the quantum alternating operator ansatz, through simulations and real quantum computers, and compare it to classical approaches.
+ER  -
+
+TY  - JOUR
+AU  - Bouchmal, Oumayma
+AU  - Cimoli, Bruno
+AU  - Stabile, Ripalta
+AU  - Vegas Olmos, Juan Jose
+AU  - Hernandez, Carlos
+AU  - Martinez, Ricardo
+AU  - Casellas, Ramon
+AU  - Tafur Monroy, Idelfonso
+TI  - Novel Application of Quantum Computing for Routing and Spectrum Assignment in Flexi-Grid Optical Networks
+LA  - eng
+JF  - Photonics
+VL  - 11
+IS  - 11
+PY  - 2024
+SN  - 23046732
+PB  - Multidisciplinary Digital Publishing Institute (MDPI)
+DO  - 10.3390/photonics11111023
+AB  - Flexi-grid technology has revolutionized optical networking by enabling Elastic Optical Networks (EONs) that offer greater flexibility and dynamism compared to traditional fixed-grid systems. As data traffic continues to grow exponentially, the need for efficient and scalable solutions to the routing and spectrum assignment (RSA) problem in EONs becomes increasingly critical. The RSA problem, being NP-Hard, requires solutions that can simultaneously address both spatial routing and spectrum allocation. This paper proposes a novel quantum-based approach to solving the RSA problem. By formulating the problem as a Quadratic Unconstrained Binary Optimization (QUBO) model, we employ the Quantum Approximate Optimization Algorithm (QAOA) to effectively solve it. Our approach is specifically designed to minimize end-to-end delay while satisfying the continuity and contiguity constraints of frequency slots. Simulations conducted using the Qiskit framework and IBM-QASM simulator validate the effectiveness of our method. We applied the QAOA-based RSA approach to small network topology, where the number of nodes and frequency slots was constrained by the limited qubit count on current quantum simulator. In this small network, the algorithm successfully converged to an optimal solution in less than 30 iterations, with a total runtime of approximately 10.7 s with an accuracy of (Formula presented.). Additionally, we conducted a comparative analysis between QAOA, integer linear programming, and deep reinforcement learning methods to evaluate the performance of the quantum-based approach relative to classical techniques. This work lays the foundation for future exploration of quantum computing in solving large-scale RSA problems in EONs, with the prospect of achieving quantum advantage as quantum technology continues to advance.
+ER  -
+
+TY  - JOUR
+AU  - Wang, Hanrui
+AU  - Tan, Daniel Bochen
+AU  - Liu, Pengyu
+AU  - Liu, Yilian
+AU  - Gu, Jiaqi
+AU  - Cong, Jason
+AU  - Han, Song
+TI  - Q-Pilot: Field Programmable Qubit Array Compilation with Flying Ancillas
+LA  - und
+PY  - 2024
+AB  - Neutral atom arrays have become a promising platform for quantum computing,
+especially the field programmable qubit array (FPQA) endowed with the unique
+capability of atom movement. This feature allows dynamic alterations in qubit
+connectivity during runtime, which can reduce the cost of executing long-range
+gates and improve parallelism. However, this added flexibility introduces new
+challenges in circuit compilation. Inspired by the placement and routing
+strategies for FPGAs, we propose to map all data qubits to fixed atoms while
+utilizing movable atoms to route for 2-qubit gates between data qubits. Coined
+flying ancillas, these mobile atoms function as ancilla qubits, dynamically
+generated and recycled during execution. We present Q-Pilot, a scalable
+compiler for FPQA employing flying ancillas to maximize circuit parallelism.
+For two important quantum applications, quantum simulation and the Quantum
+Approximate Optimization Algorithm (QAOA), we devise domain-specific routing
+strategies. In comparison to alternative technologies such as superconducting
+devices or fixed atom arrays, Q-Pilot effectively harnesses the flexibility of
+FPQA, achieving reductions of 1.4x, 27.7x, and 6.3x in circuit depth for
+100-qubit random, quantum simulation, and QAOA circuits, respectively.
+ER  -
+
+TY  - CPAPER
+AU  - Wang, Hanrui
+AU  - Tan, Daniel Bochen
+AU  - Liu, Pengyu
+AU  - Liu, Yilian
+AU  - Gu, Jiaqi
+AU  - Cong, Jason
+AU  - Han, Song
+TI  - Q-Pilot: Field Programmable Qubit Array Compilation with Flying Ancillas
+LA  - eng
+JF  - Proceedings - Design Automation Conference
+PY  - 2024
+SN  - 0738100x
+SN  - 9798400706011
+PB  - Institute of Electrical and Electronics Engineers Inc.
+DO  - 10.1145/3649329.3658470
+AB  - Neutral atom arrays, particularly the reconfigurable field programmable qubit arrays (FPQA) with atom movement, show strong promise for quantum computing. FPQA has a dynamic qubit connectivity, facilitating cost-effective execution of long-range gates, but it also poses new challenges in the compilation. Inspired by the FPGA compilation strategy, we develop a router, Q-Pilot, that leverages flying ancillas to implement 2-Q gates between data qubits mapped to fixed atoms. Equipped with domain-specific routing techniques, Q-Pilot achieves 1.4×, 27.7×, and 6.7× reductions in circuit depth for 100-qubit random, quantum simulation, and QAOA circuits, respectively, compared to alternative fixed atom array architectures.
+ER  -
+
+TY  - CPAPER
+AU  - Bouchmal, Oumayma
+AU  - Cimoli, Bruno
+AU  - Stabile, Ripalta
+AU  - Vegas Olmos, J. J.
+AU  - Monroy, Idelfonso Tafur
+TI  - Quantum Approximate Optimization Algorithm for Routing Optimization in 6G Optical Networks
+LA  - eng
+A2  - Larrabeiti-Lopez, D, Valcarenghi, L, Mas-Machuca, C, Hernandez-Gutierrez, JA
+JF  - Proceedings of the 2024 International Conference on Optical Network Design and Modeling, Ondm 2024
+SP  - 1
+EP  - 6
+PY  - 2024
+SN  - 3903176621, 9783903176621, 9798350351132, 3903176540, 9783903176546, 9798350399240
+PB  - Institute of Electrical and Electronics Engineers Inc.
+DO  - 10.23919/ONDM61578.2024.10582687
+AB  - Routing optimization refers to finding the most efficient path for data to travel between two devices on a network. In this paper, we propose the use of the Quantum Approximate Optimization Algorithm (QAOA) as a novel approach to routing optimization in the context of 6G networks. To this end, we first develop a cost function for single source single destination routing, which is then converted into a Quadratic Unconstrained Binary Optimization formulation. We subsequently extract the equivalent Variational Quantum Circuit of the QAOA from the optimization formulation. To test the performance of the QAOA, we utilize IBM's Qiskit toolkit and QASM-simulator and the Constrained by Linear Approximation optimizer to update the circuit parameters. Simulation results show that the proposed approach converges to the optimal solution, and only after less than 25 iteration, the QAOA was able to find the optimal path for the routing problem.
+ER  -
+
+TY  - CPAPER
+AU  - Pfister, Raphael
+AU  - Schubert, Gunnar
+AU  - Kröll, Markus
+TI  - Transfer of Logistics Optimizations to Material Flow Resource Optimizations using Quantum Computing
+LA  - eng
+A2  - Longo, F, Shen, W, Padovano, A
+JF  - Procedia Computer Science
+VL  - 232
+SP  - 32
+EP  - 42
+PY  - 2024
+SN  - 18770509
+PB  - Elsevier B.V.
+DO  - 10.1016/j.procs.2024.01.004
+AB  - The complexity of industrial logistics and manufacturing processes increases constantly. As a key enabling technology of the upcoming decades, quantum computing is expected to play a crucial role in solving arising combinatorial optimization problems superior to traditional approaches. This study analyzes the current progress of quantum optimization applications in the logistics sector and aims to transfer an existing vehicle routing use case to a newly conceptualized matrix production use case regarding resource-efficient material flows. The simulation of the originating simple model is executed on a local circuit-based quantum simulator that emulates the behavior of real quantum hardware. Using a QAOA algorithm for problem-solving, optimal results have been achieved for all simulated scenarios. The theoretical material flow model is based on multiple assumptions and was created for testing reasons exclusively. For a realistic practical application, the model must therefore first be adapted and extended to include additional features.
+ER  -
+
+TY  - JOUR
+AU  - Qian, Wenyang
+AU  - Basili, Robert A.M.
+AU  - Eshaghian-Wilner, Mary Mehrnoosh
+AU  - Khokhar, Ashfaq
+AU  - Luecke, Glenn
+AU  - Vary, James P.
+TI  - Comparative Study of Variations in Quantum Approximate Optimization Algorithms for the Traveling Salesman Problem
+LA  - eng
+JF  - Entropy
+VL  - 25
+IS  - 8
+PY  - 2023
+SN  - 10994300
+PB  - Multidisciplinary Digital Publishing Institute (MDPI)
+DO  - 10.3390/e25081238
+AB  - The traveling salesman problem (TSP) is one of the most often-used NP-hard problems in computer science to study the effectiveness of computing models and hardware platforms. In this regard, it is also heavily used as a vehicle to study the feasibility of the quantum computing paradigm for this class of problems. In this paper, we tackle the TSP using the quantum approximate optimization algorithm (QAOA) approach by formulating it as an optimization problem. By adopting an improved qubit encoding strategy and a layer-wise learning optimization protocol, we present numerical results obtained from the gate-based digital quantum simulator, specifically targeting TSP instances with 3, 4, and 5 cities. We focus on the evaluations of three distinctive QAOA mixer designs, considering their performances in terms of numerical accuracy and optimization cost. Notably, we find that a well-balanced QAOA mixer design exhibits more promising potential for gate-based simulators and realistic quantum devices in the long run, an observation further supported by our noise model simulations. Furthermore, we investigate the sensitivity of the simulations to the TSP graph. Overall, our simulation results show that the digital quantum simulation of problem-inspired ansatz is a successful candidate for finding optimal TSP solutions.
+ER  -
+
+TY  - JOUR
+AU  - Qian, Wenyang
+AU  - Basili, Robert A. M.
+AU  - Eshaghian-Wilner, Mary
+AU  - Khokhar, Ashfaq
+AU  - Luecke, Glenn
+AU  - Vary, James P.
+TI  - Comparative study of variations in quantum approximate optimization algorithms for the Traveling Salesman Problem [arXiv]
+LA  - eng
+JF  - Arxiv
+PY  - 2023
+AB  - The Traveling Salesman Problem (TSP) is one of the most often-used NP-Hard problems in computer science to study the effectiveness of computing models and hardware platforms. In this regard, it is also heavily used as a vehicle to study the feasibility of the quantum computing paradigm for this class of problems. In this paper, we tackle the TSP using the quantum approximate optimization algorithm (QAOA) approach by formulating it as an optimization problem. By adopting an improved qubit encoding strategy and a layerwise learning optimization protocol, we present numerical results obtained from the gate-based digital quantum simulator, specifically targeting TSP instances with 3, 4, and 5 cities. We focus on the evaluations of three distinctive QAOA mixer designs, considering their performances in terms of numerical accuracy and optimization cost. Notably, we find a well-balanced QAOA mixer design exhibits more promising potential for gate-based simulators and realistic quantum devices in the long run, an observation further supported by our noise model simulations. Furthermore, we investigate the sensitivity of the simulations to the TSP graph. Overall, our simulation results show the digital quantum simulation of problem-inspired ansatz is a successful candidate for finding optimal TSP solutions.
+ER  -
+
+TY  - CPAPER
+AU  - Qian, Wenyang
+AU  - Basili, Robert
+AU  - Eshaghian-Wilner, Mary
+AU  - Khokhar, Ashfaq
+AU  - Luecke, Glenn
+AU  - Vary, James P.
+TI  - Comparative study on the variations of quantum approximate optimization algorithms to the Traveling Salesman Problem
+LA  - eng
+JF  - 2023 Ieee International Parallel and Distributed Processing Symposium Workshops, Ipdpsw 2023
+SP  - 541
+EP  - 551
+PY  - 2023
+SN  - 21647062
+SN  - 9798350311990
+PB  - Institute of Electrical and Electronics Engineers Inc.
+DO  - 10.1109/IPDPSW59300.2023.00094
+AB  - The Traveling Salesman Problem (TSP) is one of the most often-used NP-Hard problems in computer science to study the effectiveness of computing models and hardware platforms. In this regard, it is also being used heavily as a vehicle to study the feasibility of the quantum computing paradigm for this class of problems. In this work, we formulate the symmetric TSP as an optimization problem, which we solve using the quantum approximate optimization algorithm (QAOA) approach. By adopting an improved qubit encoding strategy and a layerwise learning optimization protocol, we obtain numerical results on the gate-based digital quantum simulator for the 3-, 4-, and 5-city TSPs. Specifically, we focus on three QAOA mixer designs to evaluate their performances in terms of numerical accuracy and optimization cost. Based on our results, we propose that a well-balanced QAOA mixer design is more prominent on gate-based simulators or realistic quantum devices in the near future. In addition, we study the sensitivity of TSP graph properties such as graph skewness and penalty weight in the TSP-QAOA simulation. Overall, our results prove digital quantum simulation is a powerful candidate for obtaining the optimal solution to the TSP.
+ER  -
+
+TY  - JOUR
+AU  - Wang, Hanrui
+AU  - Tan, Bochen
+AU  - Liu, Pengyu
+AU  - Liu, Yilian
+AU  - Gu, Jiaqi
+AU  - Cong, Jason
+AU  - Han, Song
+TI  - Q-Pilot: Field Programmable Quantum Array Compilation with Flying Ancillas [arXiv]
+LA  - eng
+PY  - 2023
+DO  - 10.48550/arXiv.2311.16190
+AB  - Neutral atom arrays have become a promising platform for quantum computing, especially the field programmable qubit array (FPQA) endowed with the unique capability of atom movement. This feature allows dynamic alterations in qubit connectivity during runtime, which can reduce the cost of executing long-range gates and improve parallelism. However, this added flexibility introduces new challenges in circuit compilation. Inspired by the placement and routing strategies for FPGAs, we propose to map all data qubits to fixed atoms while utilizing movable atoms to route for 2-qubit gates between data qubits. Coined flying ancillas, these mobile atoms function as ancilla qubits, dynamically generated and recycled during execution. We present Q-Pilot, a scalable compiler for FPQA employing flying ancillas to maximize circuit parallelism. For two important quantum applications, quantum simulation and the Quantum Approximate Optimization Algorithm (QAOA), we devise domain-specific routing strategies. In comparison to alternative technologies such as superconducting devices or fixed atom arrays, Q-Pilot effectively harnesses the flexibility of FPQA, achieving reductions of 1.4×, 27.7×, and 6.3× in circuit depth for 100-qubit random, quantum simulation, and QAOA circuits, respectively.
+ER  -
+
+TY  - JOUR
+AU  - Chakraborty, Chiranjib
+AU  - Bhattacharya, Manojit
+AU  - Dhama, Kuldeep
+AU  - Lee, Sang Soo
+TI  - Quantum computing on nucleic acid research: Approaching towards next-generation computing
+LA  - eng
+JF  - Molecular Therapy Nucleic Acids
+VL  - 33
+SP  - 53
+EP  - 56
+PY  - 2023
+SN  - 21622531
+PB  - Cell Press
+DO  - 10.1016/j.omtn.2023.06.007
+ER  -
+
+TY  - CPAPER
+AU  - Al-Hraishawi, Hayder
+AU  - Rehman, Junaid Ur
+AU  - Chatzinotas, Symeon
+TI  - Quantum Optimization Algorithm for LEO Satellite Communications based on Cell-Free Massive MIMO
+LA  - eng
+JF  - 2023 Ieee International Conference on Communications Workshops: Sustainable Communications for Renaissance, Icc Workshops 2023
+SP  - 1759
+EP  - 1764
+PY  - 2023
+SN  - 26942941, 21647038
+SN  - 9798350333077
+PB  - Institute of Electrical and Electronics Engineers Inc.
+DO  - 10.1109/ICCWorkshops57953.2023.10283753
+AB  - Low Earth orbit (LEO) satellite constellations are in the spotlight during this pivotal time of developing high-speed communications not only for provisioning non-terrestrial connectivity but also for establishing in-space backhauling solutions. However, the technological evolution in this direction faces many challenges especially in the framework of coexisting with other communication systems due to the spectrum scarcity and the aggregated interference. Recently, the concept of cell-free massive multiple-input multiple-output (MIMO) has been applied to the LEO constellations for ameliorating both energy and spectral efficiencies as well as improving interference mitigation. In this paper, we propose a quantum-based activation strategy for LEO satellites based on user demands using the cell-free massive MIMO communication scheme. Specifically, a binary integer linear optimization problem is formulated and solved using the quantum approximate optimization algorithm (QAOA), which provides tangible quantum advantages through swiftly finding the optimal solutions. The performance of the proposed technique is evaluated via simulations and compared to an adaptive power control scheme. It has been shown that approximately 45%, in average, of the LEO satellite nodes can be switched-off during various traffic load instances. Deactivating the redundant nodes would not only enhance the system energy efficiency but also reduce the computational workload at the constellation and minimize the inter-satellite interference.
+ER  -
+
+TY  - JOUR
+AU  - Moses, S. A.
+AU  - Baldwin, C. H.
+AU  - Allman, M. S.
+AU  - Ancona, R.
+AU  - Ascarrunz, L.
+AU  - Barnes, C.
+AU  - Bartolotta, J.
+AU  - Bjork, B.
+AU  - Blanchard, P.
+AU  - Bohn, M.
+AU  - Bohnet, J. G.
+AU  - Brown, N. C.
+AU  - Burdick, N. Q.
+AU  - Burton, W. C.
+AU  - Campbell, S. L.
+AU  - Campora, J. P.
+AU  - Carron, C.
+AU  - Chambers, J.
+AU  - Chan, J. W.
+AU  - Chen, Y. H.
+AU  - Chernoguzov, A.
+AU  - Chertkov, E.
+AU  - Colina, J.
+AU  - Curtis, J. P.
+AU  - Daniel, R.
+AU  - Decross, M.
+AU  - Deen, D.
+AU  - Delaney, C.
+AU  - Dreiling, J. M.
+AU  - Ertsgaard, C. T.
+AU  - Esposito, J.
+AU  - Estey, B.
+AU  - Fabrikant, M.
+AU  - Figgatt, C.
+AU  - Foltz, C.
+AU  - Foss-Feig, M.
+AU  - Francois, D.
+AU  - Gaebler, J. P.
+AU  - Gatterman, T. M.
+AU  - Gilbreth, C. N.
+AU  - Giles, J.
+AU  - Glynn, E.
+AU  - Hall, A.
+AU  - Hankin, A. M.
+AU  - Hansen, A.
+AU  - Hayes, D.
+AU  - Higashi, B.
+AU  - Hoffman, I. M.
+AU  - Horning, B.
+AU  - Hout, J. J.
+AU  - Jacobs, R.
+AU  - Johansen, J.
+AU  - Jones, L.
+AU  - Karcz, J.
+AU  - Klein, T.
+AU  - Lauria, P.
+AU  - Lee, P.
+AU  - Liefer, D.
+AU  - Lu, S. T.
+AU  - Lucchetti, D.
+AU  - Lytle, C.
+AU  - Malm, A.
+AU  - Matheny, M.
+AU  - Mathewson, B.
+AU  - Mayer, K.
+AU  - Miller, D. B.
+AU  - Mills, M.
+AU  - Neyenhuis, B.
+AU  - Nugent, L.
+AU  - Olson, S.
+AU  - Parks, J.
+AU  - Price, G. N.
+AU  - Price, Z.
+AU  - Pugh, M.
+AU  - Ransford, A.
+AU  - Reed, A. P.
+AU  - Roman, C.
+AU  - Rowe, M.
+AU  - Ryan-Anderson, C.
+AU  - Sanders, S.
+AU  - Sedlacek, J.
+AU  - Shevchuk, P.
+AU  - Siegfried, P.
+AU  - Skripka, T.
+AU  - Spaun, B.
+AU  - Sprenkle, R. T.
+AU  - Stutz, R. P.
+AU  - Swallows, M.
+AU  - Tobey, R. I.
+AU  - Tran, A.
+AU  - Tran, T.
+AU  - Vogt, E.
+AU  - Volin, C.
+AU  - Walker, J.
+AU  - Zolot, A. M.
+AU  - Pino, J. M.
+TI  - A Race-Track Trapped-Ion Quantum Processor
+LA  - eng
+JF  - Physical Review X
+VL  - 13
+IS  - 4
+PY  - 2023
+SN  - 21603308
+PB  - American Physical Society
+DO  - 10.1103/PhysRevX.13.041052
+AB  - We describe and benchmark a new quantum charge-coupled device (QCCD) trapped-ion quantum computer based on a linear trap with periodic boundary conditions, which resembles a race track. The new system successfully incorporates several technologies crucial to future scalability - including electrode broadcasting, multilayer rf routing, and magneto-optical trap (MOT) loading - while maintaining, and in some cases exceeding, the gate fidelities of previous QCCD systems. The system is initially operated with 32 qubits, but future upgrades will allow for more. We benchmark the performance of primitive operations, including an average state preparation and measurement error of 1.6(1)×10-3, an average single-qubit gate infidelity of 2.5(3)×10-5, and an average two-qubit gate infidelity of 1.84(5)×10-3. The system-level performance of the quantum processor is assessed with mirror benchmarking, linear cross-entropy benchmarking, a quantum volume measurement of QV=216, and the creation of 32-qubit entanglement in a GHZ state. We also tested application benchmarks, including Hamiltonian simulation, QAOA, error correction on a repetition code, and dynamics simulations using qubit reuse. We also discuss future upgrades to the new system aimed at adding more qubits and capabilities.
+ER  -
+
+TY  - JOUR
+AU  - Jin, Yuwei
+AU  - Li, Zirui
+AU  - Hua, Fei
+AU  - Chen, Yanhao
+AU  - Chen, Henry
+AU  - Huang, Yipeng
+AU  - Zhang, Eddy Z.
+TI  - Tetris: A compilation Framework for VQE Applications [arXiv]
+LA  - eng
+PY  - 2023
+DO  - 10.48550/arXiv.2309.01905
+AB  - Quantum computing has shown promise in solving complex problems by leveraging the principles of superposition and entanglement. The Variational Quantum Eigensolver (VQE) algorithm stands as a pivotal approach in the realm of quantum algorithms, enabling the simulation of quantum systems on quantum hardware. In this paper, we introduce two innovative techniques, namely "Tetris" and "Fast Bridging," designed to enhance the efficiency and effectiveness of VQE tasks. The "Tetris" technique addresses a crucial aspect of VQE optimization by unveiling cancellation opportunities within the logical circuit phase of UCCSD ansatz. Tetris demonstrates a remarkable reduction up to 20% in CNOT gate counts, about 119048 CNOT gates, and 30% depth reduction compared to the state-of-the-art compiler 'Paulihedral'. In addition to Tetris, we present the "Fast Bridging" technique as an alternative to the conventional qubit routing methods that heavily rely on swap operations. The fast bridging offers a novel approach to qubit routing, mitigating the limitations associated with swap-heavy routing. By integrating the fast bridging into the VQE framework, we observe further reductions in CNOT gate counts and circuit depth. The bridging technique can achieve up to 27% CNOT gate reduction in the QAOA application. Through a combination of Tetris and the fast bridging, we present a comprehensive strategy for enhancing VQE performance. Our experimental results showcase the effectiveness of Tetris in uncovering cancellation opportunities and demonstrate the symbiotic relationship between Tetris and the fast bridging in minimizing gate counts and circuit depth. This paper contributes not only to the advancement of VQE techniques but also to the broader field of quantum algorithm optimization.
+ER  -
+
+TY  - CPAPER
+AU  - Lao, Lingling
+AU  - Browne, Dan E.
+TI  - 2QAN: A quantum compiler for 2-local qubit Hamiltonian simulation algorithms
+LA  - eng
+JF  - Proceedings - International Symposium on Computer Architecture
+SP  - 351
+EP  - 365
+PY  - 2022
+SN  - 10636897, 2575713x
+SN  - 1450386105, 9781450386104
+PB  - Institute of Electrical and Electronics Engineers Inc.
+DO  - 10.1145/3470496.3527394
+AB  - Simulating quantum systems is one of the most important potential applications of quantum computers. The high-level circuit defning the simulation needs to be compiled into one that complies with hardware limitations such as qubit architecture (connectivity) and instruction (gate) set. General-purpose quantum compilers work at the gate level and have little knowledge of the mathematical properties of quantum applications, missing further optimization opportunities. Existing application-specifc compilers only apply advanced optimizations in the scheduling procedure and are restricted to the CNOT or CZ gate set. In this work, we develop a compiler, named 2QAN, to optimize quantum circuits for 2-local qubit Hamiltonian simulation problems, a framework which includes the important quantum approximate optimization algorithm (QAOA). In particular, we exploit the flexibility of permuting different operators in the Hamiltonian (no matter whether they commute) and propose permutation-aware techniques for qubit routing, gate optimization and scheduling to minimize compilation overhead. 2QAN can target different architectures and different instruction sets. Compilation results on four applications (up to 50 qubits) and three quantum computers (namely, Google Sycamore, IBMQ Montreal and Rigetti Aspen) show that 2QAN outperforms state-of-theart general-purpose compilers and application-specifc compilers. Specifcally, 2QAN can reduce the number of inserted SWAP gates by 11.5X, reduce overhead in hardware gate count by 68.5X, and reduce overhead in circuit depth by 21X. Experimental results on the Montreal device demonstrate that benchmarks compiled by 2QAN achieve the highest fdelity.
+ER  -
+
+TY  - JOUR
+AU  - Lao, Lingling
+AU  - Browne, Dan E.
+TI  - 2QAN: A quantum compiler for 2-local qubit Hamiltonian simulation
+  algorithms
+LA  - und
+PY  - 2021
+AB  - Simulating quantum systems is one of the most important potential
+applications of quantum computers. The high-level circuit defining the
+simulation needs to be compiled into one that complies with hardware
+limitations such as qubit architecture (connectivity) and instruction (gate)
+set. General-purpose quantum compilers work at the gate level and have little
+knowledge of the mathematical properties of quantum applications, missing
+further optimization opportunities. Existing application-specific compilers
+only apply advanced optimizations in the scheduling procedure and are
+restricted to the CNOT or CZ gate set. In this work, we develop a compiler,
+named 2QAN, to optimize quantum circuits for 2-local qubit Hamiltonian
+simulation problems, a framework which includes the important quantum
+approximate optimization algorithm (QAOA). In particular, we exploit the
+flexibility of permuting different operators in the Hamiltonian (no matter
+whether they commute) and propose permutation-aware techniques for qubit
+routing, gate optimization and scheduling to minimize compilation overhead.
+2QAN can target different qubit topologies and different hardware gate sets.
+Compilation results on four applications (up to 50 qubits) and three quantum
+computers (namely, Google Sycamore, IBMQ Montreal and Rigetti Aspen) show that
+2QAN outperforms state-of-the-art general-purpose compilers and
+application-specific compilers. Specifically, 2QAN can reduce the number of
+inserted SWAP gates by 11.5X, reduce overhead in hardware gate count by 68.5X,
+and reduce overhead in circuit depth by 21X. Experimental results on the
+Montreal device demonstrate that benchmarks compiled by 2QAN achieve the
+highest fidelity.
+ER  -
+
+TY  - JOUR
+AU  - Zhang, Yuxuan
+AU  - Zhang, Ruizhe
+AU  - Potter, Andrew C.
+TI  - QED driven QAOA for network-flow optimization
+LA  - eng
+JF  - Quantum
+VL  - 5
+PY  - 2021
+SN  - 2521327x
+PB  - Verein zur Forderung des Open Access Publizierens in den Quantenwissenschaften
+DO  - 10.22331/Q-2021-07-27-510
+AB  - We present a general framework for modifying quantum approximate optimization algorithms (QAOA) to solve constrained network flow problems. By exploiting an analogy between flow-constraints and Gauss' law for electromagnetism, we design lattice quantum electrodynamics (QED)- inspired mixing Hamiltonians that preserve flow constraints throughout the QAOA process. This results in an exponential reduction in the size of the configuration space that needs to be explored, which we show through numerical simulations, yields higher quality approximate solutions compared to the original QAOA routine. We outline a specific implementation for edge-disjoint path (EDP) problems related to traffic congestion minimization, numerically analyze the effect of initial state choice, and explore trade-offs between circuit complexity and qubit resources via a particle-vortex duality mapping. Comparing the effect of initial states reveals that starting with an ergodic (unbiased) superposition of solutions yields better performance than beginning with the mixer ground-state, suggesting a departure from the "short-cut to adiabaticity" mechanism often used to motivate QAOA.
+ER  -
+
+TY  - CPAPER
+AU  - Bartschi, Andreas
+AU  - Eidenbenz, Stephan
+TI  - Grover Mixers for QAOA: Shifting Complexity from Mixer Design to State Preparation
+LA  - eng
+A2  - Muller, HA, Byrd, G, Culhane, C, DeBenedictis, E, Humble, T
+JF  - Proceedings - Ieee International Conference on Quantum Computing and Engineering, Qce 2020
+SP  - 72
+EP  - 82
+PY  - 2020
+SN  - 1728189691, 1728189705, 9781728189697, 9781728189703
+PB  - Institute of Electrical and Electronics Engineers Inc.
+DO  - 10.1109/QCE49297.2020.00020
+AB  - We propose GM-QAOA, a variation of the Quantum Alternating Operator Ansatz (QAOA) that uses Grover-like selective phase shift mixing operators. GM-QAOA works on any NP optimization problem for which it is possible to efficiently prepare an equal superposition of all feasible solutions; it is designed to perform particularly well for constraint optimization problems, where not all possible variable assignments are feasible solutions. GM-QAOA has the following features: (i) It is not susceptible to Hamiltonian Simulation error (such as Trotterization errors) as its operators can be implemented exactly using standard gate sets and (ii) Solutions with the same objective value are always sampled with the same amplitude. We illustrate the potential of GM-QAOA on several optimization problem classes: for permutation-based optimization problems such as the Traveling Salesperson Problem, we present an efficient algorithm to prepare a superposition of all possible permutations of n numbers, defined on O (n 2) qubits; for the hard constraint k-Vertex-Cover problem, and for an application to Discrete Portfolio Rebalancing, we show that GM-QAOA outperforms existing QAOA approaches.
+ER  -
+
+TY  - JOUR
+AU  - Bärtschi, Andreas
+AU  - Eidenbenz, Stephan
+TI  - Grover Mixers for QAOA: Shifting Complexity from Mixer Design to State Preparation [arXiv]
+LA  - eng
+JF  - Arxiv
+PY  - 2020
+AB  - We propose GM-QAOA, a variation of the Quantum Alternating Operator Ansatz (QAOA) that uses Grover-like selective phase shift mixing operators. GM-QAOA works on any NP optimization problem for which it is possible to efficiently prepare an equal superposition of all feasible solutions; it is designed to perform particularly well for constraint optimization problems, where not all possible variable assignments are feasible solutions. GM-QAOA has the following features: (i) It is not susceptible to Hamiltonian Simulation error (such as Trotterization errors) as its operators can be implemented exactly using standard gate sets and (ii) Solutions with the same objective value are always sampled with the same amplitude. We illustrate the potential of GM-QAOA on several optimization problem classes: for permutation-based optimization problems such as the Traveling Salesperson Problem, we present an efficient algorithm to prepare a superposition of all possible permutations of n numbers, defined on O(n2) qubits; for the hard constraint k-Vertex-Cover problem, and for an application to Discrete Portfolio Rebalancing, we show that GM-QAOA outperforms existing QAOA approaches.
+ER  -

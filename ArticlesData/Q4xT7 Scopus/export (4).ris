@@ -1,0 +1,62 @@
+TY  - JOUR
+AB  - Flexi-grid technology has revolutionized optical networking by enabling Elastic Optical Networks (EONs) that offer greater flexibility and dynamism compared to traditional fixed-grid systems. As data traffic continues to grow exponentially, the need for efficient and scalable solutions to the routing and spectrum assignment (RSA) problem in EONs becomes increasingly critical. The RSA problem, being NP-Hard, requires solutions that can simultaneously address both spatial routing and spectrum allocation. This paper proposes a novel quantum-based approach to solving the RSA problem. By formulating the problem as a Quadratic Unconstrained Binary Optimization (QUBO) model, we employ the Quantum Approximate Optimization Algorithm (QAOA) to effectively solve it. Our approach is specifically designed to minimize end-to-end delay while satisfying the continuity and contiguity constraints of frequency slots. Simulations conducted using the Qiskit framework and IBM-QASM simulator validate the effectiveness of our method. We applied the QAOA-based RSA approach to small network topology, where the number of nodes and frequency slots was constrained by the limited qubit count on current quantum simulator. In this small network, the algorithm successfully converged to an optimal solution in less than 30 iterations, with a total runtime of approximately 10.7 s with an accuracy of (Formula presented.). Additionally, we conducted a comparative analysis between QAOA, integer linear programming, and deep reinforcement learning methods to evaluate the performance of the quantum-based approach relative to classical techniques. This work lays the foundation for future exploration of quantum computing in solving large-scale RSA problems in EONs, with the prospect of achieving quantum advantage as quantum technology continues to advance.
+AU  - Bouchmal, O.
+AU  - Cimoli, B.
+AU  - Stabile, R.
+AU  - Vegas Olmos, J.J.
+AU  - Hernandez, C.
+AU  - Martinez, R.
+AU  - Casellas, R.
+AU  - Tafur Monroy, I.
+DO  - 10.3390/photonics11111023
+IS  - 11
+PY  - 2024
+TI  - Novel Application of Quantum Computing for Routing and Spectrum Assignment in Flexi-Grid Optical Networks
+T2  - Photonics
+VL  - 11
+ER  -
+TY  - CONF
+AB  - Routing optimization refers to finding the most efficient path for data to travel between two devices on a network. In this paper, we propose the use of the Quantum Approximate Optimization Algorithm (QAOA) as a novel approach to routing optimization in the context of 6G networks. To this end, we first develop a cost function for single source single destination routing, which is then converted into a Quadratic Unconstrained Binary Optimization formulation. We subsequently extract the equivalent Variational Quantum Circuit of the QAOA from the optimization formulation. To test the performance of the QAOA, we utilize IBM's Qiskit toolkit and QASM-simulator and the Constrained by Linear Approximation optimizer to update the circuit parameters. Simulation results show that the proposed approach converges to the optimal solution, and only after less than 25 iteration, the QAOA was able to find the optimal path for the routing problem.
+AU  - Bouchmal, O.
+AU  - Cimoli, B.
+AU  - Stabile, R.
+AU  - Vegas Olmos, J.J.
+AU  - Monroy, I.T.
+DO  - 10.23919/ONDM61578.2024.10582687
+PY  - 2024
+SN  - 9783903176546
+TI  - Quantum Approximate Optimization Algorithm for Routing Optimization in 6G Optical Networks
+T2  - Proceedings of the 2024 International Conference on Optical Network Design and Modeling, ONDM 2024
+ER  -
+TY  - CONF
+AB  - Constrained optimization problems, where not all possible variable assignments are feasible solutions, comprise numerous practically relevant optimization problems such as the Traveling Salesman Problem (TSP), or portfolio optimization. Established methods such as quantum annealing or vanilla QAOA usually transform the problem statement into a Quadratic Unconstrained Binary Optimization (QUBO) form, where the constraints are enforced by auxiliary terms in the QUBO objective. Consequently, such approaches fail to utilize the additional structure provided by the constraints. In this work, we present a method for solving the industry relevant Product Breakdown Structure problem. The method is based on constrained QAOA, which by construction never explores the part of the Hilbert space that represents solutions forbidden by the problem constraints. The size of the search space is thereby reduced significantly. We experimentally show that this approach has not only a very favorable scaling behavior, but also appears to suppress the negative effects of Barren Plateaus.
+AU  - Zander, R.
+AU  - Seidel, R.
+AU  - Inajetovic, M.
+AU  - Steinmann, N.
+AU  - Petrič, M.
+DO  - 10.1109/QCE60285.2024.10356
+PY  - 2024
+SN  - 9798331541378
+SP  - 462
+EP  - 463
+TI  - Solving the Product Breakdown Structure Problem with constrained QAOA
+T2  - Proceedings - IEEE Quantum Week 2024, QCE 2024
+VL  - 2
+ER  -
+TY  - BOOK
+AB  - The proceedings contain 70 papers. The special focus in this conference is on Metaheuristics. The topics include: A Continuous-GRASP Random-Key Optimizer; adaptive Ant Colony Optimization Using Node Clustering with Simulated Annealing; job-Shop Scheduling with Robot Synchronization for Transport Operations; SIRO: A Deep Learning-Based Next-Generation Optimizer for Solving Global Optimization Problems; Investigation of the Benefit of Extracting Patterns from Local Optima to Solve a Bi-objective VRPTW; a Memetic Algorithm for Large-Scale Real-World Vehicle Routing Problems with Simultaneous Pickup and Delivery with Time Windows; tabu Search for Solving Covering Salesman Problem with Nodes and Segments; VNS with Path Relinking for the Profitable Close-Enough Arc Routing Problem; A Simulated Annealing Algorithm to Learn an RMP Preference Model; iterative Heuristic over Periods for the Inventory Routing Problem; combining Heuristics and Constraint Programming for the Parallel Drone Scheduling Vehicle Routing Problem with Collective Drones; a Re-optimization Heuristic for a Dial-a-Ride Problem in the Transportation of Patients; solving the Integrated Patient-to-Room and Nurse-to-Patient Assignment by Simulated Annealing; enhancing Real-World Applicability in Home Healthcare: A Metaheuristic Approach for Advanced Routing and Scheduling; solving the Two-Stage Robust Elective Patient Surgery Planning Under Uncertainties with Intensive Care Unit Beds Availability; extracting White-Box Knowledge from Word Embedding: Modeling as an Optimization Problem; a Hybrid Biased-Randomized Heuristic for a Home Care Problem with Team Scheme Selection; extended Set Covering for Time Series Segmentation; Indirect Flow-Shop Coding Using Rank: Application to Indirect QAOA; Utilizing Graph Sparsification for Pre-processing in Max Cut QUBO Solver; addressing Machine Unavailability in Job Shop Scheduling: A Quantum Computing Approach; Solving Edge-Weighted Maximum Clique Problem with DCA Warm-Start Quantum Approximate Optimization Algorithm; Comparing Integer Encodings in QUBO for Quantum and Digital Annealing: The Travelling Salesman Problem; solving Quadratic Knapsack Problem with Biased Quantum State Optimization Algorithm; quantum Optimization Approach for Feature Selection in Machine Learning; an Efficient Algorithm for the T-Row Facility Layout Problem.
+PY  - 2024
+SN  - 9783031629211
+TI  - 15th Metaheuristics International Conference, MIC 2024
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 14754 LNCS
+ER  -
+TY  - BOOK
+AB  - The proceedings contain 70 papers. The special focus in this conference is on Metaheuristics. The topics include: A Continuous-GRASP Random-Key Optimizer; adaptive Ant Colony Optimization Using Node Clustering with Simulated Annealing; job-Shop Scheduling with Robot Synchronization for Transport Operations; SIRO: A Deep Learning-Based Next-Generation Optimizer for Solving Global Optimization Problems; Investigation of the Benefit of Extracting Patterns from Local Optima to Solve a Bi-objective VRPTW; a Memetic Algorithm for Large-Scale Real-World Vehicle Routing Problems with Simultaneous Pickup and Delivery with Time Windows; tabu Search for Solving Covering Salesman Problem with Nodes and Segments; VNS with Path Relinking for the Profitable Close-Enough Arc Routing Problem; A Simulated Annealing Algorithm to Learn an RMP Preference Model; iterative Heuristic over Periods for the Inventory Routing Problem; combining Heuristics and Constraint Programming for the Parallel Drone Scheduling Vehicle Routing Problem with Collective Drones; a Re-optimization Heuristic for a Dial-a-Ride Problem in the Transportation of Patients; solving the Integrated Patient-to-Room and Nurse-to-Patient Assignment by Simulated Annealing; enhancing Real-World Applicability in Home Healthcare: A Metaheuristic Approach for Advanced Routing and Scheduling; solving the Two-Stage Robust Elective Patient Surgery Planning Under Uncertainties with Intensive Care Unit Beds Availability; extracting White-Box Knowledge from Word Embedding: Modeling as an Optimization Problem; a Hybrid Biased-Randomized Heuristic for a Home Care Problem with Team Scheme Selection; extended Set Covering for Time Series Segmentation; Indirect Flow-Shop Coding Using Rank: Application to Indirect QAOA; Utilizing Graph Sparsification for Pre-processing in Max Cut QUBO Solver; addressing Machine Unavailability in Job Shop Scheduling: A Quantum Computing Approach; Solving Edge-Weighted Maximum Clique Problem with DCA Warm-Start Quantum Approximate Optimization Algorithm; Comparing Integer Encodings in QUBO for Quantum and Digital Annealing: The Travelling Salesman Problem; solving Quadratic Knapsack Problem with Biased Quantum State Optimization Algorithm; quantum Optimization Approach for Feature Selection in Machine Learning; an Efficient Algorithm for the T-Row Facility Layout Problem.
+PY  - 2024
+SN  - 9783031629112
+TI  - 15th Metaheuristics International Conference, MIC 2024
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 14753 LNCS
+ER  -

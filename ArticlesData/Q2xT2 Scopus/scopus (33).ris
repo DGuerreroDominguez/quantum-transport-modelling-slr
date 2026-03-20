@@ -1,0 +1,517 @@
+﻿TY  - JOUR
+AU  - Sabӑu, D.A.
+AU  - Şerban, G.
+AU  - Breţcan, P.
+AU  - Dunea, D.
+AU  - Petrea, D.
+AU  - Rus, I.
+AU  - Tanislav, D.
+TI  - Combining radar quantitative precipitation estimates (QPEs) with distributed hydrological model for controlling transit of flash-flood upstream of crowded human habitats in Romania
+PY  - 2023
+T2  - Natural Hazards
+VL  - 116
+IS  - 1
+SP  - 1209
+EP  - 1238
+DO  - 10.1007/s11069-022-05718-9
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85142476602&doi=10.1007%2fs11069-022-05718-9&partnerID=40&md5=af0ba07eadda66ae10f56db594d97f42
+AB  - This study aims to develop and adapt new methodologies for the foundation of a new hydrological system, essential component of a much-needed decision support spatial system for the Firiza basin and reservoir (North-West of Romania) and other areas situated upstream of a densely populated area. In order to utilize semi-distributed models in basins outside of the USA, in particular the application of an adaptation of the methodology for application of gridded precipitation within HEC-HMS in US regions covered by the hydrologic rainfall analysis projection and the standard hydrologic grid systems has been developed for Romania. This methodology allows for precipitation processing and estimation of loss parameters and runoff transformation parameters to areas outside of the USA and areas that were not covered under the initial formulation of the method. This adaptation enables an alternative forecasting method and a controlled model for the transit of flash floods through reservoirs, which was correlated with the result of precipitation forecast. Multiple sets of parameters have been compiled to represent a wet/typical condition: a snowy and a dry one. All river basin conditions were adjusted according to historical events, and two zone configurations were developed, including the gauge configuration assigned to the transformation and basic flow parameters, and the soil configuration assigned to the loss parameters. Igniș radar provides radar imagery into the future, taking into account advection, growth and decay, allowing for an accurate 0–1 h quantitative precipitation forecast. This capability provides extremely accurate short-term forecasting—80% accuracy over 15 min and 70% accuracy over 30 min—that is vital for near-term flash flood forecasting. The efficiency of the model ranged between the good and very good. The results will be used to manage extreme situations such as flash floods, which can generate major hydrological risk situations for thousands of residents in the Baia Mare urban area, located downstream of this reservoir. © 2022, The Author(s), under exclusive licence to Springer Nature B.V.
+KW  - Firiza river basin
+KW  - Flood forecasting
+KW  - HEC software package
+KW  - Precipitation forecast
+KW  - RADAR
+KW  - Romania
+KW  - flash flood
+KW  - forecasting method
+KW  - hydrological modeling
+KW  - precipitation assessment
+KW  - quantitative analysis
+KW  - radar
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 5
+ER  -
+
+TY  - JOUR
+AU  - Lin, P.
+AU  - Hopper, L.J.
+AU  - Yang, Z.-L.
+AU  - Lenz, M.
+AU  - Zeitler, J.W.
+TI  - Insights into hydrometeorological factors constraining flood prediction skill during the May and October 2015 Texas Hill Country flood events
+PY  - 2018
+T2  - Journal of Hydrometeorology
+VL  - 19
+IS  - 8
+SP  - 1339
+EP  - 1361
+DO  - 10.1175/JHM-D-18-0038.1
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85053075510&doi=10.1175%2fJHM-D-18-0038.1&partnerID=40&md5=501db5fed57c1f2494337213a129cad2
+AB  - This study evaluates the May and October 2015 flood prediction skill of a physically based model resembling the U.S. National Water Model (NWM) over the Texas Hill Country. It also investigates hydrometeorological factors that contributed to a record flood along the Blanco River at Wimberley (WMBT2) in May 2015. Using two radar-based quantitative precipitation estimation (QPE) products-Stage IV and Multi-Radar Multi-Sensor (MRMS)-it is shown that the event precipitation accuracy dominates the prediction skill, where the finer-resolution MRMS QPE mainly benefits basins with small drainage areas. Overall, the model exhibits good performance at gauges with fast flood response from causative rainfall and gauges that are not forecast points in the National Weather Service's Advanced Hydrometeorological Prediction System, showing great promise for forecasts, warnings, and emergency response. However, the model suffers from poor prediction skill over regions without rapid flood response and regions with human-altered flows, suggesting the need to revisit the channel routing algorithm and incorporate modules to represent human alterations. Two contrasting flood events at WMBT2 with similar meteorological characteristics are examined in greater detail, revealing that the location of intense rainfall combined with land physiographic features are key to the flood response differences. Model sensitivity tests further show the record flood peak could be better obtained by tuning the deep-layer soil wetness and the flow velocity field in the river network, which offers hydrometeorological insights into the causes and the complex nature of such a flood and why the model struggles to predict the record flood peak. © 2018 American Meteorological Society.
+KW  - Atmosphere
+KW  - Flood events
+KW  - Hydrologic models
+KW  - Hydrometeorology
+KW  - Blanco River
+KW  - Texas
+KW  - United States
+KW  - algorithm
+KW  - flood forecasting
+KW  - flow field
+KW  - flow velocity
+KW  - hydrometeorology
+KW  - precipitation assessment
+KW  - rainfall
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 34
+ER  -
+
+TY  - CONF
+AU  - Gagne, D.J.
+AU  - McGovern, A.
+AU  - Xue, M.
+TI  - Machine learning enhancement of storm scale ensemble precipitation forecasts
+PY  - 2012
+T2  - Proceedings - 2012 Conference on Intelligent Data Understanding, CIDU 2012
+C7  - 6382199
+SP  - 39
+EP  - 46
+DO  - 10.1109/CIDU.2012.6382199
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84872373200&doi=10.1109%2fCIDU.2012.6382199&partnerID=40&md5=7cea9d0588aba9f15ac9ea837ba06e63
+AB  - Precipitation forecasts provide both a crucial service for the general populace and a challenging forecasting problem due to the complex, multi-scale interactions required for precipitation formation. The Center for the Analysis and Prediction of Storms (CAPS) Storm Scale Ensemble Forecast (SSEF) system is a promising method of providing high-resolution forecasts of the intensity and uncertainty in precipitation forecasts. The SSEF incorporates multiple models with varied parameterization scheme combinations and produces forecasts every 4 km over the continental US. The SSEF precipitation forecasts exhibit significant negative biases and placement errors. In order to correct these issues, multiple machine learning algorithms have been applied to the SSEF precipitation forecasts to correct the forecasts using the NSSL National Mosaic and Multisensor QPE (NMQ) grid as verification. The 2010 SSEF was used for training. Two levels of post-processing are performed. In the first, probabilities of any precipitation are determined and used to find optimal thresholds for the precipitation areas. Then, three types of forecasts are produced in those areas. First, the probability of the 1-hour accumulated precipitation exceeding a threshold is predicted with random forests, logistic regression, and multivariate adaptive regression splines (MARS). Second, deterministic forecasts based on a correction from the ensemble mean are made with linear regression, random forests, and MARS. Third, fixed probability interval forecasts are made with quantile regressions and quantile regression forests. Models are generated from points sampled from the western, central, and eastern sections of the domain. Verification statistics and case study results show improvements in the reliability and skill of the forecasts compared to the original ensemble while controlling for the over-prediction of the precipitation areas and without sacrificing smaller scale details from the model runs. © 2012 IEEE.
+KW  - Decision trees
+KW  - Learning algorithms
+KW  - Learning systems
+KW  - Logistics
+KW  - Regression analysis
+KW  - Storms
+KW  - Uncertainty analysis
+KW  - Continental US
+KW  - Deterministic forecasts
+KW  - Ensemble forecasts
+KW  - Forecasting problems
+KW  - High resolution
+KW  - Logistic regressions
+KW  - Multi sensor
+KW  - Multiple machine
+KW  - Multiple models
+KW  - Multiscales
+KW  - Multivariate adaptive regression splines
+KW  - Negative bias
+KW  - Optimal threshold
+KW  - Parameterization schemes
+KW  - Post processing
+KW  - Precipitation areas
+KW  - Precipitation forecast
+KW  - Precipitation formation
+KW  - Probability intervals
+KW  - Quantile regression
+KW  - Random forests
+KW  - Weather forecasting
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 8
+ER  -
+
+TY  - JOUR
+AU  - Chen, L.S.
+AU  - Li, Y.
+AU  - Cheng, Z.Q.
+TI  - An overview of research and forecasting on rainfall associated with landfalling tropical cyclones
+PY  - 2010
+T2  - Advances in Atmospheric Sciences
+VL  - 27
+IS  - 5
+SP  - 967
+EP  - 976
+DO  - 10.1007/s00376-010-8171-y
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-77955824825&doi=10.1007%2fs00376-010-8171-y&partnerID=40&md5=975d7d509509727987237f779e7f96a9
+AB  - The ability to forecast heavy rainfall associated with landfalling tropical cyclones (LTCs) can be improved with a better understanding of the mechanism of rainfall rates and distributions of LTCs. Research in the area of LTCs has shown that associated heavy rainfall is related closely to mechanisms such as moisture transport, extratropical transition (ET), interaction with monsoon surge, land surface processes or topographic effects, mesoscale convective system activities within the LTC, and boundary layer energy transfer etc.. LTCs interacting with environmental weather systems, especially the westerly trough and mei-yu front, could change the rainfall rate and distribution associated with these mid-latitude weather systems. Recently improved technologies have contributed to advancements within the areas of quantitative precipitation estimation (QPE) and quantitative precipitation forecasting (QPF). More specifically, progress has been due primarily to remote sensing observations and mesoscale numerical models which incorporate advanced assimilation techniques. Such progress may provide the tools necessary to improve rainfall forecasting techniques associated with LTCs in the future. © 2010 Chinese National Committee for International Association of Meteorology and Atmospheric Sciences, Institute of Atmospheric Physics, Science Press and Springer-Verlag Berlin Heidelberg.
+KW  - heavy rainfall
+KW  - landfalling tropical cyclones
+KW  - research and forecasting
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 125
+ER  -
+
+TY  - CONF
+AU  - Novák, P.
+AU  - Sokol, Z.
+TI  - Use of Czech weather radar network data for precipitation estimating and nowcasting
+PY  - 2008
+T2  - World Environmental and Water Resources Congress 2008: Ahupua'a - Proceedings of the World Environmental and Water Resources Congress 2008
+VL  - 316
+DO  - 10.1061/40976(316)398
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-79251510253&doi=10.1061%2f40976%28316%29398&partnerID=40&md5=c6e6c33a6c2c5dda6c647baf4b4c4458
+AB  - The Czech weather radar network (CZRAD) is operated by the Czech Hydrometeorological Institute (national weather service of the Czech Republic). CZRAD data are used for severe weather and precipitation monitoring by national civil and military weather services, operational hydrology, air traffic control and many other users including general public. Several damaging floods, which hit the Czech Republic in last decade, emphasized importance of radar data for hydrological applications and accelerated research and development in the field of rainfall estimating and nowcasting. The development of the methods is performed in cooperation with the Institute of Atmospheric Physics (Czech Academy of Sciences) and US National Weather Service (US NWS). The paper presents the Czech weather radar network and operational implementations of radar based quantitative precipitation estimates (QPE) and forecast (QPF) methods. Status of the current development and future outlook is also discussed. © 2008 ASCE.
+KW  - Czech Republic
+KW  - Hydrologic data
+KW  - Radar
+KW  - Weather
+KW  - Air traffic control
+KW  - Estimation
+KW  - Geophysics
+KW  - Meteorological radar
+KW  - Radar
+KW  - Weather forecasting
+KW  - Weather information services
+KW  - Atmospheric physics
+KW  - Czech Republic
+KW  - General publics
+KW  - Hydrologic data
+KW  - National Weather Services
+KW  - Nowcasting
+KW  - Radar data
+KW  - Research and development
+KW  - Severe weather
+KW  - US National Weather Service
+KW  - Weather
+KW  - Weather radars
+KW  - Weather services
+KW  - Water resources
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Tiranti, D.
+AU  - Bertolotto, P.
+AU  - Cremonini, R.
+AU  - Gaeta, A.R.
+AU  - Vela, N.
+TI  - The Territorial Debris Flow Early Warning System of Piemonte (North-western Italy)
+PY  - 2023
+T2  - E3S Web of Conferences
+VL  - 415
+C7  - 03030
+DO  - 10.1051/e3sconf/202341503030
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85172023283&doi=10.1051%2fe3sconf%2f202341503030&partnerID=40&md5=46d9dcf4052a014231e6a9b2ce125942
+AB  - Debris flows are one of the most frequent and dangerous phenomena affecting the Alpine environment; they are responsible of 36% of casualties due to gravitational phenomena in the Italian Alps during the last century. In the Western Italian Alps (Piemonte, Italy) a Territorial Debris Flow Early Warning System (Te-DFEWS) aimed to forecast and predict the occurrence of sediment mass-transport has been developed, based on the characterization of small Alpine catchments (< 50 km2) and the processes that take place in these. The Te-DFWES is based on the identification of predisposing and triggering factors that determinate debris flow occurrence. The Te-DFEWS operates from 2010 in present-time and nowcasting using weather radar observations as input data. Recently (2021), the Te-DFEWS has been improved extending the forecasting window (up to 48h from simulation) by the introduction of Quantitative Precipitation Estimate/Forecast (QPE/QPF) input from COSMO-2I and ICON-IT, local high-resolution weather models. The Te-DFEWS, named DEFENSE (DEbris Flows triggEred by storms - Nowcasting SystEm) and the related warning procedures are presented as an operational tool integrated in the Regional Warning System for Geo-hydrological and Hydraulic Risk at the Functional Centre of Piemonte, managed by the Regional Agency for Environmental Protection of Piemonte (Arpa Piemonte). © 2023 EDP Sciences. All rights reserved.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Charba, J.P.
+AU  - Samplatsky, F.G.
+TI  - High-resolution GFS-based MOS quantitative precipitation forecasts on a 4-km grid
+PY  - 2011
+T2  - Monthly Weather Review
+VL  - 139
+IS  - 1
+SP  - 39
+EP  - 68
+DO  - 10.1175/2010MWR3224.1
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-79951610596&doi=10.1175%2f2010MWR3224.1&partnerID=40&md5=742c1ed5b8d977a582b04937e031cbb4
+AB  - The Meteorological Development Laboratory (MDL) of the National Weather Service (NWS) has developed high-resolution Global Forecast System (GFS)-based model output statistics (MOS) 6- and 12-h quantitative precipitation forecast (QPF) guidance on a 4-km grid for the contiguous United States. Geographically regionalized multiple linear regression equations are used to produce probabilistic QPFs (PQPFs) for multiple precipitation exceedance thresholds. Also, several supplementary QPF elements are derived from the PQPFs. The QPF elements are produced (presently experimentally) twice per day for forecast projections up to 156 h (6.5 days); probability of (measurable) precipitation (POP) forecasts extend to 192 h (8 days). Because the spatial and intensity resolutions of the QPF elements are higher than that for the currently operational griddedMOSQPF elements, this new application is referred to as high-resolution MOS (HRMOS) QPF. High spatial resolution and enhanced skill are built into the HRMOS PQPFs by incorporating finescale topography and climatology into the predictor database. This is accomplished through the use of specially formulated "topoclimatic" interactive predictors, which are formed as a simple product of a climatology- or terrain-related quantity and a GFS forecast variable. Such a predictor contains interactive effects, whereby finescale detail in the topographic or climatic variable is built into the GFS forecast variable, and dynamics in the large-scale GFS forecast variable are incorporated into the static topoclimatic variable. In essence, such interactive predictors account for the finescale bias error in the GFS forecasts, and thus they enhance the skill of the PQPFs. Underlying the enhanced performance of the HRMOS QPF elements is extensive use of archived fine-grid radar-based quantitative precipitation estimates (QPEs). The fine spatial scale of the QPE data supported development of a detailed precipitation climatology, which is used as a climatic predictive input. Also, the very large number of QPE sample points supported specification of rare-event (i.e., ≥1.50 and ≥2.00 in.) 6-h precipitation exceedance thresholds as predictands. Geographical regionalization of the PQPF regression equations and the derived QPF elements also contributes to enhanced forecast performance. Limited comparative verification of several 6-h model QPFs in categorical form showed the HRMOS QPF with significantly better threat scores and biases than corresponding GFS and operational griddedMOS QPFs. Limited testing of logistic regression versus linear regression to produce the 6-h PQPFs showed the feasibility of applying the logistic method with the very large HRMOS samples. However, objective screening of many candidate predictors with linear regression resulted in slightly better PQPF skill. © 2011 American Meteorological Society.
+KW  - Model output statistics
+KW  - Numerical weather prediction/forecasting
+KW  - Precipitation
+KW  - Probability forecasts/models/distributions
+KW  - Regression analysis
+KW  - United States
+KW  - Climatology
+KW  - Linear regression
+KW  - Probability
+KW  - Bias error
+KW  - Climatic variables
+KW  - Enhanced performance
+KW  - Finescale topography
+KW  - Global forecast systems
+KW  - High resolution
+KW  - High spatial resolution
+KW  - Interactive effect
+KW  - Logistic regressions
+KW  - Model output statistics
+KW  - Multiple linear regression equations
+KW  - National Weather Services
+KW  - New applications
+KW  - Numerical weather prediction/forecasting
+KW  - Precipitation
+KW  - Precipitation climatology
+KW  - Quantitative precipitation forecast
+KW  - Regression equation
+KW  - Sample point
+KW  - Spatial scale
+KW  - forecasting method
+KW  - numerical method
+KW  - precipitation (climatology)
+KW  - probability density function
+KW  - regression analysis
+KW  - spatial resolution
+KW  - weather forecasting
+KW  - Weather forecasting
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 21
+ER  -
+
+TY  - JOUR
+AU  - Ghimire, G.R.
+AU  - Krajewski, W.F.
+AU  - Quintero, F.
+TI  - Scale-Dependent Value of QPF for Real-Time Streamflow Forecasting
+PY  - 2021
+T2  - Journal of Hydrometeorology
+VL  - 22
+IS  - 7
+SP  - 1931
+EP  - 1947
+DO  - 10.1175/JHM-D-20-0297.1
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85115415192&doi=10.1175%2fJHM-D-20-0297.1&partnerID=40&md5=8944e3d8bd0f250c4dc2e12c954350be
+AB  - Incorporating rainfall forecasts into a real-time streamflow forecasting system extends the forecast lead time. Since quantitative precipitation forecasts (QPFs) are subject to substantial uncertainties, questions arise on the trade-off between the time horizon of the QPF and the accuracy of the streamflow forecasts. This study explores the problem sys-tematically, exploring the uncertainties associated with QPFs and their hydrologic predictability. The focus is on scale dependence of the trade-off between the QPF time horizon, basin-scale, space–time scale of the QPF, and streamflow forecasting accuracy. To address this question, the study first performs a comprehensive independent evaluation of the QPFs at 140 U.S. Geological Survey (USGS) monitored basins with a wide range of spatial scales (;10–40 000 km2) over the state of Iowa in the midwestern United States. The study uses High-Resolution Rapid Refresh (HRRR) and Global Forecasting System (GFS) QPFs for short and medium-range forecasts, respectively. Using Multi-Radar Multi-Sensor (MRMS) quantitative precipitation estimate (QPE) as a reference, the results show that the rainfall-to-rainfall QPF errors are scale dependent. The results from the hydrologic forecasting experiment show that both QPFs illustrate clear value for real-time streamflow forecasting at longer lead times in the short-to medium-range relative to the no-rain streamflow forecast. The value of QPFs for streamflow forecasting is particularly apparent for basin sizes below 1000 km2. The space– time scale, or reference time tr (ratio of forecast lead time to basin travel time),;1 depicts the largest streamflow forecasting skill with a systematic decrease in forecasting accuracy for tr. 1. © 2021 American Meteorological Society.
+KW  - Ensembles
+KW  - Forecast verification/skill
+KW  - Hydrologic models
+KW  - Model evaluation/performance
+KW  - Operational forecasting
+KW  - Probabilistic Quantitative Precipitation Forecasting (PQPF)
+KW  - Short-range prediction
+KW  - basin
+KW  - ensemble forecasting
+KW  - hydrological modeling
+KW  - precipitation (climatology)
+KW  - rainfall
+KW  - real time
+KW  - streamflow
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 16
+ER  -
+
+TY  - JOUR
+AU  - Versini, P.-A.
+TI  - Use of radar rainfall estimates and forecasts to prevent flash flood in real time by using a road inundation warning system
+PY  - 2012
+T2  - Journal of Hydrology
+VL  - 416-417
+SP  - 157
+EP  - 170
+DO  - 10.1016/j.jhydrol.2011.11.048
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84855262595&doi=10.1016%2fj.jhydrol.2011.11.048&partnerID=40&md5=8906b5407bc8ec34ccd4cf1d2c08f30a
+AB  - Important damages occur in small headwater catchments when they are hit by severe storms with complex spatio-temporal structure, sometimes resulting in flash floods. As these catchments are mostly not covered by sensor networks, it is difficult to forecast these floods. This is particularly true for road submersions, representing major concerns for flood event managers. The use of Quantitative Precipitation Estimates and Forecasts (QPE/QPF) especially based on radar measurements could particularly be adequate to evaluate rainfall-induced risks. Although their characteristic time and space scales would make them suitable for flash flood modelling, the impact of their uncertainties remain uncertain and have to be evaluated. The Gard region (France) has been chosen as case study. This area is frequently affected by severe flash floods, and an application devoted to the road network has also been recently developed for the North part of this region. This warning system combines distributed hydro-meteorological modelling and susceptibility analysis to provide warnings of road inundations. The warning system has been tested on the specific storm of the 29-30 September 2007. During this event, around 200. mm dropped on the South part of the Gard and many roads were submerged. Radar-based QPE and QPF have been used to forecast the exact location of road submersions and the results have been compared to the effective road submersions actually occurred during the event as listed by the emergency services. Used on an area it has not been calibrated, the results confirm that the road submersion warning system represents a promising tool for anticipating and quantifying the consequences of storm events at ground. It rates the submersion risk with an acceptable level of accuracy and demonstrates also the quality of high spatial and temporal resolution radar rainfall data in real time, and the possibility to use them despite their uncertainties. However because of the quality of rainfall forecasts falls drastically with time, it is not often sufficient to provide valuable information for lead times exceeding 1. h. © 2011 Elsevier B.V.
+KW  - Flash flood
+KW  - Forecast
+KW  - QPE-QPF
+KW  - Road inundation
+KW  - Weather radar
+KW  - France
+KW  - Gard
+KW  - Languedoc-Roussillon
+KW  - Catchments
+KW  - Floods
+KW  - Meteorological radar
+KW  - Motor transportation
+KW  - Radar measurement
+KW  - Rain
+KW  - Roads and streets
+KW  - Runoff
+KW  - Sensor networks
+KW  - Storms
+KW  - Flash flood
+KW  - Forecast
+KW  - QPE-QPF
+KW  - Road inundation
+KW  - Weather radars
+KW  - accuracy assessment
+KW  - catchment
+KW  - flash flood
+KW  - flood forecasting
+KW  - headwater
+KW  - hydrometeorology
+KW  - precipitation assessment
+KW  - radar
+KW  - real time
+KW  - road
+KW  - sensor
+KW  - spatiotemporal analysis
+KW  - weather forecasting
+KW  - Weather forecasting
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 31
+ER  -
+
+TY  - JOUR
+AU  - Germann, U.
+AU  - Berenguer, M.
+AU  - Sempere-Torres, D.
+AU  - Zappa, M.
+TI  - REAL - Ensemble radar precipitation estimation for hydrology in a mountainous region
+PY  - 2009
+T2  - Quarterly Journal of the Royal Meteorological Society
+VL  - 135
+IS  - 639
+SP  - 445
+EP  - 456
+DO  - 10.1002/qj.375
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-67349269753&doi=10.1002%2fqj.375&partnerID=40&md5=310b6a61917d90f389ce8a85fabc4f57
+AB  - An elegant solution to characterise the residual errors in radar precipitation estimates is to generate an ensemble of precipitation fields. The paper proposes a radar ensemble generator designed for usage in the Alps using LU decomposition (REAL), and presents first results from a real-time implementation coupling the radar ensemble with a semi-distributed rainfall-runoff model for flash flood modelling in a steep Alpine catchment. Each member of the radar ensemble is a possible realisation of the unknown true precipitation field given the observed radar field and knowledge of the space-time error structure of radar precipitation estimates. Feeding the alternative realisations into a hydrological model yields a distribution of response values, the spread of which represents the sensitivity of runoff to uncertainties in the input radar precipitation field. The presented ensemble generator is based on singular value decomposition of the error covariance matrix, stochastic simulation using the LU decomposition algorithm, and autoregressive filtering. It allows full representation of spatial dependence of the mean and covariances of radar errors. This is of particular importance in a mountainous region with large uncertainty in radar precipitation estimates and strong dependence of error structure on location. The real-time implementation of the radar ensemble generator coupled with a semi-distributed hydrological model in the framework of the forecast demonstration project MAP D-PHASE is one of the first experiments of this type worldwide, and is a fully novel contribution to this evolving area of applied research. Copyright © 2009 Royal Meteorological Society.
+KW  - Alpine radar
+KW  - MAP
+KW  - Orographic precipitation
+KW  - QPE
+KW  - Catchments
+KW  - Computational fluid dynamics
+KW  - Covariance matrix
+KW  - Errors
+KW  - Hydraulic models
+KW  - Rain
+KW  - Real time control
+KW  - Runoff
+KW  - Singular value decomposition
+KW  - Solute transport
+KW  - Uncertainty analysis
+KW  - Water
+KW  - Alpine catchments
+KW  - Alpine radar
+KW  - Applied research
+KW  - Auto-regressive
+KW  - Demonstration project
+KW  - Distributed hydrological model
+KW  - Error covariance matrix
+KW  - Error structures
+KW  - Flash flood
+KW  - Hydrological models
+KW  - Lu decomposition
+KW  - Mountainous regions
+KW  - Orographic precipitation
+KW  - Precipitation estimation
+KW  - QPE
+KW  - Rainfall-runoff models
+KW  - Real-time implementations
+KW  - Residual error
+KW  - Spatial dependence
+KW  - Stochastic simulations
+KW  - algorithm
+KW  - computer simulation
+KW  - covariance analysis
+KW  - decomposition analysis
+KW  - ensemble forecasting
+KW  - error analysis
+KW  - hydrological modeling
+KW  - hydrological response
+KW  - mountain region
+KW  - orographic effect
+KW  - precipitation assessment
+KW  - radar imagery
+KW  - rainfall-runoff modeling
+KW  - uncertainty analysis
+KW  - Radar
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 202
+ER  -
+
+TY  - CONF
+AU  - Finley, J.P.
+AU  - Slayter, D.L.
+AU  - Hitchcock, C.S.
+AU  - Lee, C.-H.
+TI  - A precipitation-induced landslide susceptibility model for natural gas transmission pipelines
+PY  - 2010
+T2  - Proceedings of the Biennial International Pipeline Conference, IPC
+VL  - 4
+SP  - 545
+EP  - 550
+DO  - 10.1115/IPC2010-31329
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-80054046308&doi=10.1115%2fIPC2010-31329&partnerID=40&md5=6034aa875a9e1674c627749d79b9f17a
+AB  - Landslides related to heavy rainfall can cause extensive damage to natural gas transmission pipelines. We have developed and implemented a geographic information system (GIS) model that evaluates near real-time precipitation-induced landslide susceptibility. This model incorporates state-wide precipitation data and geologically-based landslide classifications to produce rapid landslide risk evaluation for Pacific Gas & Electric Company's (PG&E) gas transmission system during winter rain storms in California. The precipitation data include pre-storm event quantitative precipitation forecasts (QPF) and post-storm event quantitative precipitation estimates (QPE) from the United States National Oceanic and Atmospheric Administration (NOAA). The geologic classifications are based on slope, susceptible geologic formations, and the locations of historic or known landslide occurrences. Currently the model is calibrated using qualitative measures. Various scientists have developed large landslide databases with associated rainfall statistics to determine rainfall thresholds that trigger landslides. With a sufficient number of landslides, we can more precisely determine minimum rainfall thresholds using similar methods. Copyright © 2010 by ASME.
+KW  - Gas pipelines
+KW  - Geographic information systems
+KW  - Natural gas
+KW  - Natural gas pipelines
+KW  - Natural gas transportation
+KW  - Rain
+KW  - Storms
+KW  - Weather forecasting
+KW  - California
+KW  - Gas transmission systems
+KW  - Geologic formations
+KW  - Heavy rainfall
+KW  - Landslide susceptibility
+KW  - National Oceanic and Atmospheric Administration
+KW  - Natural gas transmission pipeline
+KW  - Precipitation data
+KW  - Quantitative precipitation forecast
+KW  - Rainfall statistics
+KW  - Risk evaluation
+KW  - Winter rains
+KW  - Landslides
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Philips, B.
+AU  - Chandrasekar, V.
+TI  - The Dallas Fort Worth urban remote sensing network
+PY  - 2012
+T2  - International Geoscience and Remote Sensing Symposium (IGARSS)
+C7  - 6352574
+SP  - 6911
+EP  - 6913
+DO  - 10.1109/IGARSS.2012.6352574
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84873167187&doi=10.1109%2fIGARSS.2012.6352574&partnerID=40&md5=74529f94eda1690080fd23f3d60bdf8e
+AB  - The Center for Collaborative Adaptive Sensing of the Atmosphere (CASA) and the North Central Texas Council of Governments (NCTCOG) are embarking on a five-year, project to create the Dallas Fort Worth (DFW) Urban Demonstration Network. The goals of the program are: 1) To develop high-resolution, three-dimensional mapping of the atmospheric conditions, focusing on the boundary layer, to detect and forecast severe wind, tornado, hail, ice, and flash flood hazards. 2) To create impacts-based, neighborhood-scale warnings and forecasts for a range of public and private decision-makers that result in measureable benefit for public safety and the economy. 3) To demonstrate the value of collaborative, adaptive X-band radar networks to existing and future National Weather Service sensors, products, performance metrics, and decision-making; and assess optimal combinations of observing systems The centerpiece of the Dallas Fort Worth Urban Demonstration Network will be an 8-node, boundary-layer, dual polarized, multi-Doppler X-band CASA radar network. Additional in-situ and remote sensors will enable fusion of observations from all sensors. Data products will include single and multi-radar data, vector wind, Quantitative precipitation estimation, nowcasting, and analysis and numerical weather prediction products. Research and Research to operations in the DFW Urban Demonstration Network will occur in a quasi-operational environment. New technology and products will be integrated into operational platforms for evaluation by a variety of users during real-time weather events. Users include NWS forecasters and emergency managers; users from transportation, utilities, regional airports, arenas, and the media will be added in the near future. In this way, CASA's multidisciplinary team - engineers, computer scientists, social scientists (sociologists, geographer, economist), meteorologists, hydrologists - will conduct 'end-to-end' research from sensor observation, to product development and validation linked to end user decision-making, response and value. © 2012 IEEE.
+KW  - CASA
+KW  - DFW
+KW  - QPE
+KW  - Radar
+KW  - urban flooding
+KW  - Boundary layers
+KW  - Decision making
+KW  - Demonstrations
+KW  - Economics
+KW  - Floods
+KW  - Geology
+KW  - Precipitation (meteorology)
+KW  - Product development
+KW  - Radar
+KW  - Research
+KW  - Weather information services
+KW  - Adaptive sensing
+KW  - Atmospheric conditions
+KW  - CASA
+KW  - Central Texas
+KW  - Computer scientists
+KW  - Data products
+KW  - Decision makers
+KW  - DFW
+KW  - Dual-polarized
+KW  - End users
+KW  - Flash flood
+KW  - High resolution
+KW  - Multi-disciplinary teams
+KW  - National Weather Services
+KW  - Nowcasting
+KW  - Numerical weather prediction
+KW  - Observing systems
+KW  - Operational platforms
+KW  - Optimal combination
+KW  - Performance metrics
+KW  - Public safety
+KW  - QPE
+KW  - Quantitative precipitation estimation
+KW  - Radar network
+KW  - Regional airport
+KW  - Remote sensors
+KW  - Social scientists
+KW  - Three dimensional mapping
+KW  - Urban flooding
+KW  - Urban remote sensing
+KW  - Vector wind
+KW  - Weather events
+KW  - X-band Radars
+KW  - Remote sensing
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 7
+ER  -
+

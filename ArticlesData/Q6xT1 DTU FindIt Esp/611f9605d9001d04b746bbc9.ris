@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Shen, Zhiyuan Shen
+AU  - Wang, Xiaowei
+AU  - Wu, Qiuxiang
+TI  - A Novel 4D Track Prediction Approach Combining Empirical Mode Decomposition with Nonlinear Correlation Coefficient
+LA  - und
+JF  - South Florida Journal of Development
+VL  - 2
+IS  - 4
+SP  - 5208
+EP  - 5219
+PY  - 2021
+SN  - 26755459
+PB  - South Florida Journal of Development
+DO  - 10.46932/sfjdv2n4-019
+AB  - The accuracy of 4D track prediction plays an important role to solve the prominent contradiction between the rapid development of air transport industry and the limited resources of airspace. The conventional 4D track prediction based on the aerospace dynamic model is usually inaccurate since of weather influence and air traffic controller (ATC) factor. In this paper, an entirely data-driven nominal flight height profile prediction approach combing empirical mode decomposition (EMD) with nonlinear correlation coefficient (NCC) is proposed. Firstly, the historical tracks are implemented on EMD individually. Then according to a procedure similar to leave-one-out cross validation (LOOCV), the physical meanings of different intrinsic mode functions (IMFs) obtained by EMD are analyzed to corresponding to the various flight information. For a specified flight, the similarities between different dates are measured by NCC. Finally, a predicted nominal trajectory is obtained by summing a series of selected IMFs with a regression weight under least square optimization framework. It is demonstrated that the proposed method shows a higher prediction performance when comparing with the state of the art method named as nearest neighbor classification with dynamic time warping (DTW).&#x0D; &#x0D; La precisión de la predicción de la pista 4D desempeña un papel importante para resolver la importante contradicción entre el rápido desarrollo de la industria del transporte aéreo y los recursos limitados del espacio aéreo. La predicción convencional de la pista 4D basada en el modelo dinámico aeroespacial suele ser inexacta debido a la influencia de las condiciones meteorológicas y el factor del controlador de tráfico aéreo (ATC). En este trabajo, se propone un enfoque de predicción del perfil de altura de vuelo nominal totalmente basado en datos que combina la descomposición empírica de modos (EMD) con el coeficiente de correlación no lineal (NCC). En primer lugar, las pistas históricas se implementan en la EMD individualmente. A continuación, de acuerdo con un procedimiento similar al de la validación cruzada sin intervención (LOOCV), se analizan los significados físicos de las diferentes funciones de modo intrínseco (IMF) obtenidas por la EMD para que correspondan a las diversas informaciones de vuelo. Para un vuelo específico, se miden las similitudes entre las distintas fechas mediante NCC. Por último, se obtiene una trayectoria nominal predicha mediante la suma de una serie de FMI seleccionadas con un peso de regresión en el marco de la optimización de mínimos cuadrados. Se demuestra que el método propuesto muestra un mayor rendimiento de predicción en comparación con el método más avanzado denominado clasificación de vecinos más cercanos con deformación temporal dinámica (DTW).
+ER  -

@@ -1,0 +1,283 @@
+TY  - JOUR
+AU  - Li, Ji
+AU  - Yuan, Daoxian
+AU  - Liu, Jiao
+AU  - Jiang, Yongjun
+AU  - Chen, Yangbo
+AU  - Hsu, Kuo Lin
+AU  - Sorooshian, Soroosh
+TI  - Predicting floods in a large karst river basin by coupling PERSIANN-CCS QPEs with a physically based distributed hydrological model
+LA  - eng
+JF  - Hydrology and Earth System Sciences
+VL  - 23
+IS  - 3
+SP  - 1505
+EP  - 1532
+PY  - 2019
+SN  - 16077938, 10275606
+PB  - Copernicus GmbH
+DO  - 10.5194/hess-23-1505-2019
+AB  - In general, there are no long-term meteorological or hydrological data available for karst river basins. The lack of rainfall data is a great challenge that hinders the development of hydrological models. Quantitative precipitation estimates (QPEs) based on weather satellites offer a potential method by which rainfall data in karst areas could be obtained. Furthermore, coupling QPEs with a distributed hydrological model has the potential to improve the precision of flood predictions in large karst watersheds. Estimating precipitation from remotely sensed information using an artificial neural network-cloud classification system (PERSIANN-CCS) is a type of QPE technology based on satellites that has achieved broad research results worldwide. However, only a few studies on PERSIANN-CCS QPEs have occurred in large karst basins, and the accuracy is generally poor in terms of practical applications. This paper studied the feasibility of coupling a fully physically based distributed hydrological model, i.e., the Liuxihe model, with PERSIANN-CCS QPEs for predicting floods in a large river basin, i.e., the Liujiang karst river basin, which has a watershed area of 58 270 km-2, in southern China. The model structure and function require further refinement to suit the karst basins. For instance, the sub-basins in this paper are divided into many karst hydrology response units (KHRUs) to ensure that the model structure is adequately refined for karst areas. In addition, the convergence of the underground runoff calculation method within the original Liuxihe model is changed to suit the karst water-bearing media, and the Muskingum routing method is used in the model to calculate the underground runoff in this study. Additionally, the epikarst zone, as a distinctive structure of the KHRU, is carefully considered in the model. The result of the QPEs shows that compared with the observed precipitation measured by a rain gauge, the distribution of precipitation predicted by the PERSIANN-CCS QPEs was very similar. However, the quantity of precipitation predicted by the PERSIANN-CCS QPEs was smaller. A post-processing method is proposed to revise the products of the PERSIANN-CCS QPEs. The karst flood simulation results show that coupling the post-processed PERSIANN-CCS QPEs with the Liuxihe model has a better performance relative to the result based on the initial PERSIANN-CCS QPEs. Moreover, the performance of the coupled model largely improves with parameter re-optimization via the post-processed PERSIANN-CCS QPEs. The average values of the six evaluation indices change as follows: the Nash-Sutcliffe coefficient increases by 14 %, the correlation coefficient increases by 15 %, the process relative error decreases by 8 %, the peak flow relative error decreases by 18 %, the water balance coefficient increases by 8 %, and the peak flow time error displays a 5 h decrease. Among these parameters, the peak flow relative error shows the greatest improvement; thus, these parameters are of page1506 the greatest concern for flood prediction. The rational flood simulation results from the coupled model provide a great practical application prospect for flood prediction in large karst river basins.
+ER  -
+
+TY  - JOUR
+AU  - Liao, Mochi
+AU  - Barros, Ana P.
+TI  - Toward optimal rainfall – Hydrologic QPE correction in headwater basins
+LA  - eng
+JF  - Remote Sensing of Environment
+VL  - 279
+PY  - 2022
+SN  - 18790704, 00344257
+PB  - Elsevier Inc.
+DO  - 10.1016/j.rse.2022.113107
+AB  - Large errors in Quantitative Precipitation Estimates (QPE) tied to remote-sensing retrieval algorithms remain a challenge especially in complex terrain with fast hydrologic response. We propose a new framework to derive dynamic hydrologic corrections of rainfall in headwater basins that enforces water budget closure, and distributes transient rainfall corrections by Lagrangian backtracking along runoff trajectories constrained by realistic time-of-travel distributions. Downscaled QPE products (250 m resolution) are applied first as input to a distributed hydrologic model to predict runoff trajectories and the event hydrograph at the basin's outlet. Second, time-varying rainfall corrections are derived from the residuals between predicted and observed discharge at the outlet. Finally, the corrections are spatially distributed following the runoff trajectories backward (i.e. trajectories are used as streaklines originating at the basin's outlet). Because nonlinear interactions between rainfall, runoff and storage are transient, the corrections are applied recursively until the shape and volume of the predicted hydrograph are stable. The framework is applied to ground-based (e.g. Stage IV) and satellite-based remote-sensing QPEs (e.g. IMERG) associated with the 49 largest floods 2008–2018 in the Southern Appalachian Mountains, USA. The results show improvements in hydrograph prediction efficiency skill at 15 min timescale from −0.5 to 0.6 on average and up to 0.9 for warm season events, bounding event runoff volume errors with a mean of 3%, and reducing time to peak errors by half an hour on average. Corrected QPEs exhibit nearly perfect correlation and no bias at high elevation gauge locations. Uncertainty in the water budget closure at the event scale is less than the uncertainty in streamflow measurements. Error attribution shows strong organization of QPE corrections according to seasonal weather and rainfall regime, thus providing a path to generalization to ungauged mountain basins.
+ER  -
+
+TY  - JOUR
+AU  - KLASSEN, TR
+AU  - MELZER, E
+TI  - ON THE RELATION BETWEEN SCATTERING-AMPLITUDES AND FINITE-SIZE MASS CORRECTIONS IN QFT
+LA  - eng
+JF  - Nuclear Physics B
+VL  - 362
+IS  - 1-2
+SP  - 329
+EP  - 388
+PY  - 1991
+SN  - 18731562, 05503213, 18733832, 09205632
+PB  - ELSEVIER SCIENCE BV
+DO  - 10.1016/0550-3213(91)90566-G
+AB  - If a stable particle in a quantum field theory (QFT) is enclosed in a box, its mass changes from its infinite-volume value due to the finite-size dependence of its self-energy (because virtual particles can "travel around a finite-size world"). Generalizing results of Luscher, we show how to express the leading large-volume corrections to the mass of any particle below threshold in terms of the scattering amplitudes of the theory. The mass shift decreases exponentially with the extent of the box, the decay rates depending on the "composite structure" of the particle in question. The proof is given to all orders of perturbation theory for an (almost) arbitrary purely massive QFT in any dimension. We also discuss the size of the error term with which the mass shift can be calculated, showing in particular that the error is substantially smaller in 1 + 1 dimensions. Our results are useful, for instance, in the study of (1 + 1)-dimensional massive QFTs. As a first application we compare our predictions for the finite-size mass shifts in several integrable scattering theories with numerical results, most of which we obtain using the "truncated conformal space approach".
+ER  -
+
+TY  - JOUR
+AU  - Morin, Efrat
+AU  - Jacoby, Yael
+AU  - Navon, Shilo
+AU  - Bet-Halachmi, Erez
+TI  - Towards flash-flood prediction in the dry Dead Sea region utilizing radar rainfall information
+LA  - eng
+JF  - Advances in Water Resources
+VL  - 32
+IS  - 7
+SP  - 1066
+EP  - 1076
+PY  - 2009
+SN  - 18729657, 03091708
+PB  - ELSEVIER SCI LTD
+DO  - 10.1016/j.advwatres.2008.11.011
+AB  - Flash-flood warning models can save lives and protect various kinds of infrastructure. In dry climate regions, rainfall is highly variable and can be of high-intensity. Since rain gauge networks in such areas are sparse, rainfall information derived from weather radar systems can provide useful input for flash-flood models. This paper presents a flash-flood warning model which utilizes radar rainfall data and applies it to two catchments that drain into the dry Dead Sea region. Radar-based quantitative precipitation estimates (QPEs) were derived using a rain gauge adjustment approach, either on a daily basis (allowing the adjustment factor to change over time, assuming available real-time gauge data) or using a constant factor value (derived from rain gauge data) over the entire period of the analysis. The QPEs served as input for a continuous hydrological model that represents the main hydrological processes in the region, namely infiltration, flow routing and transmission losses. The infiltration function is applied in a distributed mode while the routing and transmission loss functions are applied in a lumped mode. Model parameters were found by calibration based on the 5 years of data for one of the catchments. Validation was performed for a subsequent 5-year period for the same catchment and then for an entire 10-year record for the second catchment. The probability of detection and false alarm rates for the validation cases were reasonable. Probabilistic flash-flood prediction is presented applying Monte Carlo simulations with an uncertainty range for the QPEs and model parameters. With low probability thresholds, one can maintain more than 70% detection with no more than 30% false alarms. The study demonstrates that a flash-flood warning model is feasible for catchments in the area studied. © 2008 Elsevier Ltd. All rights reserved.
+ER  -
+
+TY  - JOUR
+AU  - Lin, Peirong
+AU  - Hopper, Larry J.
+AU  - Yang, Zong Liang
+AU  - Lenz, Mark
+AU  - Zeitler, Jon W.
+TI  - Insights into hydrometeorological factors constraining flood prediction skill during the May and October 2015 Texas Hill Country flood events
+LA  - eng
+JF  - Journal of Hydrometeorology
+VL  - 19
+IS  - 8
+SP  - 1339
+EP  - 1361
+PY  - 2018
+SN  - 15257541, 1525755x
+PB  - American Meteorological Society
+DO  - 10.1175/JHM-D-18-0038.1
+AB  - This study evaluates the May and October 2015 flood prediction skill of a physically based model resembling the U.S. National Water Model (NWM) over the Texas Hill Country. It also investigates hydrometeorological factors that contributed to a record flood along the Blanco River at Wimberley (WMBT2) in May 2015. Using two radar-based quantitative precipitation estimation (QPE) products-Stage IV and Multi-Radar Multi-Sensor (MRMS)-it is shown that the event precipitation accuracy dominates the prediction skill, where the finer-resolution MRMS QPE mainly benefits basins with small drainage areas. Overall, the model exhibits good performance at gauges with fast flood response from causative rainfall and gauges that are not forecast points in the National Weather Service's Advanced Hydrometeorological Prediction System, showing great promise for forecasts, warnings, and emergency response. However, the model suffers from poor prediction skill over regions without rapid flood response and regions with human-altered flows, suggesting the need to revisit the channel routing algorithm and incorporate modules to represent human alterations. Two contrasting flood events at WMBT2 with similar meteorological characteristics are examined in greater detail, revealing that the location of intense rainfall combined with land physiographic features are key to the flood response differences. Model sensitivity tests further show the record flood peak could be better obtained by tuning the deep-layer soil wetness and the flow velocity field in the river network, which offers hydrometeorological insights into the causes and the complex nature of such a flood and why the model struggles to predict the record flood peak.
+ER  -
+
+TY  - JOUR
+AU  - Sourish Dey, -
+AU  - koushik paul, -
+TI  - Quantum Computing for Nuclear Fusion: Advancing Simulation and Optimization
+LA  - eng
+JF  - International Journal for Multidisciplinary Research
+VL  - 6
+IS  - 6
+PY  - 2024
+SN  - 25822160
+PB  - International Journal for Multidisciplinary Research (IJFMR)
+DO  - 10.36948/ijfmr.2024.v06i06.32749
+AB  - Nuclear fusion is a great promise for the route toward clean, abundant, and sustainable energy, possibly solving the limits of contemporary resources. Yet, models for controlled fusion on Earth demand so much simulation: calculations into particle interaction and plasma behavior and even reaction dynamics that defy strict classical calculation. Quantum computing-that has the ability to support those complex, multi-dimensional calculations-offers hope in the fusion research frontier. This paper introduces quantum algorithms, such as Quantum Phase Estimation for predictions of energy states, Variational Quantum Eigen solver for modeling particle interactions, and Quantum Monte Carlo to simulate stochastic processes like plasma turbulence. The algorithms together will facilitate precise modeling and optimization of the fusion parameters to maximize energy output and reactor stability. This hybrid quantum-classical approach will be: classical computers for preprocessing data and intensive simulations using quantum processors. Preliminary experimental data from IBM Quantum suggests that quantum algorithms could be more efficient and accurate than their classical counterparts. This work, therefore, demonstrates the potential that quantum computing holds to speed up research in fusion, leading to a scalable solution for high-stakes applications in energy and the scientific domain.
+ER  -
+
+TY  - JOUR
+AU  - Pacheco-Plata, Felícitas
+AU  - Gutiérrez-Dorado, Roberto
+AU  - Iribe-Salazar, Rosalina
+AU  - Carrazco-Escalante, Marco
+AU  - Caro-Hernández, Olivia
+AU  - Camacho-Hernández, Leticia
+AU  - Vázquez-López, Yessica
+AU  - Cronin, Kevin
+AU  - Caro-Corrales, José
+TI  - Modeling of moisture content during baking with different approaches for effective diffusivity and evaluation of quality variables in baked potato slices
+LA  - eng
+JF  - Journal of Food Science
+VL  - 89
+IS  - 9
+SP  - 5763
+EP  - 5773
+PY  - 2024
+SN  - 17503841, 00221147
+PB  - John Wiley and Sons Inc
+DO  - 10.1111/1750-3841.17257
+AB  - Abstract: Baking is a healthier alternative to frying, since texture, color, smell, and flavor are developed, without adding oil. The objective was to estimate the moisture content in potato slices, during baking using Fick's law of diffusion to model internal moisture transport and to assess the impact on quality attributes. Moisture transport kinetics were examined at three baking temperatures of 120, 130, and 140°C. Fick's law was employed to estimate average moisture content using different methods: considering both a constant (method of slopes by subperiods, MSS; and method of successive approximations, MSA) and a variable (represented as a quadratic function of time, QFT) behavior of effective diffusivity (De). Three quality variables were analyzed: water activity (aw, dew point hygrometry), total color difference (∆E, colorimetry), and fracturability (F, universal testing machine). The diffusivity estimated with the time-varying De method provided a more realistic description of moisture migration during baking. The aw, ∆E, and F for baked potato slices ranged from 0.234 to 0.276, 17.9 to 24.6, and 5.20 to 5.49 N, respectively. These attributes imply improved stability and extended shelf life, showing typical colors and texture changes for baked snacks. These changes are linked to variations in diffusivity, influenced by the size and quantity of micropores within the food structure. This study could allow an accurate prediction of mass transfer by considering variable De, facilitating the optimization of baking conditions. Practical Application: The analysis of the moisture content using Fick's law, considering a time-varying diffusivity, enables the optimization of the baking process for foods. This helps minimize the occurrence of defective products.
+ER  -
+
+TY  - JOUR
+AU  - of Technology. Department of Mechanical Engineering, Massachusetts Institute
+AU  - Lermusiaux, Pierre F. J.
+AU  - Lermusiaux, Pierre F. J.
+AU  - Xu, Jinshan
+AU  - Lermusiaux, Pierre F. J.
+AU  - Xu, Jinshan
+AU  - Chen, Chi-Fang
+AU  - Jan, Sen
+AU  - Chiu, Linus Y.
+AU  - Yang, Yiing-Jang
+TI  - Coupled Ocean-Acoustic Prediction of Transmission Loss in a Continental Shelfbreak Region: Predictive Skill, Uncertainty Quantification and Dynamical Sensitivities
+LA  - eng
+PY  - 2010
+PB  - Institute of Electrical and Electronic Engineers  / IEEE Oceanic Engineering Society
+AB  - In this paper, we quantify the dynamical causes and
+uncertainties of striking differences in acoustic transmission data
+collected on the shelf and shelfbreak in the northeastern Taiwan
+region within the context of the 2008 Quantifying, Predicting, and
+Exploiting Uncertainty (QPE 2008) pilot experiment. To do so, we
+employ our coupled oceanographic (4-D) and acoustic (Nx2-D)
+modeling systems with ocean data assimilation and a best-fit
+depth-dependent geoacoustic model. Predictions are compared
+to the measured acoustic data, showing skill. Using an ensemble
+approach, we study the sensitivity of our results to uncertainties
+in several factors, including geoacoustic parameters, bottom
+layer thickness, bathymetry, and ocean conditions. We find that
+the lack of signal received on the shelfbreak is due to a 20-dB
+increase in transmission loss (TL) caused by bottom trapping of
+sound energy during up-slope transmissions over the complex
+and deeper bathymetry. Sensitivity studies on sediment properties
+show larger but isotropic TL variations on the shelf and smaller
+but more anisotropic TL variations over the shelfbreak. Sediment
+sound-speed uncertainties affect the shape of the probability
+density functions of the TLs more than uncertainties in sediment
+densities and attenuations. Diverse thicknesses of sediments lead
+to only limited effects on the TL. The small bathymetric data
+uncertainty is modeled and also leads to small TL variations. We
+discover that the initial transport conditions in the Taiwan Strait
+can affect acoustic transmissions downstream more than 100 km
+away, especially above the shelfbreak. Simulations also reveal
+internal tides and we quantify their spatial and temporal effects
+on the ocean and acoustic fields. One type of predicted waves are
+semidiurnal shelfbreak internal tides propagating up-slope with
+wavelengths around 40–80 km, horizontal phase speeds of 0.5–1
+m/s, and vertical peak-to-peak displacements of isotherms of 20–60
+m. These waves lead to variations of broadband TL estimates over
+5–6-km range that are more isotropic and on bearing average
+larger (up to 5–8-dB amplitudes) on the shelf than on the complex
+shelfbreak where the TL varies rapidly with bearing angles.
+ER  -
+
+TY  - JOUR
+AU  - Lermusiaux, Pierre F.J.
+AU  - Xu, Jinshan
+AU  - Chen, Chi Fang
+AU  - Jan, Sen
+AU  - Chiu, Linus Y.
+AU  - Yang, Yiing Jang
+TI  - Coupled ocean-acoustic prediction of transmission loss in a continental shelfbreak region: Predictive skill, uncertainty quantification, and dynamical sensitivities
+LA  - eng
+JF  - Ieee Journal of Oceanic Engineering
+VL  - 35
+IS  - 4
+PY  - 2010
+SN  - 15581691, 03649059
+PB  - IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+DO  - 10.1109/JOE.2010.2068611
+AB  - In this paper, we quantify the dynamical causes and uncertainties of striking differences in acoustic transmission data collected on the shelf and shelfbreak in the northeastern Taiwan region within the context of the 2008 Quantifying, Predicting, and Exploiting Uncertainty (QPE 2008) pilot experiment. To do so, we employ our coupled oceanographic (4-D) and acoustic (Nx2-D) modeling systems with ocean data assimilation and a best-fit depth-dependent geoacoustic model. Predictions are compared to the measured acoustic data, showing skill. Using an ensemble approach, we study the sensitivity of our results to uncertainties in several factors, including geoacoustic parameters, bottom layer thickness, bathymetry, and ocean conditions. We find that the lack of signal received on the shelfbreak is due to a 20-dB increase in transmission loss (TL) caused by bottom trapping of sound energy during up-slope transmissions over the complex and deeper bathymetry. Sensitivity studies on sediment properties show larger but isotropic TL variations on the shelf and smaller but more anisotropic TL variations over the shelfbreak. Sediment sound-speed uncertainties affect the shape of the probability density functions of the TLs more than uncertainties in sediment densities and attenuations. Diverse thicknesses of sediments lead to only limited effects on the TL. The small bathymetric data uncertainty is modeled and also leads to small TL variations. We discover that the initial transport conditions in the Taiwan Strait can affect acoustic transmissions downstream more than 100 km away, especially above the shelfbreak. Simulations also reveal internal tides and we quantify their spatial and temporal effects on the ocean and acoustic fields. One type of predicted waves are semidiurnal shelfbreak internal tides propagating up-slope with wavelengths around 4080 km, horizontal phase speeds of 0.51 m/s, and vertical peak-to-peak displacements of isotherms of 2060 m. These waves lead to variations of broadband TL estimates over 56-km range that are more isotropic and on bearing average larger (up to 58-dB amplitudes) on the shelf than on the complex shelfbreak where the TL varies rapidly with bearing angles. © 2005 IEEE.
+ER  -
+
+TY  - 
+AU  - Paul, J.
+AU  - Dörzbach, A.
+AU  - Siegmann, K.
+TI  - Detection of Chirality in Ultrafine Aerosol
+LA  - eng
+JF  - Journal of Aerosol Science
+VL  - 28
+IS  - 1001
+PY  - 1997
+SN  - 18791964, 00218502
+AB  - Methods. Photoemission is a widely used method to detect and characterize ultrafine particles as, for example, combustion aerosol (Burtscher, 1992). Several light sources with different wavelength and light intensities have been investigated. In this work we report on the first aerosol photoemission experiment where the influence of the light polarization is investigated. We produce particles consisting of chiral molecules (see Fig. 1) by nebulizing a solution of the chiral compound and drying of the droplets. The resulting particles are size selected in a differential mobility analyzer and then irradiated with polarized light in a photoemission tube. As the light source we use an excimer laser filled with ArF gas mixture (λ=193 nm, pulse duration = 20 ns). The light is attenuated and linearly polarized by dielectric mirrors and circularly polarized with a rotable λ/4-plate. The degree of circular polarization is higher than 99%. When the polarized light interacts with the particles, the particles become photoelectrically charged. The particle charge current is measured with an electrometer (resolution below 1 fA, time constant: 1 sec). The photoelectric charge QPE is normalized to the light intensity ILaser and the particle concentration cpart: IPE = QPE/ (ILasercpart). From this normalized quantity circular dichroism in photoemission can be expressed in the asymmetry: The asymmetry, defined in this way, ranges between −100% to +100%. If photoemission is independent of the helicity of light the asymmetry is zero. Results and discussion. We found circular dichroism in the photoemission from chiral particles which reverses its sign when the configuration of the molecule building block is changed. The asymmetry for particles (d= 80 nm) consisting of the R-enantiomer is determined to be: A[R] = 0.2 ± 0.01 %. The same experiment was carried out with the opposite enantiomer. In this experiment the asymmetry is determined to be: A[S] = −0.22 ± 0.013%, which is exactly the inverse value as for the R-enantiomer (within the statistical error). Therefore we interpret that the observed circular dichroism is due to the chirality of the molecules and can not be the result of an intrinsic asymmetry in the detection method. The order of magnitude of the effect is in perfect agreement with predictions from time dependent perturbation theory (Ritchie, 1975). The dichroism in the photoelectric activity is due to an interference term of the electric and magnetic dipole transition. Compared to the leading dipole transition this interference term scales with product of the radius rorb of the light absorbing molecular orbital and the wave number k = (2π)/λ of the light. In our case it is krorb ≈ 0.005. Circular dichroism in photoemission on aerosols is comparable to circular dichroism in photoabsorption on solutions. In both cases the chiral compounds (aerosol particles or dissolved molecules) are randomly oriented in space. They are surrounded by an isotropic medium (gas in the aerosol case and solvent in the solution case). Isotropic media are necessarily required when dichroic effects due to the chirality of molecules should be observed. The main difference of the both experiments is that in the photoemission only absorbed photons are regarded contrary to the dichroism in photoabsorption where the extinction is measured. It is clear that not only the absorption but also the scattering of light contributes to the extinction. Chiral particles are widely distributed in nature. Due to the fact that in nature only left handed amino acids and right handed sugars exist, it is clear that most of the biologic aerosols are chiral. Our detection method is not restricted to the presented molecule and works in principle for every chiral aerosol particle. It has to be tested whether the dichroism in photoemission is applicable to real systems especially for the detection of bioaerosols.
+ER  -
+
+TY  - 
+AU  - Homer F., Walker
+TI  - Anderson Acceleration for Fixed-Point Iterations
+LA  - eng
+JF  - Osti Oai (u.s. Department of Energy Office of Scientific and Technical Information)
+PY  - 2015
+PB  - U.S. Department of Energy Office of Scientific and Technical Information
+DO  - 10.2172/1240289
+ER  -
+
+TY  - 
+AU  - Antonio, Redondo
+TI  - Lightning Talks 2014:Theoretical Division
+LA  - eng
+JF  - Osti Oai (u.s. Department of Energy Office of Scientific and Technical Information)
+PY  - 2015
+PB  - U.S. Department of Energy Office of Scientific and Technical Information
+DO  - 10.2172/1177163
+ER  -
+
+TY  - 
+AU  - Harvey, Gould
+TI  - Atomic Physics Aspects Of A Relativistic Nuclear Collider
+LA  - eng
+JF  - Osti Oai (u.s. Department of Energy Office of Scientific and Technical Information)
+PY  - 1984
+PB  - U.S. Department of Energy Office of Scientific and Technical Information
+DO  - 10.2172/1118872
+ER  -
+
+TY  - 
+AU  - Andrew, Cohen
+AU  - Martin, Schmaltz
+AU  - Emmanuel, Katz
+AU  - C., Rebbi
+AU  - Sheldon L., Glashow
+AU  - Richard C., Brower
+AU  - So-Young, Pi
+TI  - Topics in Theoretical Physics
+LA  - eng
+PY  - 2016
+DO  - 10.2172/1327249
+ER  -
+
+TY  - CPAPER
+TI  - 40th AIAA Aerospace Sciences Meeting and Exhibit 2002
+LA  - eng
+JF  - 40th Aiaa Aerospace Sciences Meeting and Exhibit
+PY  - 2002
+ER  -
+
+TY  - JOUR
+AU  - Chakraborty, Chiranjib
+AU  - Bhattacharya, Manojit
+AU  - Dhama, Kuldeep
+AU  - Lee, Sang Soo
+TI  - Quantum computing on nucleic acid research: Approaching towards next-generation computing
+LA  - eng
+JF  - Molecular Therapy Nucleic Acids
+VL  - 33
+SP  - 53
+EP  - 56
+PY  - 2023
+SN  - 21622531
+PB  - Cell Press
+DO  - 10.1016/j.omtn.2023.06.007
+ER  -

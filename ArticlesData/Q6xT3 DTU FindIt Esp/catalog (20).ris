@@ -1,0 +1,24 @@
+TY  - JOUR
+AU  - Marc Melgosa, Farrés
+TI  - Enhanced air traffic flow and capacity management under trajectory based operations considering traffic complexity
+LA  - spa
+PY  - 2023
+DO  - 10.5821/dissertation-2117-398041
+ER  -
+
+TY  - JOUR
+AU  - Bautista, Joaquín
+AU  - Batet, Luis
+AU  - Mateo, Manuel
+TI  - Modeling and solving the spent nuclear fuel encapsulation problem
+LA  - spa
+JF  - Direccion Y Organizacion
+IS  - 71
+SP  - 46
+EP  - 70
+PY  - 2020
+SN  - 21716323, 1132175x
+PB  - Universidad Politecnica de Madrid
+DO  - 10.37610/dyo.v0i71.578
+AB  - En la gestión de residuos de combustible de las centrales nucleares españolas, está previsto activar los almacenes temporales individualizados (ATI) cuando se alcanza la saturación de la piscina destinada a albergar elementos de combustible nuclear gastado durante el periodo de explotación de la instalación; al finalizar dicho periodo, un ATI puede utilizarse como almacén transitorio a corto o largo plazo hasta que el almacén temporal central (ATC) esté disponible. Los elementos combustibles (EC), gastados y ubicados en la piscina de la central nuclear (CN), se seleccionan para su almacenado en seco en contenedores (cápsulas) atendiendo a una serie de restricciones impuestas a cada ATI por el órgano regulador competente en función de los requerimientos que afectan específicamente a los contenedores utilizados (v.gr. la limitación de la carga térmica o el número de posiciones para elementos combustibles). Las características de estas cápsulas condicionan el tiempo mínimo de enfriamiento del combustible en la piscina de la central nuclear y, por consiguiente, el tiempo necesario para completar el vaciado completo de dicha piscina. En este contexto, presentamos el problema del encapsulamiento en una etapa del combustible nuclear gastado, ofreciendo una formulación y un método de resolución en dos fases. En la primera fase, se utiliza un modelo de Programación lineal entera mixta (MILP-1), cuyo objetivo es minimizar el coste de los contenedores (de diverso tipo) que se requieren para reubicar los elementos disponibles en la piscina de una central nuclear. Para la segunda fase se ha implementado un algoritmo exacto (Algoritmo A1) que, partiendo de una solución de MILP-1, determina asignaciones óptimas de elementos a contenedores regionalizados por limitaciones sobre la carga térmica permitida en cada región. El procedimiento conjunto (MILP-1 más A1) es capaz de resolver óptimamente instancias con 1500 elementos combustibles, 6 tipos de regiones térmicas y 4 tipos de contenedores en tiempos de CPU inferiores a 0.75 segundos, repartidos así: 0.5 segundos para MILP-1 más 0.25 segundos para A1.
+ER  -

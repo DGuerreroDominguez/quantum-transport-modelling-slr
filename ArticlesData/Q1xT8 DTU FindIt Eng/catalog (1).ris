@@ -1,0 +1,60 @@
+TY  - CPAPER
+AU  - Yan, Xinping
+AU  - Lv, Nengchao
+AU  - Liu, Zhenglin
+AU  - Xu, Kun
+AB  - Transportation network design problem deals with how to add or improve some edges on an existing transportation network to improve traffic condition. In this study a bi-level programming model was proposed to optimize the strategy of transportation network capacity improvement in the constraint of budget. The upper level problem aims to minimize the total travel time of all transportation travelers, while the lower level model is users' equilibrium transportation assignment model. A quantum-inspired evolutionary algorithm was employed to solve the problem. The result of numerical experiment indicated that the proposed model can reduce total travel time by searching optimal solution and the QEA is more efficient than other heuristic algorithm. © 2008 IEEE.
+TI  - Quantum-inspired evolutionary algorithm for transportation network design optimization
+LA  - eng
+A2  - Du, Y, Zhao, M
+JF  - Proceedings - 2nd International Conference on Genetic and Evolutionary Computing, Wgec 2008
+SP  - 189
+EP  - 192
+PY  - 2008
+SN  - 0769533345, 1509080333, 9780769533346, 9781509080335
+PB  - IEEE COMPUTER SOC
+DO  - 10.1109/WGEC.2008.35
+ER  -
+
+TY  - JOUR
+AU  - Jiang, Jiehui
+AU  - Zhang, Dezhi
+AU  - Li, Shuangyan
+AU  - Liu, Yajie
+AB  - This study investigates a multimodal green logistics network design problem of urban agglomeration with stochastic demand, in which different logistics authorities among the different cities jointly optimize the logistics node configurations and uniform carbon taxes over logistics transport modes to maximize the total social welfare of urban agglomeration and consider logistics users' choice behaviors. The users' choice behaviors are captured by a logit-based stochastic equilibrium model. To describe the game behaviors of logistics authorities in urban agglomeration, the problem is formulated as two nonlinear bilevel programming models, namely, independent and centralized decision models. Next, a quantum-behaved particle swarm optimization (QPSO) embedded with a Method of Successive Averages (MSA) is presented to solve the proposed models. Simulation results show that to achieve the overall optimization layout of the green logistics network in urban agglomeration the logistics authorities should adopt centralized decisions, construct a multimode logistics network, and make a reasonable carbon tax.
+TI  - Multimodal Green Logistics Network Design of Urban Agglomeration with Stochastic Demand
+LA  - eng
+A2  - Park, Juneyoung
+JF  - Journal of Advanced Transportation
+VL  - 2019
+IS  - 1
+PY  - 2019
+SN  - 20423195, 01976729
+PB  - Hindawi Limited
+DO  - 10.1155/2019/4165942
+ER  -
+
+TY  - BOOK
+AU  - Paolucci
+TI  - Advances in Optimization and Decision Science for Society, Services and Enterprises : ODS, Genoa, Italy, September 4-7, 2019
+LA  - eng
+A2  - Sciomachen, Anna, Paolucci, Massimo, Uberti, Pierpaolo
+JF  - Advances in Optimization and Decision Science for Society, Services and Enterprises
+PY  - 2019
+SN  - 3030349594, 3030349608, 9783030349592, 9783030349608
+PB  - Springer International Publishing
+ER  -
+
+TY  - CPAPER
+TI  - Abstracts of the 17th International Symposium on Bioluminescence and Chemiluminescence, May 28th - June 2nd, 2012, Guelph, Ontario, Canada (ISBC 2012)
+LA  - eng
+JF  - Luminescence : the Journal of Biological and Chemical Luminescence
+VL  - 27
+IS  - 2
+SP  - 95
+EP  - 178
+PY  - 2012
+SN  - 15227243, 15227235
+PB  - Wiley
+DO  - 10.1002/bio.2341
+ER  -

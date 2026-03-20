@@ -1,0 +1,490 @@
+TY  - JOUR
+AB  - Quantum-mechanics-based transport simulation is of well-known importance for the design of quantum-scale ultra-short channel field-effect transistors (FETs) with its capability of understanding the physical mechanism, while facing the primary challenge of the high computational intensity. Traditional machine learning is expected to accelerate the optimization of FET design, yet its application in this field is limited by the lack of both high-fidelity datasets and the integration of physical knowledge. Here, we introduced a physics-integrated neural network framework to accurately predict the transport Ids-Vgs curves of sub-5-nm gate-all-around (GAA) FETs using an in-house developed high-fidelity database. The transport curves in the database are collected from literature and our first-principles calculations. Beyond silicon, we include indium arsenide, indium phosphide, and selenium nanowires with different structural phases as the FET channel materials in our database. Based on the database, we built a physical-knowledge-integrated hyper vector neural network (PHVNN), in which five new physical features were added into the inputs for prediction transport characteristics of the devices, achieving a sufficiently low mean absolute error of 0.39. In particular, ~98% of the current prediction residuals are within one order of magnitude. Using PHVNN, we efficiently screened out the symmetric p-type GAA FETs that possess the same figures of merit with the n-type ones, which are crucial for the fabrication of homogeneous complementary metal-oxide-semiconductor (CMOS) circuits. Finally, our automatic differentiation analysis provides interpretable insights into the PHVNN, which highlights the important contributions of our new input parameters and improves the reliability of PHVNN. Our approach provides an effective method for rapidly screening appropriate GAA FETs with the prospect of accelerating the design process of next-generation electronic devices.
+AU  - Zhang, X
+AU  - Xu, L
+AU  - Lu, J
+AU  - Zhang, Z
+AU  - arXiv:2408.17023, L Shen - arXiv preprint
+AU  - 2024, undefined
+KW  - gate-all-around FETs
+KW  - interpretable neural network
+KW  - physical-knowledge-integrated neural network
+KW  - quantum transport curves
+KW  - ultra-short channel FETs
+TI  - Physics-integrated Neural Network for Quantum Transport Prediction of Field-effect Transistor
+T2  - arxiv.org
+UR  - https://arxiv.org/abs/2408.17023
+ER  -
+TY  - JOUR
+AU  - Stehr, V
+PY  - 2015
+TI  - Prediction of charge and energy transport in organic crystals with quantum chemical protocols employing the hopping model
+UR  - https://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/11494
+ER  -
+TY  - JOUR
+AU  - Han, Y
+AU  - Jing, Y
+AU  - Decision, K Li - 2017 29th Chinese Control And
+AU  - 2017, undefined
+TI  - Multi-step prediction for the network traffic based on echo state network optimized by quantum-behaved fruit fly optimization algorithm
+T2  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/7978893/?casa_token=1K1Rnr8qKh0AAAAA:Xxw3Xm-wFZY7zyH-IGp4VHfVSbupGMfbevIRcEESuaK4EjSEjcxGoX2NdJXuAGs8xSKUp6rOyOOl
+ER  -
+TY  - JOUR
+AU  - Hunt, WD
+AU  - Brennan, KF
+AU  - Summers, CJ
+AU  - Yun, I
+PY  - 1994
+TI  - An Acoustic Charge Transport Imager for High Definition Television Applications: Reliability Modeling and Parametric Yield Prediction of GaAs Multiple Quantum Well
+UR  - https://ntrs.nasa.gov/citations/19980237976
+ER  -
+TY  - JOUR
+AU  - Iyakutti, K
+AU  - 4659195, Y Kawazoe - Available at SSRN
+TI  - Prediction of Neutron Dripline and New Magic Numbers Using a New Quantum Theoretical Route
+T2  - papers.ssrn.com
+UR  - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4659195
+ER  -
+TY  - JOUR
+AU  - Jacak, Janusz
+AU  - Jacak, Lucjan
+PY  - 2018
+SP  - 879
+EP  - 879
+TI  - Quantitative Prediction of Non-Local Material and Transport Properties Through Quantum Scattering Models
+T2  - Japanese Journal of Applied Physics To
+UR  - https://search.proquest.com/openview/8b2d916671c2c314399b56fe6d8ca3bd/1?pq-origsite=gscholar&cbl=18750&diss=y
+VL  - 33
+ER  -
+TY  - JOUR
+AU  - Nishimoto, Y
+AU  - Letters, S Irle - Chemical Physics
+AU  - 2017, undefined
+TI  - Quantum chemical prediction of vibrational spectra of large molecular systems with radical or metallic electronic structure
+T2  - Elsevier
+UR  - https://www.sciencedirect.com/science/article/pii/S000926141630896X
+ER  -
+TY  - JOUR
+AU  - Elyashberg, M
+AU  - Blinov, K
+AU  - Smurnyy, Y
+AU  - Churanova, T
+TI  - Empirical and Quantum-Mechanical Methods of 13C Chemical Shifts Prediction: Competitors or Collaborators?
+T2  - academia.edu
+UR  - https://www.academia.edu/download/41580883/Empirical_and_DFT_GIAO_quantum-mechanica20160126-20146-rytx2z.pdf
+ER  -
+TY  - JOUR
+AU  - Correa, AA
+AU  - Andrade, X
+AU  - Welden, AR
+AU  - Herriman, J
+PY  - 2020
+TI  - Quantum Non-Equilibrium Dynamics Prediction of Electronic Transport Coefficients in Non-Linear Regimes
+UR  - https://www.osti.gov/biblio/1727268
+ER  -
+TY  - JOUR
+AU  - Technology, K Zhang - Transactions on Computer Science and
+TI  - A Short-Term Traffic Flow Prediction Model Based on Quantum Genetic Algorithm and Fuzzy RBF Neural Networks
+T2  - ivypub.org
+UR  - http://www.ivypub.org/CST/paperinfo/35093.shtml
+ER  -
+TY  - JOUR
+AU  - Charles, J
+TI  - Quantum transport prediction of recombination in vertical pn junctions
+T2  - phantomsfoundation.com
+UR  - https://phantomsfoundation.com/GRAPHENECONF/2020/Abstracts/Grapheneconf2020_Kubis_Tillmann_164.pdf
+ER  -
+TY  - JOUR
+AB  - We predict a new effect for transport in quantum wires: spontaneous spin polarization. Most work on transport in mesoscopic devices has assumed a model of non interacting, spin-free electrons. We introduce spin, electron pair scattering and microscopic crystal properties into the design of mesoscopic devices. The new spin polarization effect results from the fact that in a single mode quantum wire, electron and hole bands still have two spin subbands. In general, these two spin subbands are expected to be split even in zero magnetic field. At sufficiently low temperatures the electron pair scattering rates for one spin subband (e.g., the spin-down) can be much larger than for the other spin subband. This effect can be used for an active spin polarizer device: hot electrons in one subband (e.g., ‘spin up’) pass with weak pair scattering, while electrons in the opposite subband (e.g., ‘spin down’), have high probability of scattering into the ‘spin-up’ subband, resulting in spin polarization of a hot electron beam. © 1994 Japanese Journal of Applied Physics. All Rights Reserved.
+AU  - Fasol, G
+AU  - physics, H Sakaki - Japanese journal of applied
+AU  - 1994, undefined
+DO  - 10.1143/JJAP.33.879/META
+IS  - 1
+KW  - Electron devices
+KW  - Electron spin
+KW  - Gallium arsenide
+KW  - Magnetic properties
+KW  - Mesoscopic structures
+KW  - Quantum wires
+KW  - Transport
+PY  - 1994
+SP  - 879
+EP  - 886
+TI  - Prediction of spin-polarization effects in quantum wire transport
+T2  - iopscience.iop.org
+UR  - https://iopscience.iop.org/article/10.1143/JJAP.33.879/meta?casa_token=Djd5bDlCVM8AAAAA:UwbLh2hUUto824qfJmNxZvBNmh2PVS8BvJY2EzmKnFG1nQh3y5O8RDLdK8Sv-u8DhM2eg1I_KSNMN9V9EA1jk9dQivw
+VL  - 33
+ER  -
+TY  - JOUR
+AU  - Naito, H
+AU  - …, T Asada - and Hybrid Light Emitting Materials and
+AU  - 2025, undefined
+DO  - 10.1117/12.3063136.SHORT
+TI  - Prediction of electronic transport properties of amorphous organic semiconductors for organic light-emitting diodes using quantum chemical calculation
+T2  - spiedigitallibrary.org
+UR  - https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13588/1358802/Prediction-of-electronic-transport-properties-of-amorphous-organic-semiconductors-for/10.1117/12.3063136.short
+ER  -
+TY  - JOUR
+AB  - To predict the Quantum of Passenger/Goods Transport in China-Korea Railway Ferry with moulds through analysis of trade actuality and development trend in China and Korea. The gross of transport of China-Korea Railway Ferry in 2020 and 2030 is 36,260,000 tons and 45,360,000 tons respectively. © 2010 ASCE.
+AU  - Li, J
+AU  - Economic, J Zhang - ICLEM 2010: Logistics For Sustained
+AU  - 2010, undefined
+DO  - 10.1061/41139(387)29
+KW  - China
+KW  - Ferries
+KW  - Freight transportation
+KW  - Predictions
+KW  - Rail transportation
+PY  - 2010
+SN  - 9780784411391
+SP  - 196
+EP  - 202
+TI  - Prediction of the Goods Transport Quantum of China-Korea Railway Ferry
+T2  - ascelibrary.org
+UR  - https://ascelibrary.org/doi/abs/10.1061/41139(387)29
+VL  - 387
+ER  -
+TY  - JOUR
+AB  - Quantum-mechanics-based transport calculations play an important role in the design of nanoelectronic field-effect transistors (FETs), but their computational intensity is the primary challenge. To address this, we developed a physics-knowledge-integrated neural network framework that directly predicts quantum transport current-voltage curves for gate-all-around FETs. This model significantly accelerates FET design optimization while maintaining the density-functional theory-level accuracy. By integrating key physical parameters of the channel materials, our model achieves a mean absolute error as low as 0.39. In particular, 98% of the current prediction residuals are within one order of magnitude, even with a limited training dataset. The differentiable nature of the neural network allows for automatic differentiation analysis, providing interpretable insights into our model. This ensures that the model has successfully learned quantum transport physics, thereby enhancing its reliability. Using our model, we efficiently identified symmetric p-type gate-all-around FETs with performance comparable to n-type ones, which are crucial for developing homogeneous complementary metal-oxide semiconductor circuits. This work provides an effective and reliable method for rapidly screening and optimizing FET designs, paving the way for accelerating the design process of next-generation electronic devices.
+AU  - Zhang, Xiuying
+AU  - Xu, Linqiang
+AU  - Lu, Jing
+AU  - Zhang, Zhaofu
+AU  - Shen, Lei
+DA  - 2025/3//
+DO  - 10.1103/PHYSREVAPPLIED.23.034066
+IS  - 3
+PB  - American Physical Society
+PY  - 2025
+TI  - Physics-knowledge-integrated neural network for quantum transport prediction of field-effect transistors
+T2  - APS
+UR  - https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.23.034066
+VL  - 23
+ER  -
+TY  - JOUR
+AB  - A novel Quantum Adaptive Particle Swarm Optimization (QAPSO) method is proposed. In this algorithm, the position encoding of the particle is achieved with quantum bits, and the state of quantum bit is updated dynamically with particle trajectory information. Then the mutation operation is performed by quantum non-gate to avoid falling into local optimum, which increases the diversity of particles. Afterwards, the Radial Basis Function (RBF) neural network is trained with QAPSO to implement the optimization of RBF neural network parameters. The network traffic prediction model is established based on the Quantum Adaptive Particle Swarm Optimization and RBF Neural Network (QAPSO-RBFNN). Forecasting results on real network traffic demonstrate that the convergence speed of the proposed method is faster and prediction accuracy is more accurate than that of traditional RBF neural network, the Particle Swarm Optimization and RBFNN (PSO-RBFNN), Hybrid Particle Swarm Optimization and RBFNN (HPSO-RBFNN), Adaptive Particle Swarm Optimization and RBF Neural Network (APSO-RBFNN). Furthermore, the forecasting effect of this method is stable on different scales.
+AU  - Guo, Tong
+AU  - Lan, Ju Long
+AU  - Li, Yu Feng
+AU  - Jiang, Yi Ming
+DA  - 2013/9//
+DO  - 10.3724/SP.J.1146.2012.01343
+IS  - 9
+KW  - Adaptive Particle Swarm Optimization (APSO)
+KW  - Quantum bit
+KW  - Radial Basis Function Neural Network (RBFNN)
+KW  - Traffic prediction
+PY  - 2013
+SP  - 2220
+EP  - 2226
+TI  - Network traffic prediction with radial basis function neural network based on quantum adaptive particle swarm optimization
+T2  - jeit.ac.cn
+UR  - https://jeit.ac.cn/en/article/doi/10.3724/SP.J.1146.2012.01343
+VL  - 35
+ER  -
+TY  - JOUR
+AB  - Network traffic flow prediction model is fundamental to the network performance evaluation and the design of network control scheme which is crucial for the success of high-speed networks. Aiming at shortcoming of the conventional network traffic time series prediction model and the problem that BP training algorithms easily plunge into local solution, a network traffic prediction model based on wavelet neural network and PSO-QI is presented in the paper. Firstly, the quantum principle obtained from Quantum PSO(QPSO)has been combined with standard PSO to form a new hybrid algorithm called PSO with Quantum Infusion(PSO-QI). Then, the parameters of wavelet neural network were optimized with PSO-QI and the time series of network traffic data was modeled and predicted based on wavelet neural network and PSO-QI. Experiments showed that PSOQI-wavelet neural network has better precision and adaptability compared with the traditional neural network.
+AU  - Applications, K Zhang - Mathematical and Computational
+AU  - 2014, undefined
+IS  - 3
+KW  - BP neural network
+KW  - PSO-QI algorithm
+KW  - particle swarm optimization
+KW  - wavelet network traffic
+PY  - 2014
+SP  - 218
+EP  - 229
+TI  - A Network Traffic Prediction Model Based on Quantum Inspired Pso and Wavelet Neural Network
+T2  - pdfs.semanticscholar.org
+UR  - https://pdfs.semanticscholar.org/dabe/22e7fb8f817e7c1c9287082f97b4dd3e68ab.pdf
+VL  - 19
+ER  -
+TY  - JOUR
+AB  - The accuracy of 13C chemical shift prediction by both DFT GIAO quantum-mechanical (QM) and empirical methods was compared using 205 structures for which experimental and QM-calculated chemical shifts were published in the literature. For these structures, 13C chemical shifts were calculated using HOSE code and neural network (NN) algorithms developed within our laboratory. In total, 2531 chemical shifts were analyzed and statistically processed. It has been shown that, in general, QM methods are capable of providing similar but inferior accuracy to the empirical approaches, but quite frequently they give larger mean average error values. For the structural set examined in this work, the following mean absolute errors (MAEs) were found: MAE(HOSE) = 1.58 ppm, MAE(NN) = 1.91 ppm and MAE(QM) = 3.29 ppm. A strategy of combined application of both the empirical and DFT GIAO approaches is suggested. The strategy could provide a synergistic effect if the advantages intrinsic to each method are exploited. Copyright © 2010 John Wiley & Sons, Ltd.
+AU  - Elyashberg, Mikhail
+AU  - Blinov, Kirill
+AU  - Smurnyy, Yegor
+AU  - Churanova, Tatiana
+AU  - Williams, Antony
+DO  - 10.1002/MRC.2571
+IS  - 3
+KW  - Chemical shift prediction
+KW  - DFT
+KW  - GIAO
+KW  - Hose code
+KW  - NMR
+KW  - Neural nets
+KW  - neural nets
+PB  - John Wiley and Sons Ltd
+PY  - 2010
+SP  - 219
+EP  - 229
+TI  - Empirical and DFT GIAO quantum‐mechanical methods of 13C chemical shifts prediction: competitors or collaborators?
+T2  - Wiley Online Library
+UR  - https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/mrc.2571?casa_token=hsoOO1GSEDEAAAAA:2OHpmDQV1sMDtZ3n_aXXksPJPWoMT55zK4FTRpUQVTc3Kpsh5bqRzk_MQFFz66mkP13yDg60kWWHVfc
+VL  - 48
+ER  -
+TY  - JOUR
+AB  - Quantum-mechanics-based transport simulation is of importance for the design of ultra-short channel field-effect transistors (FETs) with its capability of understanding the physical mechanism, while facing the primary challenge of the high computational intensity. Traditional machine learning is expected to accelerate the optimization of FET design, yet its application in this field is limited by the lack of both high-fidelity datasets and the integration of physical knowledge. Here, we introduced a physics-integrated neural network framework to predict the transport curves of sub-5-nm gate-all-around (GAA) FETs using an in-house developed high-fidelity database. The transport curves in the database are collected from literature and our first-principles calculations. Beyond silicon, we included indium arsenide, indium phosphide, and selenium nanowires with different structural phases as the FET channel materials. Then, we built a physical-knowledge-integrated hyper vector neural network (PHVNN), in which five new physical features were added into the inputs for prediction transport characteristics, achieving a sufficiently low mean absolute error of 0.39. In particular, ~98% of the current prediction residuals are within one order of magnitude. Using PHVNN, we efficiently screened out the symmetric p-type GAA FETs that possess the same figures of merit with the n-type ones, which are crucial for the fabrication of homogeneous CMOS circuits. Finally, our automatic differentiation analysis provides interpretable insights into the PHVNN, which highlights the important contributions of our new input parameters and improves the reliability of PHVNN. Our approach provides an effective method for rapidly screening appropriate GAA FETs with the prospect of accelerating the design process of next-generation electronic devices.
+AU  - Zhang, Xiuying
+AU  - Xu, Linqiang
+AU  - Lu, Jing
+AU  - Zhang, Zhaofu
+AU  - Shen, Lei
+DA  - 2024/8//
+PY  - 2024
+TI  - Physics-integrated Neural Network for Quantum Transport Prediction of Field-effect Transistor
+UR  - https://arxiv.org/pdf/2408.17023
+ER  -
+TY  - JOUR
+AU  - Hongying, J
+AU  - Networks, L Li - Journal of
+AU  - 2013, undefined
+TI  - Dynamic network traffic flow prediction model based on modified quantum-behaved particle swarm optimization
+T2  - search.proquest.com
+UR  - https://search.proquest.com/openview/c496f0054372e02f946c34abc3c114f2/1?pq-origsite=gscholar&cbl=136095
+ER  -
+TY  - JOUR
+AU  - Huang, Y
+AU  - Li, Y
+AU  - Hou, S
+AU  - Zhao, X
+AU  - Pan, C
+AU  - …, X Lu - Journal of Visualized
+AU  - 2025, undefined
+TI  - A Quantum-Classical Hybrid Model for Long-term Network Traffic Prediction
+T2  - app.jove.com
+UR  - https://app.jove.com/t/68229/a-quantum-classical-hybrid-model-for-long-term-network-traffic
+ER  -
+TY  - JOUR
+AU  - Science, L ZHANG - Computer Engineering &
+AU  - 2016, undefined
+TI  - Network traffic prediction based on BP neural networks optimized by quantum genetic algorithm
+T2  - joces.nudt.edu.cn
+UR  - http://joces.nudt.edu.cn/EN/abstract/abstract14741.shtml
+ER  -
+TY  - JOUR
+AB  - Intelligent Transportation Systems (ITS) necessitate scalable, real-time, and adaptive traffic flow prediction models to enhance urban mobility and alleviate congestion. Conventional Graph Neural Network methodologies encounter difficulties in managing extensive road networks, long-range temporal relationships, and computing efficiency for real-time applications. An innovative deep learning framework named Meta Temporal Hyperbolic Quantum Graph Neural Networks that integrates hyperbolic embeddings, meta learning, quantum graph, Neural Ordinary Differential Equation (NODEs) to improve the ITS Performance. Across many cities, meta learning facilitates swift adaptation with minimum retraining whereas hyperbolic graph embeddings efficiently depict hierarchical route configurations The usage of Quantum Graph Neural Networks (QGNNs) enhances graph-based scheming, enabling real-time traffic flow to forecast for extensive networks. Also, NODEs summarize ongoing traffic progress, enhancing precision under dynamic sceneries. Datasets like Los-loop and SZ-taxi datasets are validated by experiments which highlights the impact of the proposed MTH-QGNN model, acquiringamean value RMSE of 4.5 and MAE of 3.5, ensuring minimal prediction error. MTH-QGNN model constantly sustained accuracy above 80% and R 2 values exceeding 83%, representing robust predictive trustworthiness. MTH-QGNN effectively captures complex spatiotemporal traffic patterns with a variance score above threshold value. Considering, growing quantity of automobiles on the road, modern transportation schemes face significant challenges such as gridlock, frequent accidents, thenconservational deterioration. When taking action for above issue rise induced demand which worsening traffic conditions rather than improving them 1,2. To enhance mobility and optimize road network efficiency, more intelligent data driven systems needed. Advanced analytics, enhanced communication technology, and Intelligent Transportation Systems (ITS) 3 have become revolutionary solutions. ITS integrates 5G communication, IoT-based sensors, and AI-driven decision-making to enhance traffic flow, minimize congestion, and improve road safety. This advanced framework not only enhances travel efficiency but also contributes to reducing accident risks, lowering carbon OPEN Scientific Reports | (2025) 15:27476 1 | https://doi.
+AU  - Rajagopal, Manikandan
+AU  - Sivasakthivel, Ramkumar
+AU  - Anitha, G
+AU  - Arunachalam, Krishna Prakash
+AU  - Loganathan, K
+AU  - Abbas, Mohamed
+AU  - Kalathil, Shaeen
+AU  - Rao, & K Srinivas
+DO  - 10.1038/s41598-025-10794-5
+KW  - Graph neural networks (GNNs)
+KW  - Hyperbolic graph embeddings
+KW  - Intelligent transportation systems (ITS)
+KW  - Meta-learning
+KW  - Neural ODEs
+KW  - Quantum computing
+KW  - Traffic flow prediction
+TI  - An efficient intelligent transportation system for traffic flow prediction using meta-temporal hyperbolic quantum graph neural networks
+T2  - nature.com
+UR  - https://www.nature.com/articles/s41598-025-10794-5
+ER  -
+TY  - JOUR
+AU  - Jothishwar, S
+AU  - Dharsini, V
+AU  - …, S Dinesh - … of AI and Quantum
+AU  - 2025, undefined
+TI  - Short-Term Traffic Prediction: A Bayesian Fusion of Graph Attention Network and SARIMA Model With Quantum Networking
+T2  - igi-global.com
+UR  - https://www.igi-global.com/chapter/short-term-traffic-prediction/359621
+ER  -
+TY  - JOUR
+AU  - Oh, E
+AU  - Ishtiaq, M
+AU  - Song, J
+AU  - Wireless, J Won - 2025 International
+AU  - 2025, undefined
+TI  - Transportation Failure Prediction Framework Using Explainable Artificial Intelligence and Quantum Algorithm
+T2  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/11059630/?casa_token=-jmEidbiXssAAAAA:SlB9FIKHdIOzDKytQAseSjU90UJDSZ5gSfzHRPYMbwArz4JnE24H1rKUD3LVqPxsgMUQXxD6-fb8
+ER  -
+TY  - JOUR
+AU  - Zhang, W
+AU  - Shi, Z
+AU  - Joint, Z Luo - 2008 IEEE International
+AU  - 2008, undefined
+TI  - Prediction of urban passenger transport based-on wavelet SVM with quantum-inspired evolutionary algorithm
+T2  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/4633996/?casa_token=0eyH6Vlc2dIAAAAA:nR12u9R2alnRtr1MRPQRX67m3g_86OOwHob-4z1we6-HHbbHUDzLBSfF0ja5YebWAa_b2KpCrgDV
+ER  -
+TY  - JOUR
+AU  - Zhang, K
+AU  - Liang, L
+AU  - International, Y Huang - 2013 Sixth
+AU  - 2013, undefined
+TI  - A network traffic prediction model based on quantum inspired PSO and neural network
+T2  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/6804867/?casa_token=5sGUbKC3ltgAAAAA:cUOX9XYArFDrqpuXkc9w79-yL1cDQFftyfKYQ1rm-RUeV5fKxiQVuZ3ppNg_P8qI8Gl8pAR9ERpc
+ER  -
+TY  - JOUR
+AU  - Prabhu, B
+AU  - Sensors, B Muthukumar - Measurement:
+AU  - 2023, undefined
+TI  - Using Quantum hybrid join prediction model to predict future trajectory motion during transit train movement
+T2  - Elsevier
+UR  - https://www.sciencedirect.com/science/article/pii/S2665917423001228
+ER  -
+TY  - JOUR
+AU  - AI, Z Qu - Quantum Computational
+AU  - 2026, undefined
+TI  - Temporal-spatial quantum graph convolutional neural network: Quantum network for traffic congestion prediction
+T2  - Elsevier
+UR  - https://www.sciencedirect.com/science/article/pii/B9780443302596000116
+ER  -
+TY  - JOUR
+AB  - Urban traffic systems are known for their complexity and non-linearity, making it challenging to accurately predict traffic flow. This research study introduces a novel approach to tackle this issue by utilizing quantum genetic optimization to develop a short-term traffic flow prediction model specifically tailored for urban areas. To enhance the accuracy of the prediction model, the strengths of quantum computing, including accelerated processing and heightened security, are combined with the advantages offered by genetic optimization algorithms. The quantum genetic optimization algorithm is employed to optimize the model parameters, enabling a better capture of the spatiotemporal patterns inherent in urban traffic flow. Experimental results demonstrate that the prediction model, based on quantum genetic optimization, achieves highly accurate short-term traffic flow forecasts and successfully captures the complex spatiotemporal patterns of urban traffic flow. This innovative approach provides a potential solution to the longstanding challenge of accurately anticipating traffic flow in urban environments. By harnessing the power of quantum computing techniques through the utilization of genetic optimization, this research significantly contributes to the advancement of urban traffic management systems. The improved accuracy and reliability of traffic flow prediction models offer valuable insights for efficient decision-making processes regarding traffic control and congestion management. 1. Introduction. To ensure efficient traffic management and effective urban planning, it is crucial to have accurate predictions of urban traffic flow [1, 2, 3]. With urban populations and vehicle numbers on the rise, traffic congestion has become a major problem, causing inconvenience and time delays for city residents. As a result, short-term traffic flow modeling has drawn interest as a crucial fix [4, 5]. The spatiotemporal patterns of traffic flow are frequently missed by traditional approaches, producing forecasts that are not trustworthy. Recently, quantum computing and genetic optimization algorithms have emerged as promising computational methods. Quantum computing leverages quantum mechanics
+AU  - Guo, Li-Dong
+AU  - Cheung, Ying
+IS  - 1
+KW  - Quantum genetic algorithm
+KW  - genetic algo-rithm
+KW  - quantum computing
+KW  - short-term traffic flow in cities
+PY  - 2025
+TI  - A Short-Term Traffic Flow Prediction Model for Urban Areas Based on Quantum Genetic Optimization
+T2  - Taiwan Ubiquitous Information
+UR  - https://bit.kuas.edu.tw/~jni/2025/vol10/s1/05.JNI-S-2024-01-032.pdf
+VL  - 10
+ER  -
+TY  - JOUR
+AU  - Zhang, Fuquan
+AU  - Wu, Tsu-Yang
+AU  - Wang, Yiou
+AU  - Xiong, Rui
+AU  - Ding, Gangyi
+AU  - Mei, Peng
+AU  - Liu, Laiyang
+DO  - 10.1109/ACCESS.2020.2999608
+TI  - Application of quantum genetic optimization of LVQ neural network in smart city traffic network prediction
+T2  - scholar.archive.org
+UR  - https://scholar.archive.org/work/3ln42ecn2ven3fqipywtajjny4/access/wayback/https://ieeexplore.ieee.org/ielx7/6287639/8948470/09107118.pdf
+ER  -
+TY  - JOUR
+AU  - …, VS Moskvin - Electronic Devices in Vehicle and Road Transport
+AU  - 2023, undefined
+TI  - Quantum neural networks and their potential in traffic prediction
+T2  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/10332762/?casa_token=K0QHhmRnGDwAAAAA:ENvrSETWMk1xRikODB3YNB0wVOHs3-rD8tUxCPDYMdgnJvZmDv7vqpHCdX-nc2KLUzSZ5tdipDWG
+ER  -
+TY  - JOUR
+AU  - Qu, Z
+AU  - Liu, X
+AU  - Systems, M Zheng - on Intelligent Transportation
+AU  - 2022, undefined
+TI  - Temporal-spatial quantum graph convolutional neural network based on Schrödinger approach for traffic congestion prediction
+T2  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/9882032/?casa_token=Ly8SKs_sx6IAAAAA:qriZtGbTZjWChrPkWrMNMWBIA9xPKThpf37B_CMftmOBul-ehnBLZTIOrzdICnLj3dCRn4QZDmI3
+ER  -
+TY  - JOUR
+AB  - Theoretical modeling has been applied to study the charge transport (CT) parameters of a high-electron-mobility (n-type) naphthalenetetracarboxydiimide copolymer that was recently synthesized and tested for organic field-effect transistor applications. To understand the physicochemical characteristics of such a material, the intra- and intermolecular CT properties of holes and electrons were investigated using different DFT functionals, evidencing the need of range-separated hybrid functionals to predict key parameters such as the hole and electron reorganization energies. Our calculations revealed clear differences between hole- and electron-charging processes, providing fundamental elements for the rationalization of their transport. © 2011 American Chemical Society.
+AU  - Fazzi, Daniele
+AU  - Caironi, Mario
+AU  - Castiglioni., Chiara
+DA  - 2011/11//
+DO  - 10.1021/JA208824D
+IS  - 47
+PB  - UTC
+PY  - 2011
+SP  - 19056
+EP  - 19059
+TI  - Quantum-chemical insights into the prediction of charge transport parameters for a naphthalenetetracarboxydiimide-based copolymer with enhanced electron mobility
+T2  - ACS Publications
+UR  - https://pubs.acs.org/doi/abs/10.1021/ja208824d?casa_token=U3NtZpQsDi4AAAAA:N5uy9SWMoDbrNtmq9xaJRlaE3mgqNUHe7ahNJF8ozcMWvjQnhRciG6bHWnHHkUpimMRJOMo2o4lrGmU&casa_token=5HCl-hYNL60AAAAA:Y7Rh8Oubmoj4YxdpfscHsWFMF1vrI0hWTEhxHV_pnSei2CvSCkcP2POMeRIL8AG0qgysx1fb3sK6EHs
+VL  - 133
+ER  -
+TY  - JOUR
+AB  - Effective critical constants for helium and normal hydrogen have been determined by fitting experimental volumetric data for these gases to the generalized tables of Pitzer. The effective critical temperature and pressure are found to depend on the temperature and on the molecular mass in a simple manner permitting good estimates to be made of effective critical constants for other quantum gases for which experimental data are scarce (neon, isotopes of helium and hydrogen). Pitzer's tables are used with pseudocritical mixing rules to predict thermodynamic properties of mixtures at high pressures and low temperatures. Calculated compressibility factors and enthalpies are in excellent agreement with experimental results for dense mixtures of hydrogen‐methane, hydrogen‐argon, and helium‐nitrogen. Copyright © 1966 American Institute of Chemical Engineers
+AU  - Gunn, R. D.
+AU  - Chueh, P. L.
+AU  - Prausnitz, J. M.
+DO  - 10.1002/AIC.690120519
+IS  - 5
+PY  - 1966
+SP  - 937
+EP  - 941
+TI  - Prediction of thermodynamic properties of dense gas mixtures containing one or more of the quantum gases
+T2  - Wiley Online Library
+UR  - https://aiche.onlinelibrary.wiley.com/doi/abs/10.1002/aic.690120519?casa_token=tFAL6U1adI4AAAAA:hceeSF9kminEUrN9nQw1n9IE-UNs5g3lcPdG2H9JqdYBNO9us7OzC7XTS042D73psCLk2ziNVGcGBCc
+VL  - 12
+ER  -
+TY  - JOUR
+AB  - Due to the fact that the fluctuation of network traffic is affected by various factors, accurate prediction of network traffic is regarded as a challenging task of the time series prediction process. For this purpose, a novel prediction method of network traffic based on QPSO algorithm and fuzzy wavelet neural network is proposed in this paper. Firstly, quantum-behaved particle swarm optimization (QPSO) was introduced. Then, the structure and operation algorithms of WFNN are presented. The parameters of fuzzy wavelet neural network were optimized by QPSO algorithm. Finally, the QPSO-FWNN could be used in prediction of network traffic simulation successfully and evaluate the performance of different prediction models such as BP neural network, RBF neural network, fuzzy neural network, and FWNN-GA neural network. Simulation results show that QPSO-FWNN has a better precision and stability in calculation. At the same time, the QPSO-FWNN also has better generalization ability, and it has a broad prospect on application.
+AU  - Zhang, Kun
+AU  - Hu, Zhao
+AU  - Gan, Xiao Ting
+AU  - Fang, Jian Bo
+DO  - 10.1155/2016/4135056
+PB  - Hindawi Publishing Corporation
+PY  - 2016
+TI  - A Network Traffic Prediction Model Based on Quantum‐Behaved Particle Swarm Optimization Algorithm and Fuzzy Wavelet Neural Network
+T2  - Wiley Online Library
+UR  - https://onlinelibrary.wiley.com/doi/abs/10.1155/2016/4135056
+VL  - 2016
+ER  -
+TY  - JOUR
+AB  - Due to the fact that the fluctuation of network traffic is affected by various factors, accurate prediction of network traffic is regarded as a challenging task of the time series prediction process. For this purpose, a novel prediction method of network traffic based on QPSO algorithm and fuzzy wavelet neural network is proposed in this paper. Firstly, quantum-behaved particle swarm optimization (QPSO) was introduced. Then, the structure and operation algorithms of WFNN are presented. The parameters of fuzzy wavelet neural network were optimized by QPSO algorithm. Finally, the QPSO-FWNN could be used in prediction of network traffic simulation successfully and evaluate the performance of different prediction models such as BP neural network, RBF neural network, fuzzy neural network, and FWNN-GA neural network. Simulation results show that QPSO-FWNN has a better precision and stability in calculation. At the same time, the QPSO-FWNN also has better generalization ability, and it has a broad prospect on application.
+AU  - Yu, Y
+AU  - Liu, S
+AU  - Wang, L
+AU  - Teng, F
+AU  - Series, S Li - IOP Conference
+AU  - 2020, undefined
+DO  - 10.1088/1757-899X/768/6/062110/META
+PY  - 2016
+TI  - Traffic prediction model based on improved quantum particle swarm algorithm in wireless network
+T2  - iopscience.iop.org
+UR  - https://iopscience.iop.org/article/10.1088/1757-899X/768/6/062110/meta
+ER  -
+TY  - JOUR
+AB  - Aiming at the long-range dependence and short-range dependence characteristics of backbone network traffic, a traffic forecasting model based on Modified Ensemble Empirical Mode Decomposition (MEEMD) and Quantum Neural Network (QNN) is presented. Firstly, the MEEMD method is employed to decompose the traffic data sequence into intrinsic mode function (IMF) component. Then, the Quantum Neural Network is adopted to forecast the IMF components. Ultimately, the final prediction value is obtained via synthe-tizing the prediction results of all components. The QNN is composed of universal quantum gates and quantum weighted, and its learning algorithm employs the Modified Polak–Ribière–Polyak Conjugate Gradient method. The forecast results on real network traffic show that the proposed algorithm has a lower computational complexity and higher prediction accuracy than that of EMD and Auto Regressive Moving Average, EMD and Support Vector Machines, EEMD and Artificial Neural Networks method.
+AU  - Huang, Wanwei
+AU  - Zhang, Jianwei
+AU  - Liang, Shujun
+AU  - Sun, Haiyan
+DA  - 2018/4//
+DO  - 10.1007/S11277-018-5292-6
+IS  - 4
+KW  - Backbone network traffic
+KW  - Modified ensemble empirical mode decomposition
+KW  - PRP conjugate gradient
+KW  - Quantum neural network
+KW  - Traffic prediction
+PB  - Springer New York LLC
+PY  - 2018
+SP  - 1569
+EP  - 1588
+TI  - Backbone network traffic prediction based on modified EEMD and quantum neural network
+T2  - Springer
+UR  - https://idp.springer.com/authorize/casa?redirect_uri=https://link.springer.com/article/10.1007/s11277-018-5292-6&casa_token=UScV-uhEqB4AAAAA:CWw8idL3ziMSu360-mMbPERENEZECNVUwjVHsQcy_k-UIQJIEervtt8VUB7Lhem5tB-k7pYR2SzhKRxp
+VL  - 99
+ER  -
+TY  - JOUR
+AB  - Traffic congestion becomes critical in enhancing the intelligent transport system because it supports determination of the propagation of traffic congestion, which affects the time expected to be completed, and environmental conservation. However, current solutions may lack necessary accuracy, they might take very long time to solve or they do not incorporate complex traffic patterns properly. In this paper, we introduce a new model called the Transformer-based Temporal Convolutional Gated Network (TransTCGNet), deep learning techniques along with a biologically inspired algorithm from physics known as Quantum Avian Navigation Optimization (QANO). This model uses temporal convolutional layers to extract features from time-series data assimilation; transformer mechanisms are used for long forward dependency on the data. One major enhancement in the current work is the use of QANO for tuning the model hyperparameters that help the model generalize well and reduce the computation time. Moreover, the employment of the positional encodings in the transformer structure strengthens the model in analyzing temporal dependencies inherent in the traffic datasets – the key factor for identifying congestion. As shown from our experimental results, this TransTCGNet is more efficient than the traditional models as it has training accuracy of 99% and as it is tested, it does NOT degrade in performance. Cross-sectional evaluations prove lower miss rates and shorter computational time comparing to previous model that further supports practical implementation of the model for traffic light control in real-life traffic systems. In addition to catering for the challenges posed in traffic congestion prediction, this research also presents propensity for progress in more intelligent modes of transport in urban centers leading to efficient decision making in smart transportation.
+AU  - Pandey, Satendra Chandra
+AU  - P, Vasanthi Kumari
+DA  - 2025/8//
+DO  - 10.1007/S13177-025-00494-9
+IS  - 2
+KW  - Artificial Intelligence (AI)
+KW  - Classification
+KW  - Deep learning
+KW  - Smart transportation systems
+KW  - Traffic congestion prediction
+KW  - Urban environment
+PB  - Springer
+PY  - 2025
+SP  - 951
+EP  - 971
+TI  - Quantum-Enhanced Transformer Network Model for Traffic Congestion Prediction in Smart Transportation Systems
+T2  - Springer
+UR  - https://idp.springer.com/authorize/casa?redirect_uri=https://link.springer.com/article/10.1007/s13177-025-00494-9&casa_token=BEYppzqfce8AAAAA:KbRQ5v3u2rPfpdLFFsoLlu4vqULFVF_rvs8rXgxezZeyLAoxg6WhYyTO_5EMdTxn7QQ1DrQGW7RCMCmQ
+VL  - 23
+ER  -

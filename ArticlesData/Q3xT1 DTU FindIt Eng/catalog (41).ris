@@ -1,0 +1,386 @@
+TY  - CPAPER
+TI  - 10th EAI International Conference on Industrial Networks and Intelligent Systems, INISCOM 2024
+LA  - eng
+JF  - Lecture Notes of the Institute for Computer Sciences, Social-informatics and Telecommunications Engineering, Lnicst
+VL  - 595
+PY  - 2024
+SN  - 1867822x, 18678211
+SN  - 3031673565, 9783031673566
+PB  - Springer Science and Business Media Deutschland GmbH
+AB  - The proceedings contain 18 papers. The special focus in this conference is on Industrial Networks and Intelligent Systems. The topics include: Joint Online Adaptive Optimal Tracking Control and Frequency-Response Method for Speed of PMSM and DC-Link Voltage Peak Controller Design in Bi-directional Quasi Z-Source Inverter; Variational Quantum Eigensolver for Optimizing Network Scheduling Using QUBO Formulation; optimal Task Scheduling in 6G Networks: A Variational Quantum Computing Approach; multi-agent Quantum Reinforcement Learning for Digital Twin Placement in 6G Multi-tier Systems; Multi-user Ambient Backscatter Communication-Based and STAR-RIS-Aided Mobile Edge Computing Network with Uplink NOMA Scheme: A Joint Design; Hybrid Federated and Multi-agent DRL-Based Resource Allocation in Digital Twin-IoV Networks; performance Comparison in Traffic Sign Recognition Using Deep Learning; energy and Distance Aware Clustering-Based Routing for Low-Power IoT-Enabled Wireless Sensor Networks; Enhancing Energy Harvesting Efficiency for IRS-Aided TS-SWIPT Network with Practical Phase Shifts; contactless Palmprint Recognition Using Discriminant Multi-directional Feature Codes; a Survey on Wireless Data Aggregation Through Over-the-Air Computation; CLIP-Prefix for Image Captioning and an Experiment on Blind Image Guessing; Features Inspired PM2.5 Prediction: A Belfast City Case Study; Understanding the Security Implications in O-RAN with Abusive Adversaries; Joint Secrecy and Latency Performance Analysis for UAV-Assisted Uplink NOMA-Based IoT Network with Mobile Edge Computing; crossCert: A Privacy-Preserving Cross-Chain System for Educational Credential Verification Using Zero-Knowledge Proof.
+ER  -
+
+TY  - CPAPER
+AU  - Wang, Duokang
+AU  - Hu, Linmei
+AU  - Hao, Rui
+AU  - Shao, Yingxia
+AU  - Lv, Xin
+AU  - Nie, Liqiang
+AU  - Li, Juanzi
+TI  - Let Me Show You Step by Step: An Interpretable Graph Routing Network for Knowledge-based Visual Question Answering
+LA  - eng
+JF  - Sigir 2024 - Proceedings of the 47th International Acm Sigir Conference on Research and Development in Information Retrieval
+SP  - 1984
+EP  - 1994
+PY  - 2024
+SN  - 9798400704314
+PB  - Association for Computing Machinery, Inc
+DO  - 10.1145/3626772.3657790
+AB  - Visual Question Answering based on external Knowledge Bases (KB-VQA) requires a model to incorporate knowledge beyond the content of given image and question for answer prediction. Most existing works made efforts on using graph neural networks or Multi-modal Large Language Models to incorporate external knowledge for answer generation. Despite the promising results, they have limited interpretability and exhibit a deficiency in handling questions with unseen answers. In this paper, we propose a novel interpretable graph routing network (GRN) which explicitly conducts entity routing over a constructed scene knowledge graph step by step for KB-VQA. At each step, GRN keeps an entity score vector representing how likely of each entity to be activated as the answer, and a transition matrix representing the transition probability from one entity to another. To answer the given question, GRN will focus on certain keywords of the question at each step and correspondingly conduct entity routing by transiting the entity scores according to the transition matrix computed referring to the focused question keywords. In this way, it clearly provides the reasoning process of KB-VQA and can handle the questions with unseen answers without distinction. Experiments on the benchmark dataset KRVQA have demonstrated that GRN improves the performance of KB-VQA by a large margin, surpassing existing state-of-the art KB-VQA methods and Multi-modal Large Language Models, as well as shows competent capability in handling unseen answers and good interpretability in KB-VQA.
+ER  -
+
+TY  - JOUR
+AU  - Jiang, Luoqian
+AU  - He, Yifan
+AU  - Chen, Jian
+TI  - Text-Aware Dual Routing Network for Visual Question Answering
+LA  - und
+PY  - 2022
+AB  - Visual question answering (VQA) is a challenging task to provide an accurate
+natural language answer given an image and a natural language question about
+the image. It involves multi-modal learning, i.e., computer vision (CV) and
+natural language processing (NLP), as well as flexible answer prediction for
+free-form and open-ended answers. Existing approaches often fail in cases that
+require reading and understanding text in images to answer questions. In
+practice, they cannot effectively handle the answer sequence derived from text
+tokens because the visual features are not text-oriented. To address the above
+issues, we propose a Text-Aware Dual Routing Network (TDR) which simultaneously
+handles the VQA cases with and without understanding text information in the
+input images. Specifically, we build a two-branch answer prediction network
+that contains a specific branch for each case and further develop a dual
+routing scheme to dynamically determine which branch should be chosen. In the
+branch that involves text understanding, we incorporate the Optical Character
+Recognition (OCR) features into the model to help understand the text in the
+images. Extensive experiments on the VQA v2.0 dataset demonstrate that our
+proposed TDR outperforms existing methods, especially on the ''number'' related
+VQA questions.
+ER  -
+
+TY  - JOUR
+AU  - Jiang, Luoqian
+AU  - He, Yifan
+AU  - Chen, Jian
+TI  - Text-aware dual routing network for visual question answering [arXiv]
+LA  - eng
+JF  - Arxiv
+PY  - 2022
+AB  - Visual question answering (VQA) is a challenging task to provide an accurate natural language answer given an image and a natural language question about the image. It involves multi-modal learning, i.e., computer vision (CV) and natural language processing (NLP), as well as flexible answer prediction for free-form and open-ended answers. Existing approaches often fail in cases that require reading and understanding text in images to answer questions. In practice, they cannot effectively handle the answer sequence derived from text tokens because the visual features are not text-oriented. To address the above issues, we propose a Text-Aware Dual Routing Network (TDR) which simultaneously handles the VQA cases with and without understanding text information in the input images. Specifically, we build a two-branch answer prediction network that contains a specific branch for each case and further develop a dual routing scheme to dynamically determine which branch should be chosen. In the branch that involves text understanding, we incorporate the Optical Character Recognition (OCR) features into the model to help understand the text in the images. Extensive experiments on the VQA v2.0 dataset demonstrate that our proposed TDR outperforms existing methods, especially on the ''number'' related VQA questions.
+ER  -
+
+TY  - CPAPER
+TI  - 4th International Conference on Artificial Intelligence and Knowledge Processing, AIKP 2024
+LA  - eng
+JF  - Communications in Computer and Information Science
+VL  - 2228
+PY  - 2025
+SN  - 18650937, 18650929
+SN  - 3031734769, 3031734777, 9783031734762, 9783031734779
+PB  - Springer Science and Business Media Deutschland GmbH
+AB  - The proceedings contain 18 papers. The special focus in this conference is on Artificial Intelligence and Knowledge Processing. The topics include: Deciphering Excellence in Hospitality: A Study on India's Premier Hotels Using Natural Language Processing; Decoding Student Feedback in Engineering Education: A Latent Dirichlet Allocation and PyLDAvis Approach; real Time Traffic Management by Optimizing Level of Service; FGA-Net: Feature-Gated Attention for Glioma Brain Tumor Segmentation in Volumetric MRI Images; empowering Breast Cancer Detection: A Novel Hybrid Transfer Learning Approach with Aquila Optimizer; predictive Analytics in Weather Forecasting Using Machine Learning and Deep Learning; Brain Tumor Classification from MRI Scans Using a Novel CNN Architecture and Optimization Techniques; dual Model Dynamics: Enhancing Depression Prediction Through the Integrated Use of Convolutional Neural Networks and Support Vector Machines in Data-Driven Methods; quantum Simulation of 1D and 2D Lattice-Based Magnetic Quantum Systems Using Heisenberg Model via Variational Quantum Eigensolver; topological Quantum Computing for Engineers; traffic Forecasting with Spatio-Temporal Graph Neural Networks; A Deep Learning-Based Novel RNN-BiLSTM Architecture for Efficient Threat Detection in IoT Ecosystem; cyber-Attack Detection in Healthcare Systems Based on Modified -Recurrent Neural Network Approach; A Comparative Analysis of Aggregation Methods in Federated Learning on MNIST; hybrid Feature Approach for Enhancing Zero-Shot Image Classification; abusive Comment Detection from Bengali-English Code-Mixed Social Media Texts Using Ensemble of Deep Learning.
+ER  -
+
+TY  - CPAPER
+AU  - Zhou, Yiyi
+AU  - Ren, Tianhe
+AU  - Zhu, Chaoyang
+AU  - Sun, Xiaoshuai
+AU  - Liu, Jianzhuang
+AU  - Ding, Xinghao
+AU  - Xu, Mingliang
+AU  - Ji, Rongrong
+TI  - TRAR: Routing the Attention Spans in Transformer for Visual Question Answering
+LA  - eng
+JF  - Proceedings of the Ieee International Conference on Computer Vision
+SP  - 2054
+EP  - 2064
+PY  - 2021
+SN  - 23807504, 15505499
+SN  - 1665428120, 9781665428125
+PB  - Institute of Electrical and Electronics Engineers Inc.
+DO  - 10.1109/ICCV48922.2021.00208
+AB  - Due to the superior ability of global dependency modeling, Transformer and its variants have become the primary choice of many vision-and-language tasks. However, in tasks like Visual Question Answering (VQA) and Referring Expression Comprehension (REC), the multimodal prediction often requires visual information from macro- to micro-views. Therefore, how to dynamically schedule the global and local dependency modeling in Transformer has become an emerging issue. In this paper, we propose an example-dependent routing scheme called TRAnsformer Routing (TRAR) to address this issue. Specifically, in TRAR, each visual Transformer layer is equipped with a routing module with different attention spans. The model can dynamically select the corresponding attentions based on the output of the previous inference step, so as to formulate the optimal routing path for each example. Notably, with careful designs, TRAR can reduce the additional computation and memory overhead to almost negligible. To validate TRAR, we conduct extensive experiments on five benchmark datasets of VQA and REC, and achieve superior performance gains than the standard Transformers and a bunch of state-of-the-art methods.
+ER  -
+
+TY  - JOUR
+AU  - Melo, Filipe V.
+AU  - Sá, Nahum
+AU  - Roditi, Itzhak
+AU  - Souza, Alexandre M.
+AU  - Oliveira, Ivan S.
+AU  - Sarthour, Roberto S.
+AU  - Landi, Gabriel T.
+TI  - Implementation of a two-stroke quantum heat engine with a collisional model
+LA  - eng
+JF  - Physical Review a
+VL  - 106
+IS  - 3
+PY  - 2022
+SN  - 24699926, 24699934
+PB  - American Physical Society
+DO  - 10.1103/PhysRevA.106.032410
+AB  - We put forth a quantum simulation of a stroboscopic two-stroke thermal engine in the IBM quantum (IBMQ) processor. The system consists of a quantum spin chain connected to two baths at their boundaries, prepared at different temperatures using the variational quantum thermalizer algorithm. The dynamics alternates between heat and work strokes, which can be separately designed using independent quantum circuits. The results show good agreement with theoretical predictions, showcasing IBMQ as a powerful tool to study thermodynamics in the quantum regime, as well as the implementation of variational quantum algorithms in real-world quantum computers. It also opens the possibility of simulating quantum heat transport across a broad range of chain geometries and interactions.
+ER  -
+
+TY  - JOUR
+AU  - Melo, Filipe V.
+AU  - Sá, Nahum
+AU  - Roditi, Ithzak
+AU  - Landi, Gabriel T.
+AU  - Souza, Alexandre M.
+AU  - Oliveira, Ivan S.
+AU  - Sarthour, Roberto S.
+TI  - Implementation of a two-stroke quantum heat engine with a collisional
+  model
+LA  - und
+PY  - 2022
+AB  - We put forth a quantum simulation of a stroboscopic two-stroke thermal engine
+in the IBMQ processor. The system consists of a quantum spin chain connected to
+two baths at their boundaries, prepared at different temperatures using the
+variational quantum thermalizer algorithm. The dynamics alternates between heat
+and work strokes, which can be separately designed using independent quantum
+circuits. The results show good agreement with theoretical predictions,
+showcasing IBMQ as a powerful tool to study thermodynamics in the quantum
+regime, as well as the implementation of variational quantum algorithms in
+real-world quantum computers. It also opens the possibility of simulating
+quantum heat transport across a broad range of chain geometries and
+interactions.
+ER  -
+
+TY  - JOUR
+AU  - Han, Yudong
+AU  - Yin, Jianhua
+AU  - Wu, Jianlong
+AU  - Wei, Yinwei
+AU  - Nie, Liqiang
+TI  - Semantic-aware Modular Capsule Routing for Visual Question Answering
+LA  - und
+PY  - 2022
+AB  - Visual Question Answering (VQA) is fundamentally compositional in nature, and
+many questions are simply answered by decomposing them into modular
+sub-problems. The recent proposed Neural Module Network (NMN) employ this
+strategy to question answering, whereas heavily rest with off-the-shelf layout
+parser or additional expert policy regarding the network architecture design
+instead of learning from the data. These strategies result in the
+unsatisfactory adaptability to the semantically-complicated variance of the
+inputs, thereby hindering the representational capacity and generalizability of
+the model. To tackle this problem, we propose a Semantic-aware modUlar caPsulE
+Routing framework, termed as SUPER, to better capture the instance-specific
+vision-semantic characteristics and refine the discriminative representations
+for prediction. Particularly, five powerful specialized modules as well as
+dynamic routers are tailored in each layer of the SUPER network, and the
+compact routing spaces are constructed such that a variety of customizable
+routes can be sufficiently exploited and the vision-semantic representations
+can be explicitly calibrated. We comparatively justify the effectiveness and
+generalization ability of our proposed SUPER scheme over five benchmark
+datasets, as well as the parametric-efficient advantage. It is worth
+emphasizing that this work is not to pursue the state-of-the-art results in
+VQA. Instead, we expect that our model is responsible to provide a novel
+perspective towards architecture learning and representation calibration for
+VQA.
+ER  -
+
+TY  - JOUR
+AU  - Han, Yudong
+AU  - Yin, Jianhua
+AU  - Wu, Jianlong
+AU  - Wei, Yinwei
+AU  - Nie, Liqiang
+TI  - Semantic-Aware Modular Capsule Routing for Visual Question Answering
+LA  - eng
+JF  - Ieee Transactions on Image Processing
+VL  - 32
+SP  - 5537
+EP  - 5549
+PY  - 2023
+SN  - 19410042, 10577149
+PB  - Institute of Electrical and Electronics Engineers Inc.
+DO  - 10.1109/TIP.2023.3318949
+AB  - Visual Question Answering (VQA) is fundamentally compositional in nature, and many questions are simply answered by decomposing them into modular sub-problems. The recent proposed Neural Module Network (NMN) employ this strategy to question answering, whereas heavily rest with off-the-shelf layout parser or additional expert policy regarding the network architecture design instead of learning from the data. These strategies result in the unsatisfactory adaptability to the semantically-complicated variance of the inputs, thereby hindering the representational capacity and generalizability of the model. To tackle this problem, we propose a Semantic-aware modUlar caPsulE Routing framework, termed as SUPER, to better capture the instance-specific vision-semantic characteristics and refine the discriminative representations for prediction. Particularly, five powerful specialized modules as well as dynamic routers are tailored in each layer of the SUPER network, and the compact routing spaces are constructed such that a variety of customizable routes can be sufficiently exploited and the vision-semantic representations can be explicitly calibrated. We comparatively justify the effectiveness and generalization ability of our proposed SUPER scheme over five benchmark datasets, as well as the parametric-efficient advantage. It is worth emphasizing that this work is not to pursue the state-of-the-art results in VQA. Instead, we expect that our model is responsible to provide a novel perspective towards architecture learning and representation calibration for VQA.
+ER  -
+
+TY  - CHAP
+AU  - Fowdur, Tulsi Pawan
+AU  - Babooram, Lavesh
+TI  - Introduction
+LA  - eng
+JF  - Machine Learning for Network Traffic and Video Quality Analysis
+SP  - 1
+EP  - 49
+PY  - 2024
+SN  - 9798868803536, 9798868803543
+PB  - Apress
+DO  - 10.1007/979-8-8688-0354-3_1
+AB  - This chapter introduces the concepts of network traffic monitoring and analysis (NTMA) and video quality assessment (VQA). It discusses the significance of NTMA and VQA in modern telecommunications by emphasizing the need to achieve optimal network performance and to boost user experience, which encompasses both the flow of network parameters and the video streaming quality. The sections in this chapter set the tone for the implementation phase by first exploring the need for NTMA and VQA with regard to preserving the quality of service (QoS) in different network environments. With the aim of executing these processes on any device irrespective of the operating system, a combination of machine learning (ML), JavaScript, and Java, with Node.js and Apache HTTP Server as the backend frameworks, is used. Network traffic parameters are read from the local device before streamlining client–server interactions to produce meaningful prediction and classification results. Likewise, a combination of distortion artifacts is applied to a playing video to produce a video quality score. The following sections provide an overview of the book’s structure and offer a glimpse into what will be covered in the next chapters.
+ER  -
+
+TY  - CHAP
+AU  - Fowdur, Tulsi Pawan
+AU  - Babooram, Lavesh
+TI  - Machine Learning Techniques for NTMA and VQA
+LA  - eng
+JF  - Machine Learning for Network Traffic and Video Quality Analysis
+SP  - 141
+EP  - 174
+PY  - 2024
+SN  - 9798868803536, 9798868803543
+PB  - Apress
+DO  - 10.1007/979-8-8688-0354-3_4
+AB  - This chapter delves into the machine learning (ML) techniques that surround and enable network traffic monitoring and analysis (NTMA) and video quality assessment (VQA). Through passive listening of network parameters’ being reported by the network interface, the Node.js server formulates a series of arrays that keep track of network traffic collected over time. The same applies to ML-derived mean opinion score (MOS) values through video streaming. Techniques such as multilayer perceptron (MLP) are used for regression—i.e., the prediction of both network traffic and video QoS scores—while the classification used is the K-nearest neighbors (KNN) model. This chapter contains a thorough mathematical breakdown of all the algorithms coded in this book for both classification and prediction of network traffic metrics, together with the production of an MOS score for video quality.
+ER  -
+
+TY  - CHAP
+AU  - Chawhan, Paridhi
+AU  - Singh, Ishita
+TI  - A Hybrid Quantum Machine Learning for the Prediction of Protein Folding
+LA  - eng
+JF  - Proceedings of International Conference on Computing and Communication Systems for Industrial Applications
+SP  - 21
+EP  - 32
+PY  - 2025
+SN  - 9819758610, 9819758629, 9789819758616, 9789819758623
+PB  - Springer Nature Singapore
+DO  - 10.1007/978-981-97-5862-3_2
+AB  - Protein fold prediction is important in molecular biology for understanding protein function and designing therapeutics. Traditional methods have led to new approaches by attempting to unravel the complexity of the folded landscape. Our hybrid quantum classical approach combines a different quantum eigensolver (VQE) with deep learning to encode interactions in quantum circuits for efficient use. Deep neutral networks have been observed to obtain information related to energy surfaces as they improve the forecasting accuracy, whereas many proteins offer better predictions with both energy-driven as well as traditional quantum mechanics methods. Folding can be visualized using our model. In the time to come, quantum circuits should be optimized, deep learning models integrated, and biological data integrated with an aim of enhancing predictions. This project shows the possibility for molecular research translation as well as drug development. In conclusion, our combination of quantum computing classical computation approach enhances protein folding precision which is poised to transform molecular biology studies as well as other areas such as drug development among others. More work is still needed to explore this route further before all its secrets can be unveiled concerning protein folding and function.
+ER  -
+
+TY  - CPAPER
+TI  - STRL 2022 - Proceedings of the 1st International Workshop on Spatio-Temporal Reasoning and Learning, co-located with the 31st International Joint Conference on Artificial Intelligence and the 25th European Conference on Artificial Intelligence, IJCAI and ECAI 2022
+LA  - eng
+JF  - Ceur Workshop Proceedings
+VL  - 3190
+PY  - 2022
+SN  - 16130073
+PB  - CEUR-WS
+AB  - The proceedings contain 8 papers. The topics discussed include: learning and reasoning with conceptual space representations; neat and scruffy: on computational generation and interpretation of spatial descriptions; spatial-temporal transformer network with self-supervised learning for traffic flow prediction; scene separation & data selection: temporal segmentation algorithm for real-time video stream analysis; uncertainty-aware evaluation of time-series classification for online handwriting recognition with domain shift; knowing earlier what right means to you: a comprehensive VQA dataset for grounding relative directions via multi-task learning; learning binary classification rules for sequential data; and equivariant graph neural network for crystalline materials.
+ER  -
+
+TY  - CPAPER
+TI  - Proceedings - 2020 IEEE International Conference on Humanized Computing and Communication with Artificial Intelligence, HCCAI 2020
+LA  - eng
+JF  - Proceedings - 2020 Ieee International Conference on Humanized Computing and Communication With Artificial Intelligence, Hccai 2020
+PY  - 2020
+SN  - 1728199409, 1728199417, 9781728199405, 9781728199412
+PB  - Institute of Electrical and Electronics Engineers Inc.
+AB  - The proceedings contain 12 papers. The topics discussed include: intelligent assistance for end-users in creating point and click games storylines; a new method for discovering daily depression from tweets to monitor peoples depression status; the impact of explanations on AI competency prediction in VQA; utility of deep learning features for facial attributes manipulation detection; toward a framework for machine self-presentation: a survey of self-presentation strategies in human-machine interaction studies; extending the learning shout-ahead architecture with user-defined exception rules - a case study for traffic light controls; and clustering depressed and anti-depressed keywords based on a twitter event of Sri Lanka bomb blasts using text mining methods.
+ER  -
+
+TY  - CPAPER
+AU  - Zhao, Minyi
+AU  - Li, Bingjia
+AU  - Wang, Jie
+AU  - Li, Wanqing
+AU  - Zhou, Wenjing
+AU  - Zhang, Lan
+AU  - Xuyang, Shijie
+AU  - Yu, Zhihang
+AU  - Yu, Xinkun
+AU  - Li, Guangze
+AU  - Dai, Aobotao
+AU  - Zhou, Shuigeng
+TI  - Towards Video Text Visual Question Answering: Benchmark and Baseline
+LA  - eng
+A2  - Koyejo, S, Mohamed, S, Agarwal, A, Belgrave, D, Cho, K, Oh, A
+JF  - Advances in Neural Information Processing Systems
+VL  - 35
+PY  - 2022
+SN  - 10495258
+SN  - 1713871084, 9781713871088
+PB  - Neural information processing systems foundation
+AB  - There are already some text-based visual question answering (TextVQA) benchmarks for developing machine's ability to answer questions based on texts in images in recent years. However, models developed on these benchmarks cannot work effectively in many real-life scenarios (e.g. traffic monitoring, shopping ads and e-learning videos) where temporal reasoning ability is required. To this end, we propose a new task named Video Text Visual Question Answering (ViteVQA in short) that aims at answering questions by spatiotemporally reasoning texts and visual information in a given video. In particular, on the one hand, we build the first ViteVQA benchmark dataset named M4-ViteVQA - the abbreviation of Multicategory Multi-frame Multi-resolution Multi-modal benchmark for ViteVQA, which contains 7,620 video clips of 9 categories (i.e., shopping, traveling, driving, vlog, sport, advertisement, movie, game and talking) and 3 kinds of resolutions (i.e., 720p, 1080p and 1176×664), and 25,123 question-answer pairs. On the other hand, we develop a baseline method named T5-ViteVQA for the ViteVQA task. T5-ViteVQA consists of five transformers. It first extracts optical character recognition (OCR) tokens, question features, and video representations via two OCR transformers, one language transformer and one video-language transformer, respectively. Then, a multimodal fusion transformer and an answer generation module are applied to fuse multimodal information and generate the final prediction. Extensive experiments on M4-ViteVQA demonstrate the superiority of T5-ViteVQA over the existing approaches of TextVQA and VQA tasks. The ViteVQA benchmark is available in https://github.com/bytedance/VTVQA.
+ER  -
+
+TY  - JOUR
+AU  - Yu, Zhou
+AU  - Yu, Jun
+AU  - Zhu, Junjie
+AU  - Kuang, Zhenzhong
+TI  - Knowledge-representation-enhanced multimodal Transformer for scene text visual question answering
+LA  - chi
+JF  - Journal of Image and Graphics
+VL  - 27
+IS  - 9
+SP  - 2761
+EP  - 2774
+PY  - 2022
+SN  - 10068961
+PB  - Editorial and Publishing Board of JIG
+DO  - 10.11834/jig.211213
+ER  -
+
+TY  - JOUR
+AU  - Telili, Ahmed
+AU  - Fezza, Sid Ahmed
+AU  - Hamidouche, Wassim
+AU  - Brachemi Meftah, Hanene F.Z.
+TI  - 2BiVQA: Double Bi-LSTM-based Video Quality Assessment of UGC Videos
+LA  - eng
+JF  - Acm Transactions on Multimedia Computing, Communications and Applications
+VL  - 20
+IS  - 4
+PY  - 2023
+SN  - 15516865, 15516857
+PB  - Association for Computing Machinery
+DO  - 10.1145/3632178
+AB  - Recently, with the growing popularity of mobile devices as well as video sharing platforms (e.g., YouTube, Facebook, TikTok, and Twitch), User-Generated Content (UGC) videos have become increasingly common and now account for a large portion of multimedia traffic on the internet. Unlike professionally generated videos produced by filmmakers and videographers, typically, UGC videos contain multiple authentic distortions, generally introduced during capture and processing by naive users. Quality prediction of UGC videos is of paramount importance to optimize and monitor their processing in hosting platforms, such as their coding, transcoding, and streaming. However, blind quality prediction of UGC is quite challenging, because the degradations of UGC videos are unknown and very diverse, in addition to the unavailability of pristine reference. Therefore, in this article, we propose an accurate and efficient Blind Video Quality Assessment (BVQA) model for UGC videos, which we name 2BiVQA for double Bi-LSTM Video Quality Assessment. 2BiVQA metric consists of three main blocks, including a pre-trained Convolutional Neural Network to extract discriminative features from image patches, which are then fed into two Recurrent Neural Networks for spatial and temporal pooling. Specifically, we use two Bi-directional Long Short-term Memory networks, the first is used to capture short-range dependencies between image patches, while the second allows capturing long-range dependencies between frames to account for the temporal memory effect. Experimental results on recent large-scale UGC VQA datasets show that 2BiVQA achieves high performance at lower computational cost than most state-of-the-art VQA models. The source code of our 2BiVQA metric is made publicly available at https://github.com/atelili/2BiVQA.
+ER  -
+
+TY  - JOUR
+AU  - Telili, Ahmed
+AU  - Fezza, Sid Ahmed
+AU  - Hamidouche, Wassim
+AU  - Meftah, Hanene F. Z. Brachemi
+TI  - 2BiVQA: Double Bi-LSTM based Video Quality Assessment of UGC Videos
+LA  - und
+PY  - 2023
+AB  - Recently, with the growing popularity of mobile devices as well as video
+sharing platforms (e.g., YouTube, Facebook, TikTok, and Twitch), User-Generated
+Content (UGC) videos have become increasingly common and now account for a
+large portion of multimedia traffic on the internet. Unlike professionally
+generated videos produced by filmmakers and videographers, typically, UGC
+videos contain multiple authentic distortions, generally introduced during
+capture and processing by naive users. Quality prediction of UGC videos is of
+paramount importance to optimize and monitor their processing in hosting
+platforms, such as their coding, transcoding, and streaming. However, blind
+quality prediction of UGC is quite challenging because the degradations of UGC
+videos are unknown and very diverse, in addition to the unavailability of
+pristine reference. Therefore, in this paper, we propose an accurate and
+efficient Blind Video Quality Assessment (BVQA) model for UGC videos, which we
+name 2BiVQA for double Bi-LSTM Video Quality Assessment. 2BiVQA metric consists
+of three main blocks, including a pre-trained Convolutional Neural Network
+(CNN) to extract discriminative features from image patches, which are then fed
+into two Recurrent Neural Networks (RNNs) for spatial and temporal pooling.
+Specifically, we use two Bi-directional Long Short Term Memory (Bi-LSTM)
+networks, the first is used to capture short-range dependencies between image
+patches, while the second allows capturing longrange dependencies between
+frames to account for the temporal memory effect. Experimental results on
+recent large-scale UGC VQA datasets show that 2BiVQA achieves high performance
+at lower computational cost than most state-of-the-art VQA models. The source
+code of our 2BiVQA metric is made publicly available at:
+https://github.com/atelili/2BiVQA
+ER  -
+
+TY  - BOOK
+AU  - Sergeyev, Yaroslav D.
+TI  - Numerical Computations: Theory and Algorithms : 4th International Conference, NUMTA 2023, Pizzo Calabro, Italy, June 14–20, 2023 Revised Selected Papers, Part III
+LA  - eng
+A2  - Sergeyev, Yaroslav D., Kvasov, Dmitri E., Astorino, Annabella
+JF  - Numerical Computations: Theory and Algorithms: 4th International Conference, Numta 2023, Pizzo Calabro, Italy, June 14–20, 2023 Revised Selected Papers, Part Iii
+PY  - 2025
+SN  - 3031812468, 3031812476, 9783031812460, 9783031812477
+PB  - Springer Nature Switzerland
+AB  - Circuit-Based Numerical Solutions of Transmission Lines: Application to Korteweg-de Vries Equations -- Deep Learning Methods for fMRI Classification -- Deep Learning for Scoliosis Diagnosis: Methods and Databases -- Understanding Spreading Dynamics of COVID-19 by Mining Human Mobility Patterns -- Variational Quantum Algorithms for Gibbs State Preparation -- Towards a Parallel Code for Cellular Behavior in Vitro Prediction -- Combinators as Observable Presheaves: A Characterization in the Grossone Framework -- Applying Variational Quantum Classifier on Acceptability Judgements: A QNLP experiment -- Unimaginable Numbers: A Case Study as a Starting Point for an Educational Experimentation -- Some Notes on a Continuous Class of Octagons -- Game Theory Presented to Italian High School Students in Connection with Infinity Computing -- Meta Discussion Pedagogical Model to Foster Mathematics Teacher's Professional Development -- A Variational Quantum Soft Actor-Critic Algorithm for Continuous Control Tasks -- Named Entity Recognition to Extract Knowledge from Clinical Texts -- Applied Mathematical Modelling in the Physics Problem-Solving Classroom -- AIR SAFE: Leveraging IoT Sensors and AI Models to Foster Optimal Indoor Conditions -- Unimaginable Numbers and Infinity Computing at School: An Experimentation in Northern Italy -- The Cantor-Vitali Function and Infinity Computing -- New Probabilistic Methods for Generating Risk Maps -- How to Deal with Different Densities of Urban Spatial Data? A Comparison of Clustering Approaches to Detect City Hotspots -- The Impact of Vectorization on The Efficiency of a Parallel PIC Code for Numerical Simulation of Plasma Dynamics in Open Trap -- Algorithms for Design with CNC Machines: The Case Study of Wood Furniture -- PyGrossone: A Python Library for the Infinity Computer -- Towards Reproducible Research in Machine Learning via Blockchain -- Dossier Classification to Support Workflow Management Optimization -- Self-Sovereign Identification of IoT Devices by Using Physically Unclonable Functions and Blockchain -- Introducing Nondum, a Mathematical Notation for Computation with Approximations -- Visualization of Multilayer Networks -- Legal Systems and Fractals, Towards Infinity Computing -- Exploit Innovative Computer Architecture with Molecular Dynamics -- A Sentiment Analysis on Reviews of Italian Healthcare.-A Numerical Approach to Basic Calculus -- Modelling Hyperentanglement for Quantum Information Processes -- An Innovative Sentiment Analysis Model for COVID-19 Tweets -- Exploring Hierarchical MPI Reduction Collective Algorithms Targeted to Multicore Node Clusters.
+ER  -
+
+TY  - JOUR
+TI  - Poster Presentations
+LA  - und
+JF  - Luminescence
+VL  - 29
+IS  - S1
+SP  - 55
+EP  - 106
+PY  - 2014
+SN  - 15227243, 15227235
+DO  - 10.1002/bio.2699_3
+ER  -

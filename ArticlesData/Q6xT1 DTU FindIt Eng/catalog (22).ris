@@ -1,0 +1,1341 @@
+TY  - JOUR
+AU  - Munir, Farzeen
+AU  - Azam, Shoaib
+AU  - Mihaylova, Tsvetomila
+AU  - Kyrki, Ville
+AU  - Kucner, Tomasz Piotr
+TI  - Pedestrian Vision Language Model for Intentions Prediction
+LA  - eng
+JF  - Ieee Open Journal of Intelligent Transportation Systems
+PY  - 2025
+SN  - 26877813
+PB  - Institute of Electrical and Electronics Engineers Inc.
+DO  - 10.1109/OJITS.2025.3554387
+AB  - Effective modeling of human behavior is crucial for the safe and reliable coexistence of humans and autonomous vehicles. Traditional deep learning methods have limitations in capturing the complexities of pedestrian behavior, often relying on simplistic representations or indirect inference from visual cues, which hinders their explainability. To address this gap, we introduce PedVLM, a vision-language model that leverages multiple modalities (RGB images, optical flow, and text) to predict pedestrian intentions and also provide explainability for pedestrian behavior. PedVLM comprises a CLIP-based vision encoder and a text-to-text transfer transformer (T5) language model, which together extract and combine visual and text embeddings to predict pedestrian actions and enhance explainability. Furthermore, to complement our PedVLM model and further facilitate research, we also publicly release the corresponding dataset, PedPrompt, which includes the prompts in the Question-Answer (QA) template for pedestrian intention prediction. PedVLM is evaluated on PedPrompt, JAAD, and PIE datasets demonstrates its efficacy compared to state-of-the-art methods. The dataset and code will be made available at https://github.com/munirfarzeen/PedVLM.
+ER  -
+
+TY  - JOUR
+AU  - Hidayat, Wahyu
+AU  - Surendro, Kridanto
+TI  - Quantum computing in addressing greenhouse gas emissions: A systematic literature review
+LA  - eng
+JF  - Egyptian Informatics Journal
+VL  - 29
+PY  - 2025
+SN  - 20904754, 11108665
+PB  - Elsevier B.V.
+DO  - 10.1016/j.eij.2025.100622
+AB  - The greenhouse gas (GHG) emissions issue that is directly related to the 13th Sustainable Development Goals; Climate Action has gained attention on a global scale, prompting the utilization of all available technological advancements, including quantum computing. This systematic literature review, employing Kitchenham's method, explores the realm of quantum computing and its application to the pressing issue of GHG emissions. Through a meticulous analysis of scholarly articles, we identify key trends, influential authors, core sources, and relevant affiliations within this research domain. Notably, our findings underscore a robust connection between quantum computing studies and the fields of machine learning and optimization, where various optimization tasks attempt to minimize GHG emissions, predominantly in the Energy and Logistics problem domain using Quantum-inspired Evolutionary Algorithm, Quantum-inspired Swarm Optimization, or Quantum Annealing. An insightful map reveals the emergence of diverse quantum computing implementations for varied tasks, across various domains, providing nuanced perspectives and identifying potential research directions, particularly in optimization and prediction tasks. This study offers a foundational understanding of trends, challenges, and opportunities associated with quantum computing implementation in addressing GHG emissions, contributing to the ongoing establishment of sustainable technology.
+ER  -
+
+TY  - JOUR
+AU  - Phillipson, Frank
+TI  - Quantum Computing in Logistics and Supply Chain Management an Overview
+LA  - und
+JF  - Arxiv (cornell University)
+PY  - 2025
+PB  - Cornell University
+DO  - 10.48550/arxiv.2402.17520
+AB  - The work explores the integration of quantum computing into logistics and
+supply chain management, emphasising its potential for use in complex
+optimisation problems. The discussion introduces quantum computing principles,
+focusing on quantum annealing and gate-based quantum computing, with the
+Quantum Approximate Optimisation Algorithm and Quantum Annealing as key
+algorithmic approaches. The paper provides an overview of quantum approaches to
+routing, logistic network design, fleet maintenance, cargo loading, prediction,
+and scheduling problems. Notably, most solutions in the literature are hybrid,
+combining quantum and classical computing. The conclusion highlights the early
+stage of quantum computing, emphasising its potential impact on logistics and
+supply chain optimisation. In the final overview, the literature is
+categorised, identifying quantum annealing dominance and a need for more
+research in prediction and machine learning is highlighted. The consensus is
+that quantum computing has great potential but faces current hardware
+limitations, necessitating further advancements for practical implementation.
+ER  -
+
+TY  - JOUR
+AU  - Wang, Chao
+AU  - Jiang, Xiaofeng
+AU  - Wang, Sumin
+TI  - Research on the quantum effect traffic prediction algorithm oriented towards intuitive reasoning
+LA  - chi
+JF  - Xi'an Dianzi Keji Daxue Xuebao/journal of Xidian University
+VL  - 52
+IS  - 1
+SP  - 152
+EP  - 162
+PY  - 2025
+SN  - 10012400
+PB  - 西安电子科技大学
+DO  - 10.19665/j.issn1001-2400.20240906
+AB  - The accurate real-time traffic prediction is the fundamental technological challenge in realizing an intelligent transportation system. Current prediction methods overlook the varying degree of spatial dependence between roads when considering the spatio-temporal characteristics of traffic information, leading to a lack of differentiated design in prediction models and inaccurate predictions for individual roads. To better analyze the differences in spatial features between roads, a quantum effect traffic prediction model is designed for intuitive reasoning. This paper introduces the concept of intuitive reasoning to encode, combine, and compare road network structures, identifying highly correlated road clusters based on spatial features. The quantum annealing algorithm optimizes clustering results towards approximating global optimal solutions. Prediction models are built using the Huawei Cloud's MindSpore framework based on different clusters, focusing on the spatio-temporal characteristics within each cluster. Experiments conducted on real datasets from Los Angeles freeways in 2012 and Tokyo's 1843 freeways in 2021 are compared with various baseline models such as the History Average model, Autoregressive Integrated Moving Average model, Graph Convolutional Network, Gate Recurrent Unit, and Temporal Graph Convolutional Network. The root mean squared error performance on the two real data sets is improved by 11. 3,2% 13. 86% compared with the Temporal Graph Convolutional Network, which provides a new and effective solution to the current traffic prediction problem.
+ER  -
+
+TY  - JOUR
+AU  - Looe, Hui Khee
+AU  - Reinert, Philipp
+AU  - Carta, Julius
+AU  - Poppe, Björn
+TI  - A unified deep-learning framework for enhanced patient-specific quality assurance of intensity-modulated radiation therapy plans
+LA  - eng
+JF  - Medical Physics
+VL  - 52
+IS  - 3
+SP  - 1878
+EP  - 1892
+PY  - 2025
+SN  - 24734209, 00942405, 15228541
+PB  - John Wiley and Sons Ltd
+DO  - 10.1002/mp.17601
+AB  - Background: Modern radiation therapy techniques, such as intensity-modulated radiation therapy (IMRT) and volumetric-modulated arc therapy (VMAT), use complex fluence modulation strategies to achieve optimal patient dose distribution. Ensuring their accuracy necessitates rigorous patient-specific quality assurance (PSQA), traditionally done through pretreatment measurements with detector arrays. While effective, these methods are labor-intensive and time-consuming. Independent calculation-based methods leveraging advanced dose algorithms provide a reduced workload but cannot account for machine performance during delivery. Purpose: This study introduces a novel unified deep-learning (DL) framework to enhance PSQA. The framework can combine the strengths of measurement- and calculation-based approaches. Methods: A comprehensive artificial training dataset, comprising 400,000 samples, was generated based on a rigorous mathematical model that describes the physical processes of radiation transport and interaction within both the medium and detector. This artificial data was used to pretrain the DL models, which were subsequently fine-tuned with a measured dataset of 400 IMRT segments to capture the machine-specific characteristics. Additional measurements of five IMRT plans were used as the unseen test dataset. Within the unified framework, a forward prediction model uses plan parameters to predict the measured dose distributions, while the backward prediction model reconstructs these parameters from actual measurements. The former enables a detailed control point (CP)-wise analysis. At the same time, the latter facilitates the reconstruction of treatment plans from the measurements and, subsequently, dose recalculation in the treatment planning system (TPS), as well as an independent second check software (VERIQA). This method has been tested with an OD 1600 SRS and an OD 1500 detector array with distinct spatial resolution and detector arrangement in combination with a dedicated upsampling model for the latter. Results: The final models could deliver highly accurate predictions of the measurements in the forward direction and the actual delivered plan parameters in the backward direction. In the forward direction, the test plans reached median gamma passing rates better than 94% for the OD 1600 SRS measurements. The upsampled OD 1500 measurements show similar performance with similar median gamma passing rates but a slightly higher variability. The 3D gamma passing rates from the comparisons between the original and reconstructed dose distributions in patients lie between 95.4% and 98.2% for the OD 1600 SRS and 94.7% and 98.5% for the interpolated OD 1500 measurements. The dose volume histograms (DVH) of the original and the reconstructed plans, recalculated in both the TPS and VERIQA, were evaluated for the organs at risk and targets based on clinical protocols and showed no clinically relevant deviations. Conclusions: The flexibility of the implemented model architecture allows its adaptability to other delivery techniques and measurement modalities. Its utilization also reduces the requirements of the measurement devices. The proposed unified framework could play a decisive role in automating QA workflow, especially in the context of real-time adaptive radiation therapy (ART).
+ER  -
+
+TY  - CPAPER
+TI  - 13th International Conference on Big Data Technologies and Applications, BDTA 2023
+LA  - eng
+JF  - Lecture Notes of the Institute for Computer Sciences, Social-informatics and Telecommunications Engineering, Lnicst
+VL  - 555
+PY  - 2024
+SN  - 1867822x, 18678211
+SN  - 3031522648, 3031522656, 9783031522642, 9783031522659
+PB  - Springer Science and Business Media Deutschland GmbH
+AB  - The proceedings contain 12 papers. The special focus in this conference is on Big Data Technologies and Applications. The topics include: An Auditable Framework for Evidence Sharing and Management Using Smart Lockers and Distributed Technologies: Law Enforcement Use Case; A Review of the Non-Fungible Tokens (NFT): Challenges and Opportunities; can Federated Models Be Rectified Through Learning Negative Gradients?; BigText-QA: Question Answering over a Large-Scale Hybrid Knowledge Graph; STLGCN: Spatial-Temporal Graph Convolutional Network for Long Term Traffic Forecasting; image Forgery Detection Using Cryptography and Deep Learning; revocable Attribute-Based Encryption Scheme with Cryptographic Reverse Firewalls; ioT Attacks Countermeasures: Systematic Review and Future Research Direction; a Bibliometric Analysis and Systematic Review of a Blockchain-Based Chain of Custody for Digital Evidence; forest Fire Prediction Using Multi-Source Deep Learning.
+ER  -
+
+TY  - JOUR
+AU  - Inoue, Daisuke
+AU  - Yamashita, Hiroshi
+AU  - Aihara, Kazuyuki
+AU  - Yoshida, Hiroaki
+TI  - AMPIC: Adaptive Model Predictive Ising Controller for large-scale urban traffic signals
+LA  - eng
+JF  - Arxiv (cornell University)
+PY  - 2024
+PB  - Cornell University
+DO  - 10.48550/arXiv.2406.03690
+AB  - Realizing smooth traffic flow is important for achieving carbon neutrality. Adaptive traffic signal control, which considers traffic conditions, has thus attracted attention. However, it is difficult to ensure optimal vehicle flow throughout a large city using existing control methods because of their heavy computational load. Here, we propose a control method called AMPIC (Adaptive Model Predictive Ising Controller) that guarantees both scalability and optimality. The proposed method employs model predictive control to solve an optimal control problem at each control interval with explicit consideration of a predictive model of vehicle flow. This optimal control problem is transformed into a combinatorial optimization problem with binary variables that is equivalent to the so-called Ising problem. This transformation allows us to use an Ising solver, which has been widely studied and is expected to have fast and efficient optimization performance. We performed numerical experiments using a microscopic traffic simulator for a realistic city road network. The results show that AMPIC enables faster vehicle cruising speed with less waiting time than that achieved by classical control methods, resulting in lower CO2 emissions. The model predictive approach with a long prediction horizon thus effectively improves control performance. Systematic parametric studies on model cities indicate that the proposed method realizes smoother traffic flows for large city road networks. Among Ising solvers, D-Wave's quantum annealing is shown to find near-optimal solutions at a reasonable computational cost.
+ER  -
+
+TY  - JOUR
+AU  - Xuan LUONG, Chieu
+AU  - Quang NGUYEN, Phuc
+AU  - Tien CHU, Dung
+TI  - Application of Non-destructive testing methods for asphalt pavement density measurement on the Mai Son–NH45 expressway segment, Vietnam
+LA  - und
+JF  - Journal of Materials and Engineering Structures
+PY  - 2024
+SN  - 2170127x
+PB  - Mouloud Mammeri University of Tizi-Ouzou
+AB  - In the last few years, the development of expressways in Vietnam has been rapid. Asphalt concrete (AC) is the most widely used material for expressway pavement due to its widespread availability and favorable characteristics. The quality of pavement not only influences traffic safety but also impacts the longevity of the expressway. Therefore, quality control (QC) as well as quality assurance (QA) of AC pavement are crucial during construction. In-situ density, which indicates the degree of compaction, must be quickly and accurately predicted for effective QC and QA. Non-destructive testing (NDT) methods offer rapid, accurate, and extensive density measurements. However, NDT has not been widely adopted in Vietnam, leading to doubts among users regarding their operational principles, accuracy of predictions, and reliability. This paper reviews global practices in NDT methods for measuring AC density, offering an in-depth analysis of current techniques and highlighting their strengths, limitations, and relevance to road construction QC. Additionally, it explores the application of NDT equipment, specifically the PaveTracker 2701, on the Mai Son – NH45 expressway, proposing its potential for broader use in Vietnam.
+ER  -
+
+TY  - JOUR
+AU  - Ihara, Yasuyuki
+TI  - Enhancing Multiple Object Tracking Accuracy via Quantum Annealing
+LA  - eng
+JF  - Research Square (research Square)
+PY  - 2024
+PB  - Research Square
+DO  - 10.48550/arXiv.2403.18908
+AB  - Multiple object tracking (MOT), a key task in image recognition, presents a persistent challenge in balancing processing speed and tracking accuracy. This study introduces a novel approach that leverages quantum annealing (QA) to expedite computation speed, while enhancing tracking accuracy through the ensembling of object tracking processes. A method to improve the matching integration process is also proposed. By utilizing the sequential nature of MOT, this study further augments the tracking method via reverse annealing (RA). Experimental validation confirms the maintenance of high accuracy with an annealing time of a mere 3 $\mu$s per tracking process. The proposed method holds significant potential for real-time MOT applications, including traffic flow measurement for urban traffic light control, collision prediction for autonomous robots and vehicles, and management of products mass-produced in factories.
+ER  -
+
+TY  - JOUR
+AU  - Qiu, Zekun
+AU  - Xie, Zhipu
+AU  - Ji, Zehua
+AU  - Liu, Xu
+AU  - Wang, Gang
+TI  - Integrating query data for enhanced traffic forecasting: A Spatio-Temporal Graph Attention Convolution Network approach with delay modeling
+LA  - eng
+JF  - Knowledge-based Systems
+VL  - 301
+PY  - 2024
+SN  - 18727409, 09507051
+PB  - Elsevier B.V.
+DO  - 10.1016/j.knosys.2024.112315
+AB  - Accurate prediction of road traffic conditions is essential for the effectiveness of Intelligent Transportation Systems (ITS) and the advancement of smart cities. While existing methodologies mainly focus on the complex structures of road networks and consider factors like weather, holidays, and accidents, the impact of social events is often overlooked. Queries, representing user requests in navigation applications, offer valuable insights into the popularity of social events and their effects on the road network. In this paper, we introduce the Query-aware Spatio-Temporal Graph Attention Convolution Network (QA-STGACN), which utilizes query data to model the impacts of events and forecast traffic conditions. Initially, spatial and temporal blocks are developed to extract spatial dependencies among road segments and capture traffic dynamics. A dynamic query-aware graph constructor then adaptively learns and retains periodic interactions between road segments and queries. Furthermore, three novel query-aware blocks – convolution, attention, and pattern transformation – are designed to uncover hidden dependencies between traffic conditions and query counts during events, as well as to model the delayed impacts of these counts on traffic. Ultimately, a gated fusion mechanism integrates the spatio-temporal correlations in road networks with the representations derived from queries. Comprehensive experiments on six datasets validate the superiority of QA-STGACN over robust baselines.
+ER  -
+
+TY  - JOUR
+AU  - Phillipson, Frank
+TI  - Quantum Computing in Logistics and Supply Chain Management - an Overview [arXiv]
+LA  - eng
+PY  - 2024
+DO  - 10.48550/arXiv.2402.17520
+AB  - The work explores the integration of quantum computing into logistics and supply chain management, emphasising its potential for use in complex optimisation problems. The discussion introduces quantum computing principles, focusing on quantum annealing and gate-based quantum computing, with the Quantum Approximate Optimisation Algorithm and Quantum Annealing as key algorithmic approaches. The paper provides an overview of quantum approaches to routing, logistic network design, fleet maintenance, cargo loading, prediction, and scheduling problems. Notably, most solutions in the literature are hybrid, combining quantum and classical computing. The conclusion highlights the early stage of quantum computing, emphasising its potential impact on logistics and supply chain optimisation. In the final overview, the literature is categorised, identifying quantum annealing dominance and a need for more research in prediction and machine learning is highlighted. The consensus is that quantum computing has great potential but faces current hardware limitations, necessitating further advancements for practical implementation.
+ER  -
+
+TY  - JOUR
+AU  - Inoue, Daisuke
+AU  - Yamashita, Hiroshi
+AU  - Aihara, Kazuyuki
+AU  - Yoshida, Hiroaki
+TI  - Traffic signal optimization in large-scale urban road networks: an
+  adaptive-predictive controller using Ising models
+LA  - und
+PY  - 2024
+AB  - Realizing smooth traffic flow is important for achieving carbon neutrality.
+Adaptive traffic signal control, which considers traffic conditions, has thus
+attracted attention. However, it is difficult to ensure optimal vehicle flow
+throughout a large city using existing control methods because of their heavy
+computational load. Here, we propose a control method called AMPIC (Adaptive
+Model Predictive Ising Controller) that guarantees both scalability and
+optimality. The proposed method employs model predictive control to solve an
+optimal control problem at each control interval with explicit consideration of
+a predictive model of vehicle flow. This optimal control problem is transformed
+into a combinatorial optimization problem with binary variables that is
+equivalent to the so-called Ising problem. This transformation allows us to use
+an Ising solver, which has been widely studied and is expected to have fast and
+efficient optimization performance. We performed numerical experiments using a
+microscopic traffic simulator for a realistic city road network. The results
+show that AMPIC enables faster vehicle cruising speed with less waiting time
+than that achieved by classical control methods, resulting in lower CO2
+emissions. The model predictive approach with a long prediction horizon thus
+effectively improves control performance. Systematic parametric studies on
+model cities indicate that the proposed method realizes smoother traffic flows
+for large city road networks. Among Ising solvers, D-Wave's quantum annealing
+is shown to find near-optimal solutions at a reasonable computational cost.
+ER  -
+
+TY  - JOUR
+AU  - Inoue, Daisuke
+AU  - Yamashita, Hiroshi
+AU  - Aihara, Kazuyuki
+AU  - Yoshida, Hiroaki
+TI  - Traffic Signal Optimization in Large-Scale Urban Road Networks: An Adaptive-Predictive Controller Using Ising Models
+LA  - eng
+JF  - Ieee Access
+VL  - 12
+SP  - 188739
+EP  - 188754
+PY  - 2024
+SN  - 21693536
+PB  - Institute of Electrical and Electronics Engineers Inc.
+DO  - 10.1109/ACCESS.2024.3514162
+AB  - Realizing smooth traffic flow is important for achieving carbon neutrality. Adaptive traffic signal control, which considers traffic conditions, has thus attracted attention. However, it is difficult to ensure optimal vehicle flow throughout a large city using existing control methods because of their heavy computational load. Here, we propose a control method called AMPIC (Adaptive Model Predictive Ising Controller) that guarantees both scalability and optimality. The proposed method employs model predictive control to solve an optimal control problem at each control interval with explicit consideration of a predictive model of vehicle flow. This optimal control problem is transformed into a combinatorial optimization problem with binary variables that is equivalent to the Ising problem. This transformation allows us to use Ising solvers, which have been widely studied and are expected to offer fast and efficient optimization performance. The method works adaptively according to traffic conditions such as the structure of the road network and feedback from observation of the traffic system. We performed numerical experiments using a microscopic traffic simulator for a realistic city road network. Compared to the classical pattern control method, the results show that AMPIC increases the vehicle cruising speed by 13%, reduces the waiting vehicle ratio to 60%, and lowers the CO 2emissions to only 25% of the original level. The model predictive approach with a long prediction horizon thus effectively improves control performance. Systematic parametric studies on model cities indicate that the proposed method realizes smoother traffic flows for large city road networks. Among Ising solvers, D-Wave's quantum annealing is shown to find near-optimal solutions at a reasonable computational cost.
+ER  -
+
+TY  - JOUR
+AU  - Xue, Xudong
+AU  - Luan, Shunyao
+AU  - Ding, Yi
+AU  - Li, Xiangbin
+AU  - Li, Dan
+AU  - Wang, Jingya
+AU  - Ma, Chi
+AU  - Jiang, Man
+AU  - Wei, Wei
+AU  - Wang, Xiao
+TI  - Treatment plan complexity quantification for predicting gamma passing rates in patient-specific quality assurance for stereotactic volumetric modulated arc therapy
+LA  - eng
+JF  - Journal of Applied Clinical Medical Physics
+VL  - 25
+IS  - 9
+PY  - 2024
+SN  - 15269914
+PB  - John Wiley and Sons Ltd
+DO  - 10.1002/acm2.14432
+AB  - Purpose: To investigate the beam complexity of stereotactic Volumetric Modulated Arc Therapy (VMAT) plans quantitively and predict gamma passing rates (GPRs) using machine learning. Methods: The entire dataset is exclusively made of stereotactic VMAT plans (301 plans with 594 beams) from Varian Edge LINAC. The GPRs were analyzed using Varian's portal dosimetry with 2%/2 mm criteria. A total of 27 metrics were calculated to investigate the correlation between metrics and GPRs. Random forest and gradient boosting models were developed and trained to predict the GPRs based on the extracted complexity features. The threshold values of complexity metric were obtained to predict a given beam to pass or fail from ROC curve analysis. Results: The three moderately significant values of Spearman's rank correlation to GPRs were 0.508 (p < 0.001), 0.445 (p < 0.001), and −0.416 (p < 0.001) for proposed metric LAAM, the ratio of the average aperture area over jaw area (AAJA) and index of modulation, respectively. The random forest method achieved 98.74% prediction accuracy with mean absolute error of 1.23% using five-fold cross-validation, and 98.71% with 1.25% for gradient boosting regressor method, respectively. LAAM, leaf travelling distance (LT), AAJA, LT modulation complexity score (LTMCS) and index of modulation, were the top five most important complexity features. The LAAM metric showed the best performance with AUC value of 0.801, and threshold value of 0.365. Conclusions: The calculated metrics were effective in quantifying the complexity of stereotactic VMAT plans. We have demonstrated that the GPRs could be accurately predicted using machine learning methods based on extracted complexity metrics. The quantification of complexity and machine learning methods have the potential to improve stereotactic treatment planning and identify the failure of QA results promptly.
+ER  -
+
+TY  - CPAPER
+TI  - 22nd EPIA Conference on Artificial Intelligence, EPIA 2023
+LA  - eng
+JF  - Lecture Notes in Computer Science (including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 14116
+PY  - 2023
+SN  - 16113349, 03029743
+SN  - 303149010X, 303149010x, 3031490118, 9783031490101, 9783031490118
+PB  - Springer Science and Business Media Deutschland GmbH
+AB  - The proceedings contain 84 papers. The special focus in this conference is on Artificial Intelligence. The topics include: Pre-training with Augmentations for Efficient Transfer in Model-Based Reinforcement Learning; dyPrune: Dynamic Pruning Rates for Neural Networks; robustness Analysis of Machine Learning Models Using Domain-Specific Test Data Perturbation; vocalization Features to Recognize Small Dolphin Species for Limited Datasets; covariance Kernel Learning Schemes for Gaussian Process Based Prediction Using Markov Chain Monte Carlo; a Review on Quadruped Manipulators; pollution Emission Patterns of Transportation in Porto, Portugal Through Network Analysis; analysis of Dam Natural Frequencies Using a Convolutional Neural Network; imbalanced Regression Evaluation Under Uncertain Domain Preferences; gamified CollectiveEyes: A Gamified Distributed Infrastructure for Collectively Sharing People’s Eyes; studying the Impact of Sampling in Highly Frequent Time Series; Mining Causal Links Between TV Sports Content and Real-World Data; hybrid SkipAwareRec: A Streaming Music Recommendation System; interpreting What is Important: An Explainability Approach and Study on Feature Selection; Time-Series Pattern Verification in CNC Machining Data; a Comparison of Automated Machine Learning Tools for Predicting Energy Building Consumption in Smart Cities; measuring Latency-Accuracy Trade-Offs in Convolutional Neural Networks; machine Learning Data Markets: Evaluating the Impact of Data Exchange on the Agent Learning Performance; multi-robot Adaptive Sampling for Supervised Spatiotemporal Forecasting; topic Model with Contextual Outlier Handling: a Study on Electronic Invoice Product Descriptions; Design and Development of Ontology for AI-Based Software Systems to Manage the Food Intake and Energy Consumption of Obesity, Diabetes and Tube Feeding Patients; tweet2Story: Extracting Narratives from Twitter; argumentation Mining from Textual Documents Combining Deep Learning and Reasoning; Event Extraction for Portuguese: A QA-Driven Approach Using ACE-2005.
+ER  -
+
+TY  - CPAPER
+TI  - 22nd EPIA Conference on Artificial Intelligence, EPIA 2023
+LA  - eng
+JF  - Lecture Notes in Computer Science (including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 14115
+PY  - 2023
+SN  - 16113349, 03029743
+SN  - 303149007X, 303149007x, 3031490088, 9783031490071, 9783031490088
+PB  - Springer Science and Business Media Deutschland GmbH
+AB  - The proceedings contain 84 papers. The special focus in this conference is on Artificial Intelligence. The topics include: Pre-training with Augmentations for Efficient Transfer in Model-Based Reinforcement Learning; dyPrune: Dynamic Pruning Rates for Neural Networks; robustness Analysis of Machine Learning Models Using Domain-Specific Test Data Perturbation; vocalization Features to Recognize Small Dolphin Species for Limited Datasets; covariance Kernel Learning Schemes for Gaussian Process Based Prediction Using Markov Chain Monte Carlo; a Review on Quadruped Manipulators; pollution Emission Patterns of Transportation in Porto, Portugal Through Network Analysis; analysis of Dam Natural Frequencies Using a Convolutional Neural Network; imbalanced Regression Evaluation Under Uncertain Domain Preferences; gamified CollectiveEyes: A Gamified Distributed Infrastructure for Collectively Sharing People’s Eyes; studying the Impact of Sampling in Highly Frequent Time Series; Mining Causal Links Between TV Sports Content and Real-World Data; hybrid SkipAwareRec: A Streaming Music Recommendation System; interpreting What is Important: An Explainability Approach and Study on Feature Selection; Time-Series Pattern Verification in CNC Machining Data; a Comparison of Automated Machine Learning Tools for Predicting Energy Building Consumption in Smart Cities; measuring Latency-Accuracy Trade-Offs in Convolutional Neural Networks; machine Learning Data Markets: Evaluating the Impact of Data Exchange on the Agent Learning Performance; multi-robot Adaptive Sampling for Supervised Spatiotemporal Forecasting; topic Model with Contextual Outlier Handling: a Study on Electronic Invoice Product Descriptions; Design and Development of Ontology for AI-Based Software Systems to Manage the Food Intake and Energy Consumption of Obesity, Diabetes and Tube Feeding Patients; tweet2Story: Extracting Narratives from Twitter; argumentation Mining from Textual Documents Combining Deep Learning and Reasoning; Event Extraction for Portuguese: A QA-Driven Approach Using ACE-2005.
+ER  -
+
+TY  - CPAPER
+TI  - 3rd International Conference on Computer and Communication Engineering, CCCE 2023
+LA  - eng
+JF  - Communications in Computer and Information Science
+VL  - 1823
+PY  - 2023
+SN  - 18650937, 18650929
+SN  - 303135298X, 303135298x, 3031352998, 9783031352980, 9783031352997
+PB  - Springer Science and Business Media Deutschland GmbH
+AB  - The proceedings contain 18 papers. The special focus in this conference is on Computer and Communication Engineering. The topics include: Development of Home-Bot with Accident-Sensory System Using IOT and Android Application for Control; application of Machine Learning in Predicting Crime Links on Specialized Features; an Empirical Analysis on Lossless Compression Techniques; an Analysis of the Performance Changes of the Model by Reducing the Input Feature Dimension in Stock Price Forecasting; a Hybrid Algorithm by Incorporating Neural Network and Metaheuristic Algorithms for Function Approximation and Demand Prediction Estimation; Deep QA: An Open-Domain Dataset of Deep Questions and Comprehensive Answers; tropical Cyclone Analysis and Accumulated Precipitation Predictive Model Using Regression Machine Learning Algorithm; mapping Learning Algorithms on Data, a Promising Novel Methodology to Compare Learning Algorithms; rough Rice Grading in the Philippines Using Infrared Thermography; an Interpretable Hybrid Recommender Based on Graph Convolution to Address Serendipity; A Geometry-Based Strategic Placement of RISs in Millimeter Wave Device to Device Communication; obstacle Aware Link Selection for Stable Multicast D2D Communications; mobility Aware Path Selection for Millimeterwave 5G Networks in the Presence of Obstacles; A Probabilistic Analysis of the Delay in RIS Assisted SISO D2D Communication Using Chernoff’s Bounds; enhancing IoT Security Through Deep Learning-Based Intrusion Detection; a Security and Vulnerability Assessment on Android Gambling Applications.
+ER  -
+
+TY  - JOUR
+AU  - Tao, Jueqiang
+AU  - Wang, Feng
+AU  - Luo, Xiaohua
+AU  - Gong, Haitao
+AU  - Qiu, Xin
+AU  - Faieq, Ajmain
+TI  - Developing the quality assurance thresholds for screening automated pavement condition data using prediction interval methods
+LA  - eng
+JF  - International Journal of Pavement Engineering
+VL  - 24
+IS  - 1
+PY  - 2023
+SN  - 1477268x, 10298436
+PB  - Taylor and Francis Ltd.
+DO  - 10.1080/10298436.2023.2222335
+AB  - Data quality assurance (QA) procedures have been developed and implemented to evaluate the quality of automated pavement distress data. Most State Departments of Transportation (DOTs) use fixed acceptance thresholds to evaluate data quality at the network level and project level. However, errors of automated measurements can be affected by many factors such as pavement types and pavement conditions. It is necessary to take those factors into account while developing the QA acceptance thresholds. The objective of this research is to propose thresholding methods that could effectively utilise these factors to improve QA of the automated data. In this study, the potential problems associated with the use of fixed acceptance thresholds for QA were first discussed. Then, one conventional prediction interval method and one bootstrapping prediction interval method were proposed for QA procedures. The proposed prediction interval based methods can be used to determine variable thresholds that are sensitive to measurement errors. Lastly, QA results from the proposed methods and a fixed thresholding method were compared and analysed. The experimental results showed that prediction interval methods were superior to the fixed threshold methods in identifying pavement sections with data quality issues and evaluating the overall data quality of the network.
+ER  -
+
+TY  - JOUR
+AU  - Anderson, B. M.
+AU  - Moore, L.
+AU  - Moore, K. L.
+AU  - Bojechko, C.
+TI  - EPIDEEP: using a deep learning model to predict in vivo Electronic Portal Imaging Device (EPID) transit images
+LA  - eng
+JF  - International Journal of Radiation Oncology, Biology, Physics
+VL  - 117
+IS  - 2
+PY  - 2023
+SN  - 1879355x, 03603016
+DO  - 10.1016/j.ijrobp.2023.06.2060
+AB  - Purpose/Objective(s)To create a deep-learning model to predict in-vivo electronic portal imaging device (EPID) transit images for IMRT treatments. This model was created to predict in-vivo images to identify machine and patient-related errors that occur during beam delivery and are undetectable with current QA approaches. The deep-learning model can make image predictions much faster than Monte Carlo approaches, making image prediction feasible for application in online adaptive radiotherapy. Additionally, the model does not rely on any proprietary information and can be easily utilized by other clinics.Materials/MethodsOur approach separates the primary and scatter components of in-vivo transit images. The attenuation of primary radiation reaching the EPID panel is modeled analytically, using attenuation measurements from phantoms of known thicknesses. The scatter component is estimated using a convolutional neural network (CNN). The CNN training uses information from the on-treatment cone-beam CTs (CBCTs), and a pretreatment EPID image with no patient in the beam. We acquired 193 IMRT fields/images from 118 patients previously treated on the Varian Halcyon. Treatment sites included the pelvis, abdomen, lungs, and extremities. CBCTs were collected immediately before treatment, to provide an accurate representation of the anatomy. A 3-channel input image was used, consisting of the pretreatment EPID image, a ray tracing projection through the CBCT to the EPID panel, and a projection to isocenter. Model training:validation:test set ratios were 133:20:40 images. The primary and scatter components are added together to give the predicted transit image. Prediction accuracy was assessed by comparing model-predicted and measured in-vivo EPID images with a 3%/3mm and 5%/3mm gamma pass rate.ResultsThe gamma pass rate for the patients in the training:validation:test was 91.5%:90.4%:92.1% for 3%/3mm and 96.7%:96.6%:97.0% for 5%/3mm. The model can make image predictions in 20 milliseconds. The poor passing rates of some images may be due to CBCT artifacts and patient motion that occurs between the time of CBCT and treatment.ConclusionThis model can predict in-vivo EPID images with an average gamma pass rate greater than 90%. Image predictions from this model can be used to detect in-vivo treatment errors and changes in patient anatomy, providing an additional layer of patient-specific quality assurance. The speed of image predictions is 20 milliseconds, making use feasible for online adaptive treatments, which currently do not utilize patient-specific measurements of the delivered radiation. Upcoming studies will assess the model's ability in detecting clinically relevant errors and changes in patient anatomy that can adversely affect treatment. Future goals include acquiring more data to further improve the model and extending the model to make predictions for VMAT treatments. All rights reserved Elsevier.
+ER  -
+
+TY  - JOUR
+AU  - Xue, Hao
+AU  - Salim, Flora D.
+TI  - Human Mobility Question Answering (Vision Paper) [arXiv]
+LA  - eng
+PY  - 2023
+DO  - 10.48550/arXiv.2310.04443
+AB  - Question answering (QA) systems have attracted much attention from the artificial intelligence community as they can learn to answer questions based on the given knowledge source (e.g., images in visual question answering). However, the research into question answering systems with human mobility data remains unexplored. Mining human mobility data is crucial for various applications such as smart city planning, pandemic management, and personalised recommendation system. In this paper, we aim to tackle this gap and introduce a novel task, that is, human mobility question answering (MobQA). The aim of the task is to let the intelligent system learn from mobility data and answer related questions. This task presents a new paradigm change in mobility prediction research and further facilitates the research of human mobility recommendation systems. To better support this novel research topic, this vision paper also proposes an initial design of the dataset and a potential deep learning model framework for the introduced MobQA task. We hope that this paper will provide novel insights and open new directions in human mobility research and question answering research.
+ER  -
+
+TY  - JOUR
+AU  - Chen, Xingyu
+AU  - Wang, Yuhong
+AU  - Wen, Yong
+AU  - Cheng, Huailei
+AU  - Hao, Gengren
+TI  - Oxygen Diffusion Coefficients of Asphalt Mixtures and Their Impacts on Mixture Aging
+LA  - eng
+JF  - Transportation Research Record
+PY  - 2023
+SN  - 21694052, 03611981
+PB  - SAGE PUBLICATIONS INC
+DO  - 10.1177/03611981221143117
+AB  - The oxidative aging of asphalt binder affects the long-term performance of flexible pavement. Apart from the intrinsic property of asphalt binder, binder aging in an asphalt mixture is also affected by the mixture's oxygen transport efficiency, which can be characterized by the oxygen diffusion coefficient. In this study, the diffusion coefficients (D-s) of compacted asphalt mixtures of different designs were determined. The same mixture samples were also aged in one dimension for a relatively long period of time. Asphalt binders from different slices of the aged specimens were extracted and recovered, and their aging states were determined. Influences of D-s and air void content on binder aging gradient and binder aging extent in the mixture samples were systematically examined and compared. The results indicate that, as compared with air voids, D-s is more closely related to the aging susceptibility of asphalt binders in asphalt mixtures. It may serve as a useful and convenient parameter in mixture design optimization, modeling and prediction of in situ pavement aging, and quality control and quality assurance (QC/QA) in pavement construction.
+ER  -
+
+TY  - JOUR
+AU  - Sinno, Salvatore
+AU  - Groß, Thomas
+AU  - Mott, Alan
+AU  - Sahoo, Arati
+AU  - Honnalli, Deepak
+AU  - Thuravakkath, Shruthi
+AU  - Bhalgamiya, Bhavika
+TI  - Performance of Commercial Quantum Annealing Solvers for the Capacitated Vehicle Routing Problem [arXiv]
+LA  - eng
+PY  - 2023
+DO  - 10.48550/arXiv.2309.05564
+AB  - Quantum annealing (QA) is a heuristic search algorithm that can run on Adiabatic Quantum Computation (AQC) processors to solve combinatorial optimization problems. Although theoretical studies and simulations on classic hardware have shown encouraging results, these analyses often assume that the computation occurs in adiabatically closed systems without environmental interference. This is not a realistic assumption for real systems; therefore, without extensive empirical measurements on real quantum platforms, theory-based predictions, simulations on classical hardware or limited tests do not accurately assess the current commercial capabilities. This study has assessed the quality of the solution provided by a commercial quantum annealing platform compared to known solutions for the Capacitated Vehicle Routing Problem (CVRP). The study has conducted extensive analysis over more than 30 hours of access to QA commercial platforms to investigate how the size of the problem and its complexity impact the solution accuracy and the time used to find a solution. Our results have found that the absolute error is between 0.12 and 0.55, and the quantum processor unit (QPU) time is between 30 and 46 micro seconds. Our results show that as the constraint density increases, the quality of the solution degrades. Therefore, more than the problem size, the model complexity plays a critical role, and practical applications should select formulations that minimize the constraint density.
+ER  -
+
+TY  - JOUR
+AU  - Hameiri, Ziv
+TI  - Photovoltaics literature survey (No. 180)
+LA  - und
+JF  - Progress in Photovoltaics: Research and Applications
+VL  - 31
+IS  - 2
+SP  - 195
+EP  - 199
+PY  - 2023
+SN  - 1099159x, 10627995
+PB  - Wiley
+DO  - 10.1002/pip.3662
+ER  -
+
+TY  - JOUR
+AU  - Chakraborty, Chiranjib
+AU  - Bhattacharya, Manojit
+AU  - Dhama, Kuldeep
+AU  - Lee, Sang Soo
+TI  - Quantum computing on nucleic acid research: Approaching towards next-generation computing
+LA  - eng
+JF  - Molecular Therapy Nucleic Acids
+VL  - 33
+SP  - 53
+EP  - 56
+PY  - 2023
+SN  - 21622531
+PB  - Cell Press
+DO  - 10.1016/j.omtn.2023.06.007
+ER  -
+
+TY  - CPAPER
+AU  - Zhang, Jiarui
+AU  - Ilievski, Filip
+AU  - Ma, Kaixin
+AU  - Kollaa, Aravinda
+AU  - Francis, Jonathan
+AU  - Oltramari, Alessandro
+TI  - A Study of Situational Reasoning for Traffic Understanding
+LA  - eng
+JF  - Proceedings of the Acm Sigkdd International Conference on Knowledge Discovery and Data Mining
+SP  - 3262
+EP  - 3272
+PY  - 2023
+SN  - 2154817x
+SN  - 9798400701030
+PB  - Association for Computing Machinery
+DO  - 10.1145/3580305.3599246
+AB  - Intelligent Traffic Monitoring (ITMo) technologies hold the potential for improving road safety/security and for enabling smart city infrastructure. Understanding traffic situations requires a complex fusion of perceptual information with domain-specific and causal commonsense knowledge. Whereas prior work has provided benchmarks and methods for traffic monitoring, it remains unclear whether models can effectively align these information sources and reason in novel scenarios. To address this assessment gap, we devise three novel text-based tasks for situational reasoning in the traffic domain: i) BDD-QA, which evaluates the ability of Language Models (LMs) to perform situational decision-making, ii) TV-QA, which assesses LMs' abilities to reason about complex event causality, and iii) HDT-QA, which evaluates the ability of models to solve human driving exams. We adopt four knowledge-enhanced methods that have shown generalization capability across language reasoning tasks in prior work, based on natural language inference, commonsense knowledge-graph self-supervision, multi-QA joint training, and dense retrieval of domain information. We associate each method with a relevant knowledge source, including knowledge graphs, relevant benchmarks, and driving manuals. In extensive experiments, we benchmark various knowledge-aware methods against the three datasets, under zero-shot evaluation; we provide in-depth analyses of model performance on data partitions and examine model predictions categorically, to yield useful insights on traffic understanding, given different background knowledge and reasoning strategies.
+ER  -
+
+TY  - JOUR
+AU  - Zhang, Jiarui
+AU  - Ilievski, Filip
+AU  - Ma, Kaixin
+AU  - Kollaa, Aravinda
+AU  - Francis, Jonathan
+AU  - Oltramari, Alessandro
+TI  - A Study of Situational Reasoning for Traffic Understanding [arXiv]
+LA  - eng
+JF  - Arxiv
+PY  - 2023
+AB  - Intelligent Traffic Monitoring (ITMo) technologies hold the potential for improving road safety/security and for enabling smart city infrastructure. Understanding traffic situations requires a complex fusion of perceptual information with domain-specific and causal commonsense knowledge. Whereas prior work has provided benchmarks and methods for traffic monitoring, it remains unclear whether models can effectively align these information sources and reason in novel scenarios. To address this assessment gap, we devise three novel text-based tasks for situational reasoning in the traffic domain: i) BDD-QA, which evaluates the ability of Language Models (LMs) to perform situational decision-making, ii) TV-QA, which assesses LMs' abilities to reason about complex event causality, and iii) HDT-QA, which evaluates the ability of models to solve human driving exams. We adopt four knowledge-enhanced methods that have shown generalization capability across language reasoning tasks in prior work, based on natural language inference, commonsense knowledge-graph self-supervision, multi-QA joint training, and dense retrieval of domain information. We associate each method with a relevant knowledge source, including knowledge graphs, relevant benchmarks, and driving manuals. In extensive experiments, we benchmark various knowledge-aware methods against the three datasets, under zero-shot evaluation; we provide in-depth analyses of model performance on data partitions and examine model predictions categorically, to yield useful insights on traffic understanding, given different background knowledge and reasoning strategies.
+ER  -
+
+TY  - JOUR
+AU  - Agarwal, Ankush
+AU  - Gawade, Sakharam
+AU  - Channabasavarajendra, Sachin
+AU  - Bhattacharyya, Pushpak
+TI  - There is No Big Brother or Small Brother: Knowledge Infusion in Language
+  Models for Link Prediction and Question Answering
+LA  - und
+PY  - 2023
+AB  - The integration of knowledge graphs with deep learning is thriving in
+improving the performance of various natural language processing (NLP) tasks.
+In this paper, we focus on knowledge-infused link prediction and question
+answering using language models, T5, and BLOOM across three domains: Aviation,
+Movie, and Web. In this context, we infuse knowledge in large and small
+language models and study their performance, and find the performance to be
+similar. For the link prediction task on the Aviation Knowledge Graph, we
+obtain a 0.2 hits@1 score using T5-small, T5-base, T5-large, and BLOOM. Using
+template-based scripts, we create a set of 1 million synthetic factoid QA pairs
+in the aviation domain from National Transportation Safety Board (NTSB)
+reports. On our curated QA pairs, the three models of T5 achieve a 0.7 hits@1
+score. We validate out findings with the paired student t-test and Cohen's
+kappa scores. For link prediction on Aviation Knowledge Graph using T5-small
+and T5-large, we obtain a Cohen's kappa score of 0.76, showing substantial
+agreement between the models. Thus, we infer that small language models perform
+similar to large language models with the infusion of knowledge.
+ER  -
+
+TY  - JOUR
+AU  - Agarwal, Ankush
+AU  - Gawade, Sakharam
+AU  - Channabasavarajendra, Sachin
+AU  - Bhattacharyya, Pushpak
+TI  - There is No Big Brother or Small Brother: Knowledge Infusion in Language Models for Link Prediction and Question Answering [arXiv]
+LA  - eng
+JF  - Arxiv
+PY  - 2023
+AB  - The integration of knowledge graphs with deep learning is thriving in improving the performance of various natural language processing (NLP) tasks. In this paper, we focus on knowledge-infused link prediction and question answering using language models, T5, and BLOOM across three domains: Aviation, Movie, and Web. In this context, we infuse knowledge in large and small language models and study their performance, and find the performance to be similar. For the link prediction task on the Aviation Knowledge Graph, we obtain a 0.2 hits@1 score using T5-small, T5-base, T5-large, and BLOOM. Using template-based scripts, we create a set of 1 million synthetic factoid QA pairs in the aviation domain from National Transportation Safety Board (NTSB) reports. On our curated QA pairs, the three models of T5 achieve a 0.7 hits@1 score. We validate out findings with the paired student t-test and Cohen's kappa scores. For link prediction on Aviation Knowledge Graph using T5-small and T5-large, we obtain a Cohen's kappa score of 0.76, showing substantial agreement between the models. Thus, we infer that small language models perform similar to large language models with the infusion of knowledge.
+ER  -
+
+TY  - CPAPER
+TI  - 2022 International Conference on Trends in Quantum Computing and Emerging Business Technologies, TQCEBT 2022
+LA  - eng
+JF  - 2022 International Conference on Trends in Quantum Computing and Emerging Business Technologies, Tqcebt 2022
+PY  - 2022
+SN  - 1665453613, 9781665453615
+PB  - Institute of Electrical and Electronics Engineers Inc.
+AB  - The proceedings contain 47 papers. The topics discussed include: anticounterfeiting method for drugs using synthetic DNA cryptography; quantum approach to optimize aircraft cargo loading; early prediction of breast cancer through deep RNN approach; classification of fruits and vegetables using machine and deep learning approach; a CNN model to predict and segment cancerous regions from brain images using UNet and morphological operations; quantum machine learning based computer aided diagnosis for skin cancer detection: a statistical performance analysis over classical approach; topic modelling of ongoing conflict between Russia and Ukraine; a non-linear approach to predict the salary of NBA athletes using machine learning technique; performance analysis: vehicle routing using quantum annealing; an effective approach for pneumonia detection using convolution vision transformer; and rebuilding the capabilities for post covid-19 pandemic: issues and challenges of Bangalore model of development.
+ER  -
+
+TY  - JOUR
+AU  - Kang, Sang Won
+AU  - Lee, Boram
+AU  - Song, Changhoon
+AU  - Eeom, Keun Yong
+AU  - Jang, Bum Sup
+AU  - Kim, In Ah
+AU  - Kim, Jae Sung
+AU  - Chung, Jin Beom
+AU  - Kang, Seonghee
+AU  - Cho, Woong
+AU  - Shin, Dong Suk
+AU  - Kim, Jin Young
+AU  - Chun, Minsoo
+TI  - Clinical implementation of PerFRACTION™ for pre-treatment patient-specific quality assurance
+LA  - eng
+JF  - Journal of the Korean Physical Society
+VL  - 80
+IS  - 6
+SP  - 516
+EP  - 525
+PY  - 2022
+SN  - 19768524, 03744884
+PB  - Korean Physical Society
+DO  - 10.1007/s40042-022-00440-y
+AB  - This study is to assess the clinical use of commercial PerFRACTION™ for patient-specific quality assurance of volumetric-modulated arc therapy. Forty-six pretreatment verification plans for patients treated using a TrueBeam STx linear accelerator for lesions in various treatment sites such as brain, head and neck (H&N), prostate, and lung were included in this study. All pretreatment verification plans were generated using the Eclipse treatment planning system (TPS). Dose distributions obtained from electronic portal imaging device (EPID), ArcCHECK™, and two-dimensional (2D)/three-dimensional (3D) PerFRACTION™ were then compared with the dose distribution calculated from the Eclipse TPS. In addition, the correlation between the plan complexity (the modulation complexity score and the leaf travel modulation complexity score) and the gamma passing rates (GPRs) of each quality assurance (QA) system was evaluated by calculating Spearman’s rank correlation coefficient (rs) with the corresponding p-values. The gamma passing rates of 46 patients analyzed with the 2D/3D PerFRACTION™ using the 2%/2 mm and 3%/3 mm criteria showed almost similar trends to those analyzed with the Portal dose imaging prediction (PDIP) and ArcCHECK™ except for those analyzed with ArcCHECK™ using the 2%/2 mm criterion. Most of weak or moderate correlations between GPRs and plan complexity were observed for all QA systems. The trend of mean rs between GPRs using PDIP and 2D/3D PerFRACTION™ for both criteria and plan complexity indices as in the GPRs analysis was significantly similar for brain, prostate, and lung cases with lower complexity compared to H&N case. Furthermore, the trend of mean rs for 2D/3D PerFRACTION™ for H&N case with high complexity was similar to that of ArcCHECK™ and slightly lower correlation was observed than that of PDIP. This work showed that the performance of 2D/3D PerFRACTION™ for pretreatment patient-specific QA was almost comparable to that of PDIP, although there was small difference from ArcCHECK™ for some cases. Thus, we found that the PerFRACTION™ is a suitable QA system for pretreatment patient-specific QA in a variety of treatment sites.
+ER  -
+
+TY  - JOUR
+AU  - Filho, Jaime L.C.da C.
+AU  - Izquierdo, Zoe Gonzalez
+AU  - Saguia, Andreia
+AU  - Albash, Tameem
+AU  - Hen, Itay
+AU  - Sarandy, Marcelo S.
+TI  - Localization transition induced by programmable disorder
+LA  - eng
+JF  - Physical Review B
+VL  - 105
+IS  - 13
+PY  - 2022
+SN  - 24699969, 24699950
+PB  - American Physical Society
+DO  - 10.1103/PhysRevB.105.134201
+AB  - We investigate the occurrence of many-body localization (MBL) on a spin-1/2 transverse-field Ising model defined on a Chimera connectivity graph with random exchange interactions and longitudinal fields. We observe a transition from an ergodic phase to a nonthermal phase for individual energy eigenstates induced by a critical disorder strength for the Ising parameters. Our result follows from the analysis of both the mean half-system block entanglement and the energy-level statistics. We identify the critical point associated with this transition using the maximum variance of the block entanglement over the disorder ensemble as a function of the disorder strength. The calculated energy density phase diagram shows the existence of a mobility edge in the energy spectrum. In terms of the energy-level statistics, the system changes from the Gaussian orthogonal ensemble for weak disorder to a Poisson distribution limit for strong randomness, which implies localization behavior. We then realize the time-independent disordered Ising Hamiltonian experimentally using a reverse annealing quench-pause-quench protocol on a D-wave 2000Q programmable quantum annealer. We characterize the transition from the thermal to the localized phase through magnetization measurements at the end of the annealing dynamics, and the results are compatible with our theoretical prediction for the critical point. However, the same behavior can be reproduced using a classical spin-vector Monte Carlo simulation, which suggests that genuine quantum signatures of the phase transition remain out of reach using this experimental platform and protocol.
+ER  -
+
+TY  - JOUR
+AU  - Cilla, Savino
+AU  - Viola, Pietro
+AU  - Romano, Carmela
+AU  - Craus, Maurizio
+AU  - Buwenge, Milly
+AU  - Macchia, Gabriella
+AU  - Valentini, Vincenzo
+AU  - Deodato, Francesco
+AU  - Morganti, Alessio G.
+TI  - Prediction and classification of VMAT dosimetric accuracy using plan complexity and log-files analysis
+LA  - eng
+JF  - Physica Medica
+VL  - 103
+SP  - 76
+EP  - 88
+PY  - 2022
+SN  - 1724191x, 11201797
+PB  - Associazione Italiana di Fisica Medica
+DO  - 10.1016/j.ejmp.2022.10.004
+AB  - Purpose: We presented different machine learning models based on log files analysis and complexity indexes to predict and classify the dosimetric accuracy of VMAT plans. Methods: A total of 1302 VMAT arcs from 651 treatment plans were analyzed using the modulation complexity score (MCS) and the dynamic log-files generated by the linac. Predicted and measured fluences were compared using γ-analysis in terms of mean γ-values (γmean) and γ-pass rate (γ%). A kernel regression model was developed aiming to predict individual γ% and γmean values. Multinomial logistic regression (LR), Naïve-Bayes (NB) and support vector machine (SVM) models were developed based on MCS values to classify QA results as “pass” (γ%greater than90 % and γmean < 0.5), “control” (80 % < γ% < 90 % and 0.50 < γmean < 0.75) and “fail” (γ% < 80 % and γmean > 0.75). Training, validation and testing groups were used to evaluate the model reliability. A complexity-based traffic light protocol was implemented to flag pass (green light), control (orange light) and failed plans (red light). Results: Prediction accuracy of residuals for γ% was 2.1 % and 2.2 % in the training and testing cohorts, respectively. For 2 %(local)/2mm, both γ% and γmean classification performances reported weighted precision, recall and F1-values greater than 90 % for all machine learning models. The optimal MCS threshold value for the identification of failed plans was 0.130, with a sensibility and specificity of 0.994 and 0.952, respectively. The optimal MCS threshold for reliable plans was 0.270, with a sensitivity and specificity of 0.925 and 0.922, respectively. Conclusions: Machine learning can accurately predict the dosimetric accuracy of VMAT treatments, representing an efficient tool to assist patient-specific QA.
+ER  -
+
+TY  - JOUR
+AU  - Mittal, Happy
+AU  - Chakrabarti, Aniket
+AU  - Bayar, Belhassen
+AU  - Sharma, Animesh Anant
+AU  - Rasiwasia, Nikhil
+TI  - Distantly Supervised Transformers For E-Commerce Product QA
+LA  - und
+PY  - 2021
+AB  - We propose a practical instant question answering (QA) system on product
+pages of ecommerce services, where for each user query, relevant community
+question answer (CQA) pairs are retrieved. User queries and CQA pairs differ
+significantly in language characteristics making relevance learning difficult.
+Our proposed transformer-based model learns a robust relevance function by
+jointly learning unified syntactic and semantic representations without the
+need for human labeled data. This is achieved by distantly supervising our
+model by distilling from predictions of a syntactic matching system on user
+queries and simultaneously training with CQA pairs. Training with CQA pairs
+helps our model learning semantic QA relevance and distant supervision enables
+learning of syntactic features as well as the nuances of user querying
+language. Additionally, our model encodes queries and candidate responses
+independently allowing offline candidate embedding generation thereby
+minimizing the need for real-time transformer model execution. Consequently,
+our framework is able to scale to large e-commerce QA traffic. Extensive
+evaluation on user queries shows that our framework significantly outperforms
+both syntactic and semantic baselines in offline as well as large scale online
+A/B setups of a popular e-commerce service.
+ER  -
+
+TY  - CPAPER
+AU  - Mittal, Happy
+AU  - Chakrabarti, Aniket
+AU  - Bayar, Belhassen
+AU  - Sharma, Animesh Anant
+AU  - Rasiwasia, Nikhil
+TI  - Distantly Supervised Transformers For E-Commerce Product QA
+LA  - eng
+JF  - Naacl-hlt 2021 - 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Proceedings of the Conference
+SP  - 4008
+EP  - 4017
+PY  - 2021
+SN  - 195408546X, 9781954085466
+PB  - Association for Computational Linguistics (ACL)
+AB  - We propose a practical instant question answering (QA) system on product pages of e-commerce services, where for each user query, relevant community question answer (CQA) pairs are retrieved. User queries and CQA pairs differ significantly in language characteristics making relevance learning difficult. Our proposed transformer-based model learns a robust relevance function by jointly learning unified syntactic and semantic representations without the need for human labeled data. This is achieved by distantly supervising our model by distilling from predictions of a syntactic matching system on user queries and simultaneously training with CQA pairs. Training with CQA pairs helps our model learning semantic QA relevance and distant supervision enables learning of syntactic features as well as the nuances of user querying language. Additionally, our model encodes queries and candidate responses independently allowing offline candidate embedding generation thereby minimizing the need for real-time transformer model execution. Consequently, our framework is able to scale to large e-commerce QA traffic. Extensive evaluation on user queries shows that our framework significantly outperforms both syntactic and semantic baselines in offline as well as large scale online A/B setups of a popular e-commerce service.
+ER  -
+
+TY  - JOUR
+AU  - Mittal, Happy
+AU  - Chakrabarti, Aniket
+AU  - Bayar, Belhassen
+AU  - Sharma, Animesh Anant
+AU  - Rasiwasia, Nikhil
+TI  - Distantly Supervised Transformers For E-Commerce Product QA [arXiv]
+LA  - eng
+JF  - Arxiv
+PY  - 2021
+AB  - We propose a practical instant question answering (QA) system on product pages of ecommerce services, where for each user query, relevant community question answer (CQA) pairs are retrieved. User queries and CQA pairs differ significantly in language characteristics making relevance learning difficult. Our proposed transformer-based model learns a robust relevance function by jointly learning unified syntactic and semantic representations without the need for human labeled data. This is achieved by distantly supervising our model by distilling from predictions of a syntactic matching system on user queries and simultaneously training with CQA pairs. Training with CQA pairs helps our model learning semantic QA relevance and distant supervision enables learning of syntactic features as well as the nuances of user querying language. Additionally, our model encodes queries and candidate responses independently allowing offline candidate embedding generation thereby minimizing the need for real-time transformer model execution. Consequently, our framework is able to scale to large e-commerce QA traffic. Extensive evaluation on user queries shows that our framework significantly outperforms both syntactic and semantic baselines in offline as well as large scale online A/B setups of a popular e-commerce service.
+ER  -
+
+TY  - JOUR
+AU  - Padilla-Cabal, Fatima
+AU  - Alejandro Fragoso, Jose
+AU  - Franz Resch, Andreas
+AU  - Georg, Dietmar
+AU  - Fuchs, Hermann
+TI  - Benchmarking a GATE/Geant4 Monte Carlo model for proton beams in magnetic fields
+LA  - eng
+JF  - Medical Physics
+VL  - 47
+IS  - 1
+SP  - 223
+EP  - 233
+PY  - 2020
+SN  - 24734209, 00942405, 15228541
+PB  - John Wiley and Sons Ltd
+DO  - 10.1002/mp.13883
+AB  - Purpose: Magnetic resonance guidance in proton therapy (MRPT) is expected to improve its current performance. The combination of magnetic fields with clinical proton beam lines poses several challenges for dosimetry, treatment planning and dose delivery. Proton beams are deflected by magnetic fields causing considerable changes in beam trajectories and also a retraction of the Bragg peak positions. A proper prediction and compensation of these effects is essential to ensure accurate dose calculations. This work aims to develop and benchmark a Monte Carlo (MC) beam model for dose calculation of MRPT for static magnetic fields up to 1 T. Methods: Proton beam interactions with magnetic fields were simulated using the GATE/Geant4 toolkit. The transport of charged particle in custom 3D magnetic field maps was implemented for the first time in GATE. Validation experiments were done using a horizontal proton pencil beam scanning system with energies between 62.4 and 252.7 MeV and a large gap dipole magnet (B = 0–1 T), positioned at the isocenter and creating magnetic fields transverse to the beam direction. Dose was measured with Gafchromic EBT3 films within a homogeneous PMMA phantom without and with bone and tissue equivalent material slab inserts. Linear energy transfer (LET) quenching of EBT3 films was corrected using a linear model on dose-averaged LET method to ensure a realistic dosimetric comparison between simulations and experiments. Planar dose distributions were measured with the films in two different configurations: parallel and transverse to the beam direction using single energy fields and spread-out Bragg peaks. The MC model was benchmarked against lateral deflections and spot sizes in air of single beams measured with a Lynx PT detector, as well as dose distributions using EBT3 films. Experimental and calculated dose distributions were compared to test the accuracy of the model. Results: Measured proton beam deflections in air at distances of 465, 665, and 1155 mm behind the isocenter after passing the magnetic field region agreed with MC-predicted values within 4 mm. Differences between calculated and measured beam full width at half maximum (FWHM) were lower than 2 mm. For the homogeneous phantom, measured and simulated in-depth dose profiles showed range and average dose differences below 0.2 mm and 1.2%, respectively. Simulated central beam positions and widths differed <1 mm to the measurements with films. For both heterogenous phantoms, differences within 1 mm between measured and simulated central beam positions and widths were obtained, confirming a good agreement of the MC model. Conclusions: A GATE/Geant4 beam model for protons interacting with magnetic fields up to 1 T was developed and benchmarked to experimental data. For the first time, the GATE/Geant4 model was successfully validated not only for single energy beams, but for SOBP, in homogeneous and heterogeneous phantoms. EBT3 film dosimetry demonstrated to be a powerful dosimetric tool, once the film response function is LET corrected, for measurements in-line and transverse to the beam direction in magnetic fields. The proposed MC beam model is foreseen to support treatment planning and quality assurance (QA) activities toward MRPT.
+ER  -
+
+TY  - JOUR
+AU  - Ranjeet S., Sokhi
+TI  - First Conclusions from the WMO/GAW Coordinated Study on Impacts of COVID-19 Lockdown Measures on Air Quality: An Observational and Modelling Analysis
+LA  - eng
+SP  - 8551
+EP  - 8551
+PY  - 2020
+DO  - 10.3390/ecas2020-08551
+AB  - The aim of this World Meteorological Organisations' Global Atmospheric Watch (WMO/GAW) programme coordinated study is to understand how air quality has changed in cities across the globe as a result of measures to control the spread of the COVID-19 virus. The observational analysis reported here focusses on changes in PM2.5, PM10, NO2 and O3 concentrations during the 2020 lockdown periods in more than forty cities compared to the mean of previous five year (2015-2019) for the same periods. Similarly, a range of meteorological parameters have also been compared to assess how the meteorology may be different between the 2020 and the previous five years. All observational data has been supplied by local teams who were responsible for the QA/QC checks. A new phase of modelling analysis has also been initiated and we report here on one case study for the changes in air pollution over the UK. For the modelling analysis, a baseline (BL) was defined to represents the UK and Europe emissions assuming no lockdown measures between 1 March to 26 April 2020 (with lockdown beginning on 24 March). Scenario 1 (S1) is defined as a plausible scenario to represents the overall comprehensive changes in emissions in the key sectors over the lockdown period of 24 March to 26 April. A second scenario (S2) represents a sensitivity scenario to estimate the changes in air quality species attributable to reductions only in road traffic emissions over the lockdown period of 24 March to 26 April. The modelling analysis has been conducted with WRF/CMAQ modelling system with a spatial grid resolution of 10x10km over the UK domain. Observational analysis of over forty cities shows a reduction up to 60% in NO2 and up to 40% in PM2.5 but with regional differences. For example, air pollution concentrations in some cities shows an increase in PM2.5 which was attributed to mainly long range transport. A comparison with WHO Guidelines shows that for most cities, the NO2 decrease during the lockdown periods leads to meeting the annual guideline value. For PM2.5, the improvements are smaller and concentrations remain above guidelines for many regions, especially China, India, S Korea, Latin America. The observational results are corroborated by the modelling analysis conducted for the UK. Model predictions for S1 reveal a reduction in NO2 of about 30-40% in urban and 20-40% in rural areas. In the case of PM10 and PM2.5 model predicts about 20% reductions in urban locations and about 15% in rural areas. The reduction in PM10 is in part due to the reduction in the coarse fraction (PM10 – PM2.5) of up to 14% in urban areas. There are some small increases predicted in O3 concentrations near airports and urban areas, where levels of nitrogen dioxide are significantly reduced. Analysis of S2 shows that most of the changes during the lockdown period can be attributed to reduction in road traffic emissions. The study is currently being extended to (i) link changes in air pollutant concentrations to emissions changes, (ii) identifying regional differences across the globe and (iii) identifying lessons learnt for transitioning to lower air pollution emissions and improve air quality in global cities. Note: no results of this study can be circulated or reported without the express opinion of Professor Ranjeet S Sokhi, Chair of WMO/GAW GURME.
+ER  -
+
+TY  - JOUR
+AU  - Whiskerd, Nicholas
+AU  - Körtge, Nicklas
+AU  - Jürgens, Kris
+AU  - Lamshöft, Kevin
+AU  - Ezennaya-Gomez, Salatiel
+AU  - Vielhauer, Claus
+AU  - Dittmann, Jana
+AU  - Hildebrandt, Mario
+TI  - Keystroke biometrics in the encrypted domain: a first study on search suggestion functions of web search engines
+LA  - eng
+JF  - Eurasip Journal on Information Security
+VL  - 2020
+IS  - 1
+PY  - 2020
+SN  - 2510523x
+PB  - Springer
+DO  - 10.1186/s13635-020-0100-8
+AB  - A feature of search engines is prediction and suggestion to complete or extend input query phrases, i.e. search suggestion functions (SSF). Given the immediate temporal nature of this functionality, alongside the character submitted to trigger each suggestion, adequate data is provided to derive keystroke features. The potential of such biometric features to be used in identification and tracking poses risks to user privacy.For our initial experiment, we evaluate SSF traffic with different browsers and search engines on a Linux PC and an Android mobile phone. The keystroke network traffic is captured and decrypted using mitmproxy to verify if expected keystroke information is contained, which we call quality assurance (QA). In our second experiment, we present first results for identification of five subjects searching for up to three different phrases on both PC and phone using naive Bayesian and nearest neighbour classifiers. The third experiment investigates potential for identification and verification by an external observer based purely on the encrypted traffic, thus without QA, using the Euclidean distance. Here, ten subjects search for two phrases across several sessions on a Linux virtual machine, and statistical features are derived for classification. All three test cases show positive tendencies towards the feasibility of distinguishing users within a small group. The results yield lowest equal error rates of 5.11% for the single PC and 11.37% for the mobile device with QA and 23.61% for various PCs without QA. These first tendencies motivate further research in feature analysis of encrypted network traffic and prevention approaches to ensure protection and privacy.
+ER  -
+
+TY  - CPAPER
+TI  - 23rd Pacific-Asia Conference on Knowledge Discovery and Data Mining, PAKDD 2019
+LA  - eng
+JF  - Lecture Notes in Computer Science (including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 11439
+PY  - 2019
+SN  - 16113349, 03029743
+SN  - 3030161471, 303016148x, 9783030161477, 9783030161484
+PB  - Springer Verlag
+AB  - The proceedings contain 42 papers. The special focus in this conference is on Knowledge Discovery and Data Mining. The topics include: Syntax-aware representation for aspect term extraction; short text similarity measurement based on coupled semantic relation and strong classification features; a novel hybrid sequential model for review-based rating prediction; integrating topic model and heterogeneous information network for aspect mining with rating bias; dependency-aware attention model for emotion analysis for online news; multi-task learning for target-dependent sentiment classification; Sc-NER: A sequence-to-sequence model with sentence classification for named entity recognition; BAB-QA: A new neural model for emotion detection in multi-party dialogue; unsupervised user behavior representation for fraud review detection with cold-start problem; gated convolutional encoder-decoder for semi-supervised affect prediction; cost sensitive learning in the presence of symmetric label noise; Complaint classification using hybrid-attention GRU neural network; FGST: Fine-grained spatial-temporal based regression for stationless bike traffic prediction; customer segmentation based on transactional data using stream clustering; spatio-temporal event detection from multiple data sources; discovering all-Chain set in streaming time series; hawkes process with stochastic triggering kernel; concept drift based multi-dimensional data streams sampling method; spatial-temporal multi-task learning for within-field cotton yield prediction; online data fusion using incremental tensor learning; co-clustering from tensor data; semantic explanations in ensemble learning; a data-aware latent factor model for web service Qos prediction; keyword extraction with character-level convolutional neural tensor networks; neural variational matrix factorization with side information for collaborative filtering; variational deep collaborative matrix factorization for social recommendation; time-dependent survival neural network for remaining useful life prediction.
+ER  -
+
+TY  - CPAPER
+TI  - 9th International Conference on Intelligence Science and Big Data Engineering, IScIDE 2019
+LA  - eng
+JF  - Lecture Notes in Computer Science (including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 11936
+PY  - 2019
+SN  - 16113349, 03029743
+SN  - 3030362035, 3030362043, 9783030362034, 9783030362041
+PB  - Springer
+AB  - The proceedings contain 84 papers. The special focus in this conference is on Intelligence Science and Big Data Engineering. The topics include: Epileptic Seizure Prediction Based on Convolutional Recurrent Neural Network with Multi-Timescale; L2R-QA: An Open-Domain Question Answering Framework; attention Relational Network for Few-Shot Learning; syntactic Analysis of Power Grid Emergency Pre-plans Based on Transfer Learning; Improved CTC-Attention Based End-to-End Speech Recognition on Air Traffic Control; revisit Lmser from a Deep Learning Perspective; a New Network Traffic Identification Base on Deep Factorization Machine; 3Q: A 3-Layer Semantic Analysis Model for Question Suite Reduction; data Augmentation for Deep Learning of Judgment Documents; computational Decomposition of Style for Controllable and Enhanced Style Transfer; an Advanced Least Squares Twin Multi-class Classification Support Vector Machine for Few-Shot Classification; LLN-SLAM: A Lightweight Learning Network Semantic SLAM; meta-cluster Based Consensus Clustering with Local Weighting and Random Walking; robust Nonnegative Matrix Factorization Based on Cosine Similarity Induced Metric; intellectual Property in Colombian Museums: An Application of Machine Learning; hybrid Matrix Factorization for Multi-view Clustering; car Sales Prediction Using Gated Recurrent Units Neural Networks with Reinforcement Learning; A Multilayer Sparse Representation of Dynamic Brain Functional Network Based on Hypergraph Theory for ADHD Classification; stress Wave Tomography of Wood Internal Defects Based on Deep Learning and Contour Constraint Under Sparse Sampling; robustness of Network Controllability Against Cascading Failure; laplacian Welsch Regularization for Robust Semi-supervised Dictionary Learning; multi-modality Low-Rank Learning Fused First-Order and Second-Order Information for Computer-Aided Diagnosis of Schizophrenia; causal Discovery of Linear Non-Gaussian Acyclic Model with Small Samples.
+ER  -
+
+TY  - JOUR
+TI  - Erratum: Scalable Fabrication of Stretchable, Dual Channel, Microfluidic Organ Chips
+LA  - eng
+JF  - Journal of Visualized Experiments : Jove
+IS  - 147
+PY  - 2019
+SN  - 1940087x
+PB  - NLM (Medline)
+DO  - 10.3791/6296
+ER  -
+
+TY  - JOUR
+AU  - Pagès, Guillaume
+AU  - Charmettant, Benoit
+AU  - Grudinin, Sergei
+TI  - Protein model quality assessment using 3D oriented convolutional neural networks
+LA  - eng
+A2  - Valencia, Alfonso
+JF  - Bioinformatics
+VL  - 35
+IS  - 18
+SP  - 3313
+EP  - 3319
+PY  - 2019
+SN  - 14602059, 02667061, 13674803, 13674811
+PB  - Oxford University Press
+DO  - 10.1093/bioinformatics/btz122
+AB  - Protein model quality assessment (QA) is a crucial and yet open problem in structural bioinformatics. The current best methods for single-model QA typically combine results from different approaches, each based on different input features constructed by experts in the field. Then, the prediction model is trained using a machine-learning algorithm. Recently, with the development of convolutional neural networks (CNN), the training paradigm has changed. In computer vision, the expert-developed features have been significantly overpassed by automatically trained convolutional filters. This motivated us to apply a three-dimensional (3D) CNN to the problem of protein model QA. Results: We developed Ornate (Oriented Routed Neural network with Automatic Typing) - a novel method for single-model QA. Ornate is a residue-wise scoring function that takes as input 3D density maps. It predicts the local (residue-wise) and the global model quality through a deep 3D CNN. Specifically, Ornate aligns the input density map, corresponding to each residue and its neighborhood, with the backbone topology of this residue. This circumvents the problem of ambiguous orientations of the initial models. Also, Ornate includes automatic identification of atom types and dynamic routing of the data in the network. Established benchmarks (CASP 11 and CASP 12) demonstrate the state-of-the-art performance of our approach among single-model QA methods. Availability and implementation: The method is available at https://team.inria.fr/nano-d/software/Ornate/. It consists of a C++ executable that transforms molecular structures into volumetric density maps, and a Python code based on the TensorFlow framework for applying the Ornate model to these maps. Supplementary information: Supplementary data are available at Bioinformatics online.
+ER  -
+
+TY  - CPAPER
+AU  - Kumar, Nagendra
+AU  - Trishal, Gayam
+AU  - Srikanth, G.
+AU  - Konjengbam, Anand
+AU  - Mudda, Karthik Yadav
+AU  - Singh, Manish
+TI  - Where to post: Routing questions to right community in community question answering systems
+LA  - eng
+JF  - Acm International Conference Proceeding Series
+SP  - 136
+EP  - 142
+PY  - 2019
+SN  - 1450362079, 9781450362078
+PB  - Association for Computing Machinery
+DO  - 10.1145/3297001.3297018
+AB  - At present, question-answer (QA) sites have become one of the most important sources of information sharing. In order to ease search and categorization, QA sites create communities to discuss a specific topic or interest. As a consequence, a large number of communities have been created in the last few years. A lot of research has been conducted on community QA sites to address various problems including expert identification and tag recommendation. However, an important problem that has been neglected so far is to automatically route a question to the right community. In this paper, we propose a novel word-embedding based method to route a question to the right community. We use syntactic as well as semantic features to characterize a question and community. Although this approach of characterization performs well, it is highly computationally expensive. To deal with this problem, we use topic modeling, which effectively summarizes a community and reduces the computation time. Our experimental results reveal that usage of both syntactic and semantic features helps in question routing and leads to a better community prediction. We evaluate our methods on a well-known question answering system Stack Exchange and show the effectiveness of the proposed method.
+ER  -
+
+TY  - JOUR
+AU  - O'Malley, Daniel
+TI  - An approach to quantum-computational hydrologic inverse analysis
+LA  - eng
+JF  - Scientific Reports
+VL  - 8
+IS  - 1
+PY  - 2018
+SN  - 20452322
+PB  - Nature Publishing Group
+DO  - 10.1038/s41598-018-25206-0
+AB  - Making predictions about flow and transport in an aquifer requires knowledge of the heterogeneous properties of the aquifer such as permeability. Computational methods for inverse analysis are commonly used to infer these properties from quantities that are more readily observable such as hydraulic head. We present a method for computational inverse analysis that utilizes a type of quantum computer called a quantum annealer. While quantum computing is in an early stage compared to classical computing, we demonstrate that it is sufficiently developed that it can be used to solve certain subsurface flow problems. We utilize a D-Wave 2X quantum annealer to solve 1D and 2D hydrologic inverse problems that, while small by modern standards, are similar in size and sometimes larger than hydrologic inverse problems that were solved with early classical computers. Our results and the rapid progress being made with quantum computing hardware indicate that the era of quantum-computational hydrology may not be too far in the future.
+ER  -
+
+TY  - CPAPER
+AU  - Hamdar, Y. S.
+AU  - Chehab, G. R.
+TI  - Performance-based qc/qa procedure for hma airport pavements: A case study
+LA  - eng
+JF  - Advances in Materials and Pavement Performance Prediction - Proceedings of the International Am3p Conference, 2018
+SP  - 129
+EP  - 132
+PY  - 2018
+SN  - 0429457790, 0429855796, 042985580X, 042985580x, 1138313092, 9780429457791, 9780429855795, 9780429855801, 9781138313095
+PB  - CRC Press/Balkema
+AB  - This study presents a hybrid performance-based QC/QA procedure for flexible airfield pavements. The procedure, illustrated through a case study involving a recently constructed airfield pavement, employs a combination of laboratory testing protocols and mechanistic-empirical analysis. Dynamic modulus testing is conducted on collected specimens, whereby resulting |E*| mastercurves are used to predict asphalt rutting and fatigue cracking at the end of the pavement’s design service life. A methodology is followed to convert aircraft traffic to equivalent highway ESALs (EHEs) for rutting and fatigue cracking predictions that are then used for acceptance and payment adjustment formulations. Finally, the paper also discusses the proposed use of effective |E*| as a performance-based criterion for QC/QA purposes.
+ER  -
+
+TY  - JOUR
+AU  - Guillaume, Pagès
+AU  - Benoit, Charmettant
+AU  - Sergei, Grudinin
+TI  - Protein model quality assessment using 3D oriented convolutional neural networks
+LA  - eng
+JF  - Biorxiv (cold Spring Harbor Laboratory)
+PY  - 2018
+PB  - Cold Spring Harbor Laboratory
+DO  - 10.1101/432146
+AB  - Protein model quality assessment (QA) is a crucial and yet open problem in structural bioinformatics. The current best methods for single-model QA typically combine results from different approaches, each based on different input features constructed by experts in the field. Then, the prediction model is trained using a machine-learning algorithm. Recently, with the development of convolutional neural networks (CNN), the training paradigm has changed. In computer vision, the expert-developed features have been significantly overpassed by automatically trained convolutional filters. This motivated us to apply a three-dimensional (3D) CNN to the problem of protein model QA. We developed a novel method for single-model QA called Ornate. Ornate (Oriented Routed Neural network with Automatic Typing) is a residue-wise scoring function that takes as input 3D density maps. It predicts the local (residue-wise) and the global model quality through a deep 3D CNN. Specifically, Ornate aligns the input density map, corresponding to each residue and its neighborhood, with the backbone topology of this residue. This circumvents the problem of ambiguous orientations of the initial models. Also, Ornate includes automatic identification of atom types and dynamic routing of the data in the network. Established benchmarks (CASP 11 and CASP 12) demonstrate the state-of-the-art performance of our approach among singlemodel QA methods. The method is available at https://team.inria.fr/nanod/software/Ornate/ . It consists of a C++ executable that transforms molecular structures into volumetric density maps, and a Python code based on the TensorFlow framework for applying the Ornate model to these maps.
+ER  -
+
+TY  - CPAPER
+AU  - MacIna, Jakub
+AU  - Srba, Ivan
+AU  - Williams, Joseph Jay
+AU  - Bielikova, Maria
+TI  - Educational question routing in online student communities
+LA  - eng
+JF  - Recsys 2017 - Proceedings of the 11th Acm Conference on Recommender Systems
+SP  - 47
+EP  - 55
+PY  - 2017
+SN  - 1450346529, 9781450346528
+PB  - Association for Computing Machinery, Inc
+DO  - 10.1145/3109859.3109886
+AB  - Students' performance in Massive Open Online Courses (MOOCs) is enhanced by high quality discussion forums or recently emerging educational Community Question Answering (CQA) systems. Nevertheless, only a small number of students answer questions asked by their peers. This results in instructor overload, and many unanswered questions. To increase students' participation, we present an approach for recommendation of new questions to students who are likely to provide answers. Existing approaches to such question routing proposed for non-educational CQA systems tend to rely on a few experts, what is not applicable in educational domain where it is important to involve all kinds of students. In tackling this novel educational question routing problem, our method (1) goes beyond previous question-answering data as it incorporates additional non- QA data from the course (to improve prediction accuracy and to involve more of the student community) and (2) applies constraints on users' workload (to prevent user overloading). We use an ensemble classifier for predicting students' willingness to answer a question, as well as students' expertise for answering. We conducted an online evaluation of the proposed method using an A/B experiment in our CQA system deployed in edX MOOC. The proposed method outperformed a baseline method (non-educational question routing enhanced with workload restriction) by improving recommendation accuracy, keeping more community members active, and increasing an average number of their contributions.
+ER  -
+
+TY  - JOUR
+AU  - Baek, Tae Seong
+AU  - Chung, Eun Ji
+AU  - Son, Jaeman
+AU  - Yoon, Myonggeun
+TI  - Feasibility Study of Patient Specific Quality Assurance Using Transit Dosimetry Based on Measurement with an Electronic Portal Imaging Device
+LA  - eng
+JF  - Progress in Medical Physics
+VL  - 28
+IS  - 2
+PY  - 2017
+SN  - 25084453, 25084445
+PB  - Korean Society of Medical Physics
+DO  - 10.14316/pmp.2017.28.2.54
+AB  - This study was designed to measure transit dose with an electronic portal imaging device (EPID) in eight patients treated with intensity modulated radiotherapy (IMRT), and to verify the accuracy of dose delivery to patients. The calculated dose map of the treatment planning system (TPS) was compared with the EPID based dose measured on the same plane with a gamma index method. The plan for each patient was verified prior to treatment with a diode array (MapCHECK) and portal dose image prediction (PDIP). To simulate possible patient positioning errors during treatment, outcomes were evaluated after an anthropomorphic phantom was displaced 5 and 10 mm in various directions. Based on 3%/3 mm criteria, the mean±SD passing rates of MapCHECK, PDIP (pre-treatment QA) for 47 IMRT were 99.8±0.1%, 99.0±0.7%, and, respectively. Besides, passing rates using transit dosimetry was 90.0±1.5% for the same condition. Setup errors of 5 and 10 mm reduced the mean passing rates by 1.3% and 3.0% (inferior to superior), 2.2% and 4.3% (superior to inferior), 5.9% and 10.9% (left to right), and 8.9% and 16.3% (right to left), respectively. These findings suggest that the transit dose-based IMRT verification method using EPID, in which the transit dose from patients is compared with the dose map calculated from the TPS, may be useful in verifying various errors including setup and/or patient positioning error, inhomogeneity and target motions.
+ER  -
+
+TY  - JOUR
+AU  - Ihekweazu, Chikwe
+AU  - Abubakar, Ibrahim
+TI  - Tackling viral haemorrhagic fever in Africa
+LA  - eng
+JF  - Lancet
+VL  - 390
+IS  - 10113
+SP  - 2612
+EP  - 2614
+PY  - 2017
+SN  - 1474547x, 01406736
+PB  - Lancet Publishing Group
+DO  - 10.1016/S0140-6736(17)32475-3
+ER  -
+
+TY  - CPAPER
+TI  - Proceedings of the 2015 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining, ASONAM 2015
+LA  - eng
+JF  - Proceedings of the 2015 Ieee/acm International Conference on Advances in Social Networks Analysis and Mining, Asonam 2015
+PY  - 2015
+SN  - 1450338542, 1509020942, 9781450338547, 9781509020942
+PB  - Association for Computing Machinery, Inc
+AB  - The proceedings contain 254 papers. The topics discussed include: uncovering news-Twitter reciprocity via interaction patterns; a tempest in a teacup? analyzing firestorms on Twitter; influence modelling using bounded rationality in social networks; social influence computation and maximization in signed networks with competing cascades; modeling and utilizing dynamic influence strength for personalized promotion; near linear-time community detection in networks with hardly detectable community structure; community-based prediction of activity change in Skype; utilizing non-QA data to improve questions routing for users with low QA activity in CQA; pairwise structural role mining for user categorization in information cascades; public information exposure detection: helping users understand their web footprints; extracting diffusion channels from real-world social data: a delay-agnostic learning of transmission probabilities; and rumor spreading maximization and source identification in a social network.
+ER  -
+
+TY  - CPAPER
+AU  - Kim, Minkyum
+AU  - Mohammad, Louay N.
+AU  - Challa, Harshavardhan
+AU  - Elseifi, Mostafa A.
+TI  - A simplified performance-based specification for asphalt pavements
+LA  - eng
+JF  - Asphalt Paving Technology: Association of Asphalt Paving Technologists-proceedings of the Technical Sessions
+VL  - 84
+IS  - sup2
+SP  - 369
+EP  - 412
+PY  - 2015
+SN  - 02702932, 21647402, 14680629
+PB  - Association of Asphalt Paving Technologist
+DO  - 10.1080/14680629.2015.1077005
+AB  - In order to guarantee quality construction of asphalt pavements, an effective construction specification is essential. Such a specification should clearly identify the quality goals to ensure that the as-built pavement meets the as-designed criteria. Louisiana's current construction specification for asphalt pavements adopts a Quality Control (QC) and Quality Assurance (QA) procedure, which describes the required quality goals in terms of the volumetric and physical properties of asphalt mixtures and roadways. However, there is no fundamental correlation to ensure that these volumetric properties are sufficient to provide satisfactory long-term performance of the asphalt pavements. Therefore, developing performance-based specifications (PBS), which rely on the fundamental mechanical asphalt mixture properties as performance predictors, is needed to complement current QC/QA specifications. The objective of this paper is to introduce a simplified performance-oriented specification approach developed for new and rehabilitated asphalt pavements in Louisiana. A total of nine field projects across Louisiana were selected, of which six were existing projects that have been in service for three to eight years, and three were new projects. Hamburg-type loaded wheel tracking (LWT) device and semi-circular bending (SCB) test were conducted to measure proposed performance indicators of asphalt pavements from the field core samples for rutting and cracking performances. In addition, indirect tensile dynamic modulus (IDT |E∗|) test was conducted for viscoelastic characterization of asphalt mixtures, which were used in the performance predictions of AASHTOWare Pavement ME-Design. The laboratory-measured rutting and cracking performance indicators were then compared with the field distress data obtained from the Louisiana Pavement Management System (LA PMS) for the selected projects and compared with the laboratory test results. The LWT measured rut depths of 10 mm and 6 mm were established as the tentative target quality limits for Level 1 and Level 2 (High Traffic) asphalt pavements, respectively. Minimum SCB Jc values of 0.5 and 0.6 kJ/m2 were selected as the tentative performance criteria to avoid cracking related problems in Level 1 and Level 2 asphalt pavements, respectively.
+ER  -
+
+TY  - CPAPER
+AU  - Stemberger, Dario
+AU  - Saldungaray, Pedro
+AU  - Palisch, Terry
+TI  - Fracture optimization reduces completion cost while improving well productivity in the valdemar field offshore Denmark
+LA  - eng
+JF  - Proceedings - Spe Annual Technical Conference and Exhibition
+VL  - 7
+SP  - 5294
+EP  - 5311
+PY  - 2014
+SN  - 1634398874, 9781634398879
+PB  - Society of Petroleum Engineers (SPE)
+DO  - 10.2118/170981-ms
+AB  - The Valdemar Field is located in the Danish North Sea sector with the target reservoir being a Lower Cretaceous "dirty chalk" containing up to 25% insoluble fines, >20% porosity and permeability below 0.5 mD. The formation will not produce commercial quantities of oil without stimulation and it has been shown through laboratory core experiments as well as field trials that acid fracturing does not maintain conductivity as effectively as propped fractures. The initial reservoir pressure is above seawater hydrostatic and the reservoir thickness ranges from ten to several hundred feet. The Lower Cretaceous Chalk is found below the typical Ekofisk and Tor formations, which have been the target horizon in the North Sea for over four decades. Valdemar has been successfully developed with extended reach horizontal wells but, in order to establish economic production rates, all wells must be stimulated as part of the initial completion. In a typical Valdemar well, a 16,000 ft long lateral is drilled, with the toe of the well completed with a limited entry, predrilled liner, while the upper 10,000 ft of lateral, which is within coiled tubing reach, is completed with 12-14 propped fracture stages. Traditional designs revolved around placing 500,000 to 1,000,000 lb of 20/40 natural sand per stage. Consequently, very large volumes of proppant had to be handled during the completion, creating a logistics challenge, more so in an offshore environment where proppant available on location is limited to the capacity of the stimulation vessel. Stimulations on several wells showed suboptimal production rates which led to the conclusion that the Lower Cretaceous was not economically producible. An intensive study was carried out to evaluate all aspects of the fracture design and implementation which resulted in 11 key findings comprising pumping schedule, fracture fluid design, proppant selection and flowback control, completion hardware, QA/QC during the fracture execution and well cleanup, data acquisition for real-time monitoring and "after- closure" analysis. This paper focuses on the aspects of proppant selection and adequate fracture conductivity placement, with the goal of improving well productivity and cumulative recovery. Reservoir simulation advised that replacing natural sand by a larger, lightweight ceramic proppant could result in reducing proppant volumes by up to 50% while improving productivity by 20 to 50%. By reducing the proppant volume, the stimulation vessel port calls to load materials for multistage treatments could potentially be reduced resulting in significant savings. This was deemed a critical factor for future offshore multistage fracture completions which could benefit significantly from reduced roundtrips in terms of time, cost and early production. The recommendations of the optimization program were implemented in two wells. PLT results confirmed the predictions, that despite the total proppant volume being cut by 50%, the zonal contribution of the ceramic stimulated zones was better than that of natural sand in all cases. The higher fracture conductivity obtained with the ceramic proppant, even using one half the sand mass, resulted in improved productivity by some 50%. These completion optimization measures allowed for the successful development in the flank wells that might have otherwise been deemed uneconomic.
+ER  -
+
+TY  - CPAPER
+TI  - IUI 2014 - Proceedings of the 19th International Conference on Intelligent User Interfaces
+LA  - eng
+JF  - International Conference on Intelligent User Interfaces, Proceedings Iui
+PY  - 2014
+SN  - 1450321844, 9781450321846
+AB  - The proceedings contain 45 papers. The topics discussed include: Who have got answers? growing the pool of answerers in a smart enterprise social QA system; improving business rating predictions using graph based features; improving business rating predictions using graph based features; user identification using raw sensor data from typing on interactive displays; teaching motion gestures via recognizer feedback; mimetic interaction spaces: Controlling distant displays in pervasive environments; towards facilitating user skill acquisition - identifying untrained visualization users through eye tracking; visualizing expert solutions in exploratory learning environments using plan recognition; time-offset interaction with a holocaust survivor; hierarchical route maps for efficient navigation; audio haptic videogaming for developing wayfinding skills in learners who are blind; comparison of speech-based in-car HMI concepts in a driving simulation study; and see what you want to see: Visual user-driven approach for hybrid recommendation.
+ER  -
+
+TY  - CPAPER
+AU  - Liu, Zhe
+AU  - Jansen, Bernard J.
+TI  - Predicting potential responders in social Q&A based on non-QA features
+LA  - eng
+JF  - Conference on Human Factors in Computing Systems - Proceedings
+SP  - 2131
+EP  - 2136
+PY  - 2014
+SN  - 1450324746, 9781450324748
+PB  - Association for Computing Machinery
+DO  - 10.1145/2559206.2581366
+AB  - Given the recent advancement of online social networking technologies, social question and answering has become an important venue for individuals to seek and share information. While studies have suggested the possibilities of routing questions to potential answerers for their help and the information provided, there is little analysis proposed to identify the characteristics that differentiate the possible responders from the nonresponders. In order to address such gap, in this work we present a model to predict potential responders in social Q&A using only non-QA-based attributes. We build the classifier using features from two different aspects, including: features extracted from one's social profile and style of posting. To evaluate our model, we collect over 20, 000 questions posted on Wenwo, a social Q&A application based on Weibo, along with all their responders. Our experimental results over the collected dataset demonstrate the effectiveness of responder prediction based on non-QA features and proposed potential implications for system design.
+ER  -
+
+TY  - JOUR
+AU  - El-Basyouny, Mohamed
+AU  - Jeong, Myung Goo
+TI  - Prediction of the MEPDG asphalt concrete permanent deformation using closed form solution
+LA  - eng
+JF  - International Journal of Pavement Research and Technology
+VL  - 7
+IS  - 6
+SP  - 397
+EP  - 404
+PY  - 2014
+SN  - 19966814, 19971400
+PB  - Chinese Society of Pavement Engineering
+AB  - This research work focused upon the integration of the Mechanistic-Empirical Pavement Design Guide (MEPDG) methodology with the simple performance test to develop a rutting Closed Form Solution (CFS) for Asphalt Concrete (AC) layers to predict permanent deformation based on the Hot Mix Asphalt (HMA) dynamic modulus. The CFS would take only a few seconds to predict AC rutting instead of the significant MEPDG runtime. The rutting CFS can then be implemented in a probabilistic performance related specifications methodology for the Quality Assurance (QA) of HMA Construction. The main approach used to establish a rapid CFS for the AC MEPDG rutting distress module was to run the MEPDG for a large number of simulations using various combinations of inputs; and to develop an accurate CFS for the rutting distress prediction based on the dynamic modulus of HMA. To accomplishthis work, two major studies have been completed: (a) development of a rutting database based for different structures, climatic locations, traffic and vehicle speed; and (b) development of an AC effective dynamic modulus model and its relationship with the rutting. The developed methodology accurately predicts the rutting distress in the HMA layer close to that from the MEPDG.
+ER  -
+
+TY  - CPAPER
+AU  - Tan, Sui G.
+AU  - Cheng, Dingxin
+TI  - Quality assurance of performance data for pavement management systems
+LA  - eng
+A2  - Lee, Jeffrey L., Hossain, Zahid, Xiaodi Hu
+JF  - Geotechnical Special Publication
+IS  - 246
+SP  - 163
+EP  - 169
+PY  - 2014
+SN  - 08950563
+SN  - 0784478465, 9780784478462
+PB  - American Society of Civil Engineers (ASCE)
+DO  - 10.1061/9780784478462.020
+AB  - Quality of pavement condition data is critical to the effectiveness of a pavement management system (PMS). Normally, if there is an error in the pavement condition data, it will affect the prediction of pavement conditions for future years. It may also affect the maintenance and rehabilitation treatment selection strategies and the budgeting and needs estimation at the network level. The Metropolitan Transportation Commission (MTC) of the San Francisco Bay area developed a pavement management program that now has more than 400 users in the United States. To enhance its existing data quality management plan and increase its effective use of pavement management program, MTC implemented a new quality acceptance (QA) program in 2013. This program is expected to significantly improve the quality of the PMS data. The QA program includes (1) developing a Rater Certification Program that ensures good quality data by using certified and trained technicians for the PMS, (2) hiring a third party and neutral institution to audit the various contractors' quality control plan, and (3) verifying the data collected by contractors and checking data collected against pavement deterioration models and curves in the PMS database. The methods used in the MTC's QA program should potentially benefit other agencies that are using pavement management systems. © ASCE 2014.
+ER  -
+
+TY  - CPAPER
+TI  - 13th East Asia-Pacific Conference on Structural Engineering and Construction, EASEC 2013
+LA  - eng
+JF  - Proceedings of the 13th East Asia-pacific Conference on Structural Engineering and Construction, Easec 2013
+PY  - 2013
+PB  - Hokkaido University collection of Scholarly Academic Papers, HUSCAP
+ER  -
+
+TY  - CPAPER
+AU  - lu, W.
+AU  - Chen, M.
+AU  - mo, X.
+AU  - Parnell, D.
+AU  - Olivera, G.
+AU  - Galmarini, D.
+TI  - MO‐D‐108‐04: Validation of a Simple Portal Dose Calculation Model for Plan QA and In‐Vivo Dosimetry
+LA  - eng
+JF  - Medical Physics
+VL  - 40
+IS  - 6
+PY  - 2013
+SN  - 24734209, 00942405
+PB  - AMER ASSOC PHYSICISTS MEDICINE AMER INST PHYSICS
+DO  - 10.1118/1.4815238
+AB  - Purpose: To validate a simple portal dose calculator for plan QA and in‐vivo dosimetry. Methods: We model portal dose as a function of the fluence map, patient attenuation, patient scatter and portal response. Fluence maps are reconstructed using control‐point sequence in RTPlan. Patient attenuation is calculated via ray‐tracing through the patient CT. The effect of patient scatter and portal response is modeled by convolution, where the convolution kernel is derived from the commissioning measurements of different beam energies, different field sizes, different phantom thickness, and different source to image distances (SIDs). For various IMRT/3D plan, phantom and patient geometry, both in‐air and in‐transit portals were calculated. The calculations were compared with portal measurements. The Gamma Index of measurements against predicted portals with various dose difference (DD) criteria (1%, 2%, 3%, 4%, 5%, etc) and distance to agreement (DTA) criteria (1 mm, 2 mm, 3 mm, 4 mm, 5 mm, etc) were calculated. The Gamma pass rates of various DD and DTA criteria were evaluated and formed a Gamma table. Results: For various IMRT beams, the head, body and lung phantoms, the in‐air and in‐transit portal calculations matched well with portal measurements. The Gamma pass rates for in‐air portal are above 97% for 2 mm, 2% criteria and above 99% for 3 mm, 3% criteria. The Gamma pass rates for in‐transit portal were above 90% for 2 mm, 2% criteria and above 95% for 3 mm, 3% criteria. Conclusion: The simple portal dose calculation model is validated via phantom measurements. The model could be used in clinic for in‐air and intransit portal prediction. © 2013, American Association of Physicists in Medicine. All rights reserved.
+ER  -
+
+TY  - JOUR
+AU  - De Jarnette, Van
+AU  - McCarthy, Leslie Myers
+AU  - Bennert, Thomas
+AU  - Guercio, Maria Chiara
+TI  - Use of mechanistic-empirical pavement design principles to assign asphalt pavement pay factor adjustments
+LA  - eng
+JF  - Journal of Construction Engineering and Management
+VL  - 139
+IS  - 11
+PY  - 2013
+SN  - 19437862, 07339364
+PB  - ASCE-AMER SOC CIVIL ENGINEERS
+DO  - 10.1061/(ASCE)CO.1943-7862.0000748
+AB  - This paper promotes the quality analysis of flexible pavements by exploring the role of analysis programs as laboratory support tools to assess the quality of constructed pavements. Specifically, the research explored the significance of laboratory dynamic modulus testing on assigning pay factor adjustments in these tools. In the United States, the current methods of pavement acceptance are based more on construction craftsmanship (i.e., density and smoothness, percent within limits) as opposed to how the pavement will actually perform once constructed. The use of performance-based specification models would enable a state transportation agency to quantify the impacts of varying as-built mixture quality in terms of (1) a projection of pavement service life, and (2) presenting life-cycle costs in a way that both agencies and contractors can understand. Two publicly available performance-related specification (PRS) quality assurance (QA) analysis tools have been developed based on mechanistic-empirical pavement design principles and were assessed for a small set of mixtures. The quality related specification software (QRSS) utilizes a predictive equation and traffic, binder, and mixture volumetric data to predict dynamic modulus (|E*|) values. The asphalt mixture performance tester (AMPT) QA program varies from the QRSS in that it uses the laboratory-measured |E*| as an input. Pavement distresses (i.e., rutting and fatigue cracking) are calculated based on both the as-designed job-mix formula and as-produced construction mixture properties. Then, a predicted service life difference (PLD) and the resultant pay factor adjustments are calculated based on the variance between the as-designed and as-produced mixtures. The distress and service life predictions from the two QA programs were similar for the conventional mixes, which may indicate that requiring a laboratory-tested dynamic modulus does not add significant benefit in the analysis of conventional mixtures. Furthermore, an analysis was done in the QRSS program to compare the impacts of the preloaded default binder values to the laboratory-measured binder properties. The results indicated that laboratory testing of binders is recommended for providing inputs to the QRSS since the in situ characteristics were not fully reflected by the default binder values in the program. The differences in the distress levels predicted for the unconventional mixture types indicated that the use of laboratory-measured |E*| is necessary for setting pay factor adjustments, particularly since only conventional dense-graded mixtures were used to calibrate the models in the programs. The conditions under which the program-based analyses will have limitations are presented. Recommendations are provided on how agencies and contractors can improve the construction process by preliminary monitoring of pavement quality using the analysis tools. © 2013 American Society of Civil Engineers.
+ER  -
+
+TY  - CPAPER
+TI  - Proceedings of the ACM SIGKDD Workshop on Mining Data Semantics 2012, MDS'12 - SIGKDD 2012
+LA  - eng
+JF  - Proceedings of the Acm Sigkdd International Conference on Knowledge Discovery and Data Mining
+PY  - 2012
+SN  - 1450315461, 9781450315463
+AB  - The proceedings contain 13 papers. The topics discussed include: back-buy prediction based on TriFG; social tie mining in company networks; defining and evaluating network communities based on ground-truth; there is more than complex contagion: an indirect influence analysis on twitter; question routing in community based QA: incorporating answer quality and answer content; learning approach for domain-independent linked data instance matching; contraction network for solving maximum flow problem; a dynamic learning framework to thoroughly extract structured data from web pages without human efforts; user-sentiment topic model:refining userýs topics with sentiment information; diversity in ranking using negative reinforcement; extracting data records from web using suffix tree; and automatic detection of rumor on sina weibo.
+ER  -
+
+TY  - CPAPER
+TI  - 8th International Conference on Ubiquitous Intelligence and Computing, UIC 2011
+LA  - eng
+JF  - Lecture Notes in Computer Science (including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 6905
+PY  - 2011
+SN  - 16113349, 03029743
+SN  - 3642236405, 3642236413, 9783642236402, 9783642236419
+PB  - Springer Verlag
+AB  - The proceedings contain 46 papers. The special focus in this conference is on Ubiquitous Intelligence and Computing. The topics include: A Context-aware seamless handover mechanism for mass rapid transit system; individual activity data mining and appropriate advice giving towards greener lifestyles and routines; Adaptive context oriented component-based application middleware (COCA-middleware); intelligent toilet system for health screening; an efficient earthquake early warning message delivery algorithm using an in time control-theoretic approach; dynamic resource management for a cell-based distributed mobile computing environment; Automatic birdsong recognition with MFCC based syllable feature extraction; punishment or reward: It is a problem in anonymous, dynamic and autonomous networking environments; event.Hub: An event-driven information hub for mobile devices; networking of vehicles - Applications, challenges and some recent results; a non-functional property based service selection and service verification model; Exploring an adaptive architecture for service discovery over MANETs; Web quality assessment model: Trust in QA social networks; context-aware service composition; implementation of a green power management algorithm for virtual machines on cloud computing; AdPriRec: A context-aware recommender system for user privacy in MANET services; ensuring security and availability through model-based cross-layer adaptation; chameleon: A model of identification, authorization and accountability for ubicomp; the safety related legal issues and privacy protection for intelligent vehicle telematics in the United States; preCon – Expressive context prediction using stochastic model checking; ubiquitous meeting facilitator with playful real-time user interface; a virtual channel technique for supporting P2P streaming; system-level power-accuracy trade-off in bluetooth low energy networks; Reducing total energy for reliability-aware DVS algorithms.
+ER  -
+
+TY  - JOUR
+AU  - Chen, Hongwei
+AU  - Kong, Xi
+AU  - Chong, Bo
+AU  - Qin, Gan
+AU  - Zhou, Xianyi
+AU  - Peng, Xinhua
+AU  - Du, Jiangfeng
+TI  - Experimental demonstration of a quantum annealing algorithm for the traveling salesman problem in a nuclear-magnetic-resonance quantum simulator
+LA  - eng
+JF  - Physical Review a - Atomic, Molecular, and Optical Physics
+VL  - 83
+IS  - 3
+PY  - 2011
+SN  - 10941622, 10502947
+PB  - AMER PHYSICAL SOC
+DO  - 10.1103/PhysRevA.83.032314
+AB  - The method of quantum annealing (QA) is a promising way for solving many optimization problems in both classical and quantum information theory. The main advantage of this approach, compared with the gate model, is the robustness of the operations against errors originated from both external controls and the environment. In this work, we succeed in demonstrating experimentally an application of the method of QA to a simplified version of the traveling salesman problem by simulating the corresponding Schrödinger evolution with a NMR quantum simulator. The experimental results unambiguously yielded the optimal traveling route, in good agreement with the theoretical prediction. © 2011 American Physical Society.
+ER  -
+
+TY  - CPAPER
+AU  - Kim, G.
+AU  - Rice, R.
+AU  - Detorie, N.
+AU  - Dragojevic, I.
+AU  - Pawlicki, T.
+TI  - SU‐E‐T‐444: Feasibility Study of In‐Vivo Transit Dosimetry for IMRT Patients
+LA  - eng
+JF  - Medical Physics
+VL  - 38
+IS  - 6
+PY  - 2011
+SN  - 24734209, 00942405
+PB  - WILEY
+DO  - 10.1118/1.3612398
+AB  - Purpose: The ultimate goal of IMRT QA should be to verify that the correct dose has been delivered to the patient. The purpose of this study is to evaluate for feasibility and reliability of volumetric transit dosimetry as a routine in‐vivo dosimetry method during the actual patient treatment for different sites. Methods: To evaluate volumetric transit dosimetry for IMRT delivery, prostate, H&N and lung IMRT cases were selected. During patient treatment, the EPID imager was extended to collect transit radiation through the patient. Collected transit dose images are imported and reconstructed as a volumetric dose distribution using the Dosimetry Check (Math Resolutions LLC, Maryland, USA) Exit Dose module. Dosimetry Check program to compare to the reconstructed volumetric dose including tissue heterogeneous correction from the transit EPID images. Also, to investigate the influence of daily setup or anatomy change, multiple transit dosimetry measurements were performed on different treatment days up to 5 fractions for prostate case. In addition, patient's verification plan was generated on a homogeneous CIRS IMRT phantom to verify the absolute dose and transit dosimetry algorithm check. Collected QA results were evaluated with 1) gamma passing rate (3 mm DTA and 3% dose) comparing calculated dose from exit dosimetry and treatment planning system (TPS) dose prediction, 2) difference of absolute point dose from exit dosimetry module compared to ion chamber measurements in the phantom. Results: The current implementation shows promise at predicting point doses from exit dose images acquired during patient treatment. However, 3D dose distributions calculated from exit dose images are not consistent in their agreement with the planned dose distribution. Conclusions: Further study is needed to explain the differences. Areas to consider include offsets in imager position, differences in dose calculation algorithm, couch attenuation effects and anatomy changes. © 2011, American Association of Physicists in Medicine. All rights reserved.
+ER  -
+
+TY  - CPAPER
+AU  - Correa Feria, C.
+TI  - Integrated production modeling: Advanced but, not always better
+LA  - eng
+JF  - Spe Latin American and Caribbean Petroleum Engineering Conference Proceedings
+VL  - 1
+SP  - 722
+EP  - 741
+PY  - 2010
+SN  - 1617821837, 9781617821837
+AB  - During the initial stages of a new gas-condensate field development planning, studies are performed trying to cover all possible key project factors. Reservoir performance estimations and production forecasts are, by far, the most important aspects influencing any other development requirements and future commitments (number, location and type of wells, capacity/modularity of the production facilities, sales contracts, booked reserves...). Due to the, let's say, apparent simplicity of the project (homogeneous reservoir model, few development wells, linear gathering pipeline and small compression plant) and the uncertainty of available data, a handcrafted approach was preferred by working all models as separate items but, applying proper contour conditions for each one. On the other hand, applying defined management methodology, project's QA/QC explicitly required the development of an integrated subsurface-surface model, no matter the performance of the handcrafted approximation. Integrated Production/Asset Modeling (IPM or IAM) is a powerful asset design, prediction and management tool when properly used but, as with many other emerging or in fashion technologies, care should be taken when dealing with the 'aspirin' (good for everything) complex. To fulfill this requirement, a full asset simulation model was built integrating the complete production cycle: numerical reservoir simulation, steady-state nodal wells, surface gathering/transport network and compression/processing facilities. The process was intensive, troubleshooting and time consuming but, as suspected, obtained results didn't significantly improve the knowledge already available with the handcrafted initial approximation. Being able to assess the proper use for each technology should be a basic pillar of our industry. Inefficiently and indiscriminately applying available tools without a suitable engineering criterion, could yield wrong assessments of their actual value and, lead to improper use of valuable time and workforce. Integrated Production Modeling develops real value when dealing with large systems, where the type and number of variables to be controlled lies out of the human capacity; however, simple systems still can be handcraftly managed under proper engineering judgment, without large troubleshooting processes, consuming less time and demanding less workforce. The cobbler should stick to his last. Copyright 2010, Society of Petroleum Engineers.
+ER  -
+
+TY  - JOUR
+AU  - Strauss, R. D.
+AU  - Potgieter, M. S.
+TI  - Modeling anomalous cosmic ray oxygen gradients over successive solar cycles
+LA  - eng
+JF  - Journal of Geophysical Research: Space Physics
+VL  - 115
+IS  - 12
+PY  - 2010
+SN  - 21562202, 01480227, 21699402, 21699380
+PB  - Blackwell Publishing Ltd
+DO  - 10.1029/2010JA015690
+AB  - Cosmic ray drift directions depend both on the charge of the particle population under consideration, as well as the heliospheric magnetic field polarity which oscillates within a ∼22 year cycle. The differences in the cosmic ray drift patterns between successive solar cycles manifest themselves in the sign of the latitudinal cosmic ray gradient. For positively charged particles, a positive latitudinal gradient is expected in the qA > 0 polarity cycle, while a negative value is expected in the qA < 0 cycle. For the first time observed radial and latitudinal values for anomalous cosmic ray oxygen are available in both of these cycles. In the present qA < 0 cycle, the observations seem, however, inconsistent with the drift-dominated considerations discussed above, as the latitudinal gradient is smaller than expected and perhaps even positive. This issue is addressed by using a comprehensive numerical model for anomalous cosmic ray acceleration and transport, based on new diffusion coefficients, to simulate these gradients over the previous two magnetic polarity cycles. Computed gradients and energy spectra (at Earth and at Ulysses) are compared to observations, with good agreement achieved between observations and model predictions. For the qA > 0 cycle, the model predicts a positive latitudinal gradient but for the qA < 0 cycle a latitudinal gradient that is smaller and that can be either positive or negative. It is concluded that drifts and poleward diffusion set up competing latitudinal gradients in the qA < 0 cycle, with the resulting sign of the gradient determined by the most effective of the two processes. Copyright 2010 by the American Geophysical Union.
+ER  -
+
+TY  - JOUR
+AU  - Michel, Kerstin
+AU  - Herrmann, Sandra
+AU  - Ludwig, Bernard
+TI  - Modelling chemical and biological reactions during unsaturated flow in silty arable soils
+LA  - eng
+JF  - Geoderma
+VL  - 156
+IS  - 3-4
+SP  - 293
+EP  - 301
+PY  - 2010
+SN  - 18726259, 00167061
+PB  - ELSEVIER
+DO  - 10.1016/j.geoderma.2010.02.029
+AB  - Ion dynamics in arable soils are strongly affected by the chemical and biological transformations triggered by fertilizer input. Hydrogeochemical models may improve our understanding of underlying processes. Our objective was to test the ability of the hydrogeochemical model PHREEQC2 in combination with the parameter optimization program PEST to describe and predict chemical and biological processes in silty soils triggered by fertilizer application or acidification and to investigate the usefulness of different parameterization approaches. Three different experiments were carried out using undisturbed columns of two topsoils (0-25 cm) from Germany (Göttingen, GO) and from the Oman (Qasha', QA). The columns were irrigated at 10 °C with 3 mm day- 1 for one year using 1 mM HCl (HCl experiment) and two fertilizer solutions with low (0.1 to 0.9 mmol L- 1) and high concentrations (1.3 to 14.7 mmol L- 1) of N (as NH4NO3), K, Ca and Mg. In the fertilization experiments (Fert1, Fert2), the columns were alternately irrigated with the two different solutions for variable time periods. One-dimensional transport and homogenous and heterogenous reactions were calculated using PHREEQC2. The Fert1 experiment was used for calibration. The models were validated using the Fert2 and HCl experiments. The models tested were model variant m1 with no adjustable parameters, model variant m2 in which nitrate concentrations in input solutions and cation exchange capacity were optimized for Fert1, and m3 in which additionally all cation exchange coefficients and ion concentrations in the initial solution were optimized. Model variant m1 failed to predict the concentrations of several cations for both soils (modelling efficiencies (EF) ≤ 0), since N dynamics were not considered adequately. Model variants m2 and m3 described (Fert1 treatment) and predicted (Fert2 and HCl treatment) pH, cation and NO3- concentrations generally more accurately for both soils. For nutrient cations, EF values for prediction for GO ranged from 0.44 (K) to 0.99 (Ca), for QA from 0.21 (K) to 0.96 (Ca). After optimization, PHREEQC2 was able to predict NO3- concentrations in both soils (EF ≥ 0.57). Model variant m3 indicated that between 54 (QA) and 72% (GO) of the exchange sites were involved in cation exchange reactions. Our results show the importance of the inclusion of nitrogen species when modelling cation dynamics in arable soils from different climate regions. The hydrogeochemical model PHREEQC2 in combination with PEST was useful to describe and predict ion dynamics in silty soils under unsaturated conditions. © 2010 Elsevier B.V. All rights reserved.
+ER  -
+
+TY  - JOUR
+AU  - Thoppil, Prasad G.
+AU  - Hogan, Patrick J.
+TI  - Persian Gulf response to a wintertime shamal wind event
+LA  - eng
+JF  - Deep-sea Research Part I: Oceanographic Research Papers
+VL  - 57
+IS  - 8
+SP  - 946
+EP  - 955
+PY  - 2010
+SN  - 18790119, 09670637
+PB  - PERGAMON-ELSEVIER SCIENCE LTD
+DO  - 10.1016/j.dsr.2010.03.002
+AB  - The results from a ∼ 1 km resolution HYbrid Coordinate Ocean Model (HYCOM), forced by 1/2° Navy Operational Global Atmospheric Prediction System (NOGAPS) atmospheric data, were used in order to study the dynamic response of the Persian Gulf to wintertime shamal forcing. Shamal winds are strong northwesterly winds that occur in the Persian Gulf area behind southeast moving cold fronts. The period from 20 November to 5 December 2004 included a well defined shamal event that lasted 4-5 days. In addition to strong winds (16ms-1) the winter shamal also brought cold dry air (Ta=20°C, qa=10gkg-1) which led to a net heat loss in excess of 1000Wm-2 by increasing the latent heat flux. This resulted in SST cooling of up to 10°C most notably in the northern and shallower shelf regions. A sensitivity experiment with a constant specific humidity of qa=15gkg-1 confirmed that about 38% of net heat loss was due to the air-sea humidity differences. The time integral of SST cooling closely followed the air-sea heat loss, indicating an approximate one-dimensional vertical heat balance. It was found that the shamal induced convective vertical mixing provided a direct mechanism for the erosion of stratification and deepening of the mixed layer by 30m. The strong wind not only strengthened the circulation in the entire Persian Gulf but also established a northwestward flowing Iranian Coastal Current (ICC, 25-30cms-1) from the Strait of Hormuz to about 52°E, where it veered offshore. The strongest negative sea level of 25-40cm was generated in the northernmost portion of the Gulf while the wind setup against the coast of the United Arab Emirates established a positive sea level of 15-30cm. The transport through the Strait of Hormuz at 56.2°E indicated an enhanced outflow of 0.25 Sv (Sv≡106m3s-1) during 24 November followed by an equivalent inflow on the next day. © 2010 Elsevier Ltd.
+ER  -
+
+TY  - CPAPER
+AU  - xu, L.
+AU  - Romesberg, M.
+AU  - Bhat, S.
+TI  - SU‐GG‐T‐602: Cobalt‐60 Based 3‐D Conformal Radiotherapy Using an MLC and Corvus Treatment Planning System
+LA  - eng
+JF  - Medical Physics
+VL  - 37
+IS  - 6
+PY  - 2010
+SN  - 24734209, 00942405
+PB  - WILEY
+DO  - 10.1118/1.3469003
+AB  - Purpose: To investigate modeling a multi‐leaf collimator (MLC) in conjunction with the Equinox™ Cobalt‐60 teletherapy unit by measuring the accuracy of a 3d conformal prostate plan based on AAPM TG119. Method and Materials: A prototype of the CORVUS® treatment planning system was developed to support this MLC/Co‐60 combination incorporating source decay. The geometric kernel of CORVUS® was modified to properly account for the 2 cm Co‐60 source diameter. Specifically, a two‐dimensional circ function (radially symmetric Heaviside step function) was used to represent the isotropic radiation distribution from the cylindrical cobalt source. The diameter of the source used in modeling was computed based on the physical source size, the distance the MLC is mounted from the source, and the SAD. A sliding window technique was used to deliver the plan, which provides the advantage of avoiding the impact which source travel time could have on step and shoot delivery. Regarding mounting, a custom adapter was designed to mount the 54 leaf MLC to the usual location of shielding block tray, and two electrical connections provided interlock and timing signals. A prostate plan was generated based on the AAPM TG119 sample prostate contour utilizing a four‐field box beam configuration. The calculation was compared with QA measurements using radiochromic (GafChromic EBT2) film and an ion chamber. Results: In relative film measurements, 97.9 % of points passed a χ2 test using 3 %, 3 mm criteria. The absolute point dose measurement using an ionization chamber agreed within 0.5% to prediction. Visual inspection of the χ2 value map suggests that most disagreement can be attributed to uniformity issues with the EBT2 film. Conclusion: Promising dosimetric agreement was obtained for Co‐60 based conformai radiotherapy using a MLC and a prototype version of CORVUS. Conflict of Interest: Research sponsored by Best® Medical International, Inc. © 2010, American Association of Physicists in Medicine. All rights reserved.
+ER  -
+
+TY  - JOUR
+AU  - Parish, Lindsay A.
+AU  - Rayner, Julian C.
+TI  - Plasmodium falciparum secretory pathway: Characterization of PfStx1, a plasma membrane Qa-SNARE
+LA  - eng
+JF  - Molecular and Biochemical Parasitology
+VL  - 164
+IS  - 2
+SP  - 153
+EP  - 156
+PY  - 2009
+SN  - 18729428, 01666851
+PB  - ELSEVIER SCIENCE BV
+DO  - 10.1016/j.molbiopara.2008.11.011
+AB  - SNAREs (soluble N-ethylmaleimide-sensitive factor attachment protein receptors) play a central role in regulating and facilitating vesicular traffic in eukaryotic cells. While SNAREs have been well characterized in other eukaryotes, little is known about their role in the unique protein trafficking pathways in Plasmodium falciparum. We have identified seven Qa-SNAREs in the P. falciparum genome and confirmed the gene structure of all seven, which in one case differs from the predicted structure in the database. Based on comprehensive sequence alignments we made predictions for the intracellular locations of all seven P. falciparum Qa-SNAREs, and confirmed the predicted location for one Qa-SNARE, PfStx1, which is most closely related to other eukaryotic plasma membrane Qa-SNAREs such as syntaxin 1. This is the first identified trafficking component localized proximal to the P. falciparum plasma membrane. © 2008 Elsevier B.V. All rights reserved.
+ER  -
+
+TY  - JOUR
+AU  - Sansford, C. E.
+AU  - Baker, R. H.A.
+AU  - Brennan, J. P.
+AU  - Ewert, F.
+AU  - Gioli, B.
+AU  - Inman, A.
+AU  - Kinsella, A.
+AU  - Magnus, H. A.
+AU  - Miglietta, F.
+AU  - Murray, G. M.
+AU  - Porta-Puglia, A.
+AU  - Porter, J. R.
+AU  - Rafoss, T.
+AU  - Riccioni, L.
+AU  - Thorne, F.
+TI  - The new Pest Risk Analysis for Tilletia indica, the cause of Karnal bunt of wheat, continues to support the quarantine status of the pathogen in Europe
+LA  - eng
+JF  - Plant Pathology
+VL  - 57
+IS  - 4
+SP  - 603
+EP  - 611
+PY  - 2008
+SN  - 13653059, 00320862
+PB  - WILEY
+DO  - 10.1111/j.1365-3059.2008.01825.x
+ER  -
+
+TY  - JOUR
+AU  - Rao, Chetana
+AU  - Von Quintus, Harold
+AU  - Schmitt, Robert L.
+TI  - Calibration of nonnuclear density gauge data for accurate in-place density prediction
+LA  - eng
+JF  - Transportation Research Record
+VL  - 2040
+IS  - 2040
+SP  - 123
+EP  - 136
+PY  - 2007
+SN  - 03611981, 21694052
+SN  - 0309113040, 9780309113045
+PB  - National Research Council
+DO  - 10.3141/2040-14
+AB  - Hot-mix asphalt (HMA) density is an important acceptance quality characteristic, which involves in situ tests for quality control and assurance (QC/QA). Highway agencies have conventionally used nuclear density gauges or core samples for mat density. More recently, alternate nondestructive testing methods have been considered to replace current test methods. Nonnuclear density gauges offer rapid testing while eliminating safety risks and costs associated with radioactive license. Although agencies have evaluated them, they are not implemented in acceptance testing so far. Results are presented from a field evaluation of three nonnuclear density gauges-PaveTracker, PQI 300, and PQI 301-conducted on Wisconsin Department of Transportation (WisDOT) paving projects. The main goal was to evaluate the performance and effectiveness of nonnuclear gauges for use in QC/QA activities by WisDOT. The study involved field tests at 16 project sites and included 21 mix designs and a variety of mix design and pavement design parameters, such as aggregate type, nominal maximum aggregate size, layer thickness, design traffic, and base type. Density measurements were recorded at 30 test points at each site with one nuclear gauge and three nonnuclear gauges. Although the mean standard deviation values of the nonnuclear gauge data were less than those of the nuclear gauge measurements, a consistent bias was observed between the two data sets. This bias was adjusted by using a calibration factor to yield density predictions statistically the same as the nuclear gauge measurements. It is recommended that a calibration factor determined from 10 points by using a slope function be implemented for agency use. Further, daily calibration for each mix design is recommended when the project involves multiple paving days.
+ER  -
+
+TY  - CPAPER
+AU  - Luther, Mark E.
+AU  - Meyers, Steven D.
+AU  - Gilbert, Sherryl A.
+AU  - Subramanian, Vembu
+AU  - Mclntyre, Michelle
+AU  - Wilson, Monica
+AU  - Havens, Heather
+AU  - Linville, Amanda
+TI  - A coastal ocean prediction system for Tampa Bay, Florida
+LA  - eng
+JF  - Oceans 2007
+SP  - 1
+EP  - 6
+PY  - 2007
+SN  - 0933957351, 9780933957350
+PB  - IEEE
+AB  - The USF College of Marine Science has developed a Coastal Ocean Prediction System for Tampa Bay based on an integrated observing system and circulation model as a sub-regional component of the US Integrated Ocean Observing System. The model system ingests real-time observations of the physical forcing functions for Tampa Bay to produce three-dimensional fields of circulation, temperature, salinity, and water level. The hydrodynamic model, based on the ECOM-3D code, is fully operational in either a nowcast-forecast mode or a hindcast mode and is described on our web site (http://ompl.marine.usf.edu/TBmodel). Water level, temperature, salinity, surface heat and moisture fluxes, and winds come from the Tampa Bay Physical Oceanographic Real-Time System (TB-PORTS; http://ompl.marine.usf.edu/ports/ or http://tidesandcurrents.noaa.gov/tbports/tbports. shtml?port=tb) augmented with observations from the USF Coastal Ocean Monitoring and Prediction System (COMPS; http://comps.marine.usf.edu/). Daily river discharge is obtained from the USGS National Water Information System. Precipitation is derived from several gauges operated by the Southwest Florida Water Management District, USGS, and NOAA. The raw observational data undergoes an automated QA/QC procedure before being input into the model. A water quality module has been developed that produces fields of chlorophyll, nutrients, and dissolved oxygen from time- varying estimates of nutrient and fresh water loading. A wave module provides directional wave spectra and bottom stresses based on the SWAN code. The integrated observing and modeling system provides a decision support tool that is used to enhance security, safety, and efficiency of maritime transportation, to guide search and rescue efforts, and to evaluate the bay ecosystem response to environmental stressors. Such stressors include severe storms, seasonal and interannual changes in fresh water input, as well as human impacts, such as hazardous material spills, river withdrawals, nutrient loading, changing land use patterns, and alterations in bay bathymetry. In addition to its routine use by the Tampa Bay Pilots and the US Coast Guard, the Coastal Ocean Prediction System has been used to support management decisions in several environmental issues affecting the bay. For example, the model has been used to investigate the effects of concentrate discharge from a seawater desalination facility recently built on Tampa Bay for the regional water supply authority; to simulate the trajectory of wastewater discharges and hazardous material spills for the Florida Department of Environmental Protection; to predict trajectories of raw sewage spills into the bay for the Pinellas County Health Department; to investigate transport and fate of human pathogens in the bay, and to evaluate changes in salinity and estuarine residence time due to natural variability and to anthropogenic alterations in fresh water input and bathymetry of the bay for the Southwest Florida Water Management District.
+ER  -
+
+TY  - CPAPER
+AU  - IEEE
+AU  - Luther, Mark E.
+AU  - Meyers, Steven D.
+AU  - Gilbert, Sherryl A.
+AU  - Subramanian, Vembu
+AU  - McIntyre, Michelle
+AU  - Wilson, Monica
+AU  - Havens, Heather
+AU  - Linville, Amanda
+TI  - A Coastal Ocean Prediction System for Tampa Bay, Florida
+LA  - eng
+JF  - 2007 Oceans, Vols 1-5
+SP  - 1790
+EP  - 1795
+PY  - 2007
+SN  - 01977385
+SN  - 0933957378, 9780933957374
+PB  - IEEE
+AB  - The USF College of Marine Science has developed a Coastal Ocean Prediction System for Tampa Bay based on an integrated observing system and circulation model as a sub-regional component of the US Integrated Ocean Observing System. The model system ingests real-time observations of the physical forcing functions for Tampa Bay to produce three-dimensional fields of circulation, temperature, salinity, and water level. The hydrodynamic model, based on the ECOM-3D code, is fully operational in either a nowcast-forecast mode or a hindcast mode and is described on our web site (http://ompl.marine.usf.edu/TBmodel). Water level, temperature, salinity, surface heat and moisture fluxes, and winds come from the Tampa Bay Physical Oceanographic Real-Time System (TB-PORTS; http://ompl.marine.usf.edu/ports/ or http://tidesandcurrents.noaa.gov/tbports/tbports.shtml?port=tb) augmented with observations from the USF Coastal Ocean Monitoring and Prediction System (COWS; http://comps.marine.usf.edu/). Daily river discharge is obtained from the USGS National Water Information System. Precipitation is derived from several gauges operated by the Southwest Florida Water Management District, USGS, and NOAA. The raw observational data undergoes an automated QA/QC procedure before being input into the model. A water quality module has been developed that produces fields of chlorophyll, nutrients, and dissolved oxygen from time-varying estimates of nutrient and fresh water loading. A wave module provides directional wave spectra and bottom stresses based on the SWAN code. The integrated observing and modeling system provides a decision support tool that is used to enhance security, safety, and efficiency of maritime transportation, to guide search and rescue efforts, and to evaluate the bay ecosystem response to environmental stressors. Such stressors include severe storms, seasonal and interannual changes in fresh water input, as well as human impacts, such as hazardous material spills, river withdrawals, nutrient loading, changing land use patterns, and alterations in bay bathymetry. In addition to its routine use by the Tampa Bay Pilots and the US Coast Guard, the Coastal Ocean Prediction System has been used to support management decisions in several environmental issues affecting the bay. For example, the model has been used to investigate the effects of concentrate discharge from a seawater desalination facility recently built on Tampa Bay for the regional water supply authority; to simulate the trajectory of wastewater discharges and hazardous material spills for the Florida Department of Environmental Protection; to predict trajectories of raw sewage spills into the bay for the Pinellas County Health Department; to investigate transport and fate of human pathogens in the bay, and to evaluate changes in salinity and estuarine residence time due to natural variability and to anthropogenic alterations in fresh water input and bathymetry of the bay for the Southwest Florida Water Management District.
+ER  -
+
+TY  - CPAPER
+AU  - Luther, Mark E.
+AU  - Meyers, Steven D.
+AU  - Gilbert, Sherryl A.
+AU  - Subramanian, Vembu
+AU  - McIntyre, Michelle
+AU  - Wilson, Monica
+AU  - Havens, Heather
+AU  - Linville, Amanda
+TI  - A coastal ocean prediction system for Tampa Bay, Florida
+LA  - eng
+JF  - Oceans Conference Record (ieee)
+PY  - 2007
+SN  - 01977385
+SN  - 0933957351, 9780933957350
+PB  - IEEE
+DO  - 10.1109/OCEANS.2007.4449385
+AB  - The USF College of Marine Science has developed a Coastal Ocean Prediction System for Tampa Bay based on an integrated observing system and circulation model as a sub-regional component of the US Integrated Ocean Observing System. The model system ingests real-time observations of the physical forcing functions for Tampa Bay to produce three-dimensional fields of circulation, temperature, salinity, and water level. The hydrodynamic model, based on the ECOM-3D code, is fully operational in either a nowcast-forecast mode or a hindcast mode and is described on our web site (http://ompl.marine.usf.edu/ TBmodel). Water level, temperature, salinity, surface heat and moisture fluxes, and winds come from the Tampa Bay Physical Oceanographic Real-Time System (TB-PORTS; http://ompl.marine.usf.edu/ports/ or http://tidesandcurrents.noaa. gov/tbports/tbports.shtml?port=tb) augmented with observations from the USF Coastal Ocean Monitoring and Prediction System (COMPS; http://comps.marine.usf. edu/). Daily river discharge is obtained from the USGS National Water Information System. Precipitation is derived from several gauges operated by the Southwest Florida Water Management District, USGS, and NOAA. The raw observational data undergoes an automated QA/QC procedure before being input into the model. A water quality module has been developed that produces fields of chlorophyll, nutrients, and dissolved oxygen from time-varying estimates of nutrient and fresh water loading. A wave module provides directional wave spectra and bottom stresses based on the SWAN code. The integrated observing and modeling system provides a decision support tool that is used to enhance security, safety, and efficiency of maritime transportation, to guide search and rescue efforts, and to evaluate the bay ecosystem response to environmental stressors. Such stressors include severe storms, seasonal and interannual changes in fresh water input, as well as human impacts, such as hazardous material spills, river withdrawals, nutrient loading, changing land use patterns, and alterations in bay bathymetry. In addition to its routine use by the Tampa Bay Pilots and the US Coast Guard, the Coastal Ocean Prediction System has been used to support management decisions in several environmental issues affecting the bay. For example, the model has been used to investigate the effects of concentrate discharge from a seawater desalination facility recently built on Tampa Bay for the regional water supply authority; to simulate the trajectory of wastewater discharges and hazardous material spills for the Florida Department of Environmental Protection; to predict trajectories of raw sewage spills into the bay for the Pinellas County Health Department; to investigate transport and fate of human pathogens in the bay, and to evaluate changes in salinity and estuarine residence time due to natural variability and to anthropogenic alterations in fresh water input and bathymetry of the bay for the Southwest Florida Water Management District. ©2007 MTS.
+ER  -
+
+TY  - JOUR
+AU  - Boudy, Vincent
+AU  - Voute, Nicolas
+AU  - Pradeau, Dominique
+AU  - Chaumeil, Jean Claude
+TI  - Adsorption of an ionizable drug onto microspheres: Experimental and modeling studies
+LA  - eng
+JF  - International Journal of Pharmaceutics
+VL  - 239
+IS  - 1-2
+SP  - 13
+EP  - 22
+PY  - 2002
+SN  - 18733476, 03785173
+PB  - ELSEVIER SCIENCE BV
+DO  - 10.1016/S0378-5173(02)00033-9
+AB  - The purpose of this work was to study the in vitro equilibria and the adsorption kinetics of an ionizable drug, indomethacin, onto commercially available cationic polymeric microspheres: DEAE Trisacryl LS and QA Trisacryl LS. Isotherms were fitted to theoretical equations allowing accurate predictions of drug loading at different salt concentrations. Isotherm measurements were quickly obtained by simple column breakthrough experiments. The nature of the ion exchange group of the microspheres was observed to be preponderant for adsorption, as the tertiary amine derivative exhibited 53% more capacity than its quaternary amine counterpart. The maximum equilibrium uptake capacity in a 5 mM Tris-HCl buffer at pH 7.4 is 303 mmol/ml of particle volume, for DEAE microspheres. Transport properties of indomethacin into the tertiary amine microspheres were obtained in agitated contactor. Microbeads loading was completed in a 1-6 min range and was found to be controlled by pore diffusion mechanism. Equilibrium uptake data was fitted to the Langmuir and the mass action law models. Adsorption kinetics were fitted to a pore diffusion model. Good correlation was obtained between the theoretical models and the experimental data. The methodology outlined in this work provided a simple approach of estimating adsorption behavior of drugs onto ion-exchange macroporous microspheres. Although significant indomethacin loading was obtained onto the DEAE microspheres, the rapid rate of diffusion is not compatible with sustained release properties sought for this type of microspheres. © 2002 Elsevier Science B.V. All rights reserved.
+ER  -
+
+TY  - CPAPER
+AU  - Hillermeier, RW
+AU  - Chung, KM
+AU  - Seferis, JC
+AU  - Diaz, MH
+TI  - Reduced quality assurance testing of commercial aircraft prepreg systems
+LA  - eng
+A2  - Loud, S, Karbhari, V, Adams, DO, Strong, AB
+JF  - Bridging the Centuries With Sampe's Materials and Processes Technology, Vol 45, Books 1 and 2
+SP  - 1495
+EP  - 1506
+PY  - 2000
+SN  - 0938994867, 9780938994862
+PB  - SOC ADVANCEMENT MATERIAL & PROCESS ENGINEERING
+AB  - Quality assurance testing of prepreg materials in the commercial airplane environment is very complex and a major cost constituent of aircraft composites. In order to reduce and standardize testing, material testing procedures, key characteristics, transport conditions, these effects on the material properties were studied for a widely used glass fiber prepreg system. Besides testing redundancy, several deficiencies ranging from logistical to technical problems in current quality assurance system were identified. Environmental studies revealed that tack, flow, and gel time tests were good a means for identifying aging related phenomena. A model was developed that allowed the prediction of prepreg tack for known thermal histories providing an effective tool to eliminating QA testing on the purchaser side. Together with an improved monitoring technique, this could enable an effective avenue for reduced testing procedures transferable to other prepreg and adhesive materials.
+ER  -
+
+TY  - JOUR
+AU  - Hillermeier, Roman W.
+AU  - Chung, Kimo
+AU  - Seferis, James C.
+AU  - Diaz, Marlon H.
+TI  - Reduced quality assurance testing of commercial aircraft prepreg systems
+LA  - eng
+JF  - International Sampe Symposium and Exhibition (proceedings)
+VL  - 45
+PY  - 2000
+SN  - 08910138
+PB  - SAMPE
+AB  - Quality assurance testing of prepreg materials in the commercial airplane environment is very complex and a major cost constituent of aircraft composites. In order to reduce and standardize testing, material testing procedures, key characteristics, transport conditions, these effects on the material properties were studied for a widely used glass fiber prepreg system. Besides testing redundancy, several deficiencies ranging from logistical to technical problems in current quality assurance system were identified. Environmental studies revealed that tack, flow, and gel time tests were good a means for identifying aging related phenomena. A model was developed that allowed the prediction of prepreg tack for known thermal histories providing an effective tool to eliminating QA testing on the purchaser side. Together with an improved monitoring technique, this could enable an effective avenue for reduced testing procedures transferable to other prepreg and adhesive materials.
+ER  -
+
+TY  - 
+AU  - Bronec, E. Le
+AU  - Boulaud, D.
+AU  - Pourprix, M.
+AU  - Renoux, A.
+TI  - Influence of gravity in the differential mobility analysers. Extension to the determination of particle mass and density
+LA  - eng
+JF  - Journal of Aerosol Science
+VL  - 28
+IS  - 1001
+PY  - 1997
+SN  - 18791964, 00218502
+ER  -
+
+TY  - JOUR
+AU  - Harvey, John T.
+AU  - Vallerga, Bernard A.
+AU  - Monismith, Carl L.
+TI  - Use of SHRP-developed testing in QC/QA programs on asphalt concrete for highway and airfield pavements
+LA  - eng
+JF  - Astm Special Technical Publication
+VL  - 1299
+SP  - 94
+EP  - 110
+PY  - 1996
+SN  - 00660558
+PB  - American Society for Testing and Materials
+DO  - 10.1520/stp16310s
+AB  - Present-day test equipment and procedures in quality control (QC) and quality assurance (QA) programs, based on use of the Marshall and Hveem methods, are essentially limited to verification of the physical composition of the asphalt concrete mix and its compacted density to control and assure that the builder is supplying a product which falls within the constraints defined by the job-mix-formula. They do not answer the essential question as to whether or not the asphalt concrete mix will have the strength properties needed to resist the number and intensity of repeated wheel load applications for which it was designed, both at the as-constructed and the traffic-compacted stages. This paper presents a philosophical discussion of the requirements for an asphalt concrete QC/QA system, using performance-based measures as the criteria. The framework for a performance-based system is described based on use of the Repetitive Simple Shear Test at Constant Height (RSST-CH) for rutting prediction and the Flexural Bending Beam Test (FBBT) for the estimation of fatigue cracking.
+ER  -
+
+TY  - JOUR
+AU  - DOEHRING, FK
+AU  - ABT, SR
+TI  - DROP HEIGHT INFLUENCE ON OUTLET SCOUR
+LA  - eng
+JF  - Journal of Hydraulic Engineering-asce
+VL  - 120
+IS  - 12
+SP  - 1470
+EP  - 1476
+PY  - 1994
+SN  - 07339429, 19437900
+PB  - ASCE-AMER SOC CIVIL ENGINEERS
+DO  - 10.1061/(ASCE)0733-9429(1994)120:12(1470)
+AB  - A study was conducted to determine how fall distance, or drop height, beneath a culvert outlet affects the dimensions of localized scour. Eighteen experiments were performed in which flow discharged from a circular, 4-in.-diameter pipe onto a near-horizontal bed for 316 min. The bed material was relatively uniform sand with median Brain diameter, d(50) = 1.86 mm. The scour hole dimensions, depth, width, length, and volume, were documented for drop heights of 0, 1, 2, and 4 times the culvert diameter above the bed. A series of expressions were developed correlating the dimensionless scour hold parameters of depth, width, length, and volume to the modified discharge intensity, QA(-1)g(-0.5)R(H)(-0.5), and to the drop height. It was determined that culverts placed above the bed result in deeper, wider, and shorter scour holes than culverts placed adjacent to the bed. Criteria for adjusting the existing U.S. Department of Transportation scour hole prediction procedure for drop height is presented in this paper.
+ER  -
+
+TY  - CPAPER
+AU  - BRACCO, G
+AU  - BURATTI, P
+AU  - TUDISCO, O
+TI  - ELECTRON HEAT-TRANSPORT ANALYSIS OF FTU OHMIC PLASMAS
+LA  - eng
+A2  - Callen, JD, Gorini, G, Sindoni, E
+JF  - Local Transport Studies in Fusion Plasmas
+VL  - 14
+SP  - 63
+EP  - 68
+PY  - 1993
+SN  - 887794059x, 9788877940599
+PB  - EDITRICE COMPOSITORI
+AB  - The energy confinement time τE for ohmic discharges increases linearly with the <n>qa parameter (neo-ALCATOR scaling) up to a saturation value, above which τE remains constant (saturated regime). Here <n> indicates the volume average density and qa the edge safety factor. When auxiliary heating is applied, τE decreases according to the L-mode scaling. Several remarkable exceptions exist to this basic behaviour, such as improved ohmic confinement and H-mode. The role of ion transport in the saturation of Ohmic confinement and the connection between the latter and the L-mode are still debated questions. Energy confinement in FTU follows neo-ALCATOR scaling up to <n>qa=3×1020 m−3 and then saturates. Ion temperature profiles computed assuming neoclassical ion transport agree with ion temperature diagnostics both in the linear and in the saturated regime. The best fitting to FTU confinement data is provided by the L-mode Lackner-Gottardi scaling; this prompts the existence of a strict connection between ohmic and L-mode confinement. In order to examine more closely this connection, the authors compared the electron thermal diffusivity obtained from local power balance analysis with the predictions of transport models that well represent L-mode data from experiments with strong auxiliary heating. Such a comparison requires a good measurement of the electron temperature gradient, but is more direct than the comparison with calculated temperature profiles.
+ER  -

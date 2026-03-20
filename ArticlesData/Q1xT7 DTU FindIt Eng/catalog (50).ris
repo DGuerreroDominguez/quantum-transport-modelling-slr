@@ -1,0 +1,623 @@
+TY  - JOUR
+AU  - Tambunan, Toufan D.
+AU  - Suksmono, Andriyan B.
+AU  - Edward, Ian J. M.
+AU  - Mulyawan, Rahmat
+TI  - Quantum Annealing for Vehicle Routing Problem with weighted Segment
+LA  - und
+PY  - 2022
+AB  - Quantum annealing technologies aim to solve computational optimization and
+sampling problems. QPU (Quantum Processing Unit) machines such as the D-Wave
+system use the QUBO (Quadratic Unconstrained Binary Optimization) formula to
+define model optimization problems for quantum annealing. This machine uses
+quantum effects to speed up computing time better than classical computers. We
+propose a vehicle routing problem that can be formulated in the QUBO model as a
+combinatorial problem, which gives the possible route solutions increases
+exponentially. The solution aims to optimize the vehicle's journey to reach a
+destination. The study presents a QUBO formulation to solve traffic congestion
+problems on certain roads. The resulting route selection by optimizing the
+distribution of the flow of alternative road vehicles based on the weighting of
+road segments. Constraints formulated as a condition for the level of road
+density. The road weight parameter influences the cost function for each road
+choice. The simulations on the D-Wave quantum annealer show optimal results on
+the route deployment of several vehicles. So that each vehicle will be able to
+go through different road options and reduce road congestion accurately. This
+solution provides an opportunity to develop QUBO modeling for more complex
+vehicle routing problems for road congestion.
+ER  -
+
+TY  - CPAPER
+AU  - Tambunan, Toufan Diansyah
+AU  - Suksmono, Andriyan Bayu
+AU  - Edward, Ian Joseph Matheus
+AU  - Mulyawan, Rahmat
+TI  - Quantum annealing for vehicle routing problem with weighted segment
+LA  - eng
+A2  - Sudrajat, Hanggara, Saputri, Wahyu Dita, Sunnardianto, Gagus Ketut, Wella, Sasfan Arman, Suprayoga, Edi, Ukhtary, Muhammad Shoufie, Hung, Nguyen Tuan
+JF  - Aip Conference Proceedings
+VL  - 2906
+IS  - 1
+PY  - 2023
+SN  - 15517616, 0094243x
+PB  - American Institute of Physics Inc.
+DO  - 10.1063/5.0178362
+AB  - Quantum annealing technologies aim to solve combinatorial optimization and sampling problems. Studies on combi-natorial optimization problems include the selection of vehicle routes on road traffic, known as the NP-hard problem. We propose a vehicle route problem that can be formulated in the Quadratic Unconstrained Binary Optimization (QUBO) model as a combina-torial problem to optimize vehicle route selection. The solution aims to optimize the vehicle's journey to reach a destination. The experiment presents a formulation to solve traffic congestion problems on certain roads. The selection of vehicle routes results in optimizing the distribution of alternative road vehicle flows. The level of road density is a cost function that will be optimized, and the constraint is a limitation on the route choice for each vehicle. This vehicle routing problem considers the weight parameter (as distance in actual road conditions) of the road segment that affects the cost function. The simulations on the D-Wave quantum annealer show optimal results on the route deployment of several vehicles. The cost value on route choice with weighted segments gives better results than in previous studies. Each vehicle can go through different road options and accurately reduce road conges-tion. This solution provides an opportunity to develop QUBO modeling on more complex vehicle routing problems to reduce road congestion.
+ER  -
+
+TY  - CPAPER
+AU  - Su, Juexiao
+AU  - Tu, Tianheng
+AU  - He, Lei
+TI  - A quantum annealing approach for boolean satisfiability problem
+LA  - eng
+JF  - Proceedings - Design Automation Conference
+VL  - 05-09-
+PY  - 2016
+SN  - 0738100x
+SN  - 1467387290, 1467387304, 9781467387293, 9781467387309, 1450342361, 9781450342360
+PB  - Institute of Electrical and Electronics Engineers Inc.
+DO  - 10.1145/2897937.2897973
+AB  - Quantum annealing device has shown a great potential in solving discrete problems that are theoretically and empirically hard. Boolean Satisfiability (SAT) problem, determining if there is an assignment of variables that satisfies a given Boolean function, is the first proven NP-complete problem widely used in various domains. Here, we present a novel mapping of the SAT problem to the quadratic unconstrained binary optimization problem (QUBO), and further develop a tool flow embedding the proposed QUBO to the architecture of the commercialized quantum computer D-Wave. By leveraging electronic design automation techniques including synthesis, placement and routing, this is not only the first work providing the detail flow that embeds the QUBO, but also a technique scalable for real world applications and some hard SAT problems with over 6000 variables in QUBO. Based on our results, we discuss the challenges in solving SAT using the current generation of annealing device, and explore the problem solving capability of future quantum annealing computers.
+ER  -
+
+TY  - JOUR
+AU  - Shikanai, Reo
+AU  - Ohzeki, Masayuki
+AU  - Tanaka, Kazuyuki
+TI  - Quadratic Unconstrained Binary Formulation for Traffic Signal
+  Optimization on Real-World Maps
+LA  - und
+PY  - 2024
+AB  - The D-Wave quantum annealing machine can quickly find the optimal solution
+for quadratic unconstrained binary optimization (QUBO). One of the applications
+where the use of quantum annealing is desired is in problems requiring rapid
+calculations. One such application is the traffic signal optimization. Several
+studies have used quantum annealing; however, they are formulated in relatively
+unrealistic settings, such as only crossroads on a map. We propose a different
+formulation of QUBO that can also deal with T-junctions and multi-forked roads.
+The simulation of urban mobility (SUMO) was used to validate the efficiency of
+our approach and verify the feasibility of real-time control using geographical
+information data that were very similar to the real world. Our model could
+reduce the waiting time at red lights for vehicles. In addition, we compared
+our results with those of the Gurobi Optimizer to confirm whether the D-Wave
+machine could find the ground state. Unfortunately, our results show that the
+D-Wave machine could not find the optimal solution and was slower than the
+Gurobi Optimizer in computation time.
+ER  -
+
+TY  - CPAPER
+AU  - He, Haoqi
+TI  - Quantum Annealing and GNN for Solving TSP with QUBO
+LA  - eng
+JF  - Lecture Notes in Computer Science (including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 15180
+SP  - 134
+EP  - 145
+PY  - 2024
+SN  - 16113349, 03029743
+SN  - 981977800X, 9789819778003, 9819778018, 9789819778010
+PB  - Springer Science and Business Media Deutschland GmbH
+DO  - 10.1007/978-981-97-7801-0_12
+AB  - This paper investigates the application of Quadratic Unconstrained Binary Optimization (QUBO) models for solving the Travelling Salesman Problem (TSP) using Quantum Annealing (QA) and Graph Neural Networks (GNNs). Quantum Annealing leverages quantum tunneling to escape local minima, solving QUBO formulations of TSP on Coherent Ising Machines (CIMs). Additionally, we introduce a novel method that integrates QUBO as a loss function within a GNN framework tailored for TSP. By exploiting GNNs’ capability to learn graph representations, this approach efficiently approximates TSP solutions with improved computational time over traditional exact solvers. We detail the construction of a QUBO model for TSP, encoding city visits into binary variables and formulating constraints to ensure valid tours. The implementation of the QUBO-based Quantum Annealing algorithm for TSP (QQA-TSP) is demonstrated using quantum simulation platforms. Furthermore, a solution for TSP (QGNN-TSP) is presented, which learns the problem’s structure and generates competitive solutions through gradient descent over a QUBO-based loss function. Experimental results show that QQA-TSP performs competitively with state-of-the-art classical solvers like dynamic programming, Concorde, and Gurobi. The QGNN-TSP approach is trained and evaluated on various TSP datasets, demonstrating efficiency and scalability. This study highlights the potential of combining deep learning with quantum-inspired optimization for solving NP-hard problems, suggesting future directions for enhancing GNN architectures and applying QUBO frameworks to more complex combinatorial optimization tasks.
+ER  -
+
+TY  - JOUR
+AU  - Shikanai, Reo
+AU  - Ohzeki, Masayuki
+AU  - Tanaka, Kazuyuki
+TI  - Quadratic Unconstrained Binary Formulation for Traffic Signal Optimization on Real-World Maps
+LA  - eng
+JF  - Journal of the Physical Society of Japan
+VL  - 94
+IS  - 2
+PY  - 2025
+SN  - 13474073, 00319015
+PB  - Physical Society of Japan
+DO  - 10.7566/JPSJ.94.024001
+AB  - The D-Wave quantum annealing machine can quickly find the optimal solution for quadratic unconstrained binary optimization (QUBO). One of the applications where the use of quantum annealing is desired is in problems requiring rapid calculations. One such application is the traffic signal optimization. Several studies have used quantum annealing; however, they are formulated in relatively unrealistic settings, such as only crossroads on a map. We propose a different formulation of QUBO that can also deal with T-junctions and multi-forked roads. The simulation of urban mobility (SUMO) was used to validate the efficiency of our approach and verify the feasibility of real-time control using geographical information data that were very similar to the real world. Our model could reduce the waiting time at red lights for vehicles. In addition, we compared our results with those of the Gurobi Optimizer to confirm whether the D-Wave machine could find the ground state. Unfortunately, our results show that the D-Wave machine could not find the optimal solution and was slower than the Gurobi Optimizer in computation time.
+ER  -
+
+TY  - CPAPER
+AU  - Zander, René
+AU  - Seidel, Raphael
+AU  - Inajetovic, Matteo
+AU  - Steinmann, Niklas
+AU  - Petrič, Matic
+TI  - Solving the Product Breakdown Structure Problem with constrained QAOA
+LA  - eng
+A2  - Culhane, C, Byrd, G, Muller, H, Alexev, Y, Sheldon, S
+JF  - Proceedings - Ieee Quantum Week 2024, Qce 2024
+VL  - 2
+SP  - 462
+EP  - 463
+PY  - 2024
+SN  - 9798331541378
+PB  - Institute of Electrical and Electronics Engineers Inc.
+DO  - 10.1109/QCE60285.2024.10356
+AB  - Constrained optimization problems, where not all possible variable assignments are feasible solutions, comprise numerous practically relevant optimization problems such as the Traveling Salesman Problem (TSP), or portfolio optimization. Established methods such as quantum annealing or vanilla QAOA usually transform the problem statement into a Quadratic Unconstrained Binary Optimization (QUBO) form, where the constraints are enforced by auxiliary terms in the QUBO objective. Consequently, such approaches fail to utilize the additional structure provided by the constraints. In this work, we present a method for solving the industry relevant Product Breakdown Structure problem. The method is based on constrained QAOA, which by construction never explores the part of the Hilbert space that represents solutions forbidden by the problem constraints. The size of the search space is thereby reduced significantly. We experimentally show that this approach has not only a very favorable scaling behavior, but also appears to suppress the negative effects of Barren Plateaus.
+ER  -
+
+TY  - JOUR
+AU  - Zander, René
+AU  - Seidel, Raphael
+AU  - Inajetovic, Matteo
+AU  - Steinmann, Niklas
+AU  - Petrič, Matic
+TI  - Solving the Product Breakdown Structure Problem with constrained QAOA
+LA  - eng
+JF  - Arxiv (cornell University)
+PY  - 2024
+PB  - Cornell University
+DO  - 10.48550/arXiv.2406.15228
+AB  - Constrained optimization problems, where not all possible variable assignments are feasible solutions, comprise numerous practically relevant optimization problems such as the Traveling Salesman Problem (TSP), or portfolio optimization. Established methods such as quantum annealing or vanilla QAOA usually transform the problem statement into a QUBO (Quadratic Unconstrained Binary Optimization) form, where the constraints are enforced by auxiliary terms in the QUBO objective. Consequently, such approaches fail to utilize the additional structure provided by the constraints. In this paper, we present a method for solving the industry relevant Product Breakdown Structure problem. Our solution is based on constrained QAOA, which by construction never explores the part of the Hilbert space that represents solutions forbidden by the problem constraints. The size of the search space is thereby reduced significantly. We experimentally show that this approach has not only a very favorable scaling behavior, but also appears to suppress the negative effects of Barren Plateaus.
+ER  -
+
+TY  - JOUR
+AU  - Reo, Shikanai
+AU  - Masayuki, Ohzeki
+AU  - Kazuyuki, Tanaka
+TI  - Traffic signal optimization using quantum annealing on real map
+LA  - eng
+JF  - Research Square (research Square)
+PY  - 2023
+PB  - Research Square
+DO  - 10.21203/rs.3.rs-3302709/v1
+AB  - <title>Abstract</title> The quantum annealing machine manufactured by D-Wave Systems is expected to find the optimal solution for QUBO (Quadratic Unconstrained Binary Optimization) accurately and quickly.This would be useful in future applications where real-time calculation is needed.One such application is traffic signal optimization.Some studies use quantum annealing for this.However, they are formulated in unrealistic settings, such as only crossroads on the map.Therefore, we suggest a QUBO, which can deal with T-junctions and multi-forked roads.To validate the efficiency of our approach, SUMO (Simulation of Urban MObility) is used.This enables us to experiment with geographic information data very close to the real world.We compared results with those using the Gurobi Optimizer in the experiment to confirm that quantum annealing can find a ground state.The results show that the quantum annealing cannot find the ground state, but our model can reduce the time that vehicles wait at a red light.It is also inferior to the Gurobi Optimizer in calculation time. This seems to be due to the D-Wave machine's hardware limitations and noise effects, such as ambient temperature.If these problems are solved, and the number of qubits is increased, the use of quantum annealing is likely to be superior in terms of the speed of calculating an optimal solution.
+ER  -
+
+TY  - JOUR
+AU  - He, Haoqi
+TI  - Quantum Annealing and Graph Neural Networks for Solving TSP with QUBO [arXiv]
+LA  - eng
+JF  - Arxiv (cornell University)
+PY  - 2024
+PB  - Cornell University
+DO  - 10.48550/arXiv.2402.14036
+AB  - This paper explores the application of Quadratic Unconstrained Binary Optimization (QUBO) models in solving the Travelling Salesman Problem (TSP) through Quantum Annealing algorithms and Graph Neural Networks. Quantum Annealing (QA), a quantum-inspired optimization method that exploits quantum tunneling to escape local minima, is used to solve QUBO formulations of TSP instances on Coherent Ising Machines (CIMs). The paper also presents a novel approach where QUBO is employed as a loss function within a GNN architecture tailored for solving TSP efficiently. By leveraging GNN's capability to learn graph representations, this method finds approximate solutions to TSP with improved computational time compared to traditional exact solvers. The paper details how to construct a QUBO model for TSP by encoding city visits into binary variables and formulating constraints that guarantee valid tours. It further discusses the implementation of QUBO-based Quantum Annealing algorithm for TSP (QQA-TSP) and its feasibility demonstration using quantum simulation platforms. In addition, it introduces a Graph Neural Network solution for TSP (QGNN-TSP), which learns the underlying structure of the problem and produces competitive solutions via gradient descent over a QUBO-based loss function. The experimental results compare the performance of QQA-TSP against state-of-the-art classical solvers such as dynamic programming, Concorde, and Gurobi, while also presenting empirical outcomes from training and evaluating QGNN-TSP on various TSP datasets. The study highlights the promise of combining deep learning techniques with quantum-inspired optimization methods for solving NP-hard problems like TSP, suggesting future directions for enhancing GNN architectures and applying QUBO frameworks to more complex combinatorial optimization tasks.
+ER  -
+
+TY  - JOUR
+AU  - Bouchmal, Oumayma
+AU  - Cimoli, Bruno
+AU  - Stabile, Ripalta
+AU  - Vegas Olmos, Juan Jose
+AU  - Hernandez, Carlos
+AU  - Martinez, Ricardo
+AU  - Casellas, Ramon
+AU  - Tafur Monroy, Idelfonso
+TI  - Novel Application of Quantum Computing for Routing and Spectrum Assignment in Flexi-Grid Optical Networks
+LA  - eng
+JF  - Photonics
+VL  - 11
+IS  - 11
+PY  - 2024
+SN  - 23046732
+PB  - Multidisciplinary Digital Publishing Institute (MDPI)
+DO  - 10.3390/photonics11111023
+AB  - Flexi-grid technology has revolutionized optical networking by enabling Elastic Optical Networks (EONs) that offer greater flexibility and dynamism compared to traditional fixed-grid systems. As data traffic continues to grow exponentially, the need for efficient and scalable solutions to the routing and spectrum assignment (RSA) problem in EONs becomes increasingly critical. The RSA problem, being NP-Hard, requires solutions that can simultaneously address both spatial routing and spectrum allocation. This paper proposes a novel quantum-based approach to solving the RSA problem. By formulating the problem as a Quadratic Unconstrained Binary Optimization (QUBO) model, we employ the Quantum Approximate Optimization Algorithm (QAOA) to effectively solve it. Our approach is specifically designed to minimize end-to-end delay while satisfying the continuity and contiguity constraints of frequency slots. Simulations conducted using the Qiskit framework and IBM-QASM simulator validate the effectiveness of our method. We applied the QAOA-based RSA approach to small network topology, where the number of nodes and frequency slots was constrained by the limited qubit count on current quantum simulator. In this small network, the algorithm successfully converged to an optimal solution in less than 30 iterations, with a total runtime of approximately 10.7 s with an accuracy of (Formula presented.). Additionally, we conducted a comparative analysis between QAOA, integer linear programming, and deep reinforcement learning methods to evaluate the performance of the quantum-based approach relative to classical techniques. This work lays the foundation for future exploration of quantum computing in solving large-scale RSA problems in EONs, with the prospect of achieving quantum advantage as quantum technology continues to advance.
+ER  -
+
+TY  - JOUR
+AU  - Enan, Abyad
+AU  - Salek, M Sabbir
+AU  - Chowdhury, Mashrur
+AU  - Comert, Gurcan
+AU  - Khan, Sakib M.
+AU  - Majumder, Reek
+TI  - Optimal Traffic Flow in Quantum Annealing-Supported Virtual Traffic
+  Lights
+LA  - und
+JF  - Arxiv (cornell University)
+PY  - 2024
+PB  - Cornell University
+DO  - 10.48550/arxiv.2412.18776
+AB  - The Virtual Traffic Light (VTL) eliminates the need for physical traffic
+signal infrastructure at intersections, leveraging Connected Vehicles (CVs) to
+optimize traffic flow. VTL assigns right-of-way dynamically based on factors
+such as estimated times of arrival (ETAs), the number of CVs in various lanes,
+and emission rates. These factors are considered in line with the objectives of
+the VTL application. Aiming to optimize traffic flow and reduce delays, the VTL
+system generates Signal Phase and Timing (SPaT) data for CVs approaching an
+intersection, while considering the impact of each CV movement on others.
+However, the stochastic nature of vehicle arrivals at intersections complicates
+real-time optimization, challenging classical computing methods. To address
+this limitation, we develop a VTL method that leverages quantum computing to
+minimize stopped delays for CVs. The method formulates the VTL problem as a
+Quadratic Unconstrained Binary Optimization (QUBO) problem, a mathematical
+framework well-suited for quantum computing. Using D-Wave cloud-based quantum
+computer, our approach determines optimal solutions for right-of-way
+assignments under the standard National Electrical Manufacturers Association
+(NEMA) phasing system. The system was evaluated using the microscopic traffic
+simulator SUMO under varying traffic volumes. Our results demonstrate that the
+quantum-enabled VTL system reduces stopped delays and travel times compared to
+classical optimization-based systems. This approach not only enhances traffic
+management efficiency but also reduces the infrastructure costs associated with
+traditional traffic signals. The quantum computing-supported VTL system offers
+a transformative solution for large-scale traffic control, providing superior
+performance across diverse traffic scenarios and paving the way for advanced,
+cost-effective traffic management.
+ER  -
+
+TY  - CPAPER
+AU  - Nakano, Koji
+AU  - Ito, Yasuaki
+AU  - Takafuji, Daisuke
+AU  - Yazane, Takashi
+AU  - Yano, Junko
+AU  - Ozaki, Shiro
+AU  - Katsuki, Ryota
+AU  - Mori, Rie
+TI  - A benchmark QUBO problem inspired by digital halftoning based on the human visual system
+LA  - eng
+JF  - Proceedings - 2022 10th International Symposium on Computing and Networking, Candar 2022
+SP  - 56
+EP  - 65
+PY  - 2022
+SN  - 23791888, 23791896
+SN  - 1665475307, 9781665475303
+PB  - Institute of Electrical and Electronics Engineers Inc.
+DO  - 10.1109/CANDAR57322.2022.00015
+AB  - Quadratic Unconstrained Binary Optimization (QUBO) is a combinatorial optimization to find an optimal binary solution vector that minimizes the energy value defined by a quadratic formula of binary variables in the vector. As many NP problems can be reduced to QUBO problems, considerable research has gone into developing QUBO solvers running on various computing platforms such as quantum devices, ASICs, FPGAs, GPUs, and optical fibers. For evaluating the performance of QUBO solvers, QUBO problems reduced from combinatorial optimization problems such as MaxCut, Traveling Salesman Problem (TSP), and Quadratic Assignment Problem (QAP) are commonly used. This paper presents a new benchmark QUBO problem inspired by digital halftoning, which aims to find a binary image reproducing an input grayscale image. The characteristics of this QUBO problem reduced from digital halftoning are quite unique. Solutions of the QUBO problem can be converted into binary images, from which we can visually evaluate the solution quality. Good approximation solutions for the QUBO problem can be obtained by a simple heuristic algorithm very quickly. However, it is very hard to find an optimal solution. Moreover, quite interestingly, we can create a QUBO problem for digital halftoning with a known optimal solution for a benchmarking purpose. Thus, we can exactly compute the gap between the optimal solution and an approximate solution obtained by a QUBO solver. We have developed an OpenMP-based sparse QUBO solver that can find good approximate solutions for QUBO problems reduced from digital halftoning. We have evaluated the performance of QUBO solvers including the D-Wave Hybrid solver, Gurobi optimizer, Open.Jij, and our sparse QUBO solver. The experimental results show that our OpenMP-based sparse QUBO solver attains the best performance.
+ER  -
+
+TY  - JOUR
+AU  - Padmasola, Venkat
+AU  - Li, Zhaotong
+AU  - Chatterjee, Rupak
+AU  - Dyk, Wesley
+TI  - Solving the Traveling Salesman Problem via Different Quantum Computing Architectures
+LA  - eng
+PY  - 2025
+DO  - 10.48550/arXiv.2502.17725
+AB  - We study the application of emerging photonic and quantum computing architectures to solving the Traveling Salesman Problem (TSP), a well-known NP-hard optimization problem. We investigate several approaches: Simulated Annealing (SA), Quadratic Unconstrained Binary Optimization (QUBO-Ising) methods implemented on quantum annealers and Optical Coherent Ising Machines, as well as the Quantum Approximate Optimization Algorithm (QAOA) and the Quantum Phase Estimation (QPE) algorithm on gate-based quantum computers. QAOA and QPE were tested on the IBM Quantum platform. The QUBO-Ising method was explored using the D-Wave quantum annealer, which operates on superconducting Josephson junctions, and the QCI Dirac machine, a nonlinear optoelectronic Ising machine. Gate-based quantum computers demonstrated accurate results for small TSP instances in simulation. However, real quantum devices are hindered by noise and limited scalability. Circuit complexity grows with problem size, restricting performance to TSP instances with a maximum of 6 nodes. In contrast, Ising-based architectures show improved scalability for larger problem sizes. SQUID-based Ising machines can handle TSP instances with up to 12 nodes, while nonlinear optoelectronic Ising machines extend this capability to 18 nodes. Nevertheless, the solutions tend to be suboptimal due to hardware limitations and challenges in achieving ground state convergence as the problem size increases. Despite these limitations, Ising machines demonstrate significant time advantages over classical methods, making them a promising candidate for solving larger-scale TSPs efficiently.
+ER  -
+
+TY  - JOUR
+AU  - Wei, Bo
+AU  - Song, Hang
+AU  - Nakamura, Makoto
+AU  - Kimura, Koichi
+AU  - Togawa, Nozomu
+AU  - Katto, Jiro
+TI  - QuDASH: Quantum-Inspired Rate Adaptation Approach for DASH Video Streaming
+LA  - eng
+JF  - Ieee Access
+VL  - 11
+SP  - 118462
+EP  - 118473
+PY  - 2023
+SN  - 21693536
+PB  - Institute of Electrical and Electronics Engineers Inc.
+DO  - 10.1109/ACCESS.2023.3326326
+AB  - Internet traffic is dramatically increasing with the development of network technologies and video streaming traffic accounts for large amount within the total traffic, which reveals the importance to guarantee the quality of content delivery service. Based on the network conditions, adaptive bitrate (ABR) control is utilized as a common technique which can choose the proper bitrate to ensure the video streaming quality. In this paper, new bitrate control method, QuDASH is proposed by taking advantage of the emerging quantum technology. In QuDASH, the adaptive control model is developed using the quadratic unconstrained binary optimization (QUBO), which aims at increasing the average bitrate and decreasing the video rebuffering events to maximize the user quality of experience (QoE). In order to formulate the video control model, first the QUBO terms of different factors are defined regarding video quality, bitrate change, and buffer condition. Then, all the individual QUBO terms are merged to generate an objective function. By minimizing the QUBO objective function, the bitrate choice is determined from the solution. The control model is solved by Digital Annealer, which is a quantum-inspired computing technology. The evaluation of the proposed method is carried out by simulation with the throughput traces obtained in real world under different scenarios and the comparison with other methods is conducted. Experiment results demonstrated that the proposed QuDASH method has better performance in terms of QoE compared with other advanced ABR methods. In 68.2% of the examined cases, QuDASH achieves the highest QoE results, which shows the superiority of the QuDASH over conventional methods.
+ER  -
+
+TY  - CPAPER
+AU  - Bouchmal, Oumayma
+AU  - Cimoli, Bruno
+AU  - Stabile, Ripalta
+AU  - Vegas Olmos, J. J.
+AU  - Monroy, Idelfonso Tafur
+TI  - Quantum Approximate Optimization Algorithm for Routing Optimization in 6G Optical Networks
+LA  - eng
+A2  - Larrabeiti-Lopez, D, Valcarenghi, L, Mas-Machuca, C, Hernandez-Gutierrez, JA
+JF  - Proceedings of the 2024 International Conference on Optical Network Design and Modeling, Ondm 2024
+SP  - 1
+EP  - 6
+PY  - 2024
+SN  - 3903176621, 9783903176621, 9798350351132, 3903176540, 9783903176546, 9798350399240
+PB  - Institute of Electrical and Electronics Engineers Inc.
+DO  - 10.23919/ONDM61578.2024.10582687
+AB  - Routing optimization refers to finding the most efficient path for data to travel between two devices on a network. In this paper, we propose the use of the Quantum Approximate Optimization Algorithm (QAOA) as a novel approach to routing optimization in the context of 6G networks. To this end, we first develop a cost function for single source single destination routing, which is then converted into a Quadratic Unconstrained Binary Optimization formulation. We subsequently extract the equivalent Variational Quantum Circuit of the QAOA from the optimization formulation. To test the performance of the QAOA, we utilize IBM's Qiskit toolkit and QASM-simulator and the Constrained by Linear Approximation optimizer to update the circuit parameters. Simulation results show that the proposed approach converges to the optimal solution, and only after less than 25 iteration, the QAOA was able to find the optimal path for the routing problem.
+ER  -
+
+TY  - JOUR
+AU  - Şeker, Oylum
+AU  - Bodur, Merve
+AU  - Pouya, Hamed
+TI  - Routing and wavelength assignment with protection: A quadratic unconstrained binary optimization approach enabled by Digital Annealer technology
+LA  - eng
+JF  - Iise Transactions
+VL  - 56
+IS  - 2
+SP  - 156
+EP  - 171
+PY  - 2024
+SN  - 24725862, 24725854
+PB  - Taylor and Francis Ltd.
+DO  - 10.1080/24725854.2023.2193835
+AB  - Routing and wavelength assignment with protection is an important problem in telecommunications. Given an optical network and incoming connection requests, a commonly studied variant of the problem aims to grant a maximum number of requests by assigning lightpaths with minimum network resource usage, while ensuring the provided services remain functional in the case of a single-link failure through dedicated protection paths. We consider a version where alternative lightpaths for requests are assumed to be given as a precomputed set and show that it is NP-hard. We formulate the problem as an Integer Programming (IP) model and also use it as a foundation to develop a Quadratic Unconstrained Binary Optimization (QUBO) model. We present necessary and sufficient conditions on objective function parameters to prioritize request granting objective over wavelength-link usage for both models, and a sufficient condition ensuring the exactness of the QUBO model. Moreover, we implement a problem-specific branch-and-cut algorithm for the IP model and employ a new quantum-inspired technology, Digital Annealer (DA), for the QUBO model. We conduct computational experiments on a large suite of nontrivial instances to assess the efficiency and efficacy of all of these approaches as well as two problem-specific heuristics. Although the objective penalty coefficient values that guarantee the exactness of the QUBO model were outside the acceptable range for DA, it always yielded feasible solutions even with smaller values in practice. The results show that the emerging technology DA outperforms the considered techniques coupled with GUROBI in finding mostly significantly better or as good solutions in two minutes compared to two-hour run time, whereas problem-specific heuristics fail to be competitive.
+ER  -
+
+TY  - JOUR
+AU  - Şeker, Oylum
+AU  - Bodur, Merve
+AU  - Pouya, Hamed
+TI  - Routing and Wavelength Assignment with Protection: A Quadratic
+  Unconstrained Binary Optimization Approach
+LA  - und
+PY  - 2021
+AB  - The routing and wavelength assignment with protection is an important problem
+in telecommunications. Given an optical network and incoming connection
+requests, a commonly studied variant of the problem aims to grant maximum
+number of requests by assigning lightpaths at minimum network resource usage
+level, while ensuring the provided services remain functional in case of a
+single-link failure through dedicated path protection. We consider a
+practically relevant version where alternative lightpaths for requests are
+assumed to be given as a precomputed set, and show that it is NP-hard. We
+formulate the problem as an integer programming (IP) model, and also use it as
+a foundation to develop a novel quadratic unconstrained binary optimization
+(QUBO) model, which can be both directly solved by a state-of-the-art solver
+like GUROBI. We present necessary and sufficient conditions on objective
+function parameters to prioritize request granting objective over
+wavelength-link usage for both models, and a sufficient condition to ensure the
+exactness of the QUBO model. Moreover, we implement a problem-specific
+branch-and-cut algorithm for the IP model, and employ a new quantum-inspired
+technology, Digital Annealer (DA), for the QUBO model. We conduct computational
+experiments on a large suite of instances that are hard to optimally solve in
+order to assess the efficiency and efficacy of all of these approaches as well
+as a problem-specific heuristic. The results show that the emerging technology
+DA outperforms the considered established techniques coupled with GUROBI, in
+finding mostly significantly better or as good solutions in only two minutes
+compared to two hours of run time, whereas the problem-specific heuristic fails
+to be competitive.
+ER  -
+
+TY  - CPAPER
+TI  - 15th Metaheuristics International Conference, MIC 2024
+LA  - eng
+JF  - Lecture Notes in Computer Science (including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 14753
+PY  - 2024
+SN  - 16113349, 03029743
+SN  - 3031629116, 3031629124, 9783031629112, 9783031629129
+PB  - Springer Science and Business Media Deutschland GmbH
+AB  - The proceedings contain 70 papers. The special focus in this conference is on Metaheuristics. The topics include: A Continuous-GRASP Random-Key Optimizer; adaptive Ant Colony Optimization Using Node Clustering with Simulated Annealing; job-Shop Scheduling with Robot Synchronization for Transport Operations; SIRO: A Deep Learning-Based Next-Generation Optimizer for Solving Global Optimization Problems; Investigation of the Benefit of Extracting Patterns from Local Optima to Solve a Bi-objective VRPTW; a Memetic Algorithm for Large-Scale Real-World Vehicle Routing Problems with Simultaneous Pickup and Delivery with Time Windows; tabu Search for Solving Covering Salesman Problem with Nodes and Segments; VNS with Path Relinking for the Profitable Close-Enough Arc Routing Problem; A Simulated Annealing Algorithm to Learn an RMP Preference Model; iterative Heuristic over Periods for the Inventory Routing Problem; combining Heuristics and Constraint Programming for the Parallel Drone Scheduling Vehicle Routing Problem with Collective Drones; a Re-optimization Heuristic for a Dial-a-Ride Problem in the Transportation of Patients; solving the Integrated Patient-to-Room and Nurse-to-Patient Assignment by Simulated Annealing; enhancing Real-World Applicability in Home Healthcare: A Metaheuristic Approach for Advanced Routing and Scheduling; solving the Two-Stage Robust Elective Patient Surgery Planning Under Uncertainties with Intensive Care Unit Beds Availability; extracting White-Box Knowledge from Word Embedding: Modeling as an Optimization Problem; a Hybrid Biased-Randomized Heuristic for a Home Care Problem with Team Scheme Selection; extended Set Covering for Time Series Segmentation; Indirect Flow-Shop Coding Using Rank: Application to Indirect QAOA; Utilizing Graph Sparsification for Pre-processing in Max Cut QUBO Solver; addressing Machine Unavailability in Job Shop Scheduling: A Quantum Computing Approach; Solving Edge-Weighted Maximum Clique Problem with DCA Warm-Start Quantum Approximate Optimization Algorithm; Comparing Integer Encodings in QUBO for Quantum and Digital Annealing: The Travelling Salesman Problem; solving Quadratic Knapsack Problem with Biased Quantum State Optimization Algorithm; quantum Optimization Approach for Feature Selection in Machine Learning; an Efficient Algorithm for the T-Row Facility Layout Problem.
+ER  -
+
+TY  - CPAPER
+TI  - 15th Metaheuristics International Conference, MIC 2024
+LA  - eng
+JF  - Lecture Notes in Computer Science (including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 14754
+PY  - 2024
+SN  - 16113349, 03029743
+SN  - 3031629213, 3031629221, 9783031629211, 9783031629228
+PB  - Springer Science and Business Media Deutschland GmbH
+AB  - The proceedings contain 70 papers. The special focus in this conference is on Metaheuristics. The topics include: A Continuous-GRASP Random-Key Optimizer; adaptive Ant Colony Optimization Using Node Clustering with Simulated Annealing; job-Shop Scheduling with Robot Synchronization for Transport Operations; SIRO: A Deep Learning-Based Next-Generation Optimizer for Solving Global Optimization Problems; Investigation of the Benefit of Extracting Patterns from Local Optima to Solve a Bi-objective VRPTW; a Memetic Algorithm for Large-Scale Real-World Vehicle Routing Problems with Simultaneous Pickup and Delivery with Time Windows; tabu Search for Solving Covering Salesman Problem with Nodes and Segments; VNS with Path Relinking for the Profitable Close-Enough Arc Routing Problem; A Simulated Annealing Algorithm to Learn an RMP Preference Model; iterative Heuristic over Periods for the Inventory Routing Problem; combining Heuristics and Constraint Programming for the Parallel Drone Scheduling Vehicle Routing Problem with Collective Drones; a Re-optimization Heuristic for a Dial-a-Ride Problem in the Transportation of Patients; solving the Integrated Patient-to-Room and Nurse-to-Patient Assignment by Simulated Annealing; enhancing Real-World Applicability in Home Healthcare: A Metaheuristic Approach for Advanced Routing and Scheduling; solving the Two-Stage Robust Elective Patient Surgery Planning Under Uncertainties with Intensive Care Unit Beds Availability; extracting White-Box Knowledge from Word Embedding: Modeling as an Optimization Problem; a Hybrid Biased-Randomized Heuristic for a Home Care Problem with Team Scheme Selection; extended Set Covering for Time Series Segmentation; Indirect Flow-Shop Coding Using Rank: Application to Indirect QAOA; Utilizing Graph Sparsification for Pre-processing in Max Cut QUBO Solver; addressing Machine Unavailability in Job Shop Scheduling: A Quantum Computing Approach; Solving Edge-Weighted Maximum Clique Problem with DCA Warm-Start Quantum Approximate Optimization Algorithm; Comparing Integer Encodings in QUBO for Quantum and Digital Annealing: The Travelling Salesman Problem; solving Quadratic Knapsack Problem with Biased Quantum State Optimization Algorithm; quantum Optimization Approach for Feature Selection in Machine Learning; an Efficient Algorithm for the T-Row Facility Layout Problem.
+ER  -
+
+TY  - JOUR
+AU  - Tosun, Umut
+TI  - A new tool for automated transformation of Quadratic Assignment Problem instances to Quadratic Unconstrained Binary Optimisation models
+LA  - eng
+JF  - Expert Systems With Applications
+VL  - 201
+PY  - 2022
+SN  - 18736793, 09574174
+PB  - Elsevier Ltd
+DO  - 10.1016/j.eswa.2022.116953
+AB  - Growing class of optimisation problems are reported to attract increasing interest even though they are very challenging and difficult to solve exactly. Quadratic Assignment Problem (QAP), Travelling salesman, weapon target assignment, and query optimisation in distributed databases are some of these well known problems. QAP is considered to be one of the most prominent combinatorial optimisation problems with various application areas. Economic aspects of design and location of factories, hospitals, industrial plants, network models, transportation infrastructures, and military bases can all be addressed by QAP. There is no known polynomial time algorithm reported for the solution of the problem since it is NP-hard. Even small problem instances take long times to be solved exhaustively. Exact solution techniques and parallelisation of these algorithms end up with only little or negligible increase in performance. Recent meta-heuristics based on genetic algorithms, simulated annealing, and tabu search provide promising results even for problem instances up to instance sizes of 256 which is currently the largest instance in the QAPLIB. The Quadratic Unconstrained Binary Optimisation (QUBO) model has a critical role for experiments conducted with quantum computers of D-Wave Systems and IBM. Quantum Annealing is a technique which exploits quantum fluctuations to reach the global minimum of a given cost function. The QUBO model and its connection with Ising problem constitute the foundations for quantum annealing. Advances in quantum computing highlight the fact that QUBO models can be an efficient alternative to traditional models. Even though QAP can be formulated by QUBO using penalty functions, there is no known automated transformation method to map a QAP instance to a QUBO model. In this paper, we propose an automated model for QAP to QUBO mappings which can generate these formulations using the pre-defined penalty functions. We also present the benchmark results for a group of QAPLIB instances using exact solver for our QUBO models.
+ER  -
+
+TY  - CPAPER
+AU  - Chitty, Darren M.
+AU  - Charles, James
+AU  - Moraglio, Alberto
+AU  - Keedwell, Ed
+TI  - Applying a Quantum Annealer to the Traffic Assignment Problem
+LA  - eng
+JF  - Gecco 2024 - Proceedings of the 2024 Genetic and Evolutionary Computation Conference
+SP  - 814
+EP  - 822
+PY  - 2024
+SN  - 9798400704949
+PB  - Association for Computing Machinery, Inc
+DO  - 10.1145/3638529.3654131
+AB  - The Traffic Assignment Problem (TAP) is a complex transportation optimisation problem typically solved using meta-heuristics on classical computers. Quantum computers, despite being a nascent technology, have the potential to significantly speed up computation by exploiting quantum parallelism. A quantum annealer (QA) is a quantum computer tailored to solve combinatorial optimisation problems formulated as a Quadratic Unconstrained Binary Optimisation (QUBO). Formulating complex optimisation problems as QUBO is an open challenge. This paper derives a new QUBO formulation for TAP by employing a streamlined methodology of general applicability. It also attempts a direct comparison at solving TAP encompassing a QA (D-WAVE), a hybrid quantum-classical algorithm, and classical methods including Simulated Annealing and Genetic Algorithms. This comparison is difficult and seldom done due to the inherent differences between quantum and classic hardware. As expected from the current quantum technology, our results show that a pure QA suffers from significant noise in qubits and requires significant additional computational time, although we show that the time required solely by the QPU does not increase with problem size. We also show that the hybrid QA mitigates these noise issues and is on a par with traditional methods.
+ER  -
+
+TY  - BOOK
+AU  - Punnen, Abraham P.
+TI  - The Quadratic Unconstrained Binary Optimization Problem: Theory, Algorithms, and Applications
+LA  - eng
+A2  - Punnen, Abraham P.
+JF  - Quadratic Unconstrained Binary Optimization Problem: Theory, Algorithms, and Applications
+SP  - 1
+EP  - 319
+PY  - 2022
+SN  - 303104519X, 303104519x, 3031045203, 9783031045196, 9783031045202
+PB  - Springer International Publishing
+DO  - 10.1007/978-3-031-04520-2
+AB  - The quadratic binary optimization problem (QUBO) is a versatile combinatorial optimization model with a variety of applications and rich theoretical properties. Application areas of the model include finance, cluster analysis, traffic management, machine scheduling, VLSI physical design, physics, quantum computing, engineering, and medicine. In addition, various mathematical optimization models can be reformulated as a QUBO, including the resource constrained assignment problem, set partitioning problem, maximum cut problem, quadratic assignment problem, the bipartite unconstrained binary optimization problem, among others. This book presents a systematic development of theory, algorithms, and applications of QUBO. It offers a comprehensive treatment of QUBO from various viewpoints, including a historical introduction along with an in-depth discussion of applications modelling, complexity and polynomially solvable special cases, exact and heuristic algorithms, analysis of approximation algorithms, metaheuristics, polyhedral structure, probabilistic analysis, persistencies, and related topics. Available software for solving QUBO is also introduced, including public domain, commercial, as well as quantum computing based codes.
+ER  -
+
+TY  - CPAPER
+AU  - Stollenwerk, Tobias
+AU  - Lobe, Elisabeth
+AU  - Jung, Martin
+TI  - Flight Gate Assignment with a Quantum Annealer
+LA  - eng
+A2  - Feld, S, LinnhoffPopien, C
+JF  - Lecture Notes in Computer Science (including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 11413
+SP  - 99
+EP  - 110
+PY  - 2019
+SN  - 16113349, 03029743
+SN  - 3030140814, 3030140822, 9783030140816, 9783030140823
+PB  - Springer Verlag
+DO  - 10.1007/978-3-030-14082-3_9
+AB  - Optimal flight gate assignment is a highly relevant optimization problem from airport management. Among others, an important goal is the minimization of the total transit time of the passengers. The corresponding objective function is quadratic in the binary decision variables encoding the flight-to-gate assignment. Hence, it is a quadratic assignment problem being hard to solve in general. In this work we investigate the solvability of this problem with a D-Wave quantum annealer. These machines are optimizers for quadratic unconstrained optimization problems (QUBO). Therefore the flight gate assignment problem seems to be well suited for these machines. We use real world data from a mid-sized German airport as well as simulation based data to extract typical instances small enough to be amenable to the D-Wave machine. In order to mitigate precision problems, we employ bin packing on the passenger numbers to reduce the precision requirements of the extracted instances. We find that, for the instances we investigated, the bin packing has little effect on the solution quality. Hence, we were able to solve small problem instances extracted from real data with the D-Wave 2000Q quantum annealer.
+ER  -
+
+TY  - JOUR
+AU  - Stollenwerk, Tobias
+AU  - Lobe, Elisabeth
+AU  - Jung, Martin
+TI  - Flight Gate Assignment with a Quantum Annealer
+LA  - und
+PY  - 2018
+AB  - Optimal flight gate assignment is a highly relevant optimization problem from
+airport management. Among others, an important goal is the minimization of the
+total transit time of the passengers. The corresponding objective function is
+quadratic in the binary decision variables encoding the flight-to-gate
+assignment. Hence, it is a quadratic assignment problem being hard to solve in
+general. In this work we investigate the solvability of this problem with a
+D-Wave quantum annealer. These machines are optimizers for quadratic
+unconstrained optimization problems (QUBO). Therefore the flight gate
+assignment problem seems to be well suited for these machines. We use real
+world data from a mid-sized German airport as well as simulation based data to
+extract typical instances small enough to be amenable to the D-Wave machine. In
+order to mitigate precision problems, we employ bin packing on the passenger
+numbers to reduce the precision requirements of the extracted instances. We
+find that, for the instances we investigated, the bin packing has little effect
+on the solution quality. Hence, we were able to solve small problem instances
+extracted from real data with the D-Wave 2000Q quantum annealer.
+ER  -
+
+TY  - JOUR
+AU  - Ayodele, Mayowa
+TI  - Comparing the Digital Annealer with Classical Evolutionary Algorithm
+LA  - und
+PY  - 2022
+AB  - In more recent years, there has been increasing research interest in
+exploiting the use of application specific hardware for solving optimisation
+problems. Examples of solvers that use specialised hardware are IBM's Quantum
+System One and D-wave's Quantum Annealer (QA) and Fujitsu's Digital Annealer
+(DA). These solvers have been developed to optimise problems faster than
+traditional meta-heuristics implemented on general purpose machines. Previous
+research has shown that these solvers (can optimise many problems much quicker
+than exact solvers such as GUROBI and CPLEX. Such conclusions have not been
+made when comparing hardware solvers with classical evolutionary algorithms.
+  Making a fair comparison between traditional evolutionary algorithms, such as
+Genetic Algorithm (GA), and the DA (or other similar solvers) is challenging
+because the later benefits from the use of application specific hardware while
+evolutionary algorithms are often implemented on general-purpose machines.
+Moreover, quantum or quantum-inspired solvers are limited to solving problems
+in a specific format. A common formulation used is Quadratic Unconstrained
+Binary Optimisation (QUBO). Many optimisation problems are however constrained
+and have natural representations that are non-binary. Converting such problems
+to QUBO can lead to more problem difficulty and/or larger search space.
+  The question addressed in this paper is whether quantum or quantum-inspired
+solvers can optimise QUBO transformations of combinatorial optimisation
+problems faster than classical evolutionary algorithms applied to the same
+problems in their natural representations. We show that the DA often present
+better average objective function values than GA on Travelling Salesman,
+Quadratic Assignment and Multi-dimensional Knapsack Problem instances.
+ER  -
+
+TY  - JOUR
+AU  - Goldsmith, Daniel
+AU  - Day-Evans, Joe
+TI  - Beyond QUBO and HOBO formulations, solving the Travelling Salesman Problem on a quantum boson sampler
+LA  - eng
+JF  - Arxiv (cornell University)
+PY  - 2024
+PB  - Cornell University
+DO  - 10.48550/arXiv.2406.14252
+AB  - The Travelling Salesman Problem (TSP) is an important combinatorial optimisation problem, and is usually solved on a quantum computer using a Quadratic Unconstrained Binary Optimisation (QUBO) formulation or a Higher Order Binary Optimisation(HOBO) formulation. In these formulations, penalty terms are added to the objective function for outputs that don't map to valid routes. We present a novel formulation which needs fewer binary variables, and where, by design, there are no penalty terms because all outputs from the quantum device are mapped to valid routes. Simulations of a quantum boson sampler were carried out which demonstrate that larger networks can be solved with this penalty-free formulation than with formulations with penalties. Simulations were successfully translated to hardware by running a non-QUBO formulation with penalties on an early experimental prototype ORCA PT-1 boson sampler. Although we worked with a boson sampler, we believe that this novel formulation is relevant to other quantum devices. This work shows that a good embedding for combinatorial optimisation problems can solve larger problems with the same quantum computing resource. The flexibility of boson sampling quantum devices is a powerful asset in solving combinatorial optimisation problem, because it enables formulations where the output string is always mapped to a valid solution, avoiding the need for penalties.
+ER  -
+
+TY  - JOUR
+AU  - Hulianitskyi, Leonid
+AU  - Korolyov, Vyacheslav
+AU  - Khodzinskyi, Oleksandr
+TI  - An Overview of Algorithms for Solving Vehicle Routing Problems in the Quantum-Classical Cloud
+LA  - und
+JF  - Кібернетика Та Комп'ютерні Технології
+IS  - 2
+SP  - 23
+EP  - 31
+PY  - 2023
+SN  - 2707451x, 27074501
+PB  - V.M. Glushkov Institute of Cybernetics
+DO  - 10.34229/2707-451X.23.2.3
+AB  - Introduction. The hope of solving the problem of the avalanche-like growth of requirements for computing power, essential for solving complex routing problems and other problems of combinatorial optimization, relies on the latest quantum computers, in the development of which governments and corporations invest multi-billion investments.
+The article examines modern routing algorithms and performs their analysis and verification, if the authors of the algorithm provided appropriate test programs.
+The purpose of the article is to review the current state of development in the field of development of routing algorithms for hybrid quantum-classical clouds, analyze them and propose a classification of algorithms.
+Results. Modern quantum computers (QCs) make it possible to find approximate solutions to some of mathematical problems faster than classical computers. The inaccuracy of the solutions obtained by the QC is a consequence of physical and technological limitations: calculation errors are caused by thermal noise, a small number of computational elements - qubits and connections between them, which requires the decomposition of the problem and the use of heuristic algorithms.
+The analysis of approaches to the solution of optimization problems on QC allows us to single out: quantum response and variational search of eigenvalues based on quantum logic gates as the general directions of development of the vast majority of algorithms for solving routing problems. The considered algorithms reduce the vehicle routing problem to a quadratic unconstrained binary optimization problem, which is isomorphic to the Hamilton-Ising model. In this form, the problem is suitable for embedding in QC, which finds an approximate solution that has the best statistical reliability or corresponds to the quantum state with the lowest energy.
+As a separate class, vehicle routing algorithms for classical computers that use quantum computing to accelerate problem solving can be distinguished. For example, neural networks that calculate weighting factors using QC or an ant algorithm that calculates a pheromone trail in a hybrid cloud. It should be mentioned the quantum-inspired algorithms, which are based on software tools for the simulation of QC and the corresponding libraries and allow creating an effective class of algorithms for solving problems of vehicle routing.
+Conclusions. Combining hardware quantum annealing with a number of software tools for calculating optimization problems for classical computers in a hybrid quantum-classical cloud service allows to obtain advantages in speed and accuracy of some types of complex optimization problems of a commercial scale, in particular, routing vehicles, which is already bringing substantial profits to a number of corporations.
+ER  -
+
+TY  - JOUR
+AU  - Fernandes, Gabriel P. L. M.
+AU  - Fonseca, Matheus S.
+AU  - Valério, Amanda G.
+AU  - Ricardo, Alexandre C.
+AU  - Carpio, Nicolás A. C.
+AU  - Bezerra, Paulo C. C.
+AU  - Villas-Boas, Celso J.
+TI  - Optimization Algorithm for Inventory Management on Classical, Quantum and Quantum-Hybrid Hardware
+LA  - eng
+JF  - Arxiv (cornell University)
+PY  - 2024
+PB  - Cornell University
+DO  - 10.48550/arXiv.2411.11756
+AB  - Among the challenges of efficiently managing a factory, inventory management is essential for minimizing operational costs and delivery times. In this paper, we focus on optimizing item allocation in warehouses that use gravity flow racks, which are designed for First In, First Out (FIFO) logistics but present challenges due to the need for frequent item reinsertions during picking operations. We introduce a novel strategy formulated as a QUBO problem, suitable for classical, quantum, and hybrid hardware implementations. By leveraging advances in Adiabatic Quantum Computing and Quantum Annealing, we demonstrate the effectiveness of our strategy through simulations and real-world scenarios. The results highlight the potential of quantum-hybrid approaches to significantly enhance operational efficiency in warehouse management.
+ER  -
+
+TY  - CPAPER
+AU  - Wang, Chao
+AU  - Ji, Tongyu
+AU  - Wang, Suming
+TI  - Online Taxi Dispatching Algorithm Based on Quantum Annealing
+LA  - eng
+A2  - Fang, L, Povey, D, Zhai, G, Mei, T, Wang, R
+JF  - Lecture Notes in Computer Science (including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 13606
+SP  - 337
+EP  - 347
+PY  - 2022
+SN  - 16113349, 03029743
+SN  - 3031205022, 3031205030, 9783031205026, 9783031205033
+PB  - Springer Science and Business Media Deutschland GmbH
+DO  - 10.1007/978-3-031-20503-3_27
+AB  - Quantum annealing techniques are mainly used to solve optimization and sampling problems, which have a greater potential to obtain globally optimal solutions for specific combinatorial optimization problems due to their unique quantum tunneling properties. Firstly, this paper transforms the taxi repositioning problem into a combinatorial optimization problem that can be represented by a QUBO model with exponentially growing path solutions. The optimal solution aims at repositioning the online taxis to optimize the passenger waiting time and the average daily revenue of taxi drivers. Secondly, this paper proposes a QUBO formulation to solve a specific taxi repositioning problem, which optimizes the traffic distribution of taxis based on the existing spatial transfer probability to obtain the unique target region selection result. Finally, the simulation results on the real trajectory data of taxis in Chengdu in November 2016 show that the solution is nearly optimal, and the quantum annealing algorithm optimizes about 7% of the indicator than the simulated annealing algorithm by making each vehicle select the unique region to accurately reduce the passenger waiting time while improving the driver's revenue.
+ER  -
+
+TY  - JOUR
+AU  - Amelia Carolina, Sparavigna
+TI  - Quantum Computing Logistics
+LA  - eng
+JF  - Hal (le Centre Pour La Communication Scientifique Directe)
+PY  - 2022
+PB  - Le Centre pour la Communication Scientifique Directe
+DO  - 10.2139/ssrn.4249265
+ER  -
+
+TY  - CPAPER
+TI  - 10th EAI International Conference on Industrial Networks and Intelligent Systems, INISCOM 2024
+LA  - eng
+JF  - Lecture Notes of the Institute for Computer Sciences, Social-informatics and Telecommunications Engineering, Lnicst
+VL  - 595
+PY  - 2024
+SN  - 1867822x, 18678211
+SN  - 3031673565, 9783031673566
+PB  - Springer Science and Business Media Deutschland GmbH
+AB  - The proceedings contain 18 papers. The special focus in this conference is on Industrial Networks and Intelligent Systems. The topics include: Joint Online Adaptive Optimal Tracking Control and Frequency-Response Method for Speed of PMSM and DC-Link Voltage Peak Controller Design in Bi-directional Quasi Z-Source Inverter; Variational Quantum Eigensolver for Optimizing Network Scheduling Using QUBO Formulation; optimal Task Scheduling in 6G Networks: A Variational Quantum Computing Approach; multi-agent Quantum Reinforcement Learning for Digital Twin Placement in 6G Multi-tier Systems; Multi-user Ambient Backscatter Communication-Based and STAR-RIS-Aided Mobile Edge Computing Network with Uplink NOMA Scheme: A Joint Design; Hybrid Federated and Multi-agent DRL-Based Resource Allocation in Digital Twin-IoV Networks; performance Comparison in Traffic Sign Recognition Using Deep Learning; energy and Distance Aware Clustering-Based Routing for Low-Power IoT-Enabled Wireless Sensor Networks; Enhancing Energy Harvesting Efficiency for IRS-Aided TS-SWIPT Network with Practical Phase Shifts; contactless Palmprint Recognition Using Discriminant Multi-directional Feature Codes; a Survey on Wireless Data Aggregation Through Over-the-Air Computation; CLIP-Prefix for Image Captioning and an Experiment on Blind Image Guessing; Features Inspired PM2.5 Prediction: A Belfast City Case Study; Understanding the Security Implications in O-RAN with Abusive Adversaries; Joint Secrecy and Latency Performance Analysis for UAV-Assisted Uplink NOMA-Based IoT Network with Mobile Edge Computing; crossCert: A Privacy-Preserving Cross-Chain System for Educational Credential Verification Using Zero-Knowledge Proof.
+ER  -
+
+TY  - CPAPER
+TI  - 14th Metaheuristics International Conference, MIC 2022
+LA  - eng
+JF  - Lecture Notes in Computer Science (including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 13838
+PY  - 2023
+SN  - 16113349, 03029743
+SN  - 3031265033, 3031265041, 9783031265037, 9783031265044
+PB  - Springer Science and Business Media Deutschland GmbH
+AB  - The proceedings contain 48 papers. The special focus in this conference is on Metaheuristics. The topics include: Neural Architecture Search Using Differential Evolution in MAML Framework for Few-Shot Classification Problems; neural Architecture Search Using Metaheuristics for Automated Cell Segmentation; analytical Methods to Separately Evaluate Convergence and Diversity for Multi-objective Optimization; how a Different Ant Behavior Affects on the Performance of the Whole Colony; evaluating the Effects of Chaos in Variable Neighbourhood Search; investigating Fractal Decomposition Based Algorithm on Low-Dimensional Continuous Optimization Problems; a Comparative Analysis of Different Multilevel Approaches for Community Detection; tchebycheff Fractal Decomposition Algorithm for Bi-objective Optimization Problems; local Search for Integrated Predictive Maintenance and Scheduling in Flow-Shop; A BRKGA with Implicit Path-Relinking for the Vehicle Routing Problem with Occasional Drivers and Time Windows; an Investigation of Hyper-Heuristic Approaches for Teeth Scheduling; a Mixed-Integer Programming Formulation and Heuristics for an Integrated Production Planning and Scheduling Problem; construct, Merge, Solve and Adapt Applied to the Maximum Disjoint Dominating Sets Problem; fixed Set Search Applied to the Territory Design Problem; the P-Next Center Problem with Capacity and Coverage Radius Constraints: Model and Heuristics; automatic Configuration of Metaheuristics for Solving the Quadratic Three-Dimensional Assignment Problem Using Irace; hyper-parameter Optimization Using Continuation Algorithms; selecting the Parameters of an Evolutionary Algorithm for the Generation of Phenotypically Accurate Fractal Patterns; addressing Sustainability in Precision Agriculture via Multi-Objective Factored Evolutionary Algorithms; modeling and Solving the K-Track Assignment Problem; Metaheuristic Algorithms for UAV Trajectory Optimization in Mobile Networks; instance Space Analysis for the Generalized Assignment Problem; decision Support for Agri-Food Supply Chains in the E-Commerce Era: The Inbound Inventory Routing Problem with Perishable Products; a Multi-objective Biased Random-Key Genetic Algorithm for the Siting of Emergency Vehicles; simulated Annealing for a Complex Industrial Scheduling Problem; a Matheuristic for Multi-Depot Multi-Trip Vehicle Routing Problems; Comparing QUBO Models of the Magic Square Problem for Quantum Annealing; self-adaptive Publish/Subscribe Network Design; variable Neighborhood Descent for Software Quality Optimization.
+ER  -
+
+TY  - CPAPER
+TI  - 2013 International Conference of Information Technology and Industrial Engineering, ITIE 2013
+LA  - eng
+JF  - Wit Transactions on Information and Communication Technologies
+VL  - 48
+PY  - 2014
+SN  - 17433517
+SN  - 1845648439, 9781845648435
+ER  -

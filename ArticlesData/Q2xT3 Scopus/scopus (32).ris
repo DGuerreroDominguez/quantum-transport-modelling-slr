@@ -1,0 +1,92 @@
+﻿TY  - CONF
+AU  - Muñoz-Mansilla, R.
+AU  - Díaz, J.M.
+AU  - Chaos, D.
+AU  - Aranda, J.
+TI  - Design of a stabilization control system for high-speed crafts based on robust techniques. Two different approaches
+PY  - 2016
+T2  - Proceedings of the 2016 IEEE 11th Conference on Industrial Electronics and Applications, ICIEA 2016
+C7  - 7603901
+SP  - 1920
+EP  - 1925
+DO  - 10.1109/ICIEA.2016.7603901
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84997159422&doi=10.1109%2fICIEA.2016.7603901&partnerID=40&md5=9ef85a6a1f4c694f6ea067038cdc13c8
+AB  - This work handles the design of a stabilization control for a high-speed craft in order to improve comfort and security in maritime transport. The goal is to damp the coupled dynamics of heave, pitch and roll by using active stabilization surfaces such as flaps, T-foil and fins. The methodology used is based on the Quantitative Feedback Theory (QFT) robust technique. Two approaches depending on the degree of coupling are presented. In the first approach, controllers for the longitudinal and transversal dynamics are designed separately and afterwards the actuator coupling is considered. The second approach provides a solution in cases where the effect of the actuator coupling is large. Hence, a combination of QFT and Eigenstructure Assignment (EA) methods is used. For both methods, time-domain simulations analyses for different conditions of sea state and angles of incidence provide satisfactory results and achieve damped responses. It is shown that robust techniques based on QFT methodology result feasible and very suitable since the problem can be applied to any angle of incidence and only one controller is required for any speed or sea state. Therefore they constitute attractive alternatives in the application of a stabilization control of an advanced marine system. © 2016 IEEE.
+KW  - coupling
+KW  - high-speed craft
+KW  - Quantitative Feedback Theory
+KW  - robust control
+KW  - system identification
+KW  - Actuators
+KW  - Controllers
+KW  - Couplings
+KW  - Feedback
+KW  - Identification (control systems)
+KW  - Industrial electronics
+KW  - Lifeboats
+KW  - Ocean currents
+KW  - Robust control
+KW  - Stabilization
+KW  - Active stabilization
+KW  - Angles of incidence
+KW  - Eigenstructure assignment
+KW  - High speed crafts
+KW  - Maritime transport
+KW  - Quantitative feedback theory
+KW  - Stabilization control
+KW  - Time-domain simulations
+KW  - Time domain analysis
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Li, A.
+AU  - Xu, X.
+AU  - Ke, J.
+AU  - Yuan, G.
+TI  - Applying total energy control to designing feasible large aircraft longitudinal landing control system
+PY  - 2011
+T2  - Xibei Gongye Daxue Xuebao/Journal of Northwestern Polytechnical University
+VL  - 29
+IS  - 1
+SP  - 22
+EP  - 26
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-79953835547&partnerID=40&md5=01edcdb59eade2358b6da4fc663ab7d2
+AB  - Aim. The introduction of the full paper reviews some papers in the open literature, mostly in Chinese, and then applies total energy control to achieving its feasibility. Sections 1, 2 and 3 explain our design and give simulation results to verify its feasibility. The core of section 2 consists of: (1) we utilize the Eigen-structure assignment (EA) method to design the pitch inner-loop of aircraft and its control augmentation system; (2) taking both the uncertainty and complexity of aircraft engine control loop into consideration, we use the quantitative feedback theory (QFT) method to perform the compensation design of a thrust loop. The core of section 3 consists of: (1) we take a B-737-100TSRV aircraft as a numerical example to design its longitudinal landing control system; (2) we apply total energy control to coordinating the elevator of aircraft and its thrust commands, thus implementing the decoupling of flight path from speed control, glide-down and landing; (3) we perform the simulation of our aircraft longitudinal automatic landing control system; the simulation results, given in Figs. 4 and 5, and the analysis of Fig. 5 show preliminarily that the landing control system is feasible for decoupling the flight path of aircraft from its speed control and thus achieving precise landing.
+KW  - Aircraft landing
+KW  - Automatic landing control system
+KW  - Control
+KW  - Control system analysis
+KW  - Total energy control
+KW  - Air traffic control
+KW  - Aircraft
+KW  - Aircraft control
+KW  - Aircraft engines
+KW  - Aircraft landing
+KW  - Control system analysis
+KW  - Design
+KW  - Flight control systems
+KW  - Flight paths
+KW  - Flight simulators
+KW  - Longitudinal control
+KW  - Speed control
+KW  - Speed regulators
+KW  - Systems analysis
+KW  - Augmentation systems
+KW  - Automatic landing
+KW  - Automatic landing control system
+KW  - Eigen-structure
+KW  - Engine control
+KW  - Landing control
+KW  - Numerical example
+KW  - Quantitative feedback theory
+KW  - Simulation result
+KW  - Total energy
+KW  - Aircraft landing systems
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 1
+ER  -
+

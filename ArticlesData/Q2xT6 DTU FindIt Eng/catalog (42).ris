@@ -1,0 +1,116 @@
+TY  - JOUR
+AU  - Li, Ji
+AU  - Yuan, Daoxian
+AU  - Liu, Jiao
+AU  - Jiang, Yongjun
+AU  - Chen, Yangbo
+AU  - Hsu, Kuo Lin
+AU  - Sorooshian, Soroosh
+TI  - Predicting floods in a large karst river basin by coupling PERSIANN-CCS QPEs with a physically based distributed hydrological model
+LA  - eng
+JF  - Hydrology and Earth System Sciences
+VL  - 23
+IS  - 3
+SP  - 1505
+EP  - 1532
+PY  - 2019
+SN  - 16077938, 10275606
+PB  - Copernicus GmbH
+DO  - 10.5194/hess-23-1505-2019
+AB  - In general, there are no long-term meteorological or hydrological data available for karst river basins. The lack of rainfall data is a great challenge that hinders the development of hydrological models. Quantitative precipitation estimates (QPEs) based on weather satellites offer a potential method by which rainfall data in karst areas could be obtained. Furthermore, coupling QPEs with a distributed hydrological model has the potential to improve the precision of flood predictions in large karst watersheds. Estimating precipitation from remotely sensed information using an artificial neural network-cloud classification system (PERSIANN-CCS) is a type of QPE technology based on satellites that has achieved broad research results worldwide. However, only a few studies on PERSIANN-CCS QPEs have occurred in large karst basins, and the accuracy is generally poor in terms of practical applications. This paper studied the feasibility of coupling a fully physically based distributed hydrological model, i.e., the Liuxihe model, with PERSIANN-CCS QPEs for predicting floods in a large river basin, i.e., the Liujiang karst river basin, which has a watershed area of 58 270 km-2, in southern China. The model structure and function require further refinement to suit the karst basins. For instance, the sub-basins in this paper are divided into many karst hydrology response units (KHRUs) to ensure that the model structure is adequately refined for karst areas. In addition, the convergence of the underground runoff calculation method within the original Liuxihe model is changed to suit the karst water-bearing media, and the Muskingum routing method is used in the model to calculate the underground runoff in this study. Additionally, the epikarst zone, as a distinctive structure of the KHRU, is carefully considered in the model. The result of the QPEs shows that compared with the observed precipitation measured by a rain gauge, the distribution of precipitation predicted by the PERSIANN-CCS QPEs was very similar. However, the quantity of precipitation predicted by the PERSIANN-CCS QPEs was smaller. A post-processing method is proposed to revise the products of the PERSIANN-CCS QPEs. The karst flood simulation results show that coupling the post-processed PERSIANN-CCS QPEs with the Liuxihe model has a better performance relative to the result based on the initial PERSIANN-CCS QPEs. Moreover, the performance of the coupled model largely improves with parameter re-optimization via the post-processed PERSIANN-CCS QPEs. The average values of the six evaluation indices change as follows: the Nash-Sutcliffe coefficient increases by 14 %, the correlation coefficient increases by 15 %, the process relative error decreases by 8 %, the peak flow relative error decreases by 18 %, the water balance coefficient increases by 8 %, and the peak flow time error displays a 5 h decrease. Among these parameters, the peak flow relative error shows the greatest improvement; thus, these parameters are of page1506 the greatest concern for flood prediction. The rational flood simulation results from the coupled model provide a great practical application prospect for flood prediction in large karst river basins.
+ER  -
+
+TY  - JOUR
+AU  - Padmasola, Venkat
+AU  - Li, Zhaotong
+AU  - Chatterjee, Rupak
+AU  - Dyk, Wesley
+TI  - Solving the Traveling Salesman Problem via Different Quantum Computing Architectures
+LA  - eng
+PY  - 2025
+DO  - 10.48550/arXiv.2502.17725
+AB  - We study the application of emerging photonic and quantum computing architectures to solving the Traveling Salesman Problem (TSP), a well-known NP-hard optimization problem. We investigate several approaches: Simulated Annealing (SA), Quadratic Unconstrained Binary Optimization (QUBO-Ising) methods implemented on quantum annealers and Optical Coherent Ising Machines, as well as the Quantum Approximate Optimization Algorithm (QAOA) and the Quantum Phase Estimation (QPE) algorithm on gate-based quantum computers. QAOA and QPE were tested on the IBM Quantum platform. The QUBO-Ising method was explored using the D-Wave quantum annealer, which operates on superconducting Josephson junctions, and the QCI Dirac machine, a nonlinear optoelectronic Ising machine. Gate-based quantum computers demonstrated accurate results for small TSP instances in simulation. However, real quantum devices are hindered by noise and limited scalability. Circuit complexity grows with problem size, restricting performance to TSP instances with a maximum of 6 nodes. In contrast, Ising-based architectures show improved scalability for larger problem sizes. SQUID-based Ising machines can handle TSP instances with up to 12 nodes, while nonlinear optoelectronic Ising machines extend this capability to 18 nodes. Nevertheless, the solutions tend to be suboptimal due to hardware limitations and challenges in achieving ground state convergence as the problem size increases. Despite these limitations, Ising machines demonstrate significant time advantages over classical methods, making them a promising candidate for solving larger-scale TSPs efficiently.
+ER  -
+
+TY  - JOUR
+AU  - Sourish Dey, -
+AU  - koushik paul, -
+TI  - Quantum Computing for Nuclear Fusion: Advancing Simulation and Optimization
+LA  - eng
+JF  - International Journal for Multidisciplinary Research
+VL  - 6
+IS  - 6
+PY  - 2024
+SN  - 25822160
+PB  - International Journal for Multidisciplinary Research (IJFMR)
+DO  - 10.36948/ijfmr.2024.v06i06.32749
+AB  - Nuclear fusion is a great promise for the route toward clean, abundant, and sustainable energy, possibly solving the limits of contemporary resources. Yet, models for controlled fusion on Earth demand so much simulation: calculations into particle interaction and plasma behavior and even reaction dynamics that defy strict classical calculation. Quantum computing-that has the ability to support those complex, multi-dimensional calculations-offers hope in the fusion research frontier. This paper introduces quantum algorithms, such as Quantum Phase Estimation for predictions of energy states, Variational Quantum Eigen solver for modeling particle interactions, and Quantum Monte Carlo to simulate stochastic processes like plasma turbulence. The algorithms together will facilitate precise modeling and optimization of the fusion parameters to maximize energy output and reactor stability. This hybrid quantum-classical approach will be: classical computers for preprocessing data and intensive simulations using quantum processors. Preliminary experimental data from IBM Quantum suggests that quantum algorithms could be more efficient and accurate than their classical counterparts. This work, therefore, demonstrates the potential that quantum computing holds to speed up research in fusion, leading to a scalable solution for high-stakes applications in energy and the scientific domain.
+ER  -
+
+TY  - JOUR
+AU  - Boby, R. I.
+AU  - Mansor, H.
+AU  - Za'bah, N. F.
+AU  - Abidin, M. S.Z.
+AU  - Gunawan, T. S.
+AU  - Kazmi, S. A.
+TI  - QFT Controller for nonlinear system application to 3-DOF flight control module
+LA  - eng
+JF  - Arpn Journal of Engineering and Applied Sciences
+VL  - 11
+IS  - 6
+SP  - 4172
+EP  - 4175
+PY  - 2016
+SN  - 18196608
+PB  - Asian Research Publishing Network
+AB  - In this paper we proposed a new control method based on Quantitative Feedback Theory (QFT) to design practical controller methodology for uncertain characterized with three degree of freedom flight control module. Again linearly least phase systems must sacrifice to desirable feedback control benefits to avoid an excessive uncertain disturbance. While preserving the robust stability Quantitative Feedback Theory (QFT) controller is proposed to control highly uncertain plants. A 3-DOF flight control system is intrinsically nonlinear, unstable and totally uncertain because of the nature of three individual angles known as pitch, elevation and travel. Most controllers which are designed for 3-DOF helicopter flight systems are base on a minimal linearized model where system variants and uncertainties are not accommodated. Again, the controllers are mostly designed to gratify the gains and phase margin specifications that may not guarantee to handle the sensitivity. In proposed controller QFT may explicitly deal with uncertainty, where large plant parameter uncertainties with lower bandwidth can be achieved by QFT controller. Pre-filter technique may improve both robust stability and robust tracking performance within a desired precision of the individual uncertain parameters of 3-DOF module. This controller may handle large parameter uncertainties and disturbance with rugged stability. The random optimization technique is engaged in the design to optimize the overall performance of the controller. Simulation results and equations are used to show effective result of the proposed control methodology.
+ER  -
+
+TY  - JOUR
+AU  - Pacheco-Plata, Felícitas
+AU  - Gutiérrez-Dorado, Roberto
+AU  - Iribe-Salazar, Rosalina
+AU  - Carrazco-Escalante, Marco
+AU  - Caro-Hernández, Olivia
+AU  - Camacho-Hernández, Leticia
+AU  - Vázquez-López, Yessica
+AU  - Cronin, Kevin
+AU  - Caro-Corrales, José
+TI  - Modeling of moisture content during baking with different approaches for effective diffusivity and evaluation of quality variables in baked potato slices
+LA  - eng
+JF  - Journal of Food Science
+VL  - 89
+IS  - 9
+SP  - 5763
+EP  - 5773
+PY  - 2024
+SN  - 17503841, 00221147
+PB  - John Wiley and Sons Inc
+DO  - 10.1111/1750-3841.17257
+AB  - Abstract: Baking is a healthier alternative to frying, since texture, color, smell, and flavor are developed, without adding oil. The objective was to estimate the moisture content in potato slices, during baking using Fick's law of diffusion to model internal moisture transport and to assess the impact on quality attributes. Moisture transport kinetics were examined at three baking temperatures of 120, 130, and 140°C. Fick's law was employed to estimate average moisture content using different methods: considering both a constant (method of slopes by subperiods, MSS; and method of successive approximations, MSA) and a variable (represented as a quadratic function of time, QFT) behavior of effective diffusivity (De). Three quality variables were analyzed: water activity (aw, dew point hygrometry), total color difference (∆E, colorimetry), and fracturability (F, universal testing machine). The diffusivity estimated with the time-varying De method provided a more realistic description of moisture migration during baking. The aw, ∆E, and F for baked potato slices ranged from 0.234 to 0.276, 17.9 to 24.6, and 5.20 to 5.49 N, respectively. These attributes imply improved stability and extended shelf life, showing typical colors and texture changes for baked snacks. These changes are linked to variations in diffusivity, influenced by the size and quantity of micropores within the food structure. This study could allow an accurate prediction of mass transfer by considering variable De, facilitating the optimization of baking conditions. Practical Application: The analysis of the moisture content using Fick's law, considering a time-varying diffusivity, enables the optimization of the baking process for foods. This helps minimize the occurrence of defective products.
+ER  -
+
+TY  - CPAPER
+TI  - 40th AIAA Aerospace Sciences Meeting and Exhibit 2002
+LA  - eng
+JF  - 40th Aiaa Aerospace Sciences Meeting and Exhibit
+PY  - 2002
+ER  -
+
+TY  - JOUR
+AU  - Chakraborty, Chiranjib
+AU  - Bhattacharya, Manojit
+AU  - Dhama, Kuldeep
+AU  - Lee, Sang Soo
+TI  - Quantum computing on nucleic acid research: Approaching towards next-generation computing
+LA  - eng
+JF  - Molecular Therapy Nucleic Acids
+VL  - 33
+SP  - 53
+EP  - 56
+PY  - 2023
+SN  - 21622531
+PB  - Cell Press
+DO  - 10.1016/j.omtn.2023.06.007
+ER  -

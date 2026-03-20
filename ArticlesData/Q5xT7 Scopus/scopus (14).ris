@@ -1,0 +1,38 @@
+﻿TY  - CONF
+AU  - Bouchmal, O.
+AU  - Cimoli, B.
+AU  - Stabile, R.
+AU  - Vegas Olmos, J.J.
+AU  - Monroy, I.T.
+TI  - Quantum Approximate Optimization Algorithm for Routing Optimization in 6G Optical Networks
+PY  - 2024
+T2  - Proceedings of the 2024 International Conference on Optical Network Design and Modeling, ONDM 2024
+DO  - 10.23919/ONDM61578.2024.10582687
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85199299362&doi=10.23919%2fONDM61578.2024.10582687&partnerID=40&md5=9c03a8c9c14fd2632c6a698e137998ce
+AB  - Routing optimization refers to finding the most efficient path for data to travel between two devices on a network. In this paper, we propose the use of the Quantum Approximate Optimization Algorithm (QAOA) as a novel approach to routing optimization in the context of 6G networks. To this end, we first develop a cost function for single source single destination routing, which is then converted into a Quadratic Unconstrained Binary Optimization formulation. We subsequently extract the equivalent Variational Quantum Circuit of the QAOA from the optimization formulation. To test the performance of the QAOA, we utilize IBM's Qiskit toolkit and QASM-simulator and the Constrained by Linear Approximation optimizer to update the circuit parameters. Simulation results show that the proposed approach converges to the optimal solution, and only after less than 25 iteration, the QAOA was able to find the optimal path for the routing problem.  © 2024 IFIP.
+KW  - 6G
+KW  - Networking
+KW  - QAOA
+KW  - QML
+KW  - QUBO
+KW  - Routing
+KW  - VQC
+KW  - Constrained optimization
+KW  - Iterative methods
+KW  - Routing algorithms
+KW  - 6g
+KW  - Approximate optimization
+KW  - Networking
+KW  - Optimization algorithms
+KW  - QML
+KW  - Quantum approximate optimization algorithm
+KW  - QUBO
+KW  - Routing optimization
+KW  - Routings
+KW  - VQC
+KW  - Cost functions
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 2
+ER  -
+

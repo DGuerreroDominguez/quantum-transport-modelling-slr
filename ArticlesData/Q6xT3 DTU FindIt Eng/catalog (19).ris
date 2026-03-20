@@ -1,0 +1,431 @@
+TY  - JOUR
+AU  - Mei, Kai
+AU  - Xu, Wujiang
+AU  - Lin, Shuhang
+AU  - Zhang, Yongfeng
+TI  - Smart Routing: Cost-Effective Multi-LLM Serving for Multi-Core AIOS
+LA  - und
+PY  - 2025
+AB  - As large language models (LLMs) are increasingly deployed as service
+endpoints in systems, the surge in query volume creates significant scheduling
+challenges. Existing scheduling frameworks mainly target at latency
+optimization while neglecting the capability of LLMs to serve different level
+of queries, which could lead to computational resource waste. For example,
+those simple queries can be safely handled by small, fast and cheap LLMs, while
+those complex and difficult queries need to be handled by large, slow, and
+expensive LLMs. This paper addresses this challenge by proposing an efficient
+capability-cost coordinated scheduling framework, ECCOS, for multi-LLM serving,
+which explicitly constrains response quality and workload to optimize LLM
+inference cost. Specifically, it introduces the two-stage scheduling by
+designing a multi-objective predictor and a constrained optimizer. The
+predictor estimates both model capabilities and computational costs through
+training-based and retrieval-based approaches, while the optimizer determines
+cost-optimal assignments under quality and workload constraints. It also
+introduces QAServe, a dataset for sample-wise response quality and costs
+collected by zero-shot prompting different LLMs on knowledge QA and
+mathematical reasoning. Extensive experiments demonstrate that ECCOS improves
+success rates by 6.30% while reducing costs by 10.15% compared to existing
+methods, consuming less than 0.5% of LLM response time. The code is available
+at: https://github.com/agiresearch/ECCOS, and the proposed smart routing
+mechanism has been integrated into AIOS, the AI Agent Operating System, at
+https://github.com/agiresearch/AIOS.
+ER  -
+
+TY  - CPAPER
+AU  - Chitty, Darren M.
+AU  - Charles, James
+AU  - Moraglio, Alberto
+AU  - Keedwell, Ed
+TI  - Applying a Quantum Annealer to the Traffic Assignment Problem
+LA  - eng
+JF  - Gecco 2024 - Proceedings of the 2024 Genetic and Evolutionary Computation Conference
+SP  - 814
+EP  - 822
+PY  - 2024
+SN  - 9798400704949
+PB  - Association for Computing Machinery, Inc
+DO  - 10.1145/3638529.3654131
+AB  - The Traffic Assignment Problem (TAP) is a complex transportation optimisation problem typically solved using meta-heuristics on classical computers. Quantum computers, despite being a nascent technology, have the potential to significantly speed up computation by exploiting quantum parallelism. A quantum annealer (QA) is a quantum computer tailored to solve combinatorial optimisation problems formulated as a Quadratic Unconstrained Binary Optimisation (QUBO). Formulating complex optimisation problems as QUBO is an open challenge. This paper derives a new QUBO formulation for TAP by employing a streamlined methodology of general applicability. It also attempts a direct comparison at solving TAP encompassing a QA (D-WAVE), a hybrid quantum-classical algorithm, and classical methods including Simulated Annealing and Genetic Algorithms. This comparison is difficult and seldom done due to the inherent differences between quantum and classic hardware. As expected from the current quantum technology, our results show that a pure QA suffers from significant noise in qubits and requires significant additional computational time, although we show that the time required solely by the QPU does not increase with problem size. We also show that the hybrid QA mitigates these noise issues and is on a par with traditional methods.
+ER  -
+
+TY  - JOUR
+AU  - Zander, René
+AU  - Seidel, Raphael
+AU  - Inajetovic, Matteo
+AU  - Steinmann, Niklas
+AU  - Petrič, Matic
+TI  - Solving the Product Breakdown Structure Problem with constrained QAOA
+LA  - eng
+JF  - Arxiv (cornell University)
+PY  - 2024
+PB  - Cornell University
+DO  - 10.48550/arXiv.2406.15228
+AB  - Constrained optimization problems, where not all possible variable assignments are feasible solutions, comprise numerous practically relevant optimization problems such as the Traveling Salesman Problem (TSP), or portfolio optimization. Established methods such as quantum annealing or vanilla QAOA usually transform the problem statement into a QUBO (Quadratic Unconstrained Binary Optimization) form, where the constraints are enforced by auxiliary terms in the QUBO objective. Consequently, such approaches fail to utilize the additional structure provided by the constraints. In this paper, we present a method for solving the industry relevant Product Breakdown Structure problem. Our solution is based on constrained QAOA, which by construction never explores the part of the Hilbert space that represents solutions forbidden by the problem constraints. The size of the search space is thereby reduced significantly. We experimentally show that this approach has not only a very favorable scaling behavior, but also appears to suppress the negative effects of Barren Plateaus.
+ER  -
+
+TY  - CPAPER
+AU  - Zander, René
+AU  - Seidel, Raphael
+AU  - Inajetovic, Matteo
+AU  - Steinmann, Niklas
+AU  - Petrič, Matic
+TI  - Solving the Product Breakdown Structure Problem with constrained QAOA
+LA  - eng
+A2  - Culhane, C, Byrd, G, Muller, H, Alexev, Y, Sheldon, S
+JF  - Proceedings - Ieee Quantum Week 2024, Qce 2024
+VL  - 2
+SP  - 462
+EP  - 463
+PY  - 2024
+SN  - 9798331541378
+PB  - Institute of Electrical and Electronics Engineers Inc.
+DO  - 10.1109/QCE60285.2024.10356
+AB  - Constrained optimization problems, where not all possible variable assignments are feasible solutions, comprise numerous practically relevant optimization problems such as the Traveling Salesman Problem (TSP), or portfolio optimization. Established methods such as quantum annealing or vanilla QAOA usually transform the problem statement into a Quadratic Unconstrained Binary Optimization (QUBO) form, where the constraints are enforced by auxiliary terms in the QUBO objective. Consequently, such approaches fail to utilize the additional structure provided by the constraints. In this work, we present a method for solving the industry relevant Product Breakdown Structure problem. The method is based on constrained QAOA, which by construction never explores the part of the Hilbert space that represents solutions forbidden by the problem constraints. The size of the search space is thereby reduced significantly. We experimentally show that this approach has not only a very favorable scaling behavior, but also appears to suppress the negative effects of Barren Plateaus.
+ER  -
+
+TY  - CPAPER
+TI  - 14th Metaheuristics International Conference, MIC 2022
+LA  - eng
+JF  - Lecture Notes in Computer Science (including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 13838
+PY  - 2023
+SN  - 16113349, 03029743
+SN  - 3031265033, 3031265041, 9783031265037, 9783031265044
+PB  - Springer Science and Business Media Deutschland GmbH
+AB  - The proceedings contain 48 papers. The special focus in this conference is on Metaheuristics. The topics include: Neural Architecture Search Using Differential Evolution in MAML Framework for Few-Shot Classification Problems; neural Architecture Search Using Metaheuristics for Automated Cell Segmentation; analytical Methods to Separately Evaluate Convergence and Diversity for Multi-objective Optimization; how a Different Ant Behavior Affects on the Performance of the Whole Colony; evaluating the Effects of Chaos in Variable Neighbourhood Search; investigating Fractal Decomposition Based Algorithm on Low-Dimensional Continuous Optimization Problems; a Comparative Analysis of Different Multilevel Approaches for Community Detection; tchebycheff Fractal Decomposition Algorithm for Bi-objective Optimization Problems; local Search for Integrated Predictive Maintenance and Scheduling in Flow-Shop; A BRKGA with Implicit Path-Relinking for the Vehicle Routing Problem with Occasional Drivers and Time Windows; an Investigation of Hyper-Heuristic Approaches for Teeth Scheduling; a Mixed-Integer Programming Formulation and Heuristics for an Integrated Production Planning and Scheduling Problem; construct, Merge, Solve and Adapt Applied to the Maximum Disjoint Dominating Sets Problem; fixed Set Search Applied to the Territory Design Problem; the P-Next Center Problem with Capacity and Coverage Radius Constraints: Model and Heuristics; automatic Configuration of Metaheuristics for Solving the Quadratic Three-Dimensional Assignment Problem Using Irace; hyper-parameter Optimization Using Continuation Algorithms; selecting the Parameters of an Evolutionary Algorithm for the Generation of Phenotypically Accurate Fractal Patterns; addressing Sustainability in Precision Agriculture via Multi-Objective Factored Evolutionary Algorithms; modeling and Solving the K-Track Assignment Problem; Metaheuristic Algorithms for UAV Trajectory Optimization in Mobile Networks; instance Space Analysis for the Generalized Assignment Problem; decision Support for Agri-Food Supply Chains in the E-Commerce Era: The Inbound Inventory Routing Problem with Perishable Products; a Multi-objective Biased Random-Key Genetic Algorithm for the Siting of Emergency Vehicles; simulated Annealing for a Complex Industrial Scheduling Problem; a Matheuristic for Multi-Depot Multi-Trip Vehicle Routing Problems; Comparing QUBO Models of the Magic Square Problem for Quantum Annealing; self-adaptive Publish/Subscribe Network Design; variable Neighborhood Descent for Software Quality Optimization.
+ER  -
+
+TY  - JOUR
+AU  - Ayodele, Mayowa
+TI  - Comparing the Digital Annealer with Classical Evolutionary Algorithm
+LA  - und
+PY  - 2022
+AB  - In more recent years, there has been increasing research interest in
+exploiting the use of application specific hardware for solving optimisation
+problems. Examples of solvers that use specialised hardware are IBM's Quantum
+System One and D-wave's Quantum Annealer (QA) and Fujitsu's Digital Annealer
+(DA). These solvers have been developed to optimise problems faster than
+traditional meta-heuristics implemented on general purpose machines. Previous
+research has shown that these solvers (can optimise many problems much quicker
+than exact solvers such as GUROBI and CPLEX. Such conclusions have not been
+made when comparing hardware solvers with classical evolutionary algorithms.
+  Making a fair comparison between traditional evolutionary algorithms, such as
+Genetic Algorithm (GA), and the DA (or other similar solvers) is challenging
+because the later benefits from the use of application specific hardware while
+evolutionary algorithms are often implemented on general-purpose machines.
+Moreover, quantum or quantum-inspired solvers are limited to solving problems
+in a specific format. A common formulation used is Quadratic Unconstrained
+Binary Optimisation (QUBO). Many optimisation problems are however constrained
+and have natural representations that are non-binary. Converting such problems
+to QUBO can lead to more problem difficulty and/or larger search space.
+  The question addressed in this paper is whether quantum or quantum-inspired
+solvers can optimise QUBO transformations of combinatorial optimisation
+problems faster than classical evolutionary algorithms applied to the same
+problems in their natural representations. We show that the DA often present
+better average objective function values than GA on Travelling Salesman,
+Quadratic Assignment and Multi-dimensional Knapsack Problem instances.
+ER  -
+
+TY  - JOUR
+AU  - Tosun, Umut
+TI  - A new tool for automated transformation of Quadratic Assignment Problem instances to Quadratic Unconstrained Binary Optimisation models
+LA  - eng
+JF  - Expert Systems With Applications
+VL  - 201
+PY  - 2022
+SN  - 18736793, 09574174
+PB  - Elsevier Ltd
+DO  - 10.1016/j.eswa.2022.116953
+AB  - Growing class of optimisation problems are reported to attract increasing interest even though they are very challenging and difficult to solve exactly. Quadratic Assignment Problem (QAP), Travelling salesman, weapon target assignment, and query optimisation in distributed databases are some of these well known problems. QAP is considered to be one of the most prominent combinatorial optimisation problems with various application areas. Economic aspects of design and location of factories, hospitals, industrial plants, network models, transportation infrastructures, and military bases can all be addressed by QAP. There is no known polynomial time algorithm reported for the solution of the problem since it is NP-hard. Even small problem instances take long times to be solved exhaustively. Exact solution techniques and parallelisation of these algorithms end up with only little or negligible increase in performance. Recent meta-heuristics based on genetic algorithms, simulated annealing, and tabu search provide promising results even for problem instances up to instance sizes of 256 which is currently the largest instance in the QAPLIB. The Quadratic Unconstrained Binary Optimisation (QUBO) model has a critical role for experiments conducted with quantum computers of D-Wave Systems and IBM. Quantum Annealing is a technique which exploits quantum fluctuations to reach the global minimum of a given cost function. The QUBO model and its connection with Ising problem constitute the foundations for quantum annealing. Advances in quantum computing highlight the fact that QUBO models can be an efficient alternative to traditional models. Even though QAP can be formulated by QUBO using penalty functions, there is no known automated transformation method to map a QAP instance to a QUBO model. In this paper, we propose an automated model for QAP to QUBO mappings which can generate these formulations using the pre-defined penalty functions. We also present the benchmark results for a group of QAPLIB instances using exact solver for our QUBO models.
+ER  -
+
+TY  - JOUR
+AU  - Hasegawa, Mikio
+AU  - Ito, Hirotake
+AU  - Takesue, Hiroki
+AU  - Aihara, Kazuyuki
+TI  - Optimization by neural networks in the coherent ising machine and its application to wireless communication systems
+LA  - eng
+JF  - Ieice Transactions on Communications
+VL  - E104B
+IS  - 3
+SP  - 210
+EP  - 216
+PY  - 2021
+SN  - 17451345, 09168516
+PB  - Institute of Electronics, Information and Communication, Engineers, IEICE
+DO  - 10.1587/transcom.2020NVI0002
+AB  - Recently, new optimization machines based on non-silicon physical systems, such as quantum annealing machines, have been developed, and their commercialization has been started. These machines solve the problems by searching the state of the Ising spins, which minimizes the Ising Hamiltonian. Such a property of minimization of the Ising Hamiltonian can be applied to various combinatorial optimization problems. In this paper, we introduce the coherent Ising machine (CIM), which can solve the problems in a milli-second order, and has higher performance than the quantum annealing machines especially on the problems with dense mutual connections in the corresponding Ising model. We explain how a target problem can be implemented on the CIM, based on the optimization scheme using the mutually connected neural networks. We apply the CIM to traveling salesman problems as an example benchmark, and show experimental results of the real machine of the CIM. We also apply the CIM to several combinatorial optimization problems in wireless communication systems, such as channel assignment problems. The CIM's ultra-fast optimization may enable a real-time optimization of various communication systems even in a dynamic communication environment.
+ER  -
+
+TY  - CPAPER
+AU  - Lamontagne, A.
+AU  - Colligon, T. A.
+AU  - Taylor, C.
+AU  - Lewitt, L.
+AU  - Holland, D.
+AU  - Buchholz, K.
+AU  - Migliaccio, T.
+AU  - Brennan, A.
+AU  - Levine, B. L.
+AU  - Plesa, G.
+AU  - Siegel, D.
+TI  - Maintaining excellence in a high volume academic cell therapy production facility through optimization of space utilization, operations, scheduling and staffing
+LA  - eng
+JF  - Cytotherapy
+VL  - 22
+IS  - 5
+PY  - 2020
+SN  - 14772566, 14653249
+PB  - ELSEVIER SCI LTD
+DO  - 10.1016/j.jcyt.2020.03.306
+AB  - Background & Aim : The Clinical Cell and Vaccine Production Facility (CVPF) at UPenn is a FACT accredited resource with a 25 year record of novel first-in-human cell and gene therapy clinical trials. CVPF is integrated with research, process development, and correlative studies laboratories, QC/QA, clinical operations and monitoring, apheresis facilities and infusion sites. CVPF has two clean room facilities in which cell immunotherapy products are currently manufactured in support of >15 investigational new drug (IND) protocols..  Methods, Results & Conclusion : CVPF recently developed a clean room space utilization model to increase production capacity. Previously, a product occupied a single processing suite for the length of manufacture. Improvements to the processing room layout and implementation of a “bioreactor nursery” allowed for expansion of multiple products in a single space. Other benefits included fewer equipment pieces required and built-in redundancy. Additionally, we developed a standardized production slot model to reduce the rate of unfilled manufacturing slots and maximize facility efficiency. A standardized schedule along with the application of scheduling software has improved resource management, effort tracking, production task scheduling and capacity projections. Standardized scheduling is more efficient in scheduling manufacturing staff, sample transport, environmental monitoring, facility cleaning, equipment maintenance, QC testing, batch record preparation and review and product release.. We developed an accelerated training program that reduced time-to-proficiency (TTP) for new hires through resource assignment, dedicated training space and re-designed curricula. A mock processing suite was established outside of the clean room space to allow for non-GMP materials to be used during training, greatly reducing cost. Still, staff recruitment, retention and training continue to be a challenge for academic manufacturing facilities as staff renewal limits production capacity and results in fewer patients enrolled in clinical trials. CVPF joined forces with University leadership to develop a novel metrics based career advancement track for cell therapy technologists. These techniques for increased productivity coupled with improved training methods and staff retention initiatives can be adopted by academic cell therapy facilities to optimize staffing, reduce costs and increase efficiencies, thereby increasing production capacity and patient clinical trial enrollment..
+ER  -
+
+TY  - JOUR
+AU  - Wilkinson, Rob
+TI  - Quality
+LA  - und
+JF  - Isbt Science Series
+VL  - 15
+IS  - S1
+SP  - 300
+EP  - 311
+PY  - 2020
+SN  - 17512824, 17512816
+PB  - Wiley
+DO  - 10.1111/voxs.12603
+ER  -
+
+TY  - CPAPER
+TI  - 1st International Workshop on Quantum Technology and Optimization Problems, QTOP 2019 was held in conjunction with the International Conference on Networked Systems, NetSys 2019
+LA  - eng
+JF  - Lecture Notes in Computer Science (including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 11413
+PY  - 2019
+SN  - 16113349, 03029743
+SN  - 3030140814, 3030140822, 9783030140816, 9783030140823
+PB  - Springer Verlag
+AB  - The proceedings contain 19 papers. The special focus in this conference is on Quantum Technology and Optimization Problems. The topics include: Solving Large Maximum Clique Problems on a Quantum Annealer; quantum Annealing Based Optimization of Robotic Movement in Manufacturing; quantum Annealing of Vehicle Routing Problem with Time, State and Capacity; boosting Quantum Annealing Performance Using Evolution Strategies for Annealing Offsets Tuning; Quantum Photonic TRNG with Dual Extractor; secure Quantum Data Communications Using Classical Keying Material; continuous-Variable Quantum Network Coding Against Pollution Attacks; On the Influence of Initial Qubit Placement During NISQ Circuit Compilation; towards a Pattern Language for Quantum Algorithms; embedding Inequality Constraints for Quantum Annealing Optimization; Assessing Solution Quality of 3SAT on a Quantum Annealing Platform; principles and Guidelines for Quantum Performance Analysis; nash Embedding and Equilibrium in Pure Quantum States; a Quantum Algorithm for Minimising the Effective Graph Resistance upon Edge Addition; variational Quantum Factoring; function Maximization with Dynamic Quantum Search; flight Gate Assignment with a Quantum Annealer.
+ER  -
+
+TY  - CPAPER
+AU  - Stollenwerk, Tobias
+AU  - Lobe, Elisabeth
+AU  - Jung, Martin
+TI  - Flight Gate Assignment with a Quantum Annealer
+LA  - eng
+A2  - Feld, S, LinnhoffPopien, C
+JF  - Lecture Notes in Computer Science (including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 11413
+SP  - 99
+EP  - 110
+PY  - 2019
+SN  - 16113349, 03029743
+SN  - 3030140814, 3030140822, 9783030140816, 9783030140823
+PB  - Springer Verlag
+DO  - 10.1007/978-3-030-14082-3_9
+AB  - Optimal flight gate assignment is a highly relevant optimization problem from airport management. Among others, an important goal is the minimization of the total transit time of the passengers. The corresponding objective function is quadratic in the binary decision variables encoding the flight-to-gate assignment. Hence, it is a quadratic assignment problem being hard to solve in general. In this work we investigate the solvability of this problem with a D-Wave quantum annealer. These machines are optimizers for quadratic unconstrained optimization problems (QUBO). Therefore the flight gate assignment problem seems to be well suited for these machines. We use real world data from a mid-sized German airport as well as simulation based data to extract typical instances small enough to be amenable to the D-Wave machine. In order to mitigate precision problems, we employ bin packing on the passenger numbers to reduce the precision requirements of the extracted instances. We find that, for the instances we investigated, the bin packing has little effect on the solution quality. Hence, we were able to solve small problem instances extracted from real data with the D-Wave 2000Q quantum annealer.
+ER  -
+
+TY  - JOUR
+AU  - Saeed, Soobia
+AU  - Shaikh, Asadullah
+AU  - Naqvi, Syed Mehmood Raza
+TI  - Assurance Due to the Usage of Two ERP Methods: Microsoft Dynamics AX and SAP
+LA  - eng
+JF  - Mehran University Research Journal of Engineering and Technology
+VL  - 37
+IS  - 2
+SP  - 337
+EP  - 350
+PY  - 2018
+SN  - 02547821, 24137219
+PB  - Mehran University of Engineering and Technology
+DO  - 10.22581/muet1982.1802.10
+AB  - A speculation-based resource organising technique aids agencies in routing information across many industrial components. Organisation functions through IT (Information Technology) with the use of the latest technology helps HR (Human Resources) increase gross sales and beyond. The problem associated with an industry organizational tool is that it needs to share data from the MRP (Material Requirements Planning) system with financial accounting, customer relationships, the supply chain or other applications with the use of the latest technologies. Organisations cannot easily acquire choices, whatever ERP (Enterprise Resource Planning) devices are made for their organisation.In this research paper, we performed and maintained QA (Quality Assurance) using two ERPs are Microsoft Design AX and SAP (Software and Application). Selecting the best ERP technique is never easy. These sort of options are likely to be a really expensive investment decision along with lifetime costs which include a huge amount of money. In this research article, we have highlighted the important elements of the investigation tasks - the biological materials or groupings, steps, treatment options or applications, and also strategies within the assignment. This study can be a resourceful approach to get the essential details through the most effective way possible. This is caused by truth migration; you can use technique personalisation and employee education thoroughly, making use of the types of programs and talks that take a couple of months to more comprehensive period of time to perform. This research study has found that ERP is better than the currently used Supply Chain module.
+ER  -
+
+TY  - JOUR
+AU  - Stollenwerk, Tobias
+AU  - Lobe, Elisabeth
+AU  - Jung, Martin
+TI  - Flight Gate Assignment with a Quantum Annealer
+LA  - und
+PY  - 2018
+AB  - Optimal flight gate assignment is a highly relevant optimization problem from
+airport management. Among others, an important goal is the minimization of the
+total transit time of the passengers. The corresponding objective function is
+quadratic in the binary decision variables encoding the flight-to-gate
+assignment. Hence, it is a quadratic assignment problem being hard to solve in
+general. In this work we investigate the solvability of this problem with a
+D-Wave quantum annealer. These machines are optimizers for quadratic
+unconstrained optimization problems (QUBO). Therefore the flight gate
+assignment problem seems to be well suited for these machines. We use real
+world data from a mid-sized German airport as well as simulation based data to
+extract typical instances small enough to be amenable to the D-Wave machine. In
+order to mitigate precision problems, we employ bin packing on the passenger
+numbers to reduce the precision requirements of the extracted instances. We
+find that, for the instances we investigated, the bin packing has little effect
+on the solution quality. Hence, we were able to solve small problem instances
+extracted from real data with the D-Wave 2000Q quantum annealer.
+ER  -
+
+TY  - CPAPER
+AU  - Karaguchi, Shohei
+AU  - Sakai, Kazuya
+AU  - Fukumoto, Satoshi
+TI  - Quality-Aware Task Assignment in Opportunistic Network-Based Crowdsourcing
+LA  - eng
+JF  - 2018 Ieee 37th International Performance Computing and Communications Conference, Ipccc 2018
+PY  - 2018
+SN  - 23749628, 10972641
+SN  - 1538668084, 1538668092, 9781538668085, 9781538668092, 1538668076, 9781538668078
+PB  - Institute of Electrical and Electronics Engineers Inc.
+DO  - 10.1109/PCCC.2018.8711306
+AB  - Mobile crowdsourcing in opportunistic networks outsources location-based tasks, such as taking photos and surveying Wi-Fi signal characteristic at points of interests, to a crowd of workers. The performance of tasks assignment is generally evaluated by the makespan. However, not only the makespan, but also the quality of performed tasks is important. Therefore, in this paper, we propose two task assignment schemes. One is the quality-aware task assignment (QA-TA) that tries to maximize the quality of tasks for given a deadline; the other is the minimum quality threshold task assignment (MQT-TA) that tries to minimize the makespan for a given minimum quality requirement. To this end, we apply the optimal stopping, which is one of the widely used techniques in mathematics, to the algorithm designs. The simulations using real mobility traces demonstrates that the proposed schemes successfully achieve their design goals.
+ER  -
+
+TY  - CPAPER
+AU  - Su, Juexiao
+AU  - Tu, Tianheng
+AU  - He, Lei
+TI  - A quantum annealing approach for boolean satisfiability problem
+LA  - eng
+JF  - Proceedings - Design Automation Conference
+VL  - 05-09-
+PY  - 2016
+SN  - 0738100x
+SN  - 1467387290, 1467387304, 9781467387293, 9781467387309, 1450342361, 9781450342360
+PB  - Institute of Electrical and Electronics Engineers Inc.
+DO  - 10.1145/2897937.2897973
+AB  - Quantum annealing device has shown a great potential in solving discrete problems that are theoretically and empirically hard. Boolean Satisfiability (SAT) problem, determining if there is an assignment of variables that satisfies a given Boolean function, is the first proven NP-complete problem widely used in various domains. Here, we present a novel mapping of the SAT problem to the quadratic unconstrained binary optimization problem (QUBO), and further develop a tool flow embedding the proposed QUBO to the architecture of the commercialized quantum computer D-Wave. By leveraging electronic design automation techniques including synthesis, placement and routing, this is not only the first work providing the detail flow that embeds the QUBO, but also a technique scalable for real world applications and some hard SAT problems with over 6000 variables in QUBO. Based on our results, we discuss the challenges in solving SAT using the current generation of annealing device, and explore the problem solving capability of future quantum annealing computers.
+ER  -
+
+TY  - JOUR
+AU  - Joan Triay, Marquès
+TI  - Architectures and protocols for sub-wavelength optical networks: contributions to connectionless and connection-oriented data transport
+LA  - cat
+PY  - 2011
+DO  - 10.5821/dissertation-2117-94482
+ER  -
+
+TY  - JOUR
+AU  - Sansford, C. E.
+AU  - Baker, R. H.A.
+AU  - Brennan, J. P.
+AU  - Ewert, F.
+AU  - Gioli, B.
+AU  - Inman, A.
+AU  - Kinsella, A.
+AU  - Magnus, H. A.
+AU  - Miglietta, F.
+AU  - Murray, G. M.
+AU  - Porta-Puglia, A.
+AU  - Porter, J. R.
+AU  - Rafoss, T.
+AU  - Riccioni, L.
+AU  - Thorne, F.
+TI  - The new Pest Risk Analysis for Tilletia indica, the cause of Karnal bunt of wheat, continues to support the quarantine status of the pathogen in Europe
+LA  - eng
+JF  - Plant Pathology
+VL  - 57
+IS  - 4
+SP  - 603
+EP  - 611
+PY  - 2008
+SN  - 13653059, 00320862
+PB  - WILEY
+DO  - 10.1111/j.1365-3059.2008.01825.x
+ER  -
+
+TY  - JOUR
+AU  - Wilkinson, R.
+TI  - Quality
+LA  - und
+JF  - Isbt Science Series
+VL  - 3
+IS  - 2
+SP  - 238
+EP  - 247
+PY  - 2008
+SN  - 17512824, 17512816
+PB  - Blackwell Publishing Ltd
+DO  - 10.1111/j.1751-2824.2008.00201.x
+ER  -
+
+TY  - CPAPER
+AU  - El-Gallad, A. I.
+AU  - El-Hawary, M. E.
+TI  - New operators for integer permutation-based particle swarm optimizer
+LA  - eng
+JF  - Canadian Conference on Electrical and Computer Engineering
+VL  - 2005
+PY  - 2005
+SN  - 08407789, 25767046
+SN  - 0780388852, 9780780388857
+PB  - IEEE
+DO  - 10.1109/CCECE.2005.1557397
+AB  - This paper introduces new operators to particle swarm paradigm (PSO) that could lead to a stunt flocking in solving a class of combinatorial optimization problem. The term "stunt flocking" is analogous to clustering around an optimal solution in domain of the problem considered. Instead of looking at PSO as using individuality and sociality, we adopt the viewpoint of exploration (selecting among all available options and observing outcomes) and exploiting (consistently choosing the global best option). Accordingly, we define two new operators, namely: exploration and exploiting operators for a permutation-based particle swarm algorithm. For exploiting operator we use an order-based imitation function to simulate imitation of the global best option. However, exploration operator is carried out as a result of two lower level operations: recalling the best solution in the memory of each particle and random shuffling of some elements in the permutation that represents each particle. Traveling sales person (TSP) and quadratic assignment (QA) problems are considered here for testing the algorithm. Matlab subcommands are used to illustrate how these operators can take place in programming code. Results of implementing the proposed technique to the mentioned problems agree to great extent with the known optimal solutions. © 2005 IEEE.
+ER  -
+
+TY  - JOUR
+AU  - Nouh, S. A.H.
+TI  - A new scheme for improving the fairness in BWB- DQDB
+LA  - eng
+JF  - Aej - Alexandria Engineering Journal
+VL  - 40
+IS  - 4
+SP  - 529
+EP  - 537
+PY  - 2001
+SN  - 20902670, 11100168
+AB  - The Distributed Queue Dual Bus (DQDB) is a protocol specified by the IEEE 802.6 Standard Committee for Metropolitan Area Network (MAN) for interconnecting hosts, local area networks and workstations. A potential problem with DQDB is the achievement of fair sharing of bandwidth, in case of over-load conditions, in terms of the location of the access node for "Queued Arbitrated" (QA) slots (e.g., for data packet and ATM communications). For the sake of compensating this unfairness, the IEEE standard recommends to utilize the Bandwidth Balancing (BWB) mechanism with proper value of the system parameter named BWB- MOD. This paper presents a new strategy, to overcome the unfairness problem of DQDB protocol, named Proportional Bandwidth Balancing (PR- BWB) mechanism. The proposed scheme performs bandwidth allocations to the individual stations in such a way that the assignments are in proportion to the individual offered traffic loads. Simulation examples, are employed to compare the performance of the proposed scheme with those of regular DQDB and BWB- DQDB. The simulation results provide a deep insight into the equilibrium access of data channel by all active stations. The results also show that the station throughputs are independent of the station's position and the state of the network when the overload occurs.
+ER  -
+
+TY  - CPAPER
+AU  - Matthess, M.
+AU  - Schmitt, E.
+TI  - The application of quality management systems for the handling, loading and transport of spent nuclear fuel from German reactors to European reprocessing plants
+LA  - eng
+JF  - International Journal of Radioactive Materials Transport
+VL  - 5
+IS  - 2-4
+SP  - 119
+EP  - 124
+PY  - 1994
+SN  - 0957476x
+AB  - The tasks carried out by NTL-Hanau, which has been working in the field of transport of radioactive material for more than 20 years, are described. The NTL Group procedures, which were drafted nearly 10 years ago, have been developed into a comprehensive Quality Assurance system. This paper describes the QA system following ISO 9001 and IAEA Safety Series No 37 but which, for German QA requirements, has also to conform to German KTA Standard No 1401. The preparation of shipments includes, inter alia, the planning of the transport, flask utilisation, the provision of transport vehicles and the assignment of personnel. The flask handling procedures are also described, including the essential QA step of identifying fuel elements before loading. NTL-Hanau generally acts as the consignor of each shipment and this entails the provision of services such as the performance of final flask checks, completion of transport documentation and proper labelling of the package. In addition NTL-Hanau is continuously striving to improve its QA system by embracing environment protection philosophies, by minimisation of the dose uptake of staff and the directed development of the QA system towards Total Quality Management.
+ER  -
+
+TY  - JOUR
+AU  - SHOPES, RJ
+AU  - WRAIGHT, CA
+TI  - CHARGE RECOMBINATION FROM THE P+QA- STATE IN REACTION CENTERS FROM RHODOPSEUDOMONAS-VIRIDIS
+LA  - eng
+JF  - Biochimica Et Biophysica Acta
+VL  - 893
+IS  - 3
+SP  - 409
+EP  - 425
+PY  - 1987
+SN  - 18782434, 00063002, 00052728, 18792650
+PB  - ELSEVIER
+DO  - 10.1016/0005-2728(87)90093-4
+AB  - The rate of decay of the flash-oxidized primary electron donor, P+, from the state P+QA- was studied in reaction centers from Rhodopseudomonas viridis, containing only the primary menaquinone electron acceptor (QA). At 295 K, in 100 mM NaCl and in the presence of o-phenanthroline, the rate of recombination was 470 .+-. 15 s-1 at pH 7 and 570 .+-. 20 s-1 at pH 9. The rate at ambient temperatures varied somewhat with viscosity, pH and ionic strength. Between 310 K and 275 K, the  temperature dependence of the rate, at pH 7 and pH 9, were linear in an Arrhenius plot, with apparent activation energies of 0.20 eV and 0.16 eV, respectively. At lower temperatures, however, the dependence deviated from this behavior. In 60% glycerol (pH 7) the recombination rate was 370 .+-. 10 s-1 at 295 K. As the temperature was lowered, the rate decreased but leveled off to a value of 105 .+-. 5 s-1 at 170 K and was independent of temperature from 170 K to 100 K. In 60% ethylene glycol,  the temperature dependence was similar, but the rate fell to a minimum of 75 s-1 at 170 K and then increased slightly at lower temperatures; it finally became temperature independent, with a value of about 100 s-1, at 110 K. The overall temperature dependence is consistent with charge recombination by two competing pathways: a direct electron-tunneling process which dominates at low temperature (less than 250 K), and a thermally activated process via a higher energy state, M, which decays rapidly to the ground state. The indirect route dominates at high temperature (above 250 K). Taking into account the contribution from the low-temperature pathway, the activation energy (enthalpy) for the activated process, in aqueous buffer, was determined to be 0.25 eV (at pH 7) and 0.19 eV (at pH 9). A likely candidate for M is P+I- (PF), where I is the intermediate bacteriopheophytin electron acceptor, and energetic arguments are presented in favor of this assignment. If a rate of decay of P+I- to the ground state, derived from the experimental value, was used in the description of the thermally activated P+QA- recombination process, the free-energy gap separating M and P+QA- could be estimated to be 0.27-0.28 eV, placing it about 0.95 eV above the ground state and 0.30 eV below the excited singlet state, P*. This may imply additional relaxation compared to P+I- in the pico- to nanosecond time range of the forward pathway. The lack of an observable magnetic-field effect on the recombination process through P+I- can be explained by the expected rapid cycling between P+I- and P+QA-, with the latter providing an efficient spin-rephasing state. The pH dependence of the recombination kinetics could be accounted for if the influence of protonation on the I-QA .tautm. IQA- equilibrium was taken into account. Further implications of the identity of M with P+I- are discussed.
+ER  -
+
+TY  - JOUR
+AU  - SHOPES, R J
+AU  - WRAIGHT, C A
+TI  - CHARGE RECOMBINATION FROM THE PQ-A STATE IN REACTION CENTERS FROM RHODOPSEUDOMONAS-VIRIDIS
+LA  - eng
+JF  - Biochimica Et Biophysica Acta
+VL  - 893
+IS  - 3
+SP  - 409
+EP  - 425
+PY  - 1987
+SN  - 18782434, 00063002
+AB  - The rate of decay of the flash-oxidized primary electron donor, P+, from the state P+QA- was studied in reaction centers from Rhodopseudomonas viridis, containing only the primary menaquinone electron acceptor (QA). At 295 K, in 100 mM NaCl and in the presence of o-phenanthroline, the rate of recombination was 470 .+-. 15 s-1 at pH 7 and 570 .+-. 20 s-1 at pH 9. The rate at ambient temperatures varied somewhat with viscosity, pH and ionic strength. Between 310 K and 275 K, the  temperature dependence of the rate, at pH 7 and pH 9, were linear in an Arrhenius plot, with apparent activation energies of 0.20 eV and 0.16 eV, respectively. At lower temperatures, however, the dependence deviated from this behavior. In 60% glycerol (pH 7) the recombination rate was 370 .+-. 10 s-1 at 295 K. As the temperature was lowered, the rate decreased but leveled off to a value of 105 .+-. 5 s-1 at 170 K and was independent of temperature from 170 K to 100 K. In 60% ethylene glycol,  the temperature dependence was similar, but the rate fell to a minimum of 75 s-1 at 170 K and then increased slightly at lower temperatures; it finally became temperature independent, with a value of about 100 s-1, at 110 K. The overall temperature dependence is consistent with charge recombination by two competing pathways: a direct electron-tunneling process which dominates at low temperature (less than 250 K), and a thermally activated process via a higher energy state, M, which decays rapidly to the ground state. The indirect route dominates at high temperature (above 250 K). Taking into account the contribution from the low-temperature pathway, the activation energy (enthalpy) for the activated process, in aqueous buffer, was determined to be 0.25 eV (at pH 7) and 0.19 eV (at pH 9). A likely candidate for M is P+I- (PF), where I is the intermediate bacteriopheophytin electron acceptor, and energetic arguments are presented in favor of this assignment. If a rate of decay of P+I- to the ground state, derived from the experimental value, was used in the description of the thermally activated P+QA- recombination process, the free-energy gap separating M and P+QA- could be estimated to be 0.27-0.28 eV, placing it about 0.95 eV above the ground state and 0.30 eV below the excited singlet state, P*. This may imply additional relaxation compared to P+I- in the pico- to nanosecond time range of the forward pathway. The lack of an observable magnetic-field effect on the recombination process through P+I- can be explained by the expected rapid cycling between P+I- and P+QA-, with the latter providing an efficient spin-rephasing state. The pH dependence of the recombination kinetics could be accounted for if the influence of protonation on the I-QA .tautm. IQA- equilibrium was taken into account. Further implications of the identity of M with P+I- are discussed.
+ER  -

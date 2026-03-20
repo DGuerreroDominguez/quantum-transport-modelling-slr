@@ -1,0 +1,1415 @@
+TY  - CPAPER
+AU  - ShivajiRao, G.
+AU  - Kumar, A. Vincent Antony
+AU  - Jaiganesh, M.
+TI  - Multi orthogonal review of modern demand forecasting lines and computational limitations in Green Urban mobility
+LA  - eng
+JF  - E3s Web of Conferences
+VL  - 547
+PY  - 2024
+SN  - 22671242, 25550403
+PB  - EDP Sciences
+DO  - 10.1051/e3sconf/202454703007
+AB  - Urban mobility attempts to combine payment systems asa service with mobility, which has been divided into several transportation segments, and offer door-to-door services to consumers. Demand forecasting in the transportation sector is usually done in pairs, based on origins and destinations. To be more precise, forecasts are made for the volume of container traffic, vehicle traffic, and passenger departure and arrival. The purpose of this work is to examine the literature on demand prediction forecasting in several transportation domains, including vehicle sharing, leased cars, bicycles, and public transportation. The novel assessment preferred research papers to applied machine learning, deep learning, neural networks and Quantum learning methods. The study justifies the difference between Quantitative and Qualitative demand prediction. This review examined in different levels such as forecasting methods, hybrid models and quantum machine learning methods. Each existing research works classified into algorithms, prediction and observed results in numerical. Finally, the survey effort to find the strengths and limitation of the prevailing past research approaches.
+ER  -
+
+TY  - JOUR
+AU  - Vella, Heidi
+TI  - Quantum transforms travel
+LA  - eng
+JF  - Engineering and Technology
+VL  - 14
+IS  - 4
+SP  - 50
+EP  - 3
+PY  - 2019
+SN  - 17509645, 17509637
+AB  - As cars become increasingly connected and aircraft ever more sensor-laden, automotive and aerospace companies are making a transition from being 'nuts and bolts' manufacturers to so-called `mobility companies' that collect and use unprecedented amounts of data. All information, however, requires processing at super-fast speeds if it's to be useful. To do this, companies are exploring not only AI and machine learning but also the more experimental realm of quantum computing, to see if it can extract better solutions faster than the classical equivalent. Leading the charge is Volkswagen AG. In November last year, the company announced it had, for the first time, used a quantum computer to develop a traffic management system that, it claims, "will replace forecasts of urban traffic volumes, transport demand and travel times by precise calculations". Volkswagen is not alone in its quantum efforts. Nearly every automotive company is currently developing a quantum strategy, including Daimler, BMW, Ford and Toyota. In aerospace, Airbus launched its 'Airbus Quantum Computing Challenge' in January.
+ER  -
+
+TY  - CPAPER
+AU  - Raman, V
+AU  - Anantharamaiah, KM
+TI  - A mass transit planning model for large cities with public policy implications
+LA  - eng
+A2  - Palomas, ODG, Jamet, C
+JF  - Urban Transportation and Environment
+SP  - 257
+EP  - 262
+PY  - 2000
+SN  - 0585464960, 9058091287, 9780585464961, 9789058091284
+PB  - A A BALKEMA PUBLISHERS
+AB  - New initiatives are possible in evolving environmentally friendly urban rapid transit services in cities of developing countries, with the private sector acting in concert with stakeholders. We draw on two examples of such initiatives in India, which are in different stages of project development and related policy formulation. The paper discusses a model with four integrated modules. These forecast traffic on a new transit facility by computing the quantum of shift from the current modes, based on the transit system fare and savings in travel time; and deal with project technical parameters, financial, environmental and economic analyses. Environmental benefits provide justification for the Government's financial participation and help in evolving a method of raising the State's contribution.
+ER  -
+
+TY  - JOUR
+AU  - Schetakis, Nikolaos
+AU  - Bonfini, Paolo
+AU  - Alisoltani, Negin
+AU  - Blazakis, Konstantinos
+AU  - Tsintzos, Symeon I.
+AU  - Askitopoulos, Alexis
+AU  - Aghamalyan, Davit
+AU  - Fafoutellis, Panagiotis
+AU  - Vlahogianni, Eleni I.
+TI  - Data re-uploading in Quantum Machine Learning for time series:
+  application to traffic forecasting
+LA  - und
+JF  - Arxiv (cornell University)
+PY  - 2025
+PB  - Cornell University
+DO  - 10.48550/arxiv.2501.12776
+AB  - Accurate traffic forecasting plays a crucial role in modern Intelligent
+Transportation Systems (ITS), as it enables real-time traffic flow management,
+reduces congestion, and improves the overall efficiency of urban transportation
+networks. With the rise of Quantum Machine Learning (QML), it has emerged a new
+paradigm possessing the potential to enhance predictive capabilities beyond
+what classical machine learning models can achieve. In the present work we
+pursue a heuristic approach to explore the potential of QML, and focus on a
+specific transport issue. In particular, as a case study we investigate a
+traffic forecast task for a major urban area in Athens (Greece), for which we
+possess high-resolution data. In this endeavor we explore the application of
+Quantum Neural Networks (QNN), and, notably, we present the first application
+of quantum data re-uploading in the context of transport forecasting. This
+technique allows quantum models to better capture complex patterns, such as
+traffic dynamics, by repeatedly encoding classical data into a quantum state.
+Aside from providing a prediction model, we spend considerable effort in
+comparing the performance of our hybrid quantum-classical neural networks with
+classical deep learning approaches. Our results show that hybrid models achieve
+competitive accuracy with state-of-the-art classical methods, especially when
+the number of qubits and re-uploading blocks is increased. While the classical
+models demonstrate lower computational demands, we provide evidence that
+increasing the complexity of the quantum model improves predictive accuracy.
+These findings indicate that QML techniques, and specifically the data
+re-uploading approach, hold promise for advancing traffic forecasting models
+and could be instrumental in addressing challenges inherent in ITS
+environments.
+ER  -
+
+TY  - CPAPER
+AU  - Gosh, Saptarshi
+AU  - El Boudani, Brahim
+AU  - Dagiuklas, Tasos
+AU  - Iqbal, Muddesar
+TI  - SO-KDN: A Self-Organised Knowledge Defined Networks Architecture for Reliable Routing
+LA  - eng
+JF  - Acm International Conference Proceeding Series
+SP  - 160
+EP  - 166
+PY  - 2021
+SN  - 1450389139, 9781450389136
+PB  - Association for Computing Machinery
+DO  - 10.1145/3459955.3460617
+AB  - "When you are destined for an important appoint-ment, you would obviously opt for the most reliable route instead of the shortest in order to be well prepared". Modern networking is presently undergoing through a quantum leap. To cope up with ambitious demands and user expectations, it is becoming more complex both structurally and functionally. Software Defined Networking (SDN) happens to be an instance of such advancements. It has significantly leveraged the network programmability, abstraction, and automation. Eventually, with acceptance form all major network infrastructure such as 5G and Cloud, SDN is becoming the standard of future networking. Likewise, Machine Learning (ML) has become the trendiest skill-in-demand recently. With its superiority of analyzing data, makes it applicable for almost every possible domain. The attempt to applying the power of ML in networking has not been too long, it allows the network to be more intelligent and capable enough to take optimal decisions to address some of its native problems. This gives rise to Self- Organized Networking (SON). In this article, Routing using Deep Neural Network (DNN) on top of SDN is addressed. We proposed a Self-organized Knowledge Defined Network (SO-KDN) architecture and an intelligent routing algorithm, that reactively finds the most reliable route, i.e., a route having least probability of fluctuation. This reduces network overhead due to re-routing and optimizes traffic congestion. Experimental data show a mean 90% accurate forecast in reliability prediction.
+ER  -
+
+TY  - JOUR
+AU  - Li, Zhuoxuan
+AU  - Cao, Jinde
+AU  - Shi, Xinli
+AU  - Huang, Wei
+TI  - QPSO-AHES-RC: a hybrid learning model for short-term traffic flow prediction
+LA  - eng
+JF  - Soft Computing
+VL  - 27
+IS  - 14
+SP  - 9347
+EP  - 9366
+PY  - 2023
+SN  - 14327643, 14337479
+PB  - Springer Science and Business Media Deutschland GmbH
+DO  - 10.1007/s00500-023-08291-w
+AB  - Accurate assessment of road conditions can effectively alleviate traffic congestion and guide people’s travel plans, traffic control decisions of transportation departments, and formulation of traffic-related laws and regulations. This paper proposes a quantum particle swarm optimization (QPSO) and adaptive hybrid exponential smoothing with residual correction (AHES-RC) for the nonlinearity and randomness of traffic flow. In the proposed algorithm, the single–double-exponential smoothing method is mixed with adaptive weights to form AHES, a new method of mixing weights according to real-time traffic trend changes. After the residual correction of AHES is calculated by the extreme learning machine algorithm, the parameters of AHES-RC are optimized using QPSO to improve the prediction accuracy further. This paper comprehensively compares the QPSO-AHES-RC algorithm with other benchmark models through testing on 26 real-world data sets. The results show that the proposed algorithm can adaptive forecasting under various traffic conditions, yielding the best forecasting performance in terms of various forecast error metrics. Compared with advanced machine learning algorithms such as XGBoost and CatBoost, the mean RMSE and mean MAPE have been improved by over 20% on average. In addition, it is revealed that the real-time dynamic capture of traffic flow can effectively improve prediction accuracy.
+ER  -
+
+TY  - CPAPER
+AU  - Johann, Tim
+AU  - Giemsa, Daniel
+AU  - Kühl, Sebastian
+AU  - Dochhan, Annika
+AU  - Pachnicke, Stephan
+TI  - Routing Optimization of QKD-Networks using Machine-Learning Based Prediction
+LA  - eng
+JF  - Photonische Netze - 24. Vde Itg-fachtagung
+SP  - 132
+EP  - 136
+PY  - 2023
+SN  - 3800760770, 3800760789, 9783800760770, 9783800760787
+PB  - VDE VERLAG GMBH
+AB  - —Ensuring the security of digital infrastructure is an essential field of work in today’s communications research. Nowadays secure communication is typically based on the computational complexity of algorithms, which may become vulnerable in the future due to emerging new technologies like quantum computers. Quantum key distribution (QKD) is a promising long-term approach to secure data transmission especially for critical infrastructure like communications of authorities. QKD can ensure information-theoretical security based on the fundamental laws of quantum physics. For sufficient reach also in long-haul networks the concept of “trusted nodes” is considered as a practical variant in this contribution. Before (symmetric) encryption of the data packets can start, first secure keys need to be exchanged between two QKD-devices, which currently is only possible at a very limited key rate. These keys are stored in the keystore of each QKD-device. A lack of available keys in a secure node consequently will lead to a denial of a request, which needs to be avoided. In this contribution we present traffic prediction-based routing optimization applied to a meshed long-haul QKD network topology. The traffic prediction is implemented using machine learning with a Long Short-Term Memory (LSTM) model. For the prediction, we train the LSTM model to forecast the future traffic matrices. Based on the prediction result the weights for the routing algorithm can be adapted dynamically. If the predicted traffic load is above the remaining capacity of a keystore, weights of the edges are adapted in advance. As a result, the optimal route is adapted before a keystore runs empty, which otherwise would lead to a blocking of the request. In this way the keystore proactively has the possibility to regenerate. To evaluate the performance of the LSTM based optimization, we compare it with a simple hop-count based shortest path algorithm and with an optimization algorithm based on a (hypothtical) perfect prediction.
+ER  -
+
+TY  - BOOK
+AU  - Paolucci
+TI  - Advances in Optimization and Decision Science for Society, Services and Enterprises : ODS, Genoa, Italy, September 4-7, 2019
+LA  - eng
+A2  - Paolucci, Massimo, Sciomachen, Anna, Uberti, Pierpaolo
+JF  - Advances in Optimization and Decision Science for Society, Services and Enterprises
+PY  - 2019
+SN  - 3030349594, 3030349608, 9783030349592, 9783030349608
+PB  - Springer International Publishing
+ER  -
+
+TY  - CPAPER
+AU  - Xing, Yiming
+AU  - Ban, Xiaojuan
+AU  - Guo, Chong
+AU  - Wang, Yu
+TI  - Probabilistic forecasting of traffic flow using kernel based extreme learning maching and quantum-bahaved particle swarm optimization
+LA  - eng
+JF  - Proceedings of 2016 4th Ieee International Conference on Cloud Computing and Intelligence Systems, Ccis 2016
+SP  - 205
+EP  - 209
+PY  - 2016
+SN  - 2376595x, 23765933
+SN  - 1509012540, 1509012567, 1509012575, 9781509012541, 9781509012565, 9781509012572, 1509012559, 9781509012558
+PB  - Institute of Electrical and Electronics Engineers Inc.
+DO  - 10.1109/CCIS.2016.7790254
+AB  - Accurate and reliable forecast of traffic flow is important to intelligent transportation systems (ITS). However, due to the non-stationary of traffic flow data, traditional point forecasting can hardly be accurate, so probabilistic forecasting methods are essential for quantification of the potential uncertainties and risks for traffic management. This paper proposes a kernel extreme learning machine (KELM)-based probabilistic forecasting method of traffic flow, and the parameters of KELM are optimized by using Quantum-behaved particle swarm optimization (QPSO) algorithm. To verify its effectiveness, traffic flow prediction using QPSO-KELM are compared with other methods. Experimental results show that QPSO-KELM has higher prediction accuracy at different confidence levels for practical applications in traffic management systems. And it will help traffic managers to make right decisions.
+ER  -
+
+TY  - JOUR
+AU  - Yi, Bao
+AU  - Jing, Hu
+AU  - Han, Guo
+AU  - Gen-yong, Chen
+TI  - Study on Zhengzhou Metro Traction Power System Load Forecast and Impact
+LA  - chi
+JF  - Journal of Zhengzhou University Engineering Science
+VL  - 34
+IS  - 3
+PY  - 2013
+SN  - 16716833
+DO  - 10.3969/j.issn.1671-6833.2013.03.005
+AB  - In view of the impact of metro traction power load on the urban network, according to the pre-design data and the short mid and long-term metro transit scale of Zhengzhou metro transit line 1 and 2, this paper used the average volume method to obtain the transit supply power by specifically quantum calculation, and the load forecast can be got with linear regression method. Finally, the evaluation of the impacts of Zhengzhou metro traction power supply system to urban distribution network can be achieved. The analysis showed that the contribution rate of rail transport electricity to the distribution network is about 2%, and the rail transit peak load with urban network peak load does not overlap, so the impact of Zhengzhou rail transit system electricity grid is very small. Its conclusions can provide a reference for the network planning in Zhengzhou.
+ER  -
+
+TY  - CPAPER
+AU  - Hamdy, Ibrahim H.
+AU  - St. John, Maxwell J.
+AU  - Jennings, Sidney W.
+AU  - Magalhaes, Tiago R.
+AU  - Roberts, James H.
+AU  - Polmateer, Thomas L.
+AU  - Manasco, Mark C.
+AU  - Williams, Joi Y.
+AU  - Hendrickson, Daniel C.
+AU  - Eddy, Timothy L.
+AU  - Loose, Davis C.
+AU  - Chowdhury, Mashrur
+AU  - Lambert, James H.
+TI  - Quantum Computing and Machine Learning for Efficiency of Maritime Container Port Operations
+LA  - eng
+JF  - 2022 Systems and Information Engineering Design Symposium, Sieds 2022
+SP  - 369
+EP  - 374
+PY  - 2022
+SN  - 1665451114, 9781665451116
+PB  - Institute of Electrical and Electronics Engineers Inc.
+DO  - 10.1109/SIEDS55548.2022.9799399
+AB  - Maritime container ports are experiencing a variety of challenges, including the pandemic and other stressors, that are altering perspectives on efficiency, risk, and resilience. This study reviews new methods of operations optimization that serve major goals of logistics systems: Increasing energy and time efficiencies and reducing emissions and congestion. Several computational methods will be assessed, including quantum computing, neural networks, and operations heuristics. The methods are compared by potential for increased efficiencies, including the increase in container volumes, reduction of dwell times, reduction of container moves, utilization of demand forecasts, and decreases in emissions. The results suggest opportunities for reinforcement learning to improve the scheduling of container transactions across transportation modes, including maritime, truck, rail, crane, and barge.
+ER  -
+
+TY  - JOUR
+AU  - Qiu, Dun Guo
+AU  - Yang, Hong Yu
+TI  - A short-term traffic flow forecast algorithm based on double seasonal time series
+LA  - chi
+JF  - Sichuan Daxue Xuebao (gongcheng Kexue Ban)/journal of Sichuan University (engineering Science Edition)
+VL  - 45
+IS  - 5
+SP  - 64
+EP  - 68
+PY  - 2013
+SN  - 10093087
+PB  - 四川大学
+AB  - According to the characteristics of urban road short-term traffic flow, one kind of short-term traffic flow forecast model named DSARIMA (double seasonal autoregressive integrated moving average model) was proposed, which can meet the requirements of predicting daily pattern and weekly pattern traffic flow in urban road based on the ARIMA (autoregressive integrated moving average model) model and SARIMA (seasonal autoregressive integrated moving average model) model. According to the characteristics of the traffic flow in weekdays and weekends in urban road, a forecast algorithm was given which use two methods to forecast traffic flow by ARIMA model, one forecast using N1 time quantum before the given time, the other forecast using the same time quantum of N2 days before the given time, and use improved BAYESIAN model to decide the powers of the two methods by calculating the difference of the forecast results and the real results. The final forecast results were the sum of the respective results of the two methods multiplied by its power. The results showed that the DSARIMA model has better stability and are more accurate than the ARIMA model or SARIMA model when applied to the short-term traffic flow forecast.
+ER  -
+
+TY  - CPAPER
+AU  - Abanto, Jeanelle E.
+AU  - Reyes, Charmailene C.
+AU  - Malinao, Jasmine A.
+AU  - Adorna, Henry N.
+TI  - Traffic incident detection and modelling using Quantum Frequency Algorithm and AutoRegressive Integrated Moving Average models
+LA  - eng
+JF  - Iisa 2013 - 4th International Conference on Information, Intelligence, Systems and Applications
+PY  - 2013
+SN  - 1479907693, 1479907707, 1479907715, 9781479907694, 9781479907700, 9781479907717
+PB  - IEEE
+DO  - 10.1109/IISA.2013.6623679
+AB  - In this study, we used AutoRegressive Integrated Moving Average (ARIMA) to effectively represent expected normal traffic behavior of those weeks identified to be abnormal in the previous literature. Using the 2006 North Luzon Expressway North Bound (NLEX NB) Balintawak (Blk) segment's hourly traffic volume and time mean speed data sets provided by the National Center for Transportation Studies (NCTS), we processed the data to generate time series plots of the weekly densities, the normal range of traffic density, and the abnormal. We obtained these through Quantum Frequency Algorithm (QFA). We fit the ARIMA model to some weeks of Blk which have evident occurrences of incidents as detected and crosschecked with the incidents data provided by NCTS. We performed a forecast of the fit and generated a time series plot of the superimposed plots of the actual data and the forecast for each of the top incidents generated in the previous literature. These plots provided a simplistic time-domain 2D visualizations that successfully exposed the abnormal points where incidents happened. These also provided an estimate of the expected traffic density behavior if incidents did not happen. © 2013 IEEE.
+ER  -
+
+TY  - JOUR
+AU  - Huang, Wanwei
+AU  - Zhang, Jianwei
+AU  - Liang, Shujun
+AU  - Sun, Haiyan
+TI  - Backbone Network Traffic Prediction Based on Modified EEMD and Quantum Neural Network
+LA  - eng
+JF  - Wireless Personal Communications
+VL  - 99
+IS  - 4
+SP  - 1569
+EP  - 1588
+PY  - 2018
+SN  - 1572834x, 09296212
+PB  - Springer New York LLC
+DO  - 10.1007/s11277-018-5292-6
+AB  - Aiming at the long-range dependence and short-range dependence characteristics of backbone network traffic, a traffic forecasting model based on Modified Ensemble Empirical Mode Decomposition (MEEMD) and Quantum Neural Network (QNN) is presented. Firstly, the MEEMD method is employed to decompose the traffic data sequence into intrinsic mode function (IMF) component. Then, the Quantum Neural Network is adopted to forecast the IMF components. Ultimately, the final prediction value is obtained via synthe-tizing the prediction results of all components. The QNN is composed of universal quantum gates and quantum weighted, and its learning algorithm employs the Modified Polak–Ribière–Polyak Conjugate Gradient method. The forecast results on real network traffic show that the proposed algorithm has a lower computational complexity and higher prediction accuracy than that of EMD and Auto Regressive Moving Average, EMD and Support Vector Machines, EEMD and Artificial Neural Networks method.
+ER  -
+
+TY  - JOUR
+AU  - Guo, Li Dong
+AU  - Cheung, Ying
+TI  - A Short-Term Traffic Flow Prediction Model for Urban Areas Based on Quantum Genetic Optimization
+LA  - eng
+JF  - Journal of Network Intelligence
+VL  - 10
+IS  - 1
+SP  - 69
+EP  - 81
+PY  - 2025
+SN  - 24148105
+PB  - Taiwan Ubiquitous Information CO LTD
+AB  - Urban traffic systems are known for their complexity and non-linearity, making it challenging to accurately predict traffic flow. This research study introduces a novel approach to tackle this issue by utilizing quantum genetic optimization to develop a short-term traffic flow prediction model specifically tailored for urban areas. To enhance the accuracy of the prediction model, the strengths of quantum computing, including accelerated processing and heightened security, are combined with the advantages offered by genetic optimization algorithms. The quantum genetic optimization algorithm is employed to optimize the model parameters, enabling a better capture of the spatiotemporal patterns inherent in urban traffic flow. Experimental results demonstrate that the prediction model, based on quantum genetic optimization, achieves highly accurate short-term traffic flow forecasts and successfully captures the complex spatiotemporal patterns of urban traffic flow. This innovative approach provides a potential solution to the longstanding challenge of accurately anticipating traffic flow in urban environments. By harnessing the power of quantum computing techniques through the utilization of genetic optimization, this research significantly contributes to the advancement of urban traffic management systems. The improved accuracy and reliability of traffic flow prediction models offer valuable insights for efficient decision-making processes regarding traffic control and congestion management.
+ER  -
+
+TY  - CPAPER
+AU  - Wenning, Mario
+AU  - Patri, Sai Kireet
+AU  - Fehenberger, Tobias
+AU  - Mas-Machuca, Carmen
+TI  - Optimized Deployment and Routing Strategies for QKD and DWDM Networks
+LA  - eng
+JF  - Photonische Netze - 24. Vde Itg-fachtagung
+SP  - 122
+EP  - 127
+PY  - 2023
+SN  - 3800760770, 3800760789, 9783800760770, 9783800760787
+PB  - VDE VERLAG GMBH
+AB  - —Quantum key distribution (QKD) is an emerging technique for encrypting dense wavelength-division multiplexing networks (DWDMNs). The network-wide utilization of QKD raises challenges for deploying a QKD network (QKDN) and operating it via the key management network (KMN). These challenges include the optimized placement of QKD devices and the utilization of the QKDN. The goal of our QKDN deployment strategies is to maximize the reuse of infrastructure of the DWDMN, and the routing algorithms focus on the most efficient use of the deployed QKDN. We evaluate the multi-layer network consisting of a QKDN, a KMN, and a DWDMN and jointly optimize operation and deployment. Our analysis comprises different routing algorithms for key relaying within the KMN. Furthermore, we compare different deployment strategies for QKDNs and investigate the joint impact of both network layers, the QKDN, and the key management layer. For the two analyzed scenarios of uniformly distributed demands and the multi-year planning scenario, we can reduce the number of required QKD devices by approx. 11 % to 18 % without any performance penalty through optimized utilization of the deployed QKDN as compared to suboptimal operation. Finally, we show the combination of deployment and key relay algorithms that can cope with a multi-period traffic demand forecast. In the analysis of the multi-year planning scenario, we demonstrate deployment strategies that scale with the increasing demands of the DWDMN in the future, maintain optimized utilization, and, hence, allow efficient future-proof quantum-safe communication.
+ER  -
+
+TY  - CPAPER
+TI  - Proceedings of International Conference on High Performance Computing in Asia-Pacific Region Workshops, HPC Asia 2021
+LA  - eng
+JF  - Acm International Conference Proceeding Series
+PY  - 2021
+SN  - 1450383033, 9781450383035
+PB  - Association for Computing Machinery
+AB  - The proceedings contain 8 papers. The topics discussed include: molecular-continuum flow simulation in the exascale and big data era; an efficient halo approach for Euler-Lagrange simulations based on MPI-3 shared memory; advantages of space-time finite elements for domains with time varying topology; node-level performance optimizations in CFD codes; multi-scale modelling of urban air pollution with coupled weather forecast and traffic simulation on HPC architecture; single-precision calculation of iterative refinement of eigenpairs of a real symmetric-definite generalized eigenproblem by using a filter composed of a single resolvent; high performance simulations of quantum transport using manycore computing; distributed MLPerf ResNet50 training on intel xeon architectures with TensorFlow; and efficient parallel multigrid method on Intel Xeon Phi clusters.
+ER  -
+
+TY  - JOUR
+AU  - Jian, Yu
+AU  - Ping, Guo
+TI  - Study on network traffic forecast based on improved wavelet neural network
+LA  - chi
+JF  - Journal of Computer Applications
+VL  - 27
+IS  - 12
+SP  - 2986
+EP  - 2988
+PY  - 2007
+SN  - 10019081
+AB  - The time series of network traffic data was modeled and forecasted based on wavelet neural network (WNN). The limitation of the conventional training algorithm of WNN was introduced and adaptive quantum-behaved particle swarm optimization (AQPSO) algorithm was proposed to train WNN. The parameters of WNN were optimized and the forecast model of WNN based on AQPSO algorithm was built. The experimental results prove that the model is efficient in network traffic prediction with good astringency and stability.
+ER  -
+
+TY  - JOUR
+AU  - Zhang, Fuquan
+AU  - Wu, Tsu Yang
+AU  - Wang, Yiou
+AU  - Xiong, Rui
+AU  - DIng, Gangyi
+AU  - Mei, Peng
+AU  - Liu, Laiyang
+TI  - Application of Quantum Genetic Optimization of LVQ Neural Network in Smart City Traffic Network Prediction
+LA  - eng
+JF  - Ieee Access
+VL  - 8
+SP  - 104555
+EP  - 104564
+PY  - 2020
+SN  - 21693536
+PB  - Institute of Electrical and Electronics Engineers Inc.
+DO  - 10.1109/ACCESS.2020.2999608
+AB  - Accurate prediction of traffic flow in urban networks is of great significance for smart city management. A short-term traffic flow prediction algorithm of Quantum Genetic Algorithm - Learning Vector Quantization (QGA-LVQ) neural network is proposed to forecast the changes of traffic flow. Different from BP neural network, Learning Vector Quantization (LVQ) neural network is of simple structure, easy implementation and better clustering effect. Utilizing the global optimization ability of Quantum Genetic Algorithm (QGA), it is combined with LVQ neural network to overcome some shortcomings of LVQ neural network, including sensitive to initial weights and prone to local minima. In order to test the convergence ability and the timeliness of QGA-LVQ neural network in short-term traffic flow, some contrast experiments are performed. Experimental simulation results show that, QGA-LVQ neural network obtains excellent prediction results in prediction accuracy and convergence speed. Besides, compared with GA-BP neural network and wavelet neural network, QGA-LVQ neural network performs better in short-term traffic flow prediction.
+ER  -
+
+TY  - JOUR
+AU  - Mao, Ling Feng
+TI  - Physical Modeling of Threshold Voltage Instability in GaN High-Electron-Mobility Transistors
+LA  - eng
+JF  - Physica Status Solidi (a) Applications and Materials Science
+VL  - 221
+IS  - 18
+PY  - 2024
+SN  - 18626300, 18626319
+PB  - Wiley
+DO  - 10.1002/pssa.202400479
+AB  - The transient heat conduction equation for the 2D electron gas layer in GaN high-electron-mobility transistors is developed. The Schottky barrier height and the conduction band offset seen by electrons in the 2D electron gas layer will be reduced due to self-heating in the 2D electron gas of GaN high-electron-mobility transistors via quantum coupling. Such a reduction will lead to a shift in the threshold voltage. To address this issue, an analytical physical model of self-heating in the 2D electron gas of a GaN high-electron-mobility transistor via quantum coupling impacts on its threshold voltage instability is proposed. The proposed model forecasts that the threshold voltage can have an exponentially dependent relation with the reciprocal of the recovery time after the stress voltage is released, as well as dependencies on the square of the drift velocity, the gate voltage, and the surrounding temperature. The experimentally observed threshold voltage shifts of GaN high-electron-mobility transistors confirm such dependent relationships predicted by the proposed physical model. This article provides evidence that the combination of self-heating in the 2D electron gas layer and quantum coupling may be a possible physical origin of the threshold voltage instability in GaN high-electron-mobility transistors.
+ER  -
+
+TY  - JOUR
+AU  - Huang, Da
+AU  - Tan, Yudong
+AU  - Sun, Yanxue
+AU  - Zheng, Caijun
+AU  - Wang, Zhongliang
+TI  - Quantum chemical calculation study on terphenyl arylamines hole transport materials
+LA  - eng
+JF  - Journal of the Society for Information Display
+VL  - 23
+IS  - 4
+SP  - 182
+EP  - 185
+PY  - 2015
+SN  - 19383657, 10710922
+PB  - WILEY-BLACKWELL
+DO  - 10.1002/jsid.320
+AB  - The hole reorganization energy and excited states characteristics of N,N′-bis(naphthalen-1-y)-N,N′-bis(phenyl)benzidine (NPB), phenyl arylamine, diphenyl arylamine (DP), and terphenyl arylamine (TP) are investigated using time-dependent density functional theory. It is shown that the hole transport characteristics of the materials TP and DP are better than the commercially available materials NPB. The quantum chemical calculation method accesses a powerful tool by which the potential hole transport materials can be easy to screen out. The author calculates the properties of three arylamine molecules by quantum chemistry and forecasts the terphenyl arylamine molecules are very suitable for application as hole transport materials in organic light-emitting diodes.
+ER  -
+
+TY  - JOUR
+AU  - Yu, Jiangbo Gabriel
+AU  - Jayakrishnan, R.
+TI  - A quantum cognition model for bridging stated and revealed preference
+LA  - eng
+JF  - Transportation Research Part B: Methodological
+VL  - 118
+SP  - 263
+EP  - 280
+PY  - 2018
+SN  - 18792367, 01912615
+PB  - Elsevier Ltd
+DO  - 10.1016/j.trb.2018.10.014
+AB  - Despite increasingly abundant data on revealed travel behaviors, stated preference surveys still play an indispensable role in analyzing and predicting human behaviors in hypothetical scenarios. Recent needs for forecasting travel behaviors in the era of autonomous vehicles and more prevalent sharing economy are examples. However, it is well known that the framing effect in surveys could be significant when asking the same question with different modes, instruments, and wordings. Moreover, systematic deviation is observed when stated preference and revealed preference are compared, per a growing body of studies, due to the framing effect, the change of the decision context, and the altered mental states of participants. These situations resemble two prevalent quantum phenomena – measurement influences the state of a system, and different observation sequences on a system render different results. This paper proposes a quantum cognition model consistent with quantum logic and demonstrates its usefulness in the quantitative study of stated and revealed preference. Examples show how to calibrate the model and forecast revealed preference when only stated preference is available. Although the proposed model is not limited to the number of questions, the examples focus on single-question scenarios. This paper takes a utilitarian perspective on quantum mechanics and demonstrates how it could improve survey designs and prediction on revealed preference.
+ER  -
+
+TY  - JOUR
+AU  - Chao, Wang
+AU  - Sen, Li
+TI  - Short-Term Load Forecasting Based on Neural Network Optimized by Varying Parameters Quantum Particle Swarm Optimization Algorithm
+LA  - chi
+JF  - Chinese Journal of Electron Devices
+VL  - 37
+IS  - 4
+SP  - 782
+EP  - 6
+PY  - 2014
+SN  - 10059490
+DO  - 10.3969/j.issn.1005-9490.2014.04.043
+AB  - In order to forecast short-term load accurately and quickly, a short load forecasting model is proposed, based on BP neural network optimized by quantum particle swarm optimization algorithm. Firstly, the data of short load are reconstructed by chaotic theory, and then the parameters of BPNN were considered the position vector of quantum particle, the optimal parameters of BPNN are found by quantum particle optimization algorithm to reduce blindness and inefficiency. Lastly, the optimal model for network traffic is built and the performance of mode are tested by short load data. The simulation results show that VPQPSO algorithm has solved the problems of the BP neural network, and the proposed model improved the power load forecasting accuracy.
+ER  -
+
+TY  - JOUR
+AU  - Ding, Xiao Qin
+AU  - Sun, Yang
+AU  - Ding, Jun Jie
+AU  - Chen, Ji Sheng
+TI  - Quantum chemical calculations on pKa values of oranic compounds in aqueous solution
+LA  - chi
+JF  - Gaodeng Xuexiao Huaxue Xuebao/chemical Journal of Chinese Universities
+VL  - 30
+IS  - 11
+SP  - 103
+EP  - 108
+PY  - 2009
+SN  - 02510790
+AB  - Quantum chemical calculations of the pKa values were performed using DFT method with 6-31+g(d, p) basis set for more than 200 compounds of alcohol, phenol, carboxylic acid, aliphatic amines, aromatic amine and nitrogen heterocyclics etc. The solution-phase calculations use polarized continuum solution(PCM) model with default set in water. The residue of most compounds is less than 1 pKa unit. Correlation coefficient between experiment results and forecast results is better than 0.94. The results can help us to research reaction activity difference between different molecules or different groups in one molecule. Quantum Chemical calculations of the pKa values will be instructive to computer aided molecular design and organic synthetic route design and optimization.
+ER  -
+
+TY  - CPAPER
+AU  - Mingtang, Li
+AU  - Yujie, Wang
+TI  - A New Method Study on River Flow Forecast Model with Impacts of Natural and Human Activities
+LA  - eng
+A2  - Shang, HQ, Luo, XX
+JF  - Proceedings of the 4th International Yellow River Forum on Ecological Civilization and River Ethics, Vol I
+SP  - 272
+EP  - 277
+PY  - 2010
+SN  - 780734797X, 9787807347972
+PB  - YELLOW RIVER CONSERVANCY PRESS
+AB  - Under the influence of natural conditions and human activities in common in modern society, forecast of many characteristics is constrained by certainty and uncertainty factors in common. The application of single physics and random models is being constrained increasingly. When forecasting river flow, if broadly looking river flow routing by Muskingum method as a special case of a first order single variable autoregressive model at two dimension time space distribution conditions, the foreseeable period of autoregressive model can be extended by changing spatiotemporal location of the corresponding factor in the course of channel flow routing. It can avoid the defect that "residual values relates with their lagged values" in time series autoregressive model, meet the standard assumptions of regression theory that "interference items are unrelated each other" and provide new ideas to set up a mixed forecast model. According to integrating and superposing principles, the mixed model can be simply expressed as "Certain Items + Fuzzy Items + Random Items". When applicating, The model can be expressed and calculated in quantum by the length of foreseeable period and the relationship between predictors of primary and secondary, through the assumption and transform, etc. It still need to analyze error sources of practical problems, confirm the critical time at which factors characteristics transform, use time varying parameters rationally to improve model precision.
+ER  -
+
+TY  - CPAPER
+AU  - Liu, Yangqiao
+AU  - Li, Bin
+AU  - Sun, Xuebin
+AU  - Zhou, Zheng
+TI  - A fusion model of SWT, QGA and BP neural network for wireless network traffic prediction
+LA  - eng
+A2  - Ma, H, Wang, MZW
+JF  - International Conference on Communication Technology Proceedings, Icct
+PY  - 2013
+SN  - 1479900745, 9781479900749
+PB  - Institute of Electrical and Electronics Engineers Inc.
+DO  - 10.1109/ICCT.2013.6820478
+AB  - In this paper a fusion model by combining the Stationary Wavelet Transform (SWT), Quantum Genetic Algorithm (QGA) and Back-propagation (BP) Neural Network is proposed to forecast wireless network traffic. In order to achieve guaranteed Quality of Service (QoS) in wireless networks, various managing measures can be taken only by knowing the network traffic in advance. This developed fusion model which is called the SWT-QGA-BP model can be efficiently used to assess the future network and provide adequate evidence for wireless network management. By using SWT, the original non-stationary wireless traffic data are transformed into multiple stationary components. With the QGA evolution, the BP neural network is optimized in both architecture and initial parameters. The simulation further indicates the effectiveness of the proposed SWT-QGA-BP fusion model, and the results show that our model can enhance the prediction performance significantly in accuracy. © 2013 IEEE.
+ER  -
+
+TY  - JOUR
+AU  - Xiao-Qin, Ding
+AU  - Yang, Sun
+AU  - Jun-Jie, Ding
+AU  - Ji-Sheng, Chen
+TI  - Quantum Chemical Calculations on pK(a) Values of Oranic Compounds in Aqueous Solution
+LA  - chi
+JF  - Chemical Journal of Chinese Universities-chinese
+VL  - 30
+IS  - 11
+SP  - 103
+EP  - 108
+PY  - 2009
+SN  - 02510790
+PB  - HIGHER EDUCATION PRESS
+AB  - Quantum chemical calculations of the pK(a) values were performed using DFF method with 6-31 + g (d,p) basis set for more than 200 compounds of alcohol, phenol, carboxyhe acid, aliphatic amines, aromatic amine and nitrogen heterocyclics etc. The solution-phase calculations use polarized continuum solution(PCM) model with default set in water. The residue of most compounds is less than 1 pK(a) unit. Correlation coefficient between experiment results and forecast results is better than 0.94. The results can help us to research reaction activity difference between different molecules or different groups in one molecule. Quantum Chemical calculations of the pK(a) values will be instructive to computer aided molecular design and organic synthetic route design and optimization.
+ER  -
+
+TY  - CPAPER
+AU  - Liu, Yangqiao
+AU  - Li, Bin
+AU  - Sun, Xuebin
+AU  - Zhou, Zheng
+TI  - A fusion model of SWT, QGA and BP neural network for wireless network traffic prediction
+LA  - eng
+JF  - 2013 15th Ieee International Conference on Communication Technology (icct)
+SP  - 769
+EP  - 74
+PY  - 2013
+SN  - 1479900761, 147990077X, 147990077x, 9781479900763, 9781479900770
+PB  - IEEE
+DO  - 10.1109/ICCT.2013.6820478
+AB  - In this paper a fusion model by combining the Stationary Wavelet Transform (SWT), Quantum Genetic Algorithm (QGA) and Back-propagation (BP) Neural Network is proposed to forecast wireless network traffic. In order to achieve guaranteed Quality of Service (QoS) in wireless networks, various managing measures can be taken only by knowing the network traffic in advance. This developed fusion model which is called the SWT-QGA-BP model can be efficiently used to assess the future network and provide adequate evidence for wireless network management. By using SWT, the original non-stationary wireless traffic data are transformed into multiple stationary components. With the QGA evolution, the BP neural network is optimized in both architecture and initial parameters. The simulation further indicates the effectiveness of the proposed SWT-QGA-BP fusion model, and the results show that our model can enhance the prediction performance significantly in accuracy.
+ER  -
+
+TY  - JOUR
+AU  - Zhang, Xiao Xin
+AU  - Zeng, Yi Ping
+AU  - Wang, Xiao Guang
+AU  - Wang, Bao Qiang
+AU  - Zhu, Zhan Ping
+TI  - Relationship between the electric performance and the photoluminescence spectra of resonant tunnelling diodes
+LA  - eng
+JF  - Chinese Physics
+VL  - 13
+IS  - 9
+SP  - 1560
+EP  - 1563
+PY  - 2004
+SN  - 17414199, 10091963
+PB  - CHINESE PHYSICAL SOC
+DO  - 10.1088/1009-1963/13/9/034
+AB  - Resonant tunnelling diodes with different structures were grown. Their photoluminescence spectra were investigated. By contrast, the luminescence in the quantum well is separated from that of other epilayers. The result is obtained that the exciton of the luminescence in the quantum well is partly come from the cap layer in the experiment. So the photoluminescence spectrum is closely related to the electron transport in the resonant tunnelling diode structure. This offers a method by which the important performance of resonant tunnelling diode could be forecast by analysing the integrated photoluminescence intensities. © 2004 Chin. Phys. Soc. and IOP Publishing Ltd.
+ER  -
+
+TY  - JOUR
+AU  - Jackson, Nicholas E.
+AU  - Savoie, Brett M.
+AU  - Chen, Lin X.
+AU  - Ratner, Mark A.
+TI  - A simple index for characterizing charge transport in molecular materials
+LA  - eng
+JF  - Journal of Physical Chemistry Letters
+VL  - 6
+IS  - 6
+SP  - 1018
+EP  - 1021
+PY  - 2015
+SN  - 19487185
+PB  - American Chemical Society
+DO  - 10.1021/acs.jpclett.5b00135
+AB  - While advances in quantum chemistry have rendered the accurate prediction of band alignment relatively straightforward, the ability to forecast a noncrystalline, multimolecule systems conductivity possesses no simple computational form. Adapting the theory of classical resistor networks, we develop an index for quantifying charge transport in bulk molecular materials, without the requirement of crystallinity. The basic behavior of this index is illustrated through its application to simple lattices and clusters of common organic photovoltaic molecules, where it is shown to reproduce experimentally known performances for these materials. This development provides a quantitative computational means for determining a priori the bulk charge transport properties of molecular materials.
+ER  -
+
+TY  - JOUR
+AU  - Chang, Bao Rong
+AU  - Tsai, Hsiu Fen
+TI  - Novel hybrid approach to data-packet-flow prediction for improving network traffic analysis
+LA  - eng
+JF  - Applied Soft Computing Journal
+VL  - 9
+IS  - 3
+SP  - 1177
+EP  - 1183
+PY  - 2009
+SN  - 18729681, 15684946
+PB  - ELSEVIER
+DO  - 10.1016/j.asoc.2009.03.003
+AB  - Forecast of the flow of data packets between client and server for a network traffic analysis is viewed as a part of web analytics. Thousands of web-smart businesses depend on web analytics to improve website conversions, reduce marketing costs, facilitate website optimization, speed-up website monitoring and provide a higher level of service to their customers and partners. This paper particularly intends to develop a high accurate prediction as one of core component of network traffic analysis. In this study, a novel hybrid approach, combining adaptive neuro-fuzzy inference system (ANFIS) with nonlinear generalized autoregressive conditional heteroscedasticity (NGARCH), is tuned optimally by quantum minimization (QM) and then applied to forecasting the flow of data packets around website. The composite model (QM-ANFIS/NGARCH) is setup in the forecast point of view to improve the predictive accuracy because it can resolve the problems of the overshoot and volatility clustering simultaneously within time series. As part of real-time intelligence web analytics, the high accurate prediction will aid webmaster to improve the throughput of data-packet-flow up to around 20%, with helping each webmaster to optimize their website, maximize online marketing conversions, and lead campaign tracking. © 2009 Elsevier B.V. All rights reserved.
+ER  -
+
+TY  - JOUR
+AU  - Li, Leijiao
+AU  - Liu, Xiaojuan
+AU  - Feng, Jing
+AU  - Song, Shuyan
+AU  - Zhang, Hongjie
+TI  - Injection, transport, absorption and phosphorescence properties of a series of platinum (II) complexes with N-heterocyclic carbenes: a DFT and time-dependent DFT study
+LA  - eng
+JF  - Journal of Molecular Modeling
+VL  - 20
+IS  - 10
+PY  - 2014
+SN  - 09485023, 16102940
+PB  - Springer Verlag
+DO  - 10.1007/s00894-014-2437-8
+AB  - The ground and excited states, charge injection/transport, and phosphorescence properties of five N‑heterocyclic carbine-functionalized PtII complexes were investigated by using the DFT method. By analyzing the nonradiative (knr) rate constant and energies at S0opt and T1opt states, it is possible to forecast that BC5 with the pyrrole ligand has a higher phosphorescence quantum yield than any of the other four complexes. Thus, we consider that BC5 will be an efficient phosphorescent material that has balanced electron/hole-transport performance as well as high phosphorescence quantum yield. The calculated results indicate that, for the studied complexes, the nature of the ligand strongly affected the energy of the emissive state and was able to tune the emission color. We hope that our study will aid better understanding of the structure–property relationship of phosphorescent Pt (II) complexes and provide constructive information for designing novel and highly efficient OLED materials in the future.
+ER  -
+
+TY  - JOUR
+AU  - Wang, Xiaoyi
+AU  - Hu, Wenyu
+AU  - Qiu, Yang
+AU  - Huang, Yi
+AU  - Wang, Xueqing
+AU  - Xu, Min
+AU  - Ma, Jian
+AU  - Miao, Feng
+AU  - Cui, Xudong
+AU  - Jin, Chaoyuan
+AU  - Ruterana, Pierre
+TI  - Directional charge transportation and Rayleigh scattering for the optimal in-band quantum yield of a composite semiconductor nano-photocatalyst
+LA  - eng
+JF  - Catalysis Science and Technology
+VL  - 11
+IS  - 11
+SP  - 3855
+EP  - 3864
+PY  - 2021
+SN  - 20444761, 20444753
+PB  - Royal Society of Chemistry
+DO  - 10.1039/d0cy02316g
+AB  - In this work, we propose a novel technique based on wavelength dispersivein situfluorescence spectroscopy (WDIFS) for diagnosing the wavelength-dependent directional charge transportation and Rayleigh scattering enhanced in-band quantum yield. For the first time, it is clearly demonstrated that the formation of the 2D electron gas in CuO/ZnO and upward Schottky barriers in ZnO/Ag facilitate the photocatalytic performance in the ultraviolet spectral range, and that utilization of the visible spectrum relies on the band alignment between the energy level of the dopants and the Fermi level of Ag. Moreover, it is shown that the wavelength-dependent in-band quantum yield can be controlled through particle size photon scattering, in which the strong Rayleigh scattering based photon harvesting brings about a significant increase in the photocatalytic performance in the ultraviolet spectrum. Eventually, it is forecast that systematic use of the proposed technique for a systematic diagnosis should help towards the production of efficient ZnO-based photocatalysts.
+ER  -
+
+TY  - CPAPER
+TI  - 15th International Conference on Computational Intelligence in Security for Information Systems, CISIS 2022, and the 13th International Conference on EUropean Transnational Education, ICEUTE 2022
+LA  - eng
+JF  - Lecture Notes in Networks and Systems
+VL  - 532
+PY  - 2023
+SN  - 23673389, 23673370
+SN  - 3031184084, 3031184092, 9783031184086, 9783031184093
+PB  - Springer Science and Business Media Deutschland GmbH
+AB  - The proceedings contain 25 papers. The special focus in this conference is on Computational Intelligence in Security for Information Systems. The topics include: About the Fujisaki-Okamoto Transformation in the Code-Based Algorithms of the NIST Post-quantum Call; Analysis of Secret Key Agreement Protocol for Massive MIMO Systems; preface; analysis of Long-Range Forecast Strategies for IoT on Urban Water Consumption Prediction Task; Efficient Implementation of Stream Cipher SNOW 3G for Resource-Constrained Devices; state of the Art of Cybersecurity in Cooperative, Connected and Automated Mobility; cryptographic Protocols in Advanced Metering Infrastructures in Smart Grids; orchestrator Architecture and Communication Methodology for Flexible Event Driven Message Based Communication; a Comparative Study of Machine Learning Algorithms for the Detection of Vulnerable Python Libraries; Evaluation of the Reliability Index of IP Addresses in Reputation Lists; forecasting the Number of Bugs and Vulnerabilities in Software Components Using Neural Network Models; Reinforcement Learning Model Free with GLIE Monte-Carlo on Policy Update for Network Topology Discovery; Obfuscating LLVM Intermediate Representation Source Code with NSGA-II; a Deep Learning-Based Approach for Mimicking Network Topologies: The Neris Botnet as a Case of Study; genetic Algorithm Based Aggregation for Federated Learning in Industrial Cyber Physical Systems; evaluating Classifiers’ Performance to Detect Attacks in Website Traffic; evaluation of an Interactive Guide for Robotics Self-learning; gamifying the Classroom for the Acquisition of Skills Associated with Machine Learning: A Two-Year Case Study; hackathon in Teaching: Applying Machine Learning to Life Sciences Tasks; digital Platforms for Education. The Case of e4you; 3D Virtual Laboratory for Control Engineering Using Blended Learning Methodology; Hand SOS Gesture Detection by Computer Vision; prediction of Smart Energy Meter Network Traffic Features for Anomaly Detection.
+ER  -
+
+TY  - CPAPER
+TI  - AIAA SPACE Conference and Exposition 2012
+LA  - eng
+JF  - Aiaa Space Conference and Exposition 2012
+PY  - 2012
+SN  - 1600869408, 9781600869402
+ER  -
+
+TY  - JOUR
+AU  - Giraud, R.
+AU  - Vila, L.
+AU  - Lemaître, A.
+AU  - Faini, G.
+TI  - Large phase coherence effects in GaMnAs-based nanostructures: Towards a quantum spintronics
+LA  - eng
+JF  - Applied Surface Science
+VL  - 254
+IS  - 1
+SP  - 343
+EP  - 346
+PY  - 2007
+SN  - 01694332, 18735584
+PB  - Elsevier
+DO  - 10.1016/j.apsusc.2007.07.088
+AB  - Quantum coherent transport of spin-polarized carriers is observed on a very unusual large scale within epitaxial nanowires of GaMnAs, a diluted ferromagnetic semiconductor. From the analysis of the amplitude of strong universal conductance fluctuations, an effective phase coherence length of about 100 nm is inferred at T = 100 mK, which is one order of magnitude larger than in a granular 3d-metal ferromagnets. Together with the temperature and bias dependence of these reproducible fluctuations, their wire-length dependence is studied in single-domain sub-micron long nanowires with a perprendicular anisotropy. In particular, variations for two equivalent probe configurations are shown when the length becomes comparable to the actual phase coherence length. This result forecasts the possible observation of non-local voltage drops in GaMnAs nanostructures smaller than about 200 nm. Generally speaking, this research contributes to pave the way towards the realization of quantum spintronics devices. © 2007 Elsevier B.V. All rights reserved.
+ER  -
+
+TY  - CPAPER
+AU  - Singh, Priyanka
+AU  - Sammanit, Debaroti
+AU  - Singh, S. K.
+TI  - An Intelligent Approach to Elevation Profiling for LADAKH using QGIS techniques
+LA  - eng
+JF  - Iop Conference Series: Earth and Environmental Science
+VL  - 889
+IS  - 1
+PY  - 2021
+SN  - 17551315, 17551307
+PB  - IOP Publishing Ltd
+DO  - 10.1088/1755-1315/889/1/012006
+AB  - With the trending technological advancement, geographic information systems are finding their supremacy in many fields of research and technology, ranging from geographical inputs to population trends to medical advancements in full spheres of work in today's progressing world. The emergence of Quantum GIS has now facilitated areas like change monitoring, forecasting. The paper aims to prove the elevation system forecast for the Ladakh region, which has lesser mobility in the present times; the paper's findings focus on opening a new gateway for the engineered constructions in the region for improved connectivity that is confined to the summer months. Thus, ESRI's GIS software helps analyse the terrain difficulties in the stipulated area via topics like raster feed, georeferencing, and mesh layer creation.
+ER  -
+
+TY  - CPAPER
+TI  - Proceedings of the 2022 IEEE International Conference on Dependable, Autonomic and Secure Computing, International Conference on Pervasive Intelligence and Computing, International Conference on Cloud and Big Data Computing, International Conference on Cyber Science and Technology Congress, DASC/PiCom/CBDCom/CyberSciTech 2022
+LA  - eng
+JF  - Proceedings of the 2022 Ieee International Conference on Dependable, Autonomic and Secure Computing, International Conference on Pervasive Intelligence and Computing, International Conference on Cloud and Big Data Computing, International Conference on Cyber Science and Technology Congress, Dasc/picom/cbdcom/cyberscitech 2022
+PY  - 2022
+SN  - 1665462973, 9781665462976
+PB  - Institute of Electrical and Electronics Engineers Inc.
+AB  - The proceedings contain 185 papers. The topics discussed include: wearable IMU based gait quality quantitative evaluation method; quantum computing approach for energy optimization in a prosumer community; raising citizens and institutions awareness of environmental problems using smart sensing technologies; event detection in financial markets; design-space exploration of quantized transposed convolutional neural networks for FPGA-based systems-on-chip; seamless sensor data acquisition for the edge-to-cloud continuum; occupancy prediction in buildings: an approach leveraging LSTM and federated learning; lightweight model by iterative momentum pruning scheme for channel reduction; a deep reinforcement learning based approach for intelligent reconfigurable surface elements selection; exploiting mobility data to forecast Covid-19 spread; machine learning methods for microwave imaging in cancer detection; and physical activity recognition using deep transfer learning with convolutional neural networks.
+ER  -
+
+TY  - JOUR
+AU  - Shakoori, Afnan
+AU  - Alhindi, Zain
+AU  - Alobaidy, Mohammad
+AU  - Moulana, Amna
+AU  - Qashgari, Ayman
+AU  - Bagadood, Rehab M
+AU  - Sindi, Ghadir
+AU  - Atwah, Banan
+AU  - Khan, Anmar Anwar
+TI  - Intercalating compounds alongside DNA helicase Q1 Plasmodium falciparum 3D7: Assessments of the Pharmacokinetic Properties Prediction of ADME
+LA  - eng
+JF  - Journal of Vector Borne Diseases
+PY  - 2024
+SN  - 09729062
+PB  - Wolters Kluwer Medknow Publications
+DO  - 10.4103/JVBD.JVBD_65_24
+AB  - Quantum chemical & molecular docking practices to deliver new perceptions into how etoposide, novobiocin, nogalamycin and netropsin interact with the biological targets PF3D7_0918600 (Plasmodium falciparum 3D7). Further the pharmacokinetics of a drug candidate which influenced by a variety of factors, including P- glycoprotein (Pgp) transport, PBB (Plasma protein binding), & BBB (Blood-brain barrier) permeation help to forecast the pharmacological characteristics of acetyl-CoA reductase inhibitors (ADMEs) and their metabolites. At this point, we have elevated four compounds such as etoposide, novobiocin, nogalamycin & netropsin. We have also studied molecular docking against the target protein of the Plasmodium falciparum (PF3D7_0918600) through exhausting the AutoDock Vina platform and AutoDock-Tools (ADT) and pharmacokinetic properties were carried out using the ADMET 2.0. The relative results of molecular docking recommended a greater binding affinity of novobiocin with the selected receptors among other compounds. In-silico ADME screening is a computational approach utilised to forecast the pharmacological characteristics of acetyl- CoA reductase inhibitors (ADMEs) and their metabolites. The ADMEs are based on the adsorption-desorption kinetics and pharmacopoeia. Adsorption and distribution analysis are used to assess the potential of the drug candidate. In vitro ADME is exploited to expect the effect of Pgp transport on the drug candidates. ADME has been used to predict CYP1A2 inhibitors and to predict PPB and BBB penetration. This paper summarizes the current knowledge on molecular docking, ADME and identifies potential drug candidates for ADME in vitro and in vivo.
+ER  -
+
+TY  - CPAPER
+TI  - Asian Conference on Machine Learning, ACML 2021
+LA  - eng
+JF  - Proceedings of Machine Learning Research
+VL  - 157
+PY  - 2021
+SN  - 26403498
+PB  - ML Research Press
+AB  - The proceedings contain 114 papers. The topics discussed include: vector transport free Riemannian LBFGS for optimization on symmetric positive definite matrix manifolds; understanding how over-parametrization leads to acceleration: a case of learning a single teacher neuron; hybrid estimation for open-ended questions with early-age students’ block-based programming answers; the power of factorial powers: new parameter settings for (stochastic) optimization; local aggressive adversarial attacks on 3D point cloud; fairness constraint of fuzzy C-means clustering improves clustering fairness; meta-model-based meta-policy optimization; an aligned subgraph kernel based on discrete-time quantum walk; encoder-decoder-based image transformation approach for integrating precipitation forecasts; a mutual information regularization for adversarial training; quaternion graph neural networks; sinusoidal flow: a fast invertible autoregressive flow; iterative deep model compression and acceleration in the frequency domain; and penalty method for inversion-free deep bilevel optimization.
+ER  -
+
+TY  - JOUR
+AU  - Bunkan, Arne Joakim C.
+AU  - Reijrink, Nina G.
+AU  - Mikoviny, Tomáš
+AU  - Müller, Markus
+AU  - Nielsen, Claus J.
+AU  - Zhu, Liang
+AU  - Wisthaler, Armin
+TI  - Atmospheric Chemistry of N-Methylmethanimine (CH3N=CH2): A Theoretical and Experimental Study
+LA  - eng
+JF  - Journal of Physical Chemistry a
+VL  - 126
+IS  - 20
+SP  - 3247
+EP  - 3264
+PY  - 2022
+SN  - 15205215, 10895639
+PB  - American Chemical Society
+DO  - 10.1021/acs.jpca.2c01925
+AB  - The OH-initiated photo-oxidation of N-methylmethanimine, CH3N=CH2, was investigated in the 200 m3EUPHORE atmospheric simulation chamber and in a 240 L stainless steel photochemical reactor employing time-resolved online FTIR and high-resolution PTR-ToF-MS instrumentation and in theoretical calculations based on quantum chemistry results and master equation modeling of the pivotal reaction steps. The quantum chemistry calculations forecast the OH reaction to primarily proceed via H-abstraction from the =CH2group and π-system C-addition, whereas H-abstraction from the -CH3group is a minor route and forecast that N-addition can be disregarded under atmospheric conditions. Theoretical studies of CH3N=CH2photolysis and the CH3N=CH2+ O3reaction show that these removal processes are too slow to be important in the troposphere. A detailed mechanism for OH-initiated atmospheric degradation of CH3N=CH2was obtained as part of the theoretical study. The photo-oxidation experiments, obstructed in part by the CH3N=CH2monomer-trimer equilibrium, surface reactions, and particle formation, find CH2=NCHO and CH3N=CHOH/CH2=NCH2OH as the major primary products in a ratio 18:82 ± 3 (3σ-limit). Alignment of the theoretical results to the experimental product distribution results in a rate coefficient, showing a minor pressure dependency under tropospheric conditions and that can be parametrized k(T) = 5.70 × 10-14× (T/298 K)3.18× exp(1245 K/T) cm3molecule-1s-1with k298= 3.7 × 10-12cm3molecule-1s-1. The atmospheric fate of CH3N=CH2is discussed, and it is concluded that, on a global scale, hydrolysis in the atmospheric aqueous phase to give CH3NH2+ CH2O will constitute a dominant loss process. N2O will not be formed in the atmospheric gas phase degradation, and there are no indications of nitrosamines and nitramines formed as primary products.
+ER  -
+
+TY  - CPAPER
+AU  - Ruffino, F.
+AU  - Giannazzo, F.
+AU  - Roccaforte, F.
+AU  - Raineri, V.
+AU  - Grimaldi, M. G.
+TI  - Clustering of gold on 6H-SiC and local nanoscale electrical properties
+LA  - eng
+A2  - Cavallini, A, Richter, H, Kittler, M, Pizzini, S
+JF  - Solid State Phenomena
+VL  - 131-133
+SP  - 517
+EP  - 522
+PY  - 2008
+SN  - 16629779, 10120394
+PB  - Trans Tech Publications Ltd
+DO  - 10.4028/www.scientific.net/SSP.131-133.517
+AB  - In this work, a methodology, based on a self-organization process, to form gold nanoclusters on the 6H-SiC surface, is illustrated. By scanning electron microscopy and atomic force microscopy the gold self-organization induced by annealing processes was studied and modelled by classical limited surface diffusion ripening theories. These studies allowed us to fabricate Au nanoclusres/SiC nanostructured materials with tunable structural properties. The local electrical properties of such a nanostructured material were probed, by conductive atomic force microscopy collecting high statistics of I-V curves. The main observed result was the Schottky barrier height (SBH) dependence on the cluster size. This behaviour is interpreted considering the physics of few electron quantum dots merged with the ballistic transport. A quite satisfying agreement between the theoretical forecast behaviour and the experimental data has been found.
+ER  -
+
+TY  - JOUR
+AU  - Dong, Yumin
+AU  - Ding, Huanxin
+TI  - Bayesian optimization of hybrid quantum LSTM in a mixed model for precipitation forecasting
+LA  - eng
+JF  - Machine Learning: Science and Technology
+VL  - 6
+IS  - 1
+PY  - 2025
+SN  - 26322153
+PB  - Institute of Physics
+DO  - 10.1088/2632-2153/adbbad
+AB  - Precipitation forecasting has important applications in meteorological research. Accurate forecasting is of great significance for reducing the impact of floods, optimizing crop planting plans, rationally allocating water resources, and ensuring traffic safety. However, the factors affecting precipitation are complex and nonlinear, and have spatiotemporal variability, making rainfall forecasting extremely challenging. In response to these challenges, this paper proposes a hybrid model based on temporal convolutional network, quantum long short-term memory network (QLSTM), and random forest regression (RFR) to achieve more accurate rainfall forecasting. The hyperparameters of the model are optimized using the Bayesian optimization algorithm to obtain the best performance. Experiments are conducted on meteorological datasets from Seattle and Ukraine, and the results are verified using mean absolute error (MAE), root mean square error (RMSE), and bias evaluation indicators. The results show that the proposed hybrid model outperforms traditional models such as RFR, support vector machine, K-nearest neighbor, LSTM, and QLSTM in terms of MAE, RMSE, and bias. The proposed model achieves improvements of 1.89 % MAE, 2.65 % RMSE, and 31 % Bias, respectively. These results highlight the improved forecast accuracy and robustness of the proposed hybrid model. This research provides a new approach to weather forecasting and demonstrates the potential of combining quantum computing with traditional machine learning techniques.
+ER  -
+
+TY  - JOUR
+AU  - Yuzhu, Guo
+AU  - Anyanwu, Margrate
+AU  - Yang, Xiao
+AU  - Zimo, Ren
+AU  - Gianoncelli, Alessandra
+AU  - Ribaudo, Giovanni
+AU  - Coghi, Paolo
+TI  - (2R,4aS,6aS,12bR,14aS,14bR)-N-(2-(2-(2-(2-Azidoethoxy)ethoxy)ethoxy)ethyl)-10-hydroxy-2,4a,6a,9,12b,14a-hexamethyl-11-oxo-1,2,3,4,4a,5,6,6a,11,12b,13,14,14a,14b-tetradecahydropicene-2-carboxamide
+LA  - eng
+JF  - Molbank
+VL  - 2024
+IS  - 2
+PY  - 2024
+SN  - 14228599
+PB  - Multidisciplinary Digital Publishing Institute (MDPI)
+DO  - 10.3390/M1800
+AB  - In this report, we discuss the synthesis of a compound obtained from the derivatization of the natural compound celastrol. This derivative is connected to PEG azide moiety through an amide linkage. The linkage was achieved through the activation of the carboxylic acid using HOBt/EDC. The compound was fully characterized by proton (1H), carbon-13 (13C), heteronuclear single quantum coherence (HSQC), correlation spectroscopy (1H-1H-COSY), and distortionless enhancement by polarization transfer (DEPT) NMR. Ultraviolet (UV), Fourier-transform infrared (FTIR), and high-resolution mass spectrometry (HRMS) were also adopted. Computational investigations were conducted to forecast the binding mode between the synthesized compound and sarco-endoplasmic reticulum (SR) Ca2+ transport ATPase (SERCA), a known target for the development of novel therapeutics for rheumatoid arthritis. Additionally, the drug-likeness of the synthesized compound was assessed by predicting its pharmacokinetic properties.
+ER  -
+
+TY  - CPAPER
+TI  - Proceedings of the Computing Conference 2023
+LA  - eng
+JF  - Lecture Notes in Networks and Systems
+VL  - 739
+PY  - 2023
+SN  - 23673389, 23673370
+SN  - 3031379624, 3031379632, 9783031379628, 9783031379635
+PB  - Springer Science and Business Media Deutschland GmbH
+AB  - The proceedings contain 98 papers. The special focus in this conference is on Science and Information. The topics include: Techno-Economic Assessment in Communications: New Challenges; a Low-Cost Thermal Imaging Device for Monitoring Electronic Systems Remotely; mobile Application for Bidding Durians; ADAGIO, a BDI Music Recommender Telegram Chatbot; school Bus Routing Problem-Algorithm Optimization Using Graph Theory; py-microdots: Position Encoding in the Euclidean Plane Based on the Anoto Codec; an Empirical Criterion for Transitive Closure of a Searchability Matrix; detection of Computational Propaganda on Social Networks: A Survey; quantum Computing Techniques for Multi-knapsack Problems; a Context-Aware Street Light System Based on Multi-variate Forecast and Fuzzy Logic; analysis of Syntactic Errors of Novice Python Programmers in a Nigeria University; A Constructive Heuristic “MDSA” Solving the Flexible Job Shop Scheduling Problem; j-Parallelio: Automatic Parallelization Framework for Java Virtual Machine; hyper Burst Buffer: A Lightweight Burst Buffer I/O Library for High Performance Computing Applications; electromagnetic Quantum Memory in Coherent Domains of Condensed Matter and Its Prospects for Quantum Hypercomputing; encoding Nets-Within-Nets in Maude; usage of High-Performance System in Impulsive Modelling of Hepatitis B Virus; performance Comparison of Operations in the File System and in Embedded Key-Value Databases; a Review of Usability Evaluation Methods for eHealth Applications; access Control in Mobile Crowdsensing: Requirements, Challenges and Open Issues; using Smartphone Sensing for Recognition of Game Player Attributes During Gameplay; a Game with a Purpose for Building Crowdsourced Semantic Relations Datasets for Named Entities; performing Different Clustering Methods for Mapping the European Union Member States using Green Energy, Digitalization, and R&D Indicators: A Five-Year Comparison (2016-2020); Modeling of the Modes of Operation of the AES Algorithm in the Cryptool 2 Environment; Investigating the Stability of SMOTE-Based Oversampling on COVID-19 Data.
+ER  -
+
+TY  - JOUR
+AU  - Knopf, D.
+AU  - Wiedenhöfer, Th
+AU  - Lehrmann, K.
+AU  - Härtig, F.
+TI  - A quantum of action on a scale? Dissemination of the quantum based kilogram
+LA  - eng
+JF  - Metrologia
+VL  - 56
+IS  - 2
+PY  - 2019
+SN  - 16817575, 00261394
+PB  - Institute of Physics Publishing
+DO  - 10.1088/1681-7575/ab0851
+AB  - In a forecast of the revised international system of units, that will come into force on 20th May 2019, the Physikalisch-Technische Bundesanstalt is developing and establishing a strategic concept, that allows the kilogram to be realized and distributed on the basis of new artefacts and methods. Possible paths of the quantum-based kilogram from its definition based on the Planck constant to the macroscopic world are being elucidated, i.e. the use of silicon spheres of different qualities as well as the use of Kibble-Balances and new developments of table-top weighing instruments. Beside metrological aims the availability of realizations and easy handling procedures are of crucial importance within a future dissemination chain. Advantages and disadvantages of different approaches are being examined and current developments, basically on the silicon route, and their expected measurement uncertainty are outlined. Scientific and strategic developments in the use of silicon spheres in the future mass dissemination chain are accompanied by more than 20 national metrological institutes and designated institutes by testing the existing methods and doing their own investigations.
+ER  -
+
+TY  - JOUR
+AU  - Chai, Tian
+AU  - Xue, Han
+TI  - A study on ship collision conflict prediction in the Taiwan Strait using the EMD-based LSSVM method
+LA  - eng
+A2  - Mirjalili, Seyedali
+JF  - Plos One
+VL  - 16
+IS  - 5
+PY  - 2021
+SN  - 19326203
+PB  - Public Library of Science
+DO  - 10.1371/journal.pone.0250948
+AB  - Ship collision accidents are the primary threat to traffic safety in the sea. Collision accidents can cause casualties and environmental pollution. The collision risk is a major indicator for navigators and surveillance operators to judge the collision danger between meeting ships. The number of collision accidents per unit time in a certain water area can be considered to describe the regional collision risk However, historical ship collision accidents have contingencies, small sample sizes and weak regularities; hence, ship collision conflicts can be used as a substitute for ship collision accidents in characterizing the maritime traffic safety situation and have become an important part of methods that quantitatively study the traffic safety problem and its countermeasures. In this work, an EMD-QPSO-LSSVM approach, which is a hybrid of empirical mode decomposition (EMD) and quantum-behaved particle swarm optimization (QPSO) optimized least squares support vector machine (LSSVM) model, is proposed to forecast ship collision conflicts. First, original ship collision conflict time series are decomposed into a collection of intrinsic mode functions (IMFs) and a residue with EMD. Second, both the IMF components and residue are applied to establish the corresponding LSSVM models, where the key parameters of the LSSVM are optimized by QPSO algorithm. Then, each subseries is predicted with the corresponding LSSVM. Finally, the prediction values of the original ship collision conflict datasets are calculated by the sum of the forecasting values of each subseries. The prediction results of the proposed method is compared with GM, Lasso regression method, EMD-ENN, and the predicted results indicate that the proposed method is efficient and can be used for the ship collision conflict prediction.
+ER  -
+
+TY  - JOUR
+AU  - He, Chuanqi
+TI  - The forecast and explanation of new revolution of science and technology
+LA  - chi
+JF  - Kexue Tongbao/chinese Science Bulletin
+VL  - 62
+IS  - 8
+SP  - 785
+EP  - 798
+PY  - 2017
+SN  - 20959419, 0023074x
+PB  - Chinese Academy of Sciences
+DO  - 10.1360/N972016-01393
+ER  -
+
+TY  - CPAPER
+AU  - Hassall, K
+TI  - Dispelling the E-commerce and urban transport environmental doomsday forecasts: A counter intuitive australian case study - The postal transport network restructure, 1995 to 2000
+LA  - eng
+A2  - Taniguchi, E, Thompson, RG
+JF  - Logistics Systems for Sustainable Cities
+SP  - 397
+EP  - 404
+PY  - 2004
+SN  - 0080442609, 0080473229, 1280967889, 6610967881, 9780080442600, 9780080473222, 9781280967887, 9786610967889
+PB  - ELSEVIER SCIENCE BV
+DO  - 10.1016/B978-008044260-0/50030-1
+AB  - Since the McKinsey Company first forecast, in 1994, that home shopping via the internet, would change our lives forever, there has been a continual concern that this demand would generate both more Business to Business (B2B) road transport trips, and a quantum leap in the Business to Consumer (B2C), householder delivery trips. This was also additional to the growth expected in most major capital cities over the next fifteen to twenty years.
+Although there is much discussion as to when the internet began to generate, or most likely substitute existing business into either smaller B2B pulses to customers, or beginning the household e-Commerce deliveries, by 1998 the internet was generally accepted as having had an impact.
+In Australia over the half decade, 1996 to 2001, demand was growing, however there were some astonishing and counter intuitive fleet developments emerging within the largest transport network operator in the Australia, namely, the domestic Postal Corporation. In the face of increased workloads, the fleet size fell in three transport segments: long distance prime mover operation, urban rigid operations, and within the light commercial vehicle sector. Fleet vehicle numbers fell 14%, kilometres travelled by 2% and fuel consumption by 7% in this five-year period.
+Overall a large incumbent network transport and delivery operator may well be able to draw upon economies of network density to, in fact, become far more efficient than most commentators would believe. The re-configuration of the fleet vehicle types and new fleet productivity measures drove these changes. The changes relied on changes to several fleet policies and changes in the construction of the serviced operations network.
+ER  -
+
+TY  - JOUR
+AU  - Xu, Xiaoping
+TI  - Algebraic Approaches to Partial Differential Equations
+LA  - und
+PY  - 2012
+AB  - Partial differential equations are fundamental tools in mathematics,sciences
+and engineering. This book is mainly an exposition of the various algebraic
+techniques of solving partial differential equations for exact solutions
+developed by the author in recent years, with emphasis on physical equations
+such as: the Calogero-Sutherland model of quantum many-body system in
+one-dimension, the Maxwell equations, the free Dirac equations, the generalized
+acoustic system, the Kortweg and de Vries (KdV) equation, the Kadomtsev and
+Petviashvili (KP) equation, the equation of transonic gas flows, the short-wave
+equation, the Khokhlov and Zabolotskaya equation in nonlinear acoustics, the
+equation of geopotential forecast, the nonlinear Schrodinger equation and
+coupled nonlinear Schrodinger equations in optics, the Davey and Stewartson
+equations of three-dimensional packets of surface waves, the equation of the
+dynamic convection in a sea, the Boussinesq equations in geophysics, the
+incompressible Navier-Stokes equations and the classical boundary layer
+equations.
+  In linear partial differential equations, we focus on finding all the
+polynomial solutions and solving the initial-value problems. Intuitive
+derivations of Lie symmetry of nonlinear partial differential equations are
+given. These symmetry transformations generate sophisticated solutions with
+more parameters from relatively simple ones. They are also used to simplify our
+process of finding exact solutions. We have extensively used moving frames,
+asymmetric conditions, stable ranges of nonlinear terms, special functions and
+linearizations in our approaches to nonlinear partial differential equations.
+The exact solutions we obtained usually contain multiple parameter functions
+and most of them are not of traveling-wave type.
+ER  -
+
+TY  - JOUR
+AU  - Rempel, A. A.
+AU  - Gel'Chinskii, B. R.
+TI  - High-entropy alloys: Preparation, properties and practical application
+LA  - rus
+JF  - Izvestiya Ferrous Metallurgy
+VL  - 63
+IS  - 3-4
+SP  - 248
+EP  - 253
+PY  - 2020
+SN  - 24102091, 03680797
+PB  - National University of Science and Technology MISIS
+DO  - 10.17073/0368-0797-2020-3-4-248-253
+AB  - In recent years, the unique physicomechanical properties of highentropy alloys (HEA) have been the subject of increased attention of researchers. The study of the thermodynamic characteristics of such materials may be of interest for formulating the principles of formation of structures with the necessary functional characteristics. Since the processes of structure and phase formation, as well as the diffusion mobility of atoms, the mechanism of formation of mechanical properties and thermal stability are significantly different from similar processes in traditional alloys, that is why HEA are allocated to a special group of materials. Of particular interest are high-entropy alloys based on transition refractory metals such as Ti, V, Cr, Zr, Nb, Mo, Hf, Ta, and W. Light metals such as Ti, V, and Cr are usually selected to reduce the mass density; refractory ones such as Nb, Ta and W, are primarily responsible for the strength characteristics of the entire material. The paper provides a brief overview of results of the study of high-entropy alloys in the new laboratory of Institute of Metallurgy of UB RAS in 2019. Two groups of alloys were studied: HEA of the AlNbTiVZr type containing low-melting aluminum and HEA of the (Ti, V) ZrNbHf (Ta, W) type containing exclusively refractory transition metals. By varying the ratio of components in the first group of HEA, the existence limits of disordered regions of solid solution and intermetallic compounds characteristic of this system were established. For the second group of HEA, a forecast is made of the phase composition, properties and structure based on quantum-chemical calculations involving first-principle molecular dynamics. The forecast showed the possibility or unlikely formation of a disordered solid solution in the above systems with the presence or absence of specific chemical elements.
+ER  -
+
+TY  - JOUR
+AU  - Korotaev, S. M.
+AU  - Budnev, N. M.
+AU  - Serdyuk, V. O.
+AU  - Kiktenko, E. O.
+AU  - Orekhova, D. A.
+TI  - Baikal Deep-Water Monitoring—New Results
+LA  - eng
+JF  - Izvestiya, Physics of the Solid Earth
+VL  - 58
+IS  - 5
+SP  - 706
+EP  - 716
+PY  - 2022
+SN  - 15556506, 10693513
+PB  - Pleiades journals
+DO  - 10.1134/S1069351322050044
+AB  - Abstract—The vertical component of the electric field Ez in the water column can have an almost zero telluric component, which allows effective monitoring of other sources excited by processes in the hydrosphere itself and the conjugate geospheres—atmosphere and lithosphere. This idea underlies the deep-water experiment in Lake Baikal that has been carried out since 2003. It has been shown that it is possible to monitor the water transport with high accuracy; it is the first time that the Global Electric Circuit (GEC) current has been detected in the hydrosphere; and the effect and precursors of a strong earthquake have been recorded. In 2012, a new monitoring setup was installed, which improved the reliability of Ez measurements and provided measurements of macroscopic quantum nonlocal correlations that offer a unique opportunity to forecast random processes. The Ez measurements have been further elaborated, especially with respect to the nature of the GEC current variations. Measurements of nonlocal correlations have repeatedly demonstrated the possibility of forecasting dissipative processes with a large random component: solar activity, hydrothermodynamic activity in the active layer of Lake Baikal and strong earthquakes.
+ER  -
+
+TY  - CPAPER
+TI  - Proceedings of the 18th International Conference on Soft Computing Models in Industrial and Environmental Applications, SOCO 2023
+LA  - eng
+JF  - Lecture Notes in Networks and Systems
+VL  - 750
+PY  - 2023
+SN  - 23673389, 23673370
+SN  - 3031425359, 3031425367, 9783031425356, 9783031425363
+PB  - Springer Science and Business Media Deutschland GmbH
+AB  - The proceedings contain 61 papers. The special focus in this conference is on Soft Computing Models in Industrial and Environmental Applications. The topics include: Missing Values Imputation for Visualizing the Air Quality Evolution During the COVID-19 Pandemic in Madrid; Comparative Study of Wastewater Treatment Plant Feature Selection for COD Prediction; effectiveness of Quantum Computing in Image Processing for Burr Detection; hyperspectral Technology for Oil Spills Detection by Using Artificial Neural Network Classifier; Model-Based Design of the IMO-NMPC Strategy: Real-Time Implementation; first Approach of an Intelligent Automatic System for Aircraft Flap/Slat Positioning; multi-scale Neural Model for Tool-Narayanaswamy-Moynihan Model Parameter Extraction; comparative Study of Open Source Database Management Systems to Enable Predictive Maintenance of Autonomous Guided Vehicles; deep Learning and Metaheuristic for Multivariate Time-Series Forecasting; forecasting Greenhouse Temperature Using Machine Learning Models: Optimizing Crop Production in Andalucia; extended Rank-Based Ant Colony Optimization Algorithm for Traveling Salesman Problem; Managing Pandemics Through Agent-Based Simulation: A Case Study Based on COVID-19; leveraging Smart Meter Data for Adaptive Consumer Profiling; Categorization of CoAP DoS Attack Based on One-Class Boundary Methods; text Classification for Automatic Distribution of Review Notes in Movie Production; fault Detection in Biological Methanation Process Using Machine Learning: A Comparative Study of Different Algorithms; machine Learning Approaches for Predicting Tree Growth Trends Based on Basal Area Increment; integrated Forecast and Optimization for Retailer Allocation in a Two-Echelon Inventory System; application of Fuzzy Logic to the Risk Assessment of Production Machines Failures; Neuron Characterization in Complex Cultures Using a Combined YOLO and U-Net Segmentation Approach; neuroevolutionary Transfer Learning for Time Series Forecasting; fuzzy Aggregators in Practice: Meta-Model and Implementation; an Approach to Enhance Time Series Forecasting by Fast Fourier Transform; machine Learning Based System for Detecting Battery State-of-Health; preface.
+ER  -
+
+TY  - CPAPER
+TI  - Proceedings of the 18th International Conference on Soft Computing Models in Industrial and Environmental Applications, SOCO 2023
+LA  - eng
+JF  - Lecture Notes in Networks and Systems
+VL  - 749
+PY  - 2023
+SN  - 23673389, 23673370
+SN  - 3031425286, 3031425294, 9783031425288, 9783031425295
+PB  - Springer Science and Business Media Deutschland GmbH
+AB  - The proceedings contain 61 papers. The special focus in this conference is on Soft Computing Models in Industrial and Environmental Applications. The topics include: Missing Values Imputation for Visualizing the Air Quality Evolution During the COVID-19 Pandemic in Madrid; Comparative Study of Wastewater Treatment Plant Feature Selection for COD Prediction; effectiveness of Quantum Computing in Image Processing for Burr Detection; hyperspectral Technology for Oil Spills Detection by Using Artificial Neural Network Classifier; Model-Based Design of the IMO-NMPC Strategy: Real-Time Implementation; first Approach of an Intelligent Automatic System for Aircraft Flap/Slat Positioning; multi-scale Neural Model for Tool-Narayanaswamy-Moynihan Model Parameter Extraction; comparative Study of Open Source Database Management Systems to Enable Predictive Maintenance of Autonomous Guided Vehicles; deep Learning and Metaheuristic for Multivariate Time-Series Forecasting; forecasting Greenhouse Temperature Using Machine Learning Models: Optimizing Crop Production in Andalucia; extended Rank-Based Ant Colony Optimization Algorithm for Traveling Salesman Problem; Managing Pandemics Through Agent-Based Simulation: A Case Study Based on COVID-19; leveraging Smart Meter Data for Adaptive Consumer Profiling; Categorization of CoAP DoS Attack Based on One-Class Boundary Methods; text Classification for Automatic Distribution of Review Notes in Movie Production; fault Detection in Biological Methanation Process Using Machine Learning: A Comparative Study of Different Algorithms; machine Learning Approaches for Predicting Tree Growth Trends Based on Basal Area Increment; integrated Forecast and Optimization for Retailer Allocation in a Two-Echelon Inventory System; application of Fuzzy Logic to the Risk Assessment of Production Machines Failures; Neuron Characterization in Complex Cultures Using a Combined YOLO and U-Net Segmentation Approach; neuroevolutionary Transfer Learning for Time Series Forecasting; fuzzy Aggregators in Practice: Meta-Model and Implementation; an Approach to Enhance Time Series Forecasting by Fast Fourier Transform; machine Learning Based System for Detecting Battery State-of-Health; preface.
+ER  -
+
+TY  - JOUR
+AU  - Iniyan, S.
+AU  - Suganthi, L.
+AU  - Samuel, A. A.
+TI  - Stability and consensus analysis on the Delphi study for the utilisation of renewable energy sources in India
+LA  - eng
+JF  - International Journal of Ambient Energy
+VL  - 19
+IS  - 4
+SP  - 171
+EP  - 180
+PY  - 1998
+SN  - 21628246, 01430750
+DO  - 10.1080/01430750.1998.9675303
+AB  - The non renewable nature and the accelerated demand of conventional energy has forced planners and policy makers to look for alternative sources. Renewable energy sources can contribute significantly in meeting the increasing energy demand of the country. It is one area which is expanding rapidly and a number of innovations are taking place. But the qualitative functions such as awareness and social acceptance of the users have to be determined. Hence a Delphi study has been conducted to ascertain the quantum of acceptance of renewable energy sources in the context of possible deterioration of the environment because of increased use of fossil fuels. This study identifies the best methods to popularise the renewable energy sources. It also deals with the problems related to the utilisation of the renewable energy systems. By using statistical methods, the opinions of the participants involved in this study have been analysed and a general consensus arrived at. The literature survey reveals that not much work has been done in determining the social acceptance and percentage allocation for renewable energy sources using a Delphi study. The observations made by the experts reveal that by the year 2020 solar energy can be used to the extent of 15%, 17%, 19%, 20%, 18% and 11% of total energy consumption for lighting, cooking, pumping, heating, cooling and transportation end-uses respectively. Similarly, the experts estimated the extent of wind energy and biomass energy utilisation for the different enduses. The study forecasts around 25% of total energy utilisation is expected to be from renewable energy sources by the year 2020 and beyond. © Ambient Press Limited 1998.
+ER  -
+
+TY  - JOUR
+AU  - Ragavan, Joseph Iruthayaraj
+AU  - Anbarasan, Ponnusamy Munusamy
+AU  - Arunkumar, Ammasi
+AU  - Siddiqui, Nasir A.
+AU  - Khan, Aslam
+TI  - Design, Synthesis, Spectroscopic, Electronic, Biological and MTT Evaluations of Flavone Compound using Density Functional Theory
+LA  - eng
+JF  - Journal of Computational Biophysics and Chemistry
+PY  - 2024
+SN  - 27374173, 27374165
+PB  - World Scientific Publishing Company
+DO  - 10.1142/S2737416524500741
+AB  - Here, we provide the synthesis process as well as theoretical and experimental research on the molecule known as 7-hydroxy-2-(3,4-dihydroxyphenyl)-3-(piperidin-4-yloxy)-4H-chromen-4-one (7THFP). Quantum mechanical calculations (QM) using several functional levels at a standard basis set have been used to calculate all QM calculations and molecular descriptors. Computational techniques were used to obtain the whole range of vibrational frequencies, IR intensity and Raman activity, all showing excellent agreement with the observed results. The molecule's electron transport characteristics were explained by Mulliken, NBO, mapped isosurface electron density and Highest Occupied Molecular Orbitals (HOMO)-Lowest Unoccupied Molecular Orbitals (LUMO) investigations. The energy difference between the molecular orbitals (MOs) has also been anticipated. The drug candidate's ADMET and Lipinski's rule of five models were used to predict its physicochemical and pharmacokinetic properties, including bioactivity score, lipophilicity and toxicity profiles. The physicochemical profiles of 7THFP indicate favorable drug-likeness, bioactivity and reduced toxicity. Subsequently, molecular docking (MD) analyses were conducted to forecast the ligand's inhibitory impact on the enzymes. The docking score estimation and in vitro analysis of the drug compound validate its anticancer activity. Lastly, the title molecule was evaluated for its proliferation and cytotoxicity effects on human MCF-7 cell lines. These investigations demonstrate that the product exhibits promising characteristics as a drug candidate and may serve as a model for further enhancement.
+ER  -
+
+TY  - JOUR
+AU  - Goel, Shakti
+AU  - Bajpai, Rahul
+TI  - Impact of Uncertainty in the Input Variables and Model Parameters on Predictions of a Long Short Term Memory (LSTM) Based Sales Forecasting Model
+LA  - eng
+JF  - Machine Learning and Knowledge Extraction
+VL  - 2
+IS  - 3
+PY  - 2020
+SN  - 25044990
+PB  - MDPI AG
+DO  - 10.3390/make2030014
+AB  - A Long Short Term Memory (LSTM) based sales model has been developed to forecast the global sales of hotel business of Travel Boutique Online Holidays (TBO Holidays). The LSTM model is a multivariate model; input to the model includes several independent variables in addition to a dependent variable, viz., sales from the previous step. One of the input variables, “number of active bookers per day”, is estimated for the same day as sales. This need for estimation requires the development of another LSTM model to predict the number of active bookers per day. The number of active bookers is variable, so the predicted is used as an input to the sales forecasting model. The use of a predicted variable as an input variable to another model increases the chance of uncertainty entering the system. This paper discusses the quantum of variability observed in sales predictions for various uncertainties or noise due to the estimation of the number of active bookers. For the purposes of this study, different noise distributions such as normalized, uniform, and logistic distributions are used, among others. Analyses of predictions demonstrate that the addition of uncertainty to the number of active bookers via dropouts as well as to the lagged sales variables leads to model predictions that are close to the observations. The least squared error between observations and predictions is higher for uncertainties modeled using other distributions (without dropouts) with the worst predictions being for Gumbel noise distribution. Gaussian noise added directly to the weights matrix yields the best results (minimum prediction errors). One possibility of this uncertainty could be that the global minimum of the least squared objective function with respect to the model weight matrix is not reached, and therefore, model parameters are not optimal. The two LSTM models used in series are also used to study the impact of corona virus on global sales. By introducing a new variable called the corona virus impact variable, the LSTM models can predict corona-affected sales within five percent (5%) of the actuals. The research discussed in the paper finds LSTM models to be effective tools that can be used in the travel industry as they are able to successfully model the trends in sales. These tools can be reliably used to simulate various hypothetical scenarios also.
+ER  -
+
+TY  - CPAPER
+TI  - 4th International Conference on Materials, Mechatronics and Automation, ICMMA 2014
+LA  - eng
+JF  - Advanced Materials Research
+VL  - 950
+PY  - 2014
+SN  - 16628985, 10226680
+SN  - 3038264997, 3038351172, 9783038264996, 9783038351177
+PB  - Trans Tech Publications Ltd
+AB  - The proceedings contain 65 papers. The special focus in this conference is on Materials, Mechatronics and Automation. The topics include: Electrospun porous ZnO nanofibers for glucose biosensors; hyaluronic acid production by genetic modified GRAS strains; investigation of Au plated connector materials in corrosion and sliding environment; effects of water on the morphology of wool scales; digital image technology based simulation for internal components and mechanical behavior of asphalt concrete; effects of ozone treatment on wool morphology and mechanical properties; reconstruction of bottom surface of shoe last based on foot pressure distribution; an investigated of single point incremental forming formability; design of the gas flow integrating instrument; state and input observer design for nonlinear impulsive systems via LMI approach; analysis and realization of critical points on hardware design of FPGA; study of organic solar cells conversion efficiency; design method and parameters matching of electric motors for hybrid construction equipment; a hierarchical scheme for open system environments review; the improvement of passive location algorithm based on time sequence estimation; deducing stream function N-S equation from classic N-S equation and its verification; a new long-term forecast method of wind power; matching pursuit optimization based on quantum genetic algorithm; a method of recognition of human hand and body gestures for task-level learning from demonstration; study on the control of anti-lock braking system simulation based on fuzzy PID control; smart control of DC servo motor based on fussy-PID; heavy-duty car multi-body dynamics simulation and optimization research; multimedia technology used to reduce costs and time; virtual multimedia environment to teach safety procedures in laboratories; recognition of lanes on complex roads based on video image; the study of chopper in the LVRT of direct-drive wind energy generation system; flow measurement and control system in the campus network; the brainwave concentration analysis of direction recognition; research on the value orientation of supply chain partners' adverse selection; brand classification using distributed representation and empirical research on building Shenzhen into a regional logistics economy center.
+ER  -
+
+TY  - CHAP
+AU  - Chen, Changxin
+AU  - Zhang, Yafei
+TI  - Nanowelded Multichannel Carbon-Nanotube Field-Effect Transistors (MC-CNTFETs)
+LA  - eng
+JF  - Nanowelded Carbon Nanotubes
+SP  - 63
+EP  - 84
+PY  - 2009
+SN  - 3642014984, 3642014992, 3642260209, 9783642014987, 9783642014994, 9783642260209
+PB  - Springer Berlin Heidelberg
+DO  - 10.1007/978-3-642-01499-4_5
+AB  - The silicon-based electronic technology has made quite a great progress in the past five decades since the invention of the integrated circuit [1]. The advance is maintained primarily through the size scaling of the devices, i.e., metal-oxide-semiconductor field-effect transistor (MOSFET), which has resulted in many successive generations of devices with increased transistor performance and density. In case of the continual decrease for the device dimensions at a present speed, most of scientists forecast that the development of the integrated circuit will meet its physical and theoretical limit soon, perhaps in next decade [2–4]. To keep the device performance continuing to update, the seeking and preparation of new technologies is mandatory [5]. So far, two distinct routes have been taken to address that issue. One of them is to adopt the revolutionary technologies based on totally new concepts, e.g., two-terminal molecular devices [6], quantum computing [7], spintronics [8], and so on. However, these technologies will be incompatible with present application developed from silicon-based electronic industry. In the other case, attention is paid to a more evolutionary approach that is based on the well-established three terminal transistor concept, but utilizes alternative materials, specially single-walled carbon nanotubes (SWCNTs) that possess many unique advantages including onedimensional nanoscale structure as well as the excellent electrical and optical properties [5]. High-mobility, low-defect structure and intrinsic nanometer scale of carbon nanotubes (CNTs) have led to an intense research effort into the viability of utilizing carbon-nanotube field-effect transistors (CNTFETs) as a replacement for, or a complement to, future semiconductor devices [9–17].
+ER  -
+
+TY  - CPAPER
+TI  - 14th Annual Meeting of the Bulgarian Section of the Society for Industrial and Applied Mathematics, BGSIAM 2019
+LA  - eng
+JF  - Studies in Computational Intelligence
+VL  - 1111
+PY  - 2023
+SN  - 18609503, 1860949x
+SN  - 3031420098, 3031420101, 9783031420092, 9783031420108
+PB  - Springer Science and Business Media Deutschland GmbH
+AB  - The proceedings contain 24 papers. The special focus in this conference is on Annual Meeting of the Bulgarian Section of the Society for Industrial and Applied Mathematics. The topics include: Live-Graphing with LoRaWAN and Python; quantified Formulation of an Interval Model in Mechanics; Numerical Methods for Fractional Diffusion-Reaction Problems Based on Operator Splitting and BURA; preface; analysis of Contaminant Removal in a Constructed Wetland Operating Under Step-Feeding: A Monte Carlo Based Stochastic Treatment Accounting for Uncertainty; new Ant Colony Optimization Including Weights; improvement of Air Pollution Caused by Traffic Through Different Signal Timing Policies – Case Study of Sofia; sensitivity Study of a Large-Scale Air Pollution Model by Using Latin Hypercube Sampling; quantum Effects on Dislocation Motion in Pure and Hydrogen Charged Fe from Ring-Polymer Molecular Dynamics; reconstruction of Time-Dependent Implied Volatility by Market Observations for European Options in Jump–Diffusion Models; statistical Properties of Stationary Flow of Substance in a Network Channel Containing Arbitrary Number of Arms; the c0- Analytic Semigroup of Contractions, Generated by a Kind of Timoshenko Beam Type Dirichlet Boundary Operator; chaotic Behaviour in a Generalized Model of Three Competing Economic Sectors; axisymmetric Oscillatory Flow of Carreau Fluid in Tube; exponential Difference Scheme Approximations for Unsaturated Flow Equation with Piecewise Constant or Degenerate Absolute Permeability; computing Reliable Solutions of Chaotic Dynamical Systems Using Multiple-precision Arithmetic; characterization of Porous Materials by Homogenization Models Based on a Generalized Mixture Rule; solar Radiation Modelling for Bulgaria Based on Assimilated Surface Data; ETCCDI Thermal Climate Indices in the CMIP5 Future Climate Projections over Southeast Europe; inuitionistic Fuzzy Anova Approach to the Management of Movie Sales Revenue; quasi-Monte Carlo Methods Based on Low Discrepancy Sequences for Sensitivity Analysis in Air Pollution Modelling; Effects of Satellite Data Assimilation on Air Quality Parameters Simulated by the Bulgarian Chemical Weather Forecast System (BgCWFS).
+ER  -
+
+TY  - JOUR
+AU  - Damiano, Nicola
+AU  - Arena, Carmen
+AU  - Bonfante, Antonello
+AU  - Caputo, Rosanna
+AU  - Erbaggio, Arturo
+AU  - Cirillo, Chiara
+AU  - De Micco, Veronica
+TI  - How Leaf Vein and Stomata Traits Are Related with Photosynthetic Efficiency in Falanghina Grapevine in Different Pedoclimatic Conditions
+LA  - eng
+A2  - Setter, Tim L.
+JF  - Plants
+VL  - 11
+IS  - 11
+PY  - 2022
+SN  - 22237747
+PB  - MDPI
+DO  - 10.3390/plants11111507
+AB  - The increase in severe drought events due to climate change in the areas traditionally suit-able for viticulture is enhancing the need to understand how grapevines regulate their photosynthetic metabolism in order to forecast specific cultivar adaptive responses to the changing environment. This study aims at evaluating the association between leaf anatomical traits and eco-physiological adjustments of the ‘Falanghina’ grapevine under different microclimatic conditions at four sites in southern Italy. Sites were characterized by different pedoclimatic conditions but, as much as possible, were similar for plant material and cultivation management. Microscopy analyses on leaves were performed to quantify stomata and vein traits, while eco-physiological analyses were conducted on vines to assess plant physiological adaptation capability. At the two sites with relatively low moisture, photosynthetic rate, stomatal conductance, photosystem electron transfer rate, and quantum yield of PSII, linear electron transport was lower compared to the other two sites. Stomata size was higher at the site characterized by the highest precipitation. However, stomatal density and most vein traits tended to be relatively stable among sites. The number of free vein endings per unit leaf area was lower in the two vineyards with low precipitation. We suggest that site-specific stomata and vein traits modulation in Falanghina grapevine are an acclimation strategy that may influence photosynthetic performance. Overall in-depth knowledge of the structure/function relations in Falanghina vines might be useful to evaluate the plasticity of this cultivar towards site-specific management of vineyards in the direction of precision viticulture.
+ER  -
+
+TY  - JOUR
+AU  - Javed, Adnan
+AU  - Nasir, Muhammad Farooq
+AU  - Azam, Sikander
+AU  - Amin, Mohammed A.
+TI  - Numerical simulation for a suitable electron transport layer of a lead-free CuInSe2 based perovskite solar cell and PV module
+LA  - eng
+JF  - International Journal of Electrochemical Science
+VL  - 20
+IS  - 1
+PY  - 2025
+SN  - 14523981
+PB  - Elsevier B.V.
+DO  - 10.1016/j.ijoes.2024.100893
+AB  - The high expense of solar cell manufacture and experimentation has led researchers to use numerical simulation. The advantages of simulation-based optimization include the simplicity of use, low cost, and the ability to forecast the ideal parameters that go into producing a cell with the optimum performance. The efficiency of perovskite materials used in solar systems has increased significantly, and they are virtually ready for commercialization. Academics and the scientific community are now interested in lead-free perovskite materials because of the toxic problem and hazardous nature of lead (Pb)-based perovskite materials. In this research, Pb is replaced by copper indium diselinide (CuInSe2). This study simulated, examined, and analyzed the performance of photovoltaic (PV) CuInSe2-based TFSCs with three different electron transport layers: indium sulfide (In2S3), titanium dioxide (TiO2), and stannic oxide (SnO2). SCAPS-1D software was used to model (FTO/TiO2/CuInSe2/Spiro-OMeTAD/Ni), (FTO/SnO2/CuInSe2/Spiro-OMeTAD/Ni), and (FTO/In2S3/CuInSe2/Spiro-OMeTAD/Ni) configurations to determine which one has the highest conversion efficiency. All three electron transport layer (ETL) thicknesses, with absorber and hole-transport (HTL) layer thicknesses, were optimized. Results indicate that, the absorber layer for SnO2 and In2S3 layers must be 3.00 µm thick, and for the TiO2 layer it must be 4.00 µm thick. Efficiency of 26.17 % is revealed with SnO2, whereas Jsc, Voc, and FF, are observed as 43.15 mA/cm2, 0.723 V, and 83.80 %, respectively. While with In2S3, efficiency is revealed as 26.15 %, with Jsc, Voc, and FF are observed as 43.17 mA/cm2, 0.723 V, and 83.68 % respectively. Efficiency of 26.65 % is revealed by TiO2 with current density (Jsc), open circuit voltage (Voc), and fill factor (FF), which are shown as 43.53 mA/cm2, 0.728 V, and 83.68 %, respectively which was carefully calculated. The device shows highest performance with TiO2 ETL. The maximum extent for Jsc, Voc, FF%, and PCE% during optimal investigation is shown by the generation of supplemental electron-hole pairs under standard conditions by altering the thicknesses of the absorber, hole, and electron transport layers. Parasitic resistances effect on the cell performance indicate that solar cells work effectively with low Rs and high Rsh values. The temperature effect on solar cells shows that as temperature rises, cell performance declines due to increased reverse saturation current and reduced bandgap. Quantum efficiency analysis of three ETL layers found that TiO2 and SnO2 efficiency increased rapidly between 300–400 nm, while In2S3 peaked at 300 nm and then declined. Simulation results from SCAPS-1D were used to configure PVsyst software for a solar module with 72 cells (2.2 ×1.1 m). Module performance and output power were evaluated based on temperature and sun irradiation variations using input from the solar capacitance simulator. The potential of CuInSe2 as a perovskite material to produce toxicity-free renewable energy is demonstrated by this study.
+ER  -
+
+TY  - CHAP
+AU  - Mohammed Mustafa, M.
+AU  - Cengiz, Korhan
+TI  - Real-Time System for Forecasting Natural Disasters Using the Social Network
+LA  - eng
+JF  - Studies in Big Data
+VL  - 108
+SP  - 107
+EP  - 117
+PY  - 2022
+SN  - 21976511, 21976503
+SN  - 9811909237, 9811909245, 9789811909238, 9789811909245
+PB  - Springer Science and Business Media Deutschland GmbH
+DO  - 10.1007/978-981-19-0924-5_7
+AB  - Online social network billions of consumers everywhere the earth where people work together and share evidence related to domain events. The notice nearly indicates what is occurring on around a private and furthermore around the person’s area. This small substance with genuine data when prepared with some factual instrument may assist us with predicting a certifiable occasion. Enlivened by the thought we propose a way to anticipate the violent wind arrangement in the country by handling the tweets messages sent by the social clients. The framework comprises of two stages, primarily a classifier to sift over messages that indicate the event of the occasion, for true tornado development. Next we predict the event of the natural disasters by applying a technique on the cyclones forecasting. We also establish an alert system for active members to deliver a notification during a cyclone, which aids in the saving among many lifetimes through the use of quantum computing. This online informal organization is employed by an oversized number of individuals around the globe to remain socially associated with their companions and relatives. An announcement alert, known as a tweet, is usually utilized by a message to companions and partners. A client can track different clients, that client’s supporters can peruse his tweets all the time, numerous specialists have distributed their investigations of Twitter up to now, particularly during the past year to build new requests using twitter. The important time nature of the updates helps follower’s to grasp about an incident. They additionally incorporate lamentable occasions, as an example, storms, fires, traffic. We propose a happening notice framework that screens tweets and conveys warning quickly utilizing information from the examination. Numerous scientists have distributed their investigations of Twitter to the present point, particularly during the previous year. Most investigations are arranged into one in every of three gatherings. Some analysts have looked to interrupt down the system structure of Twitter; some scientists have explicitly inspected attributes of Twitter as a community medium. Some investigators and inventors devise to make new requests using Twitter by creating much processing and clustering tools. They are still processing on creating a tool to any of these data thanks to its thin text content. The gadget crawls a big quantity of tweets approximately quantum stage and employs a probabilistic version to extract occasions and estimate occasion places from the ones tweets. Finally, we intend to broaden an occasion notification or reporting gadget so one can pull occasions from Twitter and supply them to registered users. We use semantic examination over a tweet to decide the notion of the published tweets to unequivocally urge tweets at the goal occasion. These tweet facts are likewise used to forecast a particular occasion the usage of statistical equipment carried out to the extracted facts version. The system helps users by sending prior notification than the news or the alternative media about an occurrence. The forecasting made by the system helps us to urge some idea about the occurrence of a specific event in future.
+ER  -
+
+TY  - JOUR
+AU  - De, Kalyan
+AU  - Sautya, Sabyasachi
+AU  - Dora, G. Udhaba
+AU  - Gaikwad, Santosh
+AU  - Katke, Dinesh
+AU  - Salvi, Aditya
+TI  - Mangroves in the “Plasticene”: High exposure of coastal mangroves to anthropogenic litter pollution along the Central-West coast of India
+LA  - eng
+JF  - Science of the Total Environment
+VL  - 858
+PY  - 2023
+SN  - 00489697, 18791026
+PB  - Elsevier B.V.
+DO  - 10.1016/j.scitotenv.2022.160071
+AB  - Anthropogenic litter is a ubiquitous stressor in the global ocean, and poses ominous threats to oceanic biodiversity and ecosystem functioning. At the terrestrial-ocean interface, tropical mangrove forests are subject to substantial exposure to mismanaged litter from inland and marine sources. While the effects of litter in different marine ecosystems are well-documented, research on the ecological consequences of litter pollution on mangroves remain nascent stage. Here, we investigated anthropogenic litter concentration, composition, probable sources, and impact on coastal mangroves along the Central West coast of India. The mean concentration of trapped litter was measured 8.5 ± 1.9 items/m2 (ranged 1.4 ̶ 26.9 items/m2), and 10.6 ± 0.5 items/tree (ranged 0 ̶ 85 items/tree) on the mangrove floor and mangrove canopy, respectively. Plastic dominated 83.02 % of all litter deposited on the mangrove forest floor and 93.4 % of all entangled litter on mangrove canopy. Most litter comprised single-use plastic products across all surveyed locations. Mangrove floor cleanliness was assessed using several indices, such as Clean Coast Index, General Index, Hazardous Items Index, and Pollution Load Index, reiterating an inferior cleanliness status. The pollution load index indicates “Hazard level I" plastic pollution risk across the mangroves. Litter concentration differed markedly across all sites. However, a significantly higher concentration of stranded litter was detected in the densely populated urban agglomeration and rural areas with inadequate solid waste management. Probable sources of litter indicate land-based (local) and sea-originated (fishing). Supportive information on the transport and accumulation of marine litter is examined based on the National Centers for Environmental Prediction (NCEP) Climate Forecast System (CFS) model version 2 reanalysis of surface wind and current pattern across the Arabian Sea followed by MIKE simulated tide-induced coastal current. Mangrove pneumatophores and branches were found to be damaged by entangled plastics. Hence, determining litter quantum and their probable input source is pivotal in mitigating anthropogenic litter impact on mangrove ecosystems and fostering mangrove conservation. Overall, results envisage that stringent enforcement, implementation of an integrated solid waste management framework, and general behavioral change of the public are crucial to mitigate litter/plastic pollution.
+ER  -
+
+TY  - JOUR
+AU  - Dong, Hongxing
+AU  - Chang, Hao
+AU  - Gao, Xinyu
+AU  - Liu, Liang
+AU  - Cheng, Haodong
+AU  - Li, Xinjie
+AU  - Yu, Ke
+TI  - Review of Low-Dimensional Semiconductor Micro- and Nano-Lasers
+LA  - chi
+JF  - Zhongguo Jiguang/chinese Journal of Lasers
+VL  - 51
+IS  - 11
+PY  - 2024
+SN  - 02587025
+PB  - Science Press
+DO  - 10.3788/CJL231601
+ER  -
+
+TY  - CPAPER
+TI  - 2014 International Conference on Mechatronics, Materials and Manufacturing, ICMMM 2014
+LA  - eng
+JF  - Applied Mechanics and Materials
+VL  - 624
+PY  - 2014
+SN  - 16627482, 16609336
+SN  - 3038266094, 303835225X, 303835225x, 9783038266099, 9783038352259
+PB  - Trans Tech Publications Ltd
+ER  -
+
+TY  - CPAPER
+TI  - 3rd International Conference on Measurement, Instrumentation and Automation, ICMIA 2014
+LA  - eng
+JF  - Applied Mechanics and Materials
+VL  - 568-570
+PY  - 2014
+SN  - 16627482, 16609336
+SN  - 3038265217, 3038351385, 9783038265214, 9783038351382
+PB  - Trans Tech Publications Ltd
+ER  -
+
+TY  - JOUR
+AU  - Hameiri, Ziv
+TI  - Photovoltaics literature survey (No. 140)
+LA  - eng
+JF  - Progress in Photovoltaics: Research and Applications
+VL  - 26
+IS  - 2
+SP  - 151
+EP  - 156
+PY  - 2018
+SN  - 1099159x, 10627995
+PB  - John Wiley and Sons Ltd
+DO  - 10.1002/pip.2989
+ER  -
+
+TY  - JOUR
+AU  - Jang, Kyle
+AU  - O’brien, Bob
+TI  - Advanced Displays, Materials Market Trends, and Unsettled Challenges
+LA  - eng
+JF  - Information Display
+VL  - 39
+IS  - 6
+SP  - 31
+EP  - 34
+PY  - 2023
+SN  - 2637496x, 03620972
+PB  - John Wiley and Sons Inc
+DO  - 10.1002/msid.1440
+ER  -
+
+TY  - JOUR
+AU  - Hameiri, Ziv
+TI  - Photovoltaics literature survey (No. 150)
+LA  - eng
+JF  - Progress in Photovoltaics: Research and Applications
+VL  - 27
+IS  - 4
+SP  - 371
+EP  - 375
+PY  - 2019
+SN  - 1099159x, 10627995
+PB  - John Wiley and Sons Ltd
+DO  - 10.1002/pip.3131
+ER  -
+
+TY  - JOUR
+AU  - Hameiri, Ziv
+TI  - Photovoltaics literature survey (No. 163)
+LA  - eng
+JF  - Progress in Photovoltaics: Research and Applications
+VL  - 29
+IS  - 1
+SP  - 134
+EP  - 139
+PY  - 2021
+SN  - 1099159x, 10627995
+PB  - John Wiley and Sons Ltd
+DO  - 10.1002/pip.3384
+ER  -
+
+TY  - JOUR
+AU  - Hameiri, Ziv
+TI  - Photovoltaic literature survey (no. 158)
+LA  - eng
+JF  - Progress in Photovoltaics: Research and Applications
+VL  - 28
+IS  - 4
+SP  - 342
+EP  - 345
+PY  - 2020
+SN  - 1099159x, 10627995
+PB  - John Wiley and Sons Ltd
+DO  - 10.1002/pip.3266
+ER  -
+
+TY  - JOUR
+AU  - Hameiri, Ziv
+TI  - Photovoltaic Literature Survey (No. 139)
+LA  - und
+JF  - Progress in Photovoltaics: Research and Applications
+VL  - 26
+IS  - 1
+SP  - 86
+EP  - 89
+PY  - 2018
+SN  - 1099159x, 10627995
+PB  - Wiley
+DO  - 10.1002/pip.2973
+ER  -
+
+TY  - JOUR
+AU  - Hameiri, Ziv
+TI  - Photovoltaics literature survey (No. 189)
+LA  - eng
+JF  - Progress in Photovoltaics: Research and Applications
+VL  - 32
+IS  - 3
+SP  - 212
+EP  - 215
+PY  - 2024
+SN  - 1099159x, 10627995
+PB  - John Wiley and Sons Ltd
+DO  - 10.1002/pip.3773
+ER  -
+
+TY  - JOUR
+AU  - Hameiri, Ziv
+TI  - Photovoltaics literature survey (No. 155)
+LA  - eng
+JF  - Progress in Photovoltaics: Research and Applications
+VL  - 28
+IS  - 1
+SP  - 90
+EP  - 96
+PY  - 2020
+SN  - 1099159x, 10627995
+PB  - John Wiley and Sons Ltd
+DO  - 10.1002/pip.3233
+ER  -
+
+TY  - JOUR
+AU  - Hameiri, Ziv
+TI  - Photovoltaics literature survey (no. 141)
+LA  - eng
+JF  - Progress in Photovoltaics: Research and Applications
+VL  - 26
+IS  - 3
+SP  - 234
+EP  - 238
+PY  - 2018
+SN  - 1099159x, 10627995
+PB  - John Wiley and Sons Ltd
+DO  - 10.1002/pip.2995
+ER  -
+
+TY  - JOUR
+AU  - Hameiri, Ziv
+TI  - PHOTOVOLTAICS LITERATURE SURVEY (No. 184)
+LA  - eng
+JF  - Progress in Photovoltaics
+VL  - 31
+IS  - 8
+SP  - 870
+EP  - 874
+PY  - 2023
+SN  - 1099159x, 10627995
+PB  - Wiley
+DO  - 10.1002/pip.3722
+ER  -
+
+TY  - JOUR
+AU  - Hameiri, Ziv
+TI  - Photovoltaics literature survey (no. 138)
+LA  - eng
+JF  - Progress in Photovoltaics: Research and Applications
+VL  - 25
+IS  - 12
+SP  - 1077
+EP  - 1083
+PY  - 2017
+SN  - 1099159x, 10627995
+PB  - John Wiley and Sons Ltd
+DO  - 10.1002/pip.2967
+ER  -
+
+TY  - CPAPER
+TI  - 3rd International Conference on Materials Science and Engineering, ICMSE 2014
+LA  - eng
+JF  - Advanced Materials Research
+VL  - 852
+PY  - 2014
+SN  - 16628985, 10226680
+SN  - 3037859520, 3038263338, 9783037859520, 9783038263333
+ER  -
+
+TY  - JOUR
+AU  - Williams, Paul D.
+TI  - Queensland July to December 2023
+LA  - eng
+JF  - Australian Journal of Politics and History
+VL  - 70
+IS  - 2
+SP  - 358
+EP  - 366
+PY  - 2024
+SN  - 14678497, 00049522
+PB  - John Wiley and Sons Inc
+DO  - 10.1111/ajph.12983
+ER  -
+
+TY  - JOUR
+AU  - Green, Ralph
+AU  - Hogarth, Michael A.
+AU  - Prystowsky, Michael B.
+AU  - Rashidi, Hooman H.
+TI  - The job market outlook for residency graduates: Clear weather ahead for the butterflies?
+LA  - eng
+JF  - Archives of Pathology and Laboratory Medicine
+VL  - 142
+IS  - 4
+SP  - 435
+EP  - 437
+PY  - 2018
+SN  - 15432165, 00039985
+PB  - College of American Pathologists
+DO  - 10.5858/arpa.2017-0540-ED
+ER  -
+
+TY  - JOUR
+AU  - Yao, Wei
+AU  - Atwood, Stephen P.
+TI  - The Display Week 2021 Symposium Preview
+LA  - eng
+JF  - Information Display
+VL  - 37
+IS  - 2
+SP  - 43
+EP  - 48
+PY  - 2021
+SN  - 2637496x, 03620972
+PB  - Wiley
+DO  - 10.1002/msid.1200
+ER  -
+
+TY  - JOUR
+AU  - Hameiri, Ziv
+TI  - PHOTOVOLTAICS LITERATURE SURVEY (No. 185)
+LA  - und
+JF  - Progress in Photovoltaics: Research and Applications
+VL  - 31
+IS  - 10
+SP  - 1042
+EP  - 1047
+PY  - 2023
+SN  - 1099159x, 10627995
+PB  - Wiley
+DO  - 10.1002/pip.3735
+ER  -
+
+TY  - JOUR
+TI  - Index
+LA  - eng
+JF  - Emerald Publishing Limited Ebooks
+SP  - 281
+EP  - 294
+PY  - 2023
+PB  - Emerald (MCB UP)
+DO  - 10.1108/978-1-80455-640-520231017
+ER  -
+
+TY  - JOUR
+AU  - Kandzari, David E.
+AU  - Townsend, Raymond R.
+AU  - Bakris, George
+AU  - Basile, Jan
+AU  - Bloch, Michael J.
+AU  - Cohen, Debbie L.
+AU  - East, Cara
+AU  - Ferdinand, Keith C.
+AU  - Fisher, Naomi
+AU  - Kirtane, Ajay
+AU  - Lee, David P.
+AU  - Puckrein, Gary
+AU  - Rader, Florian
+AU  - Vassalotti, Joseph A.
+AU  - Weber, Michael A.
+AU  - Willis, Kerry
+AU  - Secemsky, Eric
+TI  - Renal denervation in hypertension patients: Proceedings from an expert consensus roundtable cosponsored by SCAI and NKF
+LA  - eng
+JF  - Catheterization and Cardiovascular Interventions
+VL  - 98
+IS  - 3
+SP  - 416
+EP  - 426
+PY  - 2021
+SN  - 1522726x, 15221946
+PB  - John Wiley and Sons Inc
+DO  - 10.1002/ccd.29884
+ER  -

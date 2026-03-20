@@ -1,0 +1,237 @@
+﻿TY  - CONF
+AU  - Desai, U.
+AU  - Kola, K.S.
+AU  - Nikhitha, S.
+AU  - Nithin, G.
+AU  - Prudhvi Raj, G.
+AU  - Karthik, G.
+TI  - Comparison of Machine Learning and Quantum Machine Learning for Breast Cancer Detection
+PY  - 2024
+T2  - International Conference on Smart Systems for Applications in Electrical Sciences, ICSSES 2024
+DO  - 10.1109/ICSSES62373.2024.10561257
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85197907341&doi=10.1109%2fICSSES62373.2024.10561257&partnerID=40&md5=c6aa37993dc5f6162745693817e9a833
+AB  - Yearly the number of breast cancer subjects are rising exponentially. In fact, breast cancer is very deadly, and all over the world the losses are increasing. It is very important to have an improved system to predict and diagnose the cancer effectively, which helps the subjects to have a better quality of life. In fact, it is crucial to have an accurate prediction system to improve the treatment and chances of survival. Moreover, earlystage detection, high accuracy of prediction and diagnosis is required at appropriate time. This paper aims to analyze the Machine Learning (ML), Deep Learning (DL) and Quantum Machine Learning (QML) techniques to diagnose the breast cancer subjects. The QML is an emerging field which transforms the input data onto the qubits and processing is performed using the quantum gates and operators. Quantum computing technology enhances the security of data transmission, hence has great application in communication and health care data processing. In this work, Logistic Regression (LR) and SVM (Linear) achieved accuracy of 9 7. 9%, CNN 9 8. 6% and QSVC 9 3% to classify 569 samples of normal and cancerous binary classes. Less accuracy shows noise in the quantum computing, which can be improved by optimization of rotation of specific gates. © 2024 IEEE.
+KW  - Breast Cancer
+KW  - Quantum Machine Learning (QML)
+KW  - Quantum support vector classifier (QSVC)
+KW  - Recurrent Neural Networks (RNN)
+KW  - Variational Quantum Classifier (VQC)
+KW  - Diseases
+KW  - Forecasting
+KW  - Learning systems
+KW  - Quantum communication
+KW  - Quantum computers
+KW  - Security of data
+KW  - Support vector machines
+KW  - Breast Cancer
+KW  - Learning machines
+KW  - Machine-learning
+KW  - Quantum Computing
+KW  - Quantum machine learning
+KW  - Quantum machines
+KW  - Quantum support vector classifier
+KW  - Recurrent neural network
+KW  - Support vector classifiers
+KW  - Variational quantum classifier
+KW  - Recurrent neural networks
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Qi, H.
+AU  - Lv, X.
+AU  - Gong, C.
+AU  - Gani, A.
+TI  - Enhanced quantum long short-term memory by using bidirectional ring variational quantum circuit
+PY  - 2025
+T2  - Journal of Supercomputing
+VL  - 81
+IS  - 1
+C7  - 117
+DO  - 10.1007/s11227-024-06636-2
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85208627956&doi=10.1007%2fs11227-024-06636-2&partnerID=40&md5=ba76ca6f7f155f298f0436475f7a6a58
+AB  - With the rapid development of quantum machine learning, the Quantum Long Short-Term Memory (QLSTM) has been found to exhibit faster convergence characteristics in time series prediction problems. Currently, it has found applications in fields such as financial market analysis, natural language processing, and weather forecasting, but its accuracy in regression problem prediction still shows deficiencies. To improve the prediction accuracy of the model, enhanced quantum long short-term memory by using bidirectional ring variational quantum circuit (EQLSTM) is proposed. We reconsidered and optimized the types, quantities, and arrangements of quantum gates, designing a bidirectional ring variational quantum circuit composed of CRX gates (Bi-VQC) to enhance its expressibility. Bi-VQC can more accurately describe and encode complex quantum state features, enabling the EQLSTM to better learn and represent the characteristics of the input data. In addition, Bi-VQC reduces the number of optimizable parameters and lowers the circuit load of the EQLSTM model. To validate the effectiveness of the proposed model, experiments are conducted to test and evaluate the EQLSTM using the aggregated traffic in the UK academic network backbone. The experimental results confirm that the proposed EQLSTM model improves from 90.56% to 97.57% compared to the QLSTM model. © The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature 2024.
+KW  - Quantum long short-term memory
+KW  - Quantum machine learning
+KW  - Quantum neural network
+KW  - Variational quantum circuit
+KW  - Financial markets
+KW  - Long short-term memory
+KW  - Quantum computers
+KW  - Quantum electronics
+KW  - Quantum optics
+KW  - Regression analysis
+KW  - Variational techniques
+KW  - Bi-directional rings
+KW  - Fast convergence
+KW  - Machine-learning
+KW  - Quantum circuit
+KW  - Quantum long short-term memory
+KW  - Quantum machine learning
+KW  - Quantum machines
+KW  - Quantum neural networks
+KW  - Short term memory
+KW  - Variational quantum circuit
+KW  - Weather forecasting
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Vimal, D.
+TI  - PIMA Diabetes Prediction Using Machine Learning and Quantum Machine Learning Techniques
+PY  - 2024
+T2  - 2024 ITU Kaleidoscope: Innovation and Digital Transformation for a Sustainable World, ITU K 2024
+DO  - 10.23919/ITUK62727.2024.10772814
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85215300991&doi=10.23919%2fITUK62727.2024.10772814&partnerID=40&md5=4317abb72f07e92172c5cccbea423e2e
+AB  - Quantum Machine Learning (QML) which is the integration of Quantum Mechanics (QM) and Machine Learning (ML), comes with immense computational capacity due to principles of superposition and entanglement. The PIMA diabetes dataset is used in this research as a test bed for comparing the results obtained from ML and QML approaches. The assessment shows that Support Vector Machine (SVM) has better results compared to Logistic Regression (LR) with an accuracy of 0.76. On the other hand, among QML algorithms; the Quantum Support Vector Classifier (QSVC) has a higher accuracy than the Variational Quantum Classifier (VQC) with 0.74. The findings of the given research imply that the use of QML methods may be valuable for further developments in diabetes prediction in the future.  © 2024 ITU.
+KW  - LR
+KW  - ML
+KW  - QML
+KW  - QSVC
+KW  - SVM
+KW  - VQC
+KW  - Contrastive Learning
+KW  - Logistic regression
+KW  - Quantum computers
+KW  - Quantum entanglement
+KW  - Support vector regression
+KW  - Learning machines
+KW  - Logistics regressions
+KW  - Machine-learning
+KW  - Quantum machine learning
+KW  - Quantum machines
+KW  - Quantum support vector classifier
+KW  - Support vector classifiers
+KW  - Support vectors machine
+KW  - Variational quantum classifier
+KW  - Adversarial machine learning
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 1
+ER  -
+
+TY  - JOUR
+AU  - Ullah, U.
+AU  - Maheshwari, D.
+AU  - Castillo Olea, C.
+AU  - Garcia Zapirain, B.
+TI  - Sarcopenia risk prediction and feature selection by using quantum machine learning algorithms
+PY  - 2024
+T2  - Quantum Machine Intelligence
+VL  - 6
+IS  - 2
+C7  - 80
+DO  - 10.1007/s42484-024-00218-4
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85209383276&doi=10.1007%2fs42484-024-00218-4&partnerID=40&md5=3a22597378fd6f27a0cb7b0d49ae6a70
+AB  - Sarcopenia is a condition where older individuals experience gradual loss of muscle mass and function. It can be caused by reduced physical activity, hormonal changes, and changes in nutrient intake. Studies have found that sarcopenia increases the risk of falls, fractures, physical disability, hospitalization, and mortality because strong muscles are important for balance, mobility, and overall health. To predict the risk of sarcopenia, this paper explores the use of two quantum models: quantum K-nearest neighbor (QKNN) and amplitude encoding variational quantum classifier (AE-VQC). The models were tested using three sets of experiments with 8, 16, and 32 features, and a feature selection mechanism was used to determine the most important set of features. Both models used an amplitude encoding technique which converts the input data into quantum state amplitude. The QKNN uses the quantum K-minimum-finding algorithm to identify the K closest neighbors of the test state, where the distance among the two quantum states is measured by using fidelity. A swap test is used to produce the statistical assessment of fidelity among the two arbitrary qubits. The VQC model contains a feature map, a variational quantum circuit, a measurement circuit, and a COBYLA optimizer. The models have been analyzed for the desired set of features, and the results are compared with both their classical version and the previously published quantum models. Both the proposed models perform well interms of better accuracy and complexity reduction. The QKNN model was found to be 3%, 3%, and 0.5% more accurate than the classical model for all sets of features in the optimal scenario. Similarly, the AE-VQC model was also 0.3% and 0.5% more accurate than their corresponding classical models for the desired sets of features in the classification of sarcopenia disease. © The Author(s), under exclusive licence to Springer Nature Switzerland AG 2024.
+KW  - Amplitude encoding
+KW  - Feature selection
+KW  - Quantum machine learning algorithms
+KW  - Sarcopenia risk prediction
+KW  - Adaptive boosting
+KW  - Adversarial machine learning
+KW  - Diseases
+KW  - Health risks
+KW  - Nearest neighbor search
+KW  - Quantum electronics
+KW  - Risk assessment
+KW  - Risk perception
+KW  - Amplitude encoding
+KW  - Encodings
+KW  - Features selection
+KW  - Machine learning algorithms
+KW  - Quantum machine learning algorithm
+KW  - Quantum machines
+KW  - Risk predictions
+KW  - Sarcopenia
+KW  - Sarcopenium risk prediction
+KW  - Sets of features
+KW  - Feature Selection
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Apodaca, K.
+AU  - Cucurull, L.
+AU  - Genkova, I.
+AU  - Purser, R.J.
+AU  - Su, X.
+TI  - Assessing the benefit of variational quality control for assimilating Aeolus Mie and Rayleigh wind profiles in NOAA's global forecast system during tropical cyclones
+PY  - 2023
+T2  - Quarterly Journal of the Royal Meteorological Society
+VL  - 149
+IS  - 756
+SP  - 2761
+EP  - 2783
+DO  - 10.1002/qj.4530
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85167729336&doi=10.1002%2fqj.4530&partnerID=40&md5=6b621fb8bd53132b48dbed662ffd861f
+AB  - In this article, we show a “proof-of-concept” study to assess the utility of a variational quality control algorithm in increasing the number of assimilated Aeolus Mie-cloudy and Rayleigh-clear winds in National Oceanic and Atmospheric Administration (NOAA)'s global data assimilation and forecast system. The National Centers for Environmental Prediction (NCEP) Variational Quality Control (NCEP-VQC) algorithm was tuned and applied during the minimization process. This type of quality control uses optimal control theory principles to treat outliers in the probability density function (PDF) of observational departure statistics, assuming that the observation errors follow a family of logistic distributions. In the case of Aeolus Mie-cloudy and Rayleigh-clear winds, the NCEP-VQC algorithm permitted the relaxation of the gross error and one of the recommended ESA quality controls (reject Rayleigh-clear observations below 850 hPa), assigned adaptive observation weights ranging from 0 to 1, and led to an increase in the number of retained Aeolus observations for the calculation of global analyses, which in turn improved the verification statistics on analyzed tropical storms This article discusses the advantage of implementing the NCEP-VQC algorithm in the Aeolus data assimilation, the benefits of retaining more wind profiles that contribute to the analysis calculation, and shows improvements in the initialization and short-term forecasts on several tropical cyclone cases. © 2023 The Authors. Quarterly Journal of the Royal Meteorological Society published by John Wiley & Sons Ltd on behalf of Royal Meteorological Society. This article has been contributed to by U.S. Government employees and their work is in the public domain in the USA.
+KW  - aeolus
+KW  - data assimilation
+KW  - quality control
+KW  - satellite wind lidar
+KW  - tropical cyclones
+KW  - variational
+KW  - Density functional theory
+KW  - Forecasting
+KW  - Hurricanes
+KW  - Probability density function
+KW  - Probability distributions
+KW  - Quality assurance
+KW  - Tropical cyclone
+KW  - Tropics
+KW  - Aeolus
+KW  - Data assimilation
+KW  - National centers for environmental predictions
+KW  - Rayleigh
+KW  - Satellite wind lidar
+KW  - Satellite winds
+KW  - Tropical cyclone
+KW  - Variational
+KW  - Wind lidar
+KW  - Wind profiles
+KW  - algorithm
+KW  - data assimilation
+KW  - lidar
+KW  - NOAA satellite
+KW  - probability density function
+KW  - quality control
+KW  - tropical cyclone event
+KW  - weather forecasting
+KW  - wind profile
+KW  - Quality control
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 0
+ER  -
+
+TY  - CONF
+TI  - 4th International Conference on Next Generation Computing Applications, NextComp 2024 - Proceedings
+PY  - 2024
+T2  - 4th International Conference on Next Generation Computing Applications, NextComp 2024 - Proceedings
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85215111069&partnerID=40&md5=3d7a095e8f5ee8506d4a5c61eacf1056
+AB  - The proceedings contain 22 papers. The topics discussed include: Mauvote: a novel mobile electronic voting system using blockchain; RXSS protect: a browser extension for detection of reflected cross-site scripting attacks in real-time using machine learning; improving the classification of sentiments towards Covid-19 vaccines using semantic enrichment and emojis; using GPT-4 to tutor python programming in Shona and Ndebele in Zimbabwe; drug target interaction prediction using variational quantum classifier; leveraging ML to detect fraudulent customs declaration: a case of logistic regression and LightGBM algorithms; training Tacotron 2 for text-to-speech synthesis in Kreole language: methodology and audio processing; and effective detection of fileless malware: a review and comparative analysis of detection techniques.
+M3  - Conference review
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 0
+ER  -
+
+TY  - CONF
+TI  - 1st International Conference on Computational Intelligence and Energy Advancements, ICCIEA 2020
+PY  - 2021
+T2  - Journal of Physics: Conference Series
+VL  - 1817
+IS  - 1
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85103121415&partnerID=40&md5=1d1e1ea996f74d7f867ab8b341f2cd6f
+AB  - The proceedings contain 30 papers. The topics discussed include: a reconfigurable filtenna for cognitive radio application; key enabling technologies of 5G wireless mobile communication; low noise amplifier design and performance analysis of RF front-end for narrow band receivers; reinforcement learning for pedestrian evacuation simulation and optimization during pandemic and panic situation; prediction of heart diseases using random forest; feature extraction and reconstruction of medical images using two-dimensional principal component analysis; AI based computation for hybrid precoding/combining in millimeter-wave massive MIMO systems; spam detection and spammer behavior analysis in twitter using content based filtering approach; evaluating the performance of some local optimizers for variational quantum classifiers; and a simulation study of duration-budget trade-off in home renovation project management.
+M3  - Conference review
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 0
+ER  -
+

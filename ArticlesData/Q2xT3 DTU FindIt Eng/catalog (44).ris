@@ -1,0 +1,35 @@
+TY  - CPAPER
+AU  - Muñoz-Mansilla, Rocío
+AU  - Díaz, José Manuel
+AU  - Chaos, Dictino
+AU  - Aranda, Joaquín
+TI  - Design of a stabilization control system for high-speed crafts based on robust techniques. Two different approaches
+LA  - eng
+JF  - Proceedings of the 2016 Ieee 11th Conference on Industrial Electronics and Applications, Iciea 2016
+SP  - 1920
+EP  - 1925
+PY  - 2016
+SN  - 1509026053, 9781509026050
+PB  - Institute of Electrical and Electronics Engineers Inc.
+DO  - 10.1109/ICIEA.2016.7603901
+AB  - This work handles the design of a stabilization control for a high-speed craft in order to improve comfort and security in maritime transport. The goal is to damp the coupled dynamics of heave, pitch and roll by using active stabilization surfaces such as flaps, T-foil and fins. The methodology used is based on the Quantitative Feedback Theory (QFT) robust technique. Two approaches depending on the degree of coupling are presented. In the first approach, controllers for the longitudinal and transversal dynamics are designed separately and afterwards the actuator coupling is considered. The second approach provides a solution in cases where the effect of the actuator coupling is large. Hence, a combination of QFT and Eigenstructure Assignment (EA) methods is used. For both methods, time-domain simulations analyses for different conditions of sea state and angles of incidence provide satisfactory results and achieve damped responses. It is shown that robust techniques based on QFT methodology result feasible and very suitable since the problem can be applied to any angle of incidence and only one controller is required for any speed or sea state. Therefore they constitute attractive alternatives in the application of a stabilization control of an advanced marine system.
+ER  -
+
+TY  - CPAPER
+AU  - IEEE
+AU  - Munoz-Mansilla, Rocio
+AU  - Manuel Diaz, Jose
+AU  - Chaos, Dictino
+AU  - Aranda, Joaquin
+TI  - Design of a stabilization control system for high-speed crafts based on robust techniques. Two different approaches
+LA  - eng
+JF  - Proceedings of the 2016 Ieee 11th Conference on Industrial Electronics and Applications (iciea)
+SP  - 1920
+EP  - 1925
+PY  - 2016
+SN  - 21582297, 21562318
+SN  - 1467386448, 1467386456, 9781467386449, 9781467386456, 1509026053, 9781509026050
+PB  - IEEE
+DO  - 10.1109/ICIEA.2016.7603901
+AB  - This work handles the design of a stabilization control for a high-speed craft in order to improve comfort and security in maritime transport. The goal is to damp the coupled dynamics of heave, pitch and roll by using active stabilization surfaces such as flaps, T-foil and fins. The methodology used is based on the Quantitative Feedback Theory (QFT) robust technique. Two approaches depending on the degree of coupling are presented. In the first approach, controllers for the longitudinal and transversal dynamics are designed separately and afterwards the actuator coupling is considered. The second approach provides a solution in cases where the effect of the actuator coupling is large. Hence, a combination of QFT and Eigenstructure Assignment (EA) methods is used. For both methods, time-domain simulations analyses for different conditions of sea state and angles of incidence provide satisfactory results and achieve damped responses. It is shown that robust techniques based on QFT methodology result feasible and very suitable since the problem can be applied to any angle of incidence and only one controller is required for any speed or sea state. Therefore they constitute attractive alternatives in the application of a stabilization control of an advanced marine system.
+ER  -

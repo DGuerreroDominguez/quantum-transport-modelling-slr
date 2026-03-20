@@ -1,0 +1,682 @@
+TY  - JOUR
+AU  - Zhao, Yan Wei
+AU  - Peng, Dian Jun
+AU  - Zhang, Jing Ling
+AU  - Wu, Bin
+TI  - Quantum evolutionary algorithm for capacitated vehicle routing problem
+LA  - chi
+JF  - Xitong Gongcheng Lilun Yu Shijian/system Engineering Theory and Practice
+VL  - 29
+IS  - 2
+SP  - 159
+EP  - 166
+PY  - 2009
+SN  - 10006788
+PB  - 中国系统工程学会
+AB  - Vehicle Routing Problem (VRP) has been proved to be a NP-Complete Problem. Traditional intelligent optimization Algorithms have the common defects of early convergence and easily falling into local optimal solutions in solving VRP. Quantum Evolutionary Algorithm (QEA) is a novel evolutionary algorithm, which is based on quantum theory with much excellent performance. Aiming at Capacitated Vehicle Routing Problem (CVRP), a QEA with quantum rotation gate and cataclysm has been proposed in this paper, in which 0-1 matrix encoding is used to construct chromosomes, quantum rotation gate is used to realize evolution, cataclysm is introduced to ensure the diversities of the solution spaces, Nearest Insert and 2-Opt are adopted to optimize sub-routes. Compared to the results of other algorithms are reported, simulations based on CVRP benchmark problems show that the proposed algorithm is an efficient method for solving Capacitated Vehicle Routing Problem.
+ER  -
+
+TY  - JOUR
+AU  - Tambunan, Toufan D.
+AU  - Suksmono, Andriyan B.
+AU  - Edward, Ian J. M.
+AU  - Mulyawan, Rahmat
+TI  - Quantum Annealing for Vehicle Routing Problem with weighted Segment
+LA  - und
+PY  - 2022
+AB  - Quantum annealing technologies aim to solve computational optimization and
+sampling problems. QPU (Quantum Processing Unit) machines such as the D-Wave
+system use the QUBO (Quadratic Unconstrained Binary Optimization) formula to
+define model optimization problems for quantum annealing. This machine uses
+quantum effects to speed up computing time better than classical computers. We
+propose a vehicle routing problem that can be formulated in the QUBO model as a
+combinatorial problem, which gives the possible route solutions increases
+exponentially. The solution aims to optimize the vehicle's journey to reach a
+destination. The study presents a QUBO formulation to solve traffic congestion
+problems on certain roads. The resulting route selection by optimizing the
+distribution of the flow of alternative road vehicles based on the weighting of
+road segments. Constraints formulated as a condition for the level of road
+density. The road weight parameter influences the cost function for each road
+choice. The simulations on the D-Wave quantum annealer show optimal results on
+the route deployment of several vehicles. So that each vehicle will be able to
+go through different road options and reduce road congestion accurately. This
+solution provides an opportunity to develop QUBO modeling for more complex
+vehicle routing problems for road congestion.
+ER  -
+
+TY  - CPAPER
+AU  - Tambunan, Toufan Diansyah
+AU  - Suksmono, Andriyan Bayu
+AU  - Edward, Ian Joseph Matheus
+AU  - Mulyawan, Rahmat
+TI  - Quantum annealing for vehicle routing problem with weighted segment
+LA  - eng
+A2  - Sudrajat, Hanggara, Saputri, Wahyu Dita, Sunnardianto, Gagus Ketut, Wella, Sasfan Arman, Suprayoga, Edi, Ukhtary, Muhammad Shoufie, Hung, Nguyen Tuan
+JF  - Aip Conference Proceedings
+VL  - 2906
+IS  - 1
+PY  - 2023
+SN  - 15517616, 0094243x
+PB  - American Institute of Physics Inc.
+DO  - 10.1063/5.0178362
+AB  - Quantum annealing technologies aim to solve combinatorial optimization and sampling problems. Studies on combi-natorial optimization problems include the selection of vehicle routes on road traffic, known as the NP-hard problem. We propose a vehicle route problem that can be formulated in the Quadratic Unconstrained Binary Optimization (QUBO) model as a combina-torial problem to optimize vehicle route selection. The solution aims to optimize the vehicle's journey to reach a destination. The experiment presents a formulation to solve traffic congestion problems on certain roads. The selection of vehicle routes results in optimizing the distribution of alternative road vehicle flows. The level of road density is a cost function that will be optimized, and the constraint is a limitation on the route choice for each vehicle. This vehicle routing problem considers the weight parameter (as distance in actual road conditions) of the road segment that affects the cost function. The simulations on the D-Wave quantum annealer show optimal results on the route deployment of several vehicles. The cost value on route choice with weighted segments gives better results than in previous studies. Each vehicle can go through different road options and accurately reduce road conges-tion. This solution provides an opportunity to develop QUBO modeling on more complex vehicle routing problems to reduce road congestion.
+ER  -
+
+TY  - CPAPER
+TI  - 15th Metaheuristics International Conference, MIC 2024
+LA  - eng
+JF  - Lecture Notes in Computer Science (including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 14754
+PY  - 2024
+SN  - 16113349, 03029743
+SN  - 3031629213, 3031629221, 9783031629211, 9783031629228
+PB  - Springer Science and Business Media Deutschland GmbH
+AB  - The proceedings contain 70 papers. The special focus in this conference is on Metaheuristics. The topics include: A Continuous-GRASP Random-Key Optimizer; adaptive Ant Colony Optimization Using Node Clustering with Simulated Annealing; job-Shop Scheduling with Robot Synchronization for Transport Operations; SIRO: A Deep Learning-Based Next-Generation Optimizer for Solving Global Optimization Problems; Investigation of the Benefit of Extracting Patterns from Local Optima to Solve a Bi-objective VRPTW; a Memetic Algorithm for Large-Scale Real-World Vehicle Routing Problems with Simultaneous Pickup and Delivery with Time Windows; tabu Search for Solving Covering Salesman Problem with Nodes and Segments; VNS with Path Relinking for the Profitable Close-Enough Arc Routing Problem; A Simulated Annealing Algorithm to Learn an RMP Preference Model; iterative Heuristic over Periods for the Inventory Routing Problem; combining Heuristics and Constraint Programming for the Parallel Drone Scheduling Vehicle Routing Problem with Collective Drones; a Re-optimization Heuristic for a Dial-a-Ride Problem in the Transportation of Patients; solving the Integrated Patient-to-Room and Nurse-to-Patient Assignment by Simulated Annealing; enhancing Real-World Applicability in Home Healthcare: A Metaheuristic Approach for Advanced Routing and Scheduling; solving the Two-Stage Robust Elective Patient Surgery Planning Under Uncertainties with Intensive Care Unit Beds Availability; extracting White-Box Knowledge from Word Embedding: Modeling as an Optimization Problem; a Hybrid Biased-Randomized Heuristic for a Home Care Problem with Team Scheme Selection; extended Set Covering for Time Series Segmentation; Indirect Flow-Shop Coding Using Rank: Application to Indirect QAOA; Utilizing Graph Sparsification for Pre-processing in Max Cut QUBO Solver; addressing Machine Unavailability in Job Shop Scheduling: A Quantum Computing Approach; Solving Edge-Weighted Maximum Clique Problem with DCA Warm-Start Quantum Approximate Optimization Algorithm; Comparing Integer Encodings in QUBO for Quantum and Digital Annealing: The Travelling Salesman Problem; solving Quadratic Knapsack Problem with Biased Quantum State Optimization Algorithm; quantum Optimization Approach for Feature Selection in Machine Learning; an Efficient Algorithm for the T-Row Facility Layout Problem.
+ER  -
+
+TY  - CPAPER
+TI  - 15th Metaheuristics International Conference, MIC 2024
+LA  - eng
+JF  - Lecture Notes in Computer Science (including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 14753
+PY  - 2024
+SN  - 16113349, 03029743
+SN  - 3031629116, 3031629124, 9783031629112, 9783031629129
+PB  - Springer Science and Business Media Deutschland GmbH
+AB  - The proceedings contain 70 papers. The special focus in this conference is on Metaheuristics. The topics include: A Continuous-GRASP Random-Key Optimizer; adaptive Ant Colony Optimization Using Node Clustering with Simulated Annealing; job-Shop Scheduling with Robot Synchronization for Transport Operations; SIRO: A Deep Learning-Based Next-Generation Optimizer for Solving Global Optimization Problems; Investigation of the Benefit of Extracting Patterns from Local Optima to Solve a Bi-objective VRPTW; a Memetic Algorithm for Large-Scale Real-World Vehicle Routing Problems with Simultaneous Pickup and Delivery with Time Windows; tabu Search for Solving Covering Salesman Problem with Nodes and Segments; VNS with Path Relinking for the Profitable Close-Enough Arc Routing Problem; A Simulated Annealing Algorithm to Learn an RMP Preference Model; iterative Heuristic over Periods for the Inventory Routing Problem; combining Heuristics and Constraint Programming for the Parallel Drone Scheduling Vehicle Routing Problem with Collective Drones; a Re-optimization Heuristic for a Dial-a-Ride Problem in the Transportation of Patients; solving the Integrated Patient-to-Room and Nurse-to-Patient Assignment by Simulated Annealing; enhancing Real-World Applicability in Home Healthcare: A Metaheuristic Approach for Advanced Routing and Scheduling; solving the Two-Stage Robust Elective Patient Surgery Planning Under Uncertainties with Intensive Care Unit Beds Availability; extracting White-Box Knowledge from Word Embedding: Modeling as an Optimization Problem; a Hybrid Biased-Randomized Heuristic for a Home Care Problem with Team Scheme Selection; extended Set Covering for Time Series Segmentation; Indirect Flow-Shop Coding Using Rank: Application to Indirect QAOA; Utilizing Graph Sparsification for Pre-processing in Max Cut QUBO Solver; addressing Machine Unavailability in Job Shop Scheduling: A Quantum Computing Approach; Solving Edge-Weighted Maximum Clique Problem with DCA Warm-Start Quantum Approximate Optimization Algorithm; Comparing Integer Encodings in QUBO for Quantum and Digital Annealing: The Travelling Salesman Problem; solving Quadratic Knapsack Problem with Biased Quantum State Optimization Algorithm; quantum Optimization Approach for Feature Selection in Machine Learning; an Efficient Algorithm for the T-Row Facility Layout Problem.
+ER  -
+
+TY  - JOUR
+AU  - Zhang, Xin
+AU  - Wei, Yanqiu
+AU  - Hashim, Zrdplwa
+TI  - Improvement of Swarm Intelligence Algorithm and Its Application in Logistics Network Routing
+LA  - eng
+JF  - Journal of Network Intelligence
+VL  - 8
+IS  - 4
+SP  - 1077
+EP  - 1094
+PY  - 2023
+SN  - 24148105
+PB  - Taiwan Ubiquitous Information CO LTD
+AB  - The Vehicle Routing Problem (VRP) is a key aspect of logistics network routing, and an excellent routing optimization strategy can effectively improve the service experience of users and reduce transportation costs. With the explosive growth of e-commerce, the logistics network routing system is faced with a huge number of demand points and customer-specified receiving time slots, which poses a huge challenge for routing optimization of large-scale delivery. To address the problems of high total cost and low effective vehicle utilisation in the logistics network routing system, this work introduces a new swarm intelligence method, the pigeon-inspired optimization (PIO), and improves it. Two improvement strategies are proposed to address the strengths and weaknesses of the PIO algorithm. Firstly, by combining the high swarm dispersion of the quantum evolutionary algorithm and the fast convergence of the PIO, the PIO method is upgraded by mixing the algorithms to achieve the effect of complementing each other’s strengths and improving the global exploration ability of the PIO algorithm; secondly, a Gaussian variation operator is added to the PIO algorithm to enhance its local exploitation capa-bility and prevent prematurity in order to retain the variety in future iterations. Each individual contains information on both client points and routes. The effectiveness of the improved pigeon flock intelligence optimisation algorithm is verified through test function simulations. The effectiveness and rationality of the improved PIO algorithm is verified in a case study based on the Solmon arithmetic example, which has some engineering application value.
+ER  -
+
+TY  - JOUR
+AU  - Xu, Peng
+AU  - Liu, Qixing
+AU  - Wu, Yuhu
+TI  - Energy Saving-Oriented Multi-Depot Vehicle Routing Problem with Time Windows in Disaster Relief
+LA  - eng
+JF  - Energies
+VL  - 16
+IS  - 4
+PY  - 2023
+SN  - 19961073
+PB  - MDPI
+DO  - 10.3390/en16041992
+AB  - This paper studies the distribution of emergency relief for electric vehicles (EVs), which considers energy saving, multi-depot, and vehicle routing problems with time windows, and the named energy saving-oriented multi-depot vehicle routing problem with time windows (ESMDVRPTW). Our aim is to find routes for EVs such that all the shelter demands are fulfilled during their time windows and the total cost traveled by the fleet is minimized. To this end, we formulate the ESMDVRPTW as a mixed-integer linear programming model. Since the post-disaster transportation network contains a large number of vertices and arcs composed of vertices, we propose a two-stage approach to solve the ESMDVRPTW. The first stage is to obtain the minimal travel cost between any two vertices in real-time on a post-disaster transportation network using the proposed Floyd algorithm combined with the neighboring list (Floyd-NL algorithm). In the second stage, we develop the genetic algorithm (GA) incorporating large neighborhood search (GA-LNS), which determines the delivery scheme of shelters. Simulation results of the MDVRPTW benchmark illustrate that the performance of the GA-LNS is better than GA, simulated annealing (SA) and tabu search (TS). Finally, case studies are constructed on two real cases acquired from the OpenStreetMap (OSM) generated by the Quantum Geographic Information System (QGIS) in Ichihara city, Japan, and the test results of case studies show the effectiveness of the proposed two-stage approach.
+ER  -
+
+TY  - CPAPER
+AU  - Zeng, Kehan
+AU  - Peng, Gang
+AU  - Cai, Zhaoquan
+AU  - Huang, Zhen
+AU  - Yang, Xiong
+TI  - A hybrid natural computing approach for the VRP problem based on PSO, GA and quantum computation
+LA  - eng
+JF  - Lecture Notes in Electrical Engineering
+VL  - 203
+SP  - 23
+EP  - 28
+PY  - 2012
+SN  - 18761119, 18761100
+SN  - 9400756984, 9400756992, 9789400756984, 9789400756991
+PB  - Springer Netherlands
+DO  - 10.1007/978-94-007-5699-1_3
+AB  - In this paper, a novel hybrid natural computing approach, called PGQ, combining Particle Swarm Optimization (PSO), Genetic Algorithm (GA) and quantum computation, is introduced to solve the Vehicle Routing Problem (VRP). We propose a quantum approach, called QUP, to update the particles in PSO. And, we add GA operators to improve population quality. The simulation results show that the PGQ algorithm is very effective, and is better than simple PSO and GA, as well as PSO and GA mixed algorithm. © 2012 Springer Science+Business Media.
+ER  -
+
+TY  - JOUR
+AU  - Song, Qiang
+AU  - Gao, Xuexia
+AU  - Santos, Emmanuel T.
+TI  - A food chain algorithm for capacitated vehicle routing problem with recycling in reverse logistics
+LA  - eng
+JF  - International Journal of Bifurcation and Chaos
+VL  - 25
+IS  - 14
+PY  - 2015
+SN  - 17936551, 02181274
+PB  - World Scientific Publishing Co. Pte Ltd
+DO  - 10.1142/S0218127415400313
+AB  - This paper introduces the capacitated vehicle routing problem with recycling in reverse logistics, and designs a food chain algorithm for it. Some illustrative examples are selected to conduct simulation and comparison. Numerical results show that the performance of the food chain algorithm is better than the genetic algorithm, particle swarm optimization as well as quantum evolutionary algorithm.
+ER  -
+
+TY  - CPAPER
+AU  - Zheng, Danyang
+AU  - Mao, Jianlin
+AU  - Guo, Ning
+AU  - Wang, Changzheng
+AU  - Qu, Weixian
+TI  - Based on two element neighborhood search quantum genetic algorithm to solve the vehicle scheduling problem
+LA  - eng
+JF  - Proceedings of the 28th Chinese Control and Decision Conference, Ccdc 2016
+SP  - 2147
+EP  - 2150
+PY  - 2016
+SN  - 19489447, 19489439
+SN  - 146739713X, 146739713x, 1467397148, 1467397156, 9781467397131, 9781467397148, 9781467397155
+PB  - Institute of Electrical and Electronics Engineers Inc.
+DO  - 10.1109/CCDC.2016.7531340
+AB  - Aiming at the real time distribution problem in logistics distribution that was vehicle routing problem with capacity constraints. An adaptive quantum genetic algorithm is proposed to minimize the traffic path. The idea of adaptive genetic algorithm is used for reference and a new quantum rotation angle updating strategy is proposed. And the direction of the change of the quantum rotation gate is guided by the change of fitness value to improve the depth of the global search algorithm. A mutation operation is designed to keep the population diversity of adaptive quantum genetic algorithm, and then to improve the width of the global search. The local development ability of the algorithm is enhanced by introducing 2-optimization local search algorithm. The effectiveness and superiority of the proposed algorithm are verified by simulation experiment and algorithm comparison.
+ER  -
+
+TY  - CPAPER
+AU  - Jingling, Zhang
+AU  - Yanwei, Zhao
+AU  - Dianjun, Peng
+AU  - Wanliang, Wang
+TI  - A hybrid Quantum-Inspired Evolutionary Algorithm for open vehicle routing problem
+LA  - eng
+JF  - Ieee/asme International Conference on Advanced Intelligent Mechatronics, Aim
+PY  - 2009
+SN  - 21596255, 21596247
+SN  - 1424428521, 142442853X, 1424428548, 9781424428526, 9781424428533, 9781424428540
+PB  - IEEE
+DO  - 10.1109/AIM.2009.5229905
+AB  - This paper proposed a hybrid Quantum-Inspired Evolutionary Algorithm (HQEA) with 2-OPT sub-routes optimization for open vehicle routing problem (OVRP). In the HQEA, Quantum-Inspired Evolutionary Algorithm is used for global exploration and 2-OPT algorithm is used to optimize sub-routes for convergence acceleration. Moreover, an encoding method of converting Q-bit representation to integer representation is designed. And genetic operators of quantum crossover and quantum variation are applied to enhance exploration. The proposed HQEA is tested based on classical benchmark problems of VRP. Simulation results and comparisons with other algorithms show that the proposed HQEA has much better exploration quality and it is an effective method for OVRP. ©2009 IEEE.
+ER  -
+
+TY  - CPAPER
+AU  - Ma, Weijian
+AU  - Zhang, Xinyuan
+AU  - Xu, Yichen
+AU  - Gao, Fei
+TI  - Loading is the Key: A Novel Genetic Quantum Algorithm for SDVRP
+LA  - eng
+JF  - 2021 Ieee Congress on Evolutionary Computation, Cec 2021 - Proceedings
+SP  - 1817
+EP  - 1825
+PY  - 2021
+SN  - 1728183928, 1728183936, 1728183944, 9781728183923, 9781728183930, 9781728183947
+PB  - Institute of Electrical and Electronics Engineers Inc.
+DO  - 10.1109/CEC45853.2021.9504873
+AB  - This paper solves Split Demand Vehicle Routing Problem with minimal vehicles and controlled task splits. Our algorithm encodes the mapping between task splits and vehicles into a binary matrix and uses Genetic Quantum Algorithm to control the evolvement process. To convert the binary matrix solution into task loading schemes, we design a novel cost function and successfully convert task assignment problem to Transportation Problem which can be solved by Transportation Simplex Method. Our algorithm uses a simple nearest-neighborhood based heuristic to generate vehicle routes and adopts a local search method tailored for SDVRP to improve solution quality. The experimental results show that our algorithm splits few tasks and can obtain many solutions better than CVRP best-known in TSPLIB 95. Further analysis reveals that savings of SDVRP mostly come from CVRP's failure to combine tasks geographically close into one route, when the number of vehicles are restricted to minimum.
+ER  -
+
+TY  - JOUR
+AU  - Wang, Xu
+AU  - Ge, Xian Long
+AU  - Dai, Ying
+TI  - Research on dynamic vehicle routing problem based on two-phase algorithm
+LA  - chi
+JF  - Kongzhi Yu Juece/control and Decision
+VL  - 27
+IS  - 2
+SP  - 175
+EP  - 181
+PY  - 2012
+SN  - 10010920
+AB  - On the basis of analyzing dynamic needs information of customers, and according to the dynamic order information, the dynamic vehicle scheduling model based on the time taxes is established. The dynamic distribution problem is transformed into a series of static distribution problems. At the same time, quantum genetic algorithm is designed for vehicle routing problem(VRP). Aiming at the real time of dynamic vehicle scheduling problem, the two-phase solution of "initial optimization stage" and "real-time optimization stage" are established, which optimizs sub-routes through continuously updating information and inserting the dynamic needs customers. Simulation results show the effectiveness of the model and algorithm.
+ER  -
+
+TY  - CPAPER
+AU  - An, Lu
+AU  - Song, Xudong
+AU  - Ning, Tao
+TI  - An Improved Quantum Ant Colony Algorithm for Fuzzy Dynamic Vehicle Routing Problem
+LA  - eng
+JF  - 2021 Ieee 9th International Conference on Computer Science and Network Technology, Iccsnt 2021
+SP  - 22
+EP  - 25
+PY  - 2021
+SN  - 26905892
+SN  - 1665443642, 9781665443647, 1665443634, 9781665443630
+PB  - Institute of Electrical and Electronics Engineers Inc.
+DO  - 10.1109/ICCSNT53786.2021.9615478
+AB  - For dynamic vehicle path problems with stochastic demand, a two-stage model is used with the objective of minimizing cost and maximizing customer satisfaction in this paper. The dynamic vehicle routing problem is converted into a static vehicle routing problem, and the quantum theory is combined with the ant colony algorithm. Quantum $H_{\mathcal{E}}$ Gate is used to update the ant colony instead of the traditional quantum revolving gate. Using MATLAB simulation data, the quantum ant colony algorithm improved in this paper is confirmed to be one of the efficient methods to solve the problem.
+ER  -
+
+TY  - BOOK
+AU  - Paolucci
+TI  - Advances in Optimization and Decision Science for Society, Services and Enterprises : ODS, Genoa, Italy, September 4-7, 2019
+LA  - eng
+A2  - Paolucci, Massimo, Sciomachen, Anna, Uberti, Pierpaolo
+JF  - Advances in Optimization and Decision Science for Society, Services and Enterprises
+PY  - 2019
+SN  - 3030349594, 3030349608, 9783030349592, 9783030349608
+PB  - Springer International Publishing
+ER  -
+
+TY  - JOUR
+AU  - Zhang, Jingling
+AU  - Zhao, Yanwei
+AU  - Wang, Hongwei
+AU  - Li, Wen
+TI  - Multi-objective cooperative QEA for low-carbon time dependent vehicle routing problem with simultaneous delivery and pickup
+LA  - eng
+JF  - International Journal of Wireless and Mobile Computing
+VL  - 12
+IS  - 4
+SP  - 400
+EP  - 407
+PY  - 2017
+SN  - 17411092, 17411084
+PB  - Inderscience Publishers
+DO  - 10.1504/IJWMC.2017.085567
+AB  - Emissions reduction has been a hot issue. This paper concerns a Low-Carbon Time Dependent Vehicle Routing Problem with Simultaneous Delivery and Pickup (LTDVRPSDP) in which the time dependent travel speed is variable depending on the time of travel. And a mixed integer linear program model is developed for this optimisation problem which aims at two objectives of minimising travel times and carbon emissions at the same time. To calculate the carbon emissions the relation of carbon emissions and travel speeds is found. A Multiobjective Cooperative Quantum Evolutionary Algorithm (MCQEA) is proposed for this NP-hard problem. In the MCQEA, co-evolutionary strategy of optimal solution preservation and two subpopulation cooperation co-evolution is adopted. Results of simulation and comparison show that the established model is valid and the MCQEA is effective for this problem.
+ER  -
+
+TY  - JOUR
+AU  - Wang, Lixing
+AU  - Kowk, S. K.
+AU  - Ip, W. H.
+TI  - Design of an improved quantum-inspired evolutionary algorithm for a transportation problem in logistics systems
+LA  - eng
+JF  - Journal of Intelligent Manufacturing
+VL  - 23
+IS  - 6
+SP  - 2227
+EP  - 2236
+PY  - 2012
+SN  - 15728145, 09565515
+PB  - SPRINGER
+DO  - 10.1007/s10845-011-0568-7
+AB  - Logistics faces great challenges in vehicle schedule problem. Intelligence Technologies need to be developed for solving the transportation problem. This paper proposes an improved Quantum-Inspired Evolutionary Algorithm (IQEA), which is a hybrid algorithm of Quantum-Inspired Evolutionary Algorithm (QEA) and greed heuristics. It extends the standard QEA by combining its principles with some heuristics methods. The proposed algorithm has also been applied to optimize a problem which may happen in real life. The problem can be categorized as a vehicle routing problem with time windows (VRPTW), which means the problem has many common characteristics that VRPTW has, but more constraints need to be considered. The basic idea of the proposed IQEA is to embed a greed heuristic method into the standard QEA for the optimal recombination of consignment subsequences. The consignment sequence is the order to arrange the vehicles for the transportation of the consignments. The consignment subsequences are generated by cutting the whole consignment sequence according to the values of quantum bits. The computational result of the simulation problem shows that IQEA is feasible in achieving a relatively optimal solution. The implementation of an optimized schedule can save much more cost than the initial schedule. It provides a promising, innovative approach for solving VRPTW and improves QEA for solving complexity problems with a number of constraints. © Springer Science+Business Media, LLC 2011.
+ER  -
+
+TY  - CPAPER
+TI  - 14th Metaheuristics International Conference, MIC 2022
+LA  - eng
+JF  - Lecture Notes in Computer Science (including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 13838
+PY  - 2023
+SN  - 16113349, 03029743
+SN  - 3031265033, 3031265041, 9783031265037, 9783031265044
+PB  - Springer Science and Business Media Deutschland GmbH
+AB  - The proceedings contain 48 papers. The special focus in this conference is on Metaheuristics. The topics include: Neural Architecture Search Using Differential Evolution in MAML Framework for Few-Shot Classification Problems; neural Architecture Search Using Metaheuristics for Automated Cell Segmentation; analytical Methods to Separately Evaluate Convergence and Diversity for Multi-objective Optimization; how a Different Ant Behavior Affects on the Performance of the Whole Colony; evaluating the Effects of Chaos in Variable Neighbourhood Search; investigating Fractal Decomposition Based Algorithm on Low-Dimensional Continuous Optimization Problems; a Comparative Analysis of Different Multilevel Approaches for Community Detection; tchebycheff Fractal Decomposition Algorithm for Bi-objective Optimization Problems; local Search for Integrated Predictive Maintenance and Scheduling in Flow-Shop; A BRKGA with Implicit Path-Relinking for the Vehicle Routing Problem with Occasional Drivers and Time Windows; an Investigation of Hyper-Heuristic Approaches for Teeth Scheduling; a Mixed-Integer Programming Formulation and Heuristics for an Integrated Production Planning and Scheduling Problem; construct, Merge, Solve and Adapt Applied to the Maximum Disjoint Dominating Sets Problem; fixed Set Search Applied to the Territory Design Problem; the P-Next Center Problem with Capacity and Coverage Radius Constraints: Model and Heuristics; automatic Configuration of Metaheuristics for Solving the Quadratic Three-Dimensional Assignment Problem Using Irace; hyper-parameter Optimization Using Continuation Algorithms; selecting the Parameters of an Evolutionary Algorithm for the Generation of Phenotypically Accurate Fractal Patterns; addressing Sustainability in Precision Agriculture via Multi-Objective Factored Evolutionary Algorithms; modeling and Solving the K-Track Assignment Problem; Metaheuristic Algorithms for UAV Trajectory Optimization in Mobile Networks; instance Space Analysis for the Generalized Assignment Problem; decision Support for Agri-Food Supply Chains in the E-Commerce Era: The Inbound Inventory Routing Problem with Perishable Products; a Multi-objective Biased Random-Key Genetic Algorithm for the Siting of Emergency Vehicles; simulated Annealing for a Complex Industrial Scheduling Problem; a Matheuristic for Multi-Depot Multi-Trip Vehicle Routing Problems; Comparing QUBO Models of the Magic Square Problem for Quantum Annealing; self-adaptive Publish/Subscribe Network Design; variable Neighborhood Descent for Software Quality Optimization.
+ER  -
+
+TY  - CPAPER
+AU  - Wang, Zhengchu
+AU  - Zhou, Muxun
+AU  - Li, Xiufeng
+AU  - Fan, Chun
+AU  - Jin, Feixiang
+TI  - A quantum particle swarm optimization for solving the capacitated vehicle routing problem
+LA  - chi
+JF  - Proceedings of the World Congress on Intelligent Control and Automation (wcica)
+SP  - 3281
+EP  - 3285
+PY  - 2010
+SN  - 1424467101, 142446711X, 1424467128, 9781424467105, 9781424467112, 9781424467129
+PB  - IEEE
+DO  - 10.1109/WCICA.2010.5555028
+AB  - The problem of capacitated vehicle routing optimization is studied. Firstly, the mathematic model of VRP and PSO is given. An improved quantum particle swarm optimization is presented. 2-opt and 1-1 opt is used to optimize the inner and outer route. The population entropy is introduced to check whether the algorithm is trapped into local optimization or not, and cataclysm is adopted to ensure the diversities of the solution spaces. The detailed solving steps of VRP based on QPSO are given. Experiment simulation is tested, which shows that QPSO has better performance in searching efficiency and premature problem compared to the other algorithms. © 2010 IEEE.
+ER  -
+
+TY  - JOUR
+AU  - Li, Qiting
+AU  - Huang, Zhaolong
+AU  - Jiang, Weiwei
+AU  - Tang, Zikang
+AU  - Song, Meimei
+TI  - Quantum Algorithms Using Infeasible Solution Constraints for Collision-Avoidance Route Planning
+LA  - eng
+JF  - Ieee Transactions on Consumer Electronics
+PY  - 2024
+SN  - 15584127, 00983063
+PB  - Institute of Electrical and Electronics Engineers Inc.
+DO  - 10.1109/TCE.2024.3476156
+AB  - Route planning of consumer electronics supply chains,especially collision-avoidance,is a frequently encountered problem in artificial intelligence applications. This paper explores variational quantum algorithms that efficiently utilizes qubits to address this problem,adapting to the current limits on quantum computing resources. Firstly,by establishing a mathematically sufficient and necessary condition as a criterion of binary vectors identity,we have constructed infeasible solution constraint about infeasible solution constrains. Next,a route planning model is developed in this paper,which integrates the vehicle routing problem with the collision-avoidance problem. Then,our infeasible solution constraints are employed in a joint optimization algorithm for solving this model,specifically for reducing the number of qubits used during sub-loop elimination and for addressing collision scenarios. Moreover,in order to further reduce the demand for qubits,enabling the computation of larger-scale problems with a limited number of qubits,our algorithm is subsequently enhanced into a stepwise optimization algorithm at an acceptable cost. Finally,the effectiveness of the proposed method,model and algorithms are all validated through quantum simulation computations.
+ER  -
+
+TY  - JOUR
+AU  - Zhang, Jingling
+AU  - Wang, Wanliang
+AU  - Zhao, Yanwei
+TI  - Model and algorithms for dynamic and stochastic vehicle routing problem
+LA  - eng
+JF  - International Journal of Modelling, Identification and Control
+VL  - 18
+IS  - 4
+SP  - 364
+EP  - 371
+PY  - 2013
+SN  - 17466180, 17466172
+PB  - Inderscience Publishers
+DO  - 10.1504/IJMIC.2013.053542
+AB  - This paper researched a dynamic vehicle routing problem of stochastic requests, in which at the scheduling moment t whether customers need service can be identified, but the demand is a random variable and submits to Poisson distribution. Based on model of M.H Lars, considering the multi-depot and open characteristics, two-stage stochastic programming models with resource are established. Then an adaptive immune quantum-inspired evolutionary algorithm (AIQEA) for this dynamic problem was proposed. In the AIQEA, in order to avoid the search process into the local minimum value an immune operator is introduced to optimise sub-routes. Finally, simulation examples are tested, and analyse the optimisation results of different values of the parameters λ, experiment results show that this method can effectively solve the dynamic vehicle routing problem of stochastic requests. Copyright © 2013 Inderscience Enterprises Ltd.
+ER  -
+
+TY  - CPAPER
+AU  - Li, Bo
+AU  - Chen, Guo
+AU  - Tao, Ning
+TI  - A Quantum Particle Swarm-Inspired Algorithm for Dynamic Vehicle Routing Problem
+LA  - eng
+A2  - Qiao, Feng, Wang, John, Patnaik, Srikanta
+JF  - Advances in Intelligent Systems and Computing
+VL  - 690
+SP  - 185
+EP  - 190
+PY  - 2018
+SN  - 21945357
+SN  - 3319659774, 3319659782, 9783319659770, 9783319659787
+PB  - Springer Verlag
+DO  - 10.1007/978-3-319-65978-7_28
+AB  - In order to solve the scheduling of dynamic vehicle routing problem, this paper establishes the simulation model to minimize the cost and stability value and maximize the loading rate. Then a quantum particle swarm-inspired algorithm is proposed. At first, it introduces the method based on the DCSC (double chains structure coding) including vehicle allocation chain and goods chain. Finally, the proposed method is applied to a dynamic simulation and the result of comparing with other classical algorithms verifies its effectiveness.
+ER  -
+
+TY  - JOUR
+AU  - Ning, Tao
+AU  - Guo, Chen
+AU  - Chen, Rong
+AU  - Jin, Hua
+TI  - Simulation study on scheduling strategy of dynamic vehicle routing problem
+LA  - chi
+JF  - Xitong Fangzhen Xuebao / Journal of System Simulation
+VL  - 27
+IS  - 12
+SP  - 2942
+EP  - 2947
+PY  - 2015
+SN  - 1004731x
+PB  - Acta Simulata Systematica Sinica
+AB  - For the purpose of solving the rescheduling of dynamic vehicle routing problem, the simulation model was established to minimize the cost and optimize the stability. The method of double chains structure coding was proposed. An improved hybrid multi-phases quantum particle swarm algorithm was proposed. An AHP (Analytic hierarchy process strategy) was introduced to obtain the optimal strategy from the Pareto solution. A novel method was applied to a dynamic simulation and the result of comparing with other classical algorithms verifies its effectiveness.
+ER  -
+
+TY  - CPAPER
+TI  - Advanced Intelligent Computing Theories and Applications: With Aspects of Theoretical and Methodological Issues - 4th International Conference on Intelligent Computing, ICIC 2008, Proceedings
+LA  - eng
+JF  - Lecture Notes in Computer Science (including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 5226
+PY  - 2008
+SN  - 16113349, 03029743
+SN  - 3540874402, 3540874429, 9783540874409, 9783540874423
+AB  - The proceedings contain 55 papers. The topics discussed include: some observations on two-way finite automata with quantum and classical states; design of DNA sequence based on improved genetic algorithm; bijective digital error-control coding, part I: the reversible Viterbi algorithm; bijective digital error-control coding, part II: quantum Viterbi circuit synthesis; a hybrid quantum-inspired evolutionary algorithm for capacitated vehicle routing problem; improving tumor clustering based on gene selection; a hybrid intelligent algorithm for the vehicle routing with time windows; a biological intelligent access control system based on DSP and NIR technology; an improved support vector machine for the classification of imbalanced biological datasets; multi-layer ensemble classifiers on protein secondary structure prediction; predicting cytokines based on dipeptide and length feature; and a new unsupervised approach to face recognition.
+ER  -
+
+TY  - CPAPER
+TI  - 1st International Workshop on Quantum Technology and Optimization Problems, QTOP 2019 was held in conjunction with the International Conference on Networked Systems, NetSys 2019
+LA  - eng
+JF  - Lecture Notes in Computer Science (including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 11413
+PY  - 2019
+SN  - 16113349, 03029743
+SN  - 3030140814, 3030140822, 9783030140816, 9783030140823
+PB  - Springer Verlag
+AB  - The proceedings contain 19 papers. The special focus in this conference is on Quantum Technology and Optimization Problems. The topics include: Solving Large Maximum Clique Problems on a Quantum Annealer; quantum Annealing Based Optimization of Robotic Movement in Manufacturing; quantum Annealing of Vehicle Routing Problem with Time, State and Capacity; boosting Quantum Annealing Performance Using Evolution Strategies for Annealing Offsets Tuning; Quantum Photonic TRNG with Dual Extractor; secure Quantum Data Communications Using Classical Keying Material; continuous-Variable Quantum Network Coding Against Pollution Attacks; On the Influence of Initial Qubit Placement During NISQ Circuit Compilation; towards a Pattern Language for Quantum Algorithms; embedding Inequality Constraints for Quantum Annealing Optimization; Assessing Solution Quality of 3SAT on a Quantum Annealing Platform; principles and Guidelines for Quantum Performance Analysis; nash Embedding and Equilibrium in Pure Quantum States; a Quantum Algorithm for Minimising the Effective Graph Resistance upon Edge Addition; variational Quantum Factoring; function Maximization with Dynamic Quantum Search; flight Gate Assignment with a Quantum Annealer.
+ER  -
+
+TY  - CPAPER
+TI  - Numerical Methods and Applications
+LA  - eng
+JF  - Lecture Notes in Computer Science (including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 4310
+PY  - 2007
+SN  - 16113349, 03029743
+SN  - 1280864532, 3540709401, 3540709428, 6610864535, 9781280864537, 9783540709404, 9783540709428, 9786610864539
+AB  - The proceedings contain 86 papers. The topics discussed include: on the discretization of the coupled heat and electrical diffusion problems; the vector analysis grid operators for applied problems; weighted iterative operator-splitting methods and applications; a parallel algorithm for systems of convection-diffusion equations; solving coupled consolidation equations; parallel Monte Carlo sampling scheme for sphere and hemisphere; a hybrid Monte Carlo method for simulation of quantum transport; random walks for solving boundary-value problems with flux conditions; an iterative fixing variable heuristic for solving a combined blending and distribution planning problem; a hybrid metaheuristic for a real life vehicle routing problem; mixed discretization-optimization methods for nonlinear elliptic optimal control problems; and stability and bifurcation analysis of a nonlinear model of bioreactor.
+ER  -
+
+TY  - CPAPER
+AU  - Zhang, Jing Ling
+AU  - Zhao, Yan Wei
+AU  - Peng, Dian Jun
+AU  - Wang, Wan Liang
+TI  - A hybrid quantum-inspired evolutionary algorithm for capacitated vehicle routing problem
+LA  - eng
+A2  - Huang, DS, Wunsch, DC, Levine, DS, Jo, KH
+JF  - Lecture Notes in Computer Science (including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 5226
+SP  - 31
+EP  - 38
+PY  - 2008
+SN  - 16113349, 03029743
+SN  - 3540874402, 3540874429, 9783540874409, 9783540874423
+PB  - SPRINGER-VERLAG BERLIN
+DO  - 10.1007/978-3-540-87442-3_5
+AB  - A hybrid Quantum-Inspired Evolutionary Algorithm (HQEA) with 2-OPT sub-routes optimization for capacitated vehicle routing problem (CVRP) is proposed. In the HQEA, 2-OPT algorithm is used to optimize sub-routes for convergence acceleration. Moreover, an encoding method of converting Q-bit representation to integer representation is designed. And genetic operators of quantum crossover and quantum variation are applied to enhance exploration. The proposed HQEA is tested based on classical benchmark problems of CVRP. Simulation results and comparisons with genetic algorithm show that the proposed HQEA has much better exploration quality and it is an effective method for CVRP. © 2008 Springer-Verlag Berlin Heidelberg.
+ER  -
+
+TY  - JOUR
+AU  - Ning, Tao
+AU  - Guo, Chen
+AU  - Chen, Rong
+AU  - Jin, Hua
+TI  - A novel hybrid method on VRP with pickup and delivery
+LA  - eng
+JF  - Open Cybernetics and Systemics Journal
+VL  - 10
+IS  - 1
+SP  - 56
+EP  - 60
+PY  - 2016
+SN  - 1874110x
+PB  - Bentham Science Publishers
+DO  - 10.2174/1874110X01610010056
+AB  - In order to solve the vehicle routing problem with pickup and delivery (VRPPD), this paper proposed an improved quantum genetic algorithm based on different constraint conditions. Firstly, a mathematical model was established aiming at minimizing the dispatching time and the total cost. Secondly, the paper proposes the improved quantum genetic algorithm and non dominated sorting strategy. In order to obtain more optimal solutions, the non dominated sorting strategy is introduced. Finally, the proposed method is applied to the simulation example, and the effectiveness of the proposed method is evaluated through the convergence curves of comparison with the existing algorithms.
+ER  -
+
+TY  - JOUR
+AU  - Bennett, T.
+AU  - Matwiejew, E.
+AU  - Marsh, S.
+AU  - Wang, J. B.
+TI  - Quantum Walk-Based Vehicle Routing Optimisation
+LA  - eng
+JF  - Frontiers in Physics
+VL  - 9
+PY  - 2021
+SN  - 2296424x
+PB  - Frontiers Media SA
+DO  - 10.3389/fphy.2021.730856
+AB  - This paper demonstrates the applicability of the Quantum Walk-based Optimisation Algorithm (QWOA) to the Capacitated Vehicle Routing Problem (CVRP). Efficient algorithms are developed for the indexing and unindexing of the solution space and for implementing the required alternating phase-walk unitaries, which are the core components of QWOA. Results of numerical simulation demonstrate that the QWOA is capable of producing convergence to near-optimal solutions for a randomly generated eight location CVRP. Preparation of the amplified quantum state in this example problem is demonstrated to produce higher-quality solutions than expected from classical random sampling of equivalent computational effort.
+ER  -
+
+TY  - JOUR
+AU  - Sinno, Salvatore
+AU  - Groß, Thomas
+AU  - Mott, Alan
+AU  - Sahoo, Arati
+AU  - Honnalli, Deepak
+AU  - Thuravakkath, Shruthi
+AU  - Bhalgamiya, Bhavika
+TI  - Performance of Commercial Quantum Annealing Solvers for the Capacitated Vehicle Routing Problem [arXiv]
+LA  - eng
+PY  - 2023
+DO  - 10.48550/arXiv.2309.05564
+AB  - Quantum annealing (QA) is a heuristic search algorithm that can run on Adiabatic Quantum Computation (AQC) processors to solve combinatorial optimization problems. Although theoretical studies and simulations on classic hardware have shown encouraging results, these analyses often assume that the computation occurs in adiabatically closed systems without environmental interference. This is not a realistic assumption for real systems; therefore, without extensive empirical measurements on real quantum platforms, theory-based predictions, simulations on classical hardware or limited tests do not accurately assess the current commercial capabilities. This study has assessed the quality of the solution provided by a commercial quantum annealing platform compared to known solutions for the Capacitated Vehicle Routing Problem (CVRP). The study has conducted extensive analysis over more than 30 hours of access to QA commercial platforms to investigate how the size of the problem and its complexity impact the solution accuracy and the time used to find a solution. Our results have found that the absolute error is between 0.12 and 0.55, and the quantum processor unit (QPU) time is between 30 and 46 micro seconds. Our results show that as the constraint density increases, the quality of the solution degrades. Therefore, more than the problem size, the model complexity plays a critical role, and practical applications should select formulations that minimize the constraint density.
+ER  -
+
+TY  - CPAPER
+AU  - Zakharova, Yulia
+AU  - Zakharov, Aleksey
+TI  - On Analysis of Some Bi-criteria Discrete Choice Problems with Triangular Fuzzy Numbers
+LA  - eng
+JF  - 2022 Ieee International Multi-conference on Engineering, Computer and Information Sciences, Sibircon 2022
+SP  - 900
+EP  - 905
+PY  - 2022
+SN  - 1665464798, 1665464801, 9781665464796, 9781665464802
+PB  - Institute of Electrical and Electronics Engineers Inc.
+DO  - 10.1109/SIBIRCON56155.2022.10017109
+AB  - Discrete optimization problems with uncertain input data presented by triangular fuzzy numbers are considered. Objective function is defined as the sum of fuzzy input values. Original fuzzy problem is modified to crisp bi-criteria choice model with initial objective function, its membership function and decision maker's preference relation. Also an elementary information quantum showing the quantitative relationship between components of criteria are used (one component is more important then another). The problem of the Pareto set reduction by information quantum for this crisp bi-criteria model is analyzed. Theoretical results of the paper present the estimates on the cardinality of the reduced Pareto set. Instances of vehicle routing problems, scheduling problems and covering-type problems with objective function as sum of triangular fuzzy numbers are constructed. The Pareto set of its bi-criteria crisp modification has specific structure. Such structure allows to obtain the reduced Pareto set with cardinality according to the theoretical results on all considered instances.
+ER  -
+
+TY  - JOUR
+AU  - Zhang, Jingling
+AU  - Wang, Wanliang
+AU  - Zhao, Yanwei
+AU  - Cattani, Carlo
+TI  - Multiobjective quantum evolutionary algorithm for the vehicle routing problem with customer satisfaction
+LA  - eng
+JF  - Mathematical Problems in Engineering
+VL  - 2012
+IS  - 1
+PY  - 2012
+SN  - 15635147, 1024123x, 10267077
+PB  - HINDAWI LTD
+DO  - 10.1155/2012/879614
+AB  - The multiobjective vehicle routing problem considering customer satisfaction (MVRPCS) involves the distribution of orders from several depots to a set of customers over a time window. This paper presents a self-adaptive grid multi-objective quantum evolutionary algorithm (MOQEA) for the MVRPCS, which takes into account customer satisfaction as well as travel costs. The degree of customer satisfaction is represented by proposing an improved fuzzy due-time window, and the optimization problem is modeled as a mixed integer linear program. In the MOQEA, nondominated solution set is constructed by the Challenge Cup rules. Moreover, an adaptive grid is designed to achieve the diversity of solution sets; that is, the number of grids in each generation is not fixed but is automatically adjusted based on the distribution of the current generation of nondominated solution set. In the study, the MOQEA is evaluated by applying it to classical benchmark problems. Results of numerical simulation and comparison show that the established model is valid and the MOQEA is effective for MVRPCS. © 2012 Jingling Zhang et al.
+ER  -
+
+TY  - JOUR
+AU  - Tao, Ning
+AU  - Shishasha, Shi
+AU  - Peng, Zhang
+AU  - Tao, Gou
+TI  - Disruption management decision model for VRPSDP under changes of customer distribution demand
+LA  - eng
+JF  - Journal of Ambient Intelligence and Humanized Computing
+VL  - 12
+IS  - 2
+SP  - 2053
+EP  - 2063
+PY  - 2021
+SN  - 18685145, 18685137
+PB  - Springer Science and Business Media Deutschland GmbH
+DO  - 10.1007/s12652-020-02304-4
+AB  - In order to solve the disruption of vehicle routing problem with simultaneous delivery and pickup (VRPSDP), a two-stage disruption management method based on the changes of customer demand is proposed. Firstly, a mathematical model of the problem is established to minimize the distribution cost and time window deviation, then to identify the disruption caused by the change of the original distribution scheme. Next, considering the strong global searching ability of bacteria foraging algorithm a hybrid quantum bacterial foraging scheduling algorithm (HQBFO) is designed combing with the advantages of superposition and parallelism of quantum computing. At last, the validity of the model and algorithm is tested by Solomon standard example and simulation test. The comparison with the global rescheduling scheme and additional vehicle scheme verifies the effectiveness of the proposed disruption management and improvement of the quantum algorithm performance.
+ER  -
+
+TY  - JOUR
+AU  - Wu, Bin
+AU  - Qian, Cun Hua
+AU  - Dong, Min
+AU  - Xie, Qing Hong
+TI  - Chaos quantum evolutionary algorithm for vehicle routing problem with simultaneous delivery and pickup
+LA  - chi
+JF  - Kongzhi Yu Juece/control and Decision
+VL  - 25
+IS  - 3
+SP  - 383
+EP  - 388
+PY  - 2010
+SN  - 10010920
+AB  - For the discrete value of the rotation gate, the quantum-inspired evolutionary algorithm (QEA) has jump phenomena in the search space. To improve the QEA, a hybrid algorithm with computing the rotation gate using elite mean values based on chaos theory is presented, which is applied to vehicle routing problem with simultaneous delivery and pickup (VRPSDP). The solution of VRPSDP is investigated, and the qualification of strong feasible solution and puny feasible solution is analyzed theoretically. An efficient population initialization based on nearest insertion algorithm (NIA) and chaos function is proposed to generate an initial population with certain quality and diversity. Simulation results and comparisons show the effectiveness of the proposed algorithm.
+ER  -
+
+TY  - CPAPER
+AU  - Hu, Feng Jun
+AU  - Wu, Bin
+TI  - Quantum evolutionary algorithm for vehicle routing problem with simultaneous delivery and pickup
+LA  - eng
+JF  - Proceedings of the Ieee Conference on Decision and Control
+SP  - 5097
+EP  - 5101
+PY  - 2009
+SN  - 07431546, 01912216, 25762370
+SN  - 1424438713, 9781424438716, 1424438721, 9781424438723
+PB  - Institute of Electrical and Electronics Engineers Inc.
+DO  - 10.1109/CDC.2009.5399632
+AB  - Vehicle routing problem with simultaneous delivery and pickup (VRPSDP) with strong industrial background has gained wide attention both in academic and engineering fields. A novel quantum-inspired evolutionary algorithm (QEA) with computing the rotation gate using elite mean values based on chaos theory is presented for VRPSDP. A grey binary scheme is develop for individual representation. An efficient population initialization based on Nearest Insertion Algorithm (NIA) and chaos function is proposed to generate an initial population with certain quality and diversity. A local search strategy based on the NIA and Or-Opt et.al, named the revision and improvement search, is applied to the solution. Simulation results and comparisons demonstrate the effectiveness of the proposed algorithm. ©2009 IEEE.
+ER  -
+
+TY  - JOUR
+AU  - Ning, Tao
+AU  - Wang, Jiayu
+AU  - Han, Yumeng
+TI  - Logistics distribution de-carbonization pathways and effect in China: A systematic analysis using VRPSDP model
+LA  - eng
+JF  - International Journal of Low-carbon Technologies
+VL  - 16
+IS  - 4
+SP  - 1404
+EP  - 1411
+PY  - 2021
+SN  - 17481325, 17481317
+PB  - Oxford University Press
+DO  - 10.1093/ijlct/ctab063
+AB  - In order to reduce the carbon emission and improve the de-carbonization in distribution of vehicle routing problem with simultaneous delivery and pickup (VRPSDP), a two-stage disruption management method based on the changes of customer demand is proposed in this paper. Firstly, a mathematics model of VRPSDP is established to optimize the parameters and the distribution carbon emission cost and time window deviation. Next, several carbon emission equations in VRPSDP are inducted and designed. Considering the strong global searching ability of quantum particle swarm optimization (QPSO) and combing the advantages of superposition and parallelism of quantum computing, a multi-phase QPSO (MQPSO) is proposed to enhance global searching ability. At last, on the basis of Solomon examples, the validity of the proposed model and MQPSO is tested and compared with the classical algorithms at present. The simulation results show that the proposed method can not only achieve the goal of performance but also meet the practical requirements of reducing carbon emissions in VRPSDP.
+ER  -
+
+TY  - JOUR
+AU  - Cao, Gao Li
+AU  - Hu, Rong
+AU  - Qian, Bin
+AU  - Wu, Li Ping
+TI  - Effective hybrid quantum evolutionary algorithm for capacitated vehicle problem
+LA  - chi
+JF  - Jisuanji Jicheng Zhizao Xitong/computer Integrated Manufacturing Systems, Cims
+VL  - 21
+IS  - 4
+SP  - 1101
+EP  - 1113
+PY  - 2015
+SN  - 10065911
+PB  - CIMS
+DO  - 10.13196/j.cims.2015.04.025
+AB  - For solving the Capacitated Vehicle Routing Problem (CVRP), an Effective Hybrid Quantum Evolutionary Algorithm (EHQEA) was presented. The solution generation method based on two-dimensional Qubit Measurement Model (QMM) and visibility was designed to realize the global search guided by QMM, which was used to find the promising regions over the solution space. An interchange operation based on the distance similar degree between customers was constructed to improve the quality of the solution. The Interchange and Inverse operations based on the problem's property were proposed to construct a two-phase hybrid variable neighborhood local search, which was utilized to execute the fast and meticulous search in the promising regions and helped the algorithm to achieve a balance between the global and local search. Simulation results and comparisons on classic benchmarks with different scales demonstrated the effectiveness and robustness of the presented EHQEA.
+ER  -
+
+TY  - JOUR
+AU  - Hulianitskyi, Leonid
+AU  - Korolyov, Vyacheslav
+AU  - Khodzinskyi, Oleksandr
+TI  - An Overview of Algorithms for Solving Vehicle Routing Problems in the Quantum-Classical Cloud
+LA  - und
+JF  - Кібернетика Та Комп'ютерні Технології
+IS  - 2
+SP  - 23
+EP  - 31
+PY  - 2023
+SN  - 2707451x, 27074501
+PB  - V.M. Glushkov Institute of Cybernetics
+DO  - 10.34229/2707-451X.23.2.3
+AB  - Introduction. The hope of solving the problem of the avalanche-like growth of requirements for computing power, essential for solving complex routing problems and other problems of combinatorial optimization, relies on the latest quantum computers, in the development of which governments and corporations invest multi-billion investments.
+The article examines modern routing algorithms and performs their analysis and verification, if the authors of the algorithm provided appropriate test programs.
+The purpose of the article is to review the current state of development in the field of development of routing algorithms for hybrid quantum-classical clouds, analyze them and propose a classification of algorithms.
+Results. Modern quantum computers (QCs) make it possible to find approximate solutions to some of mathematical problems faster than classical computers. The inaccuracy of the solutions obtained by the QC is a consequence of physical and technological limitations: calculation errors are caused by thermal noise, a small number of computational elements - qubits and connections between them, which requires the decomposition of the problem and the use of heuristic algorithms.
+The analysis of approaches to the solution of optimization problems on QC allows us to single out: quantum response and variational search of eigenvalues based on quantum logic gates as the general directions of development of the vast majority of algorithms for solving routing problems. The considered algorithms reduce the vehicle routing problem to a quadratic unconstrained binary optimization problem, which is isomorphic to the Hamilton-Ising model. In this form, the problem is suitable for embedding in QC, which finds an approximate solution that has the best statistical reliability or corresponds to the quantum state with the lowest energy.
+As a separate class, vehicle routing algorithms for classical computers that use quantum computing to accelerate problem solving can be distinguished. For example, neural networks that calculate weighting factors using QC or an ant algorithm that calculates a pheromone trail in a hybrid cloud. It should be mentioned the quantum-inspired algorithms, which are based on software tools for the simulation of QC and the corresponding libraries and allow creating an effective class of algorithms for solving problems of vehicle routing.
+Conclusions. Combining hardware quantum annealing with a number of software tools for calculating optimization problems for classical computers in a hybrid quantum-classical cloud service allows to obtain advantages in speed and accuracy of some types of complex optimization problems of a commercial scale, in particular, routing vehicles, which is already bringing substantial profits to a number of corporations.
+ER  -
+
+TY  - CPAPER
+TI  - 7th KES International Conference on Intelligent Decision Technologies, KES-IDT 2015
+LA  - eng
+JF  - Smart Innovation, Systems and Technologies
+VL  - 39
+SP  - 1
+EP  - 684
+PY  - 2015
+SN  - 21903026, 21903018
+SN  - 3319198564, 3319198572, 9783319198569, 9783319198576
+PB  - Springer Science and Business Media Deutschland GmbH
+AB  - The proceedings contain 57 papers. The special focus in this conference is on Intelligent Decision Technologies. The topics include: A cloud-based vegetable production and distribution system; capacity planning in non-uniform depth anchorages; automatic image classification for the urinoculture screening; comparing hybrid metaheuristics for the bus driver rostering problem; effective stopping rule for population-based cooperative search approach to the vehicle routing problem; a rule based framework for smart training using SEMG signal; distributed speech recognition for lighting system control; an experimental study of scenarios for the agent-based RBF network design; eye movements data processing for Ab initio military pilot training; massive-scale gaze analytics exploiting high performance computing; a simulation approach to select interoperable solutions in supply chain dyads; dealing with seasonality while forecasting urban water demand; possibilistic very fast decision tree for uncertain data streams; detection of variations in holter ECG recordings based on dynamic cluster analysis; a theoretical framework for trusted communication; design requirements to integrate eye trackers in simulation environments; human friendly associative classifiers for early childhood caries; QOS-aware web service composition using quantum inspired particle swarm optimization; distance-based ensemble online classifier with kernel clustering; towards a new approach for an effective querying of distributed databases; the eye tracking methods in user interfaces assessment; using non-calibrated eye movement data to enhance human computer interfaces and a study on composition of elements for AHP.
+ER  -
+
+TY  - CPAPER
+TI  - 2013 2nd International Conference on Manufacturing Engineering and Process, ICMEP 2013
+LA  - eng
+JF  - Applied Mechanics and Materials
+VL  - 325-326
+PY  - 2013
+SN  - 16627482, 16609336
+SN  - 3037857072, 3038260886, 9783037857076, 9783038260882
+ER  -
+
+TY  - CPAPER
+TI  - 2013 2nd International Conference on Manufacturing Engineering and Process, ICMEP 2013
+LA  - eng
+JF  - Applied Mechanics and Materials
+VL  - 327
+PY  - 2013
+SN  - 16627482, 16609336
+SN  - 303785717X, 303785717x, 3038260983, 9783037857175, 9783038260981
+ER  -
+
+TY  - CPAPER
+TI  - 2013 2nd International Conference on Civil Engineering and Material Engineering, CEME 2013
+LA  - eng
+JF  - Advanced Materials Research
+VL  - 859
+PY  - 2014
+SN  - 16628985, 10226680
+SN  - 3037859792, 3038263605, 9783037859797, 9783038263609
+ER  -

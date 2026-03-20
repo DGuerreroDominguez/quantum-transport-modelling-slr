@@ -1,0 +1,387 @@
+TY  - CONF
+AB  - In this paper a fusion model by combining the Stationary Wavelet Transform (SWT), Quantum Genetic Algorithm (QGA) and Back-propagation (BP) Neural Network is proposed to forecast wireless network traffic. In order to achieve guaranteed Quality of Service (QoS) in wireless networks, various managing measures can be taken only by knowing the network traffic in advance. This developed fusion model which is called the SWT-QGA-BP model can be efficiently used to assess the future network and provide adequate evidence for wireless network management. By using SWT, the original non-stationary wireless traffic data are transformed into multiple stationary components. With the QGA evolution, the BP neural network is optimized in both architecture and initial parameters. The simulation further indicates the effectiveness of the proposed SWT-QGA-BP fusion model, and the results show that our model can enhance the prediction performance significantly in accuracy. © 2013 IEEE.
+AU  - Liu, Y.
+AU  - Li, B.
+AU  - Sun, X.
+AU  - Zhou, Z.
+DO  - 10.1109/ICCT.2013.6820478
+PY  - 2013
+SN  - 9781479900749
+SP  - 769
+EP  - 774
+TI  - A fusion model of SWT, QGA and BP neural network for wireless network traffic prediction
+T2  - International Conference on Communication Technology Proceedings, ICCT
+ER  -
+TY  - JOUR
+AB  - According to the characteristics of urban road short-term traffic flow, one kind of short-term traffic flow forecast model named DSARIMA (double seasonal autoregressive integrated moving average model) was proposed, which can meet the requirements of predicting daily pattern and weekly pattern traffic flow in urban road based on the ARIMA (autoregressive integrated moving average model) model and SARIMA (seasonal autoregressive integrated moving average model) model. According to the characteristics of the traffic flow in weekdays and weekends in urban road, a forecast algorithm was given which use two methods to forecast traffic flow by ARIMA model, one forecast using N1 time quantum before the given time, the other forecast using the same time quantum of N2 days before the given time, and use improved BAYESIAN model to decide the powers of the two methods by calculating the difference of the forecast results and the real results. The final forecast results were the sum of the respective results of the two methods multiplied by its power. The results showed that the DSARIMA model has better stability and are more accurate than the ARIMA model or SARIMA model when applied to the short-term traffic flow forecast.
+AU  - Qiu, D.-G.
+AU  - Yang, H.-Y.
+IS  - 5
+PY  - 2013
+SP  - 64
+EP  - 68
+TI  - A short-term traffic flow forecast algorithm based on double seasonal time series
+T2  - Sichuan Daxue Xuebao (Gongcheng Kexue Ban)/Journal of Sichuan University (Engineering Science Edition)
+VL  - 45
+ER  -
+TY  - CONF
+AB  - The proceedings contain 226 papers. The special focus in this conference is on Space Exposition. The topics include: The James Webb space telescope; daytime GEO satellite characterization with the HANDSIONS camera; considerations of quantum key distribution for space applications; electric propulsion tug modeling improvements and application to the NASA/DARPA manned geosynchronous servicing study; high performance thermo-mechanical joint for space applications; analysis of operational efficiency; MSL-RAD cruise operations concept; ultra reliable space life support; a graph-theoretic modeling framework for resource-economy in space logistics; communications for lunar commercial logistics; the logistics of utilizing a cis-lunar transfer vehicle for near solar system exploration; a space logistics system based on efficient in-space transportation; creation of an upper stage trajectory capability boundary to enable booster system trade space exploration; permanent manned outpost with commercial launch and propellant depots; technology investment agendas to expand human space futures; architectural study of crew launch escape systems with ascent assist capability; comparison of earth departure strategies for human missions to mars; phase E cost analysis for NASA science missions; commercially hosted payload acquisition framework; affordable development of a nuclear cryogenic propulsion stage; human interplanetary/asteroid vehicle concept; characteristics of Quallion's lithium-ion cells for aerospace applications; net-centric network and operational management; next generation simulation framework for robotic and human space missions; development, simulation and experimental validation of a radioisotope exploration probe for the Martian surface; application of the national launch system proven technologies to NASA's heavy lift launch vehicle; hydrocarbon liquid rocket engine technology impact forecasting; NASA suborbital research partner market analysis using inno360; Athena launch services rideshare opportunities AIAA Spce 2012; from airports to commercial spaceports; ten-year forecast of markets and launches for suborbital vehicles; 3D state decomposition modeling method for MBSE in space engineering; analysis of state of the art practices for the reduction of cost and schedule in launch vehicle DDT&E; model-based systems engineering pilot program at NASA Langley; contaminant removal from oxygen production systems for in situ resource utilization; space solar energy system for thermal and photosynthetic applications; conceptual design and architecture for a deep space habitation module; analyses of a huge space shield to weaken the global warming; using satellites to predict earthquakes, volcano eruptions, identify and track tsunamis; suomi NPP environmental products; adaptive non-linear modeling for ionospheric disturbances behavior estimation on spaceborne synthetic aperture radar interferometry; rapid cost estimation for space exploration systems; decision gate process for assessment of a NASA technology development portfolio; the use of reconfigurable FPGAs in developing reliable satellite on board computers; a comparative analysis of attitude determination algorithms for the solution of wahba's problem; a facility for ground based testing of nanosatellites in relevant environments; design of a flexible nanosatellite bus for science missions; using the prognostic health management program on the air force next generation reusable launch vehicle; aero-assisted pre-stage for ballistic and aero-assisted launch vehicles; analyses of cryogenic propellant tank pressurization based upon ground experiments; new technologies for cryogenic propellant management for next generation launchers; advanced exploration crew mobility systems program; critical flight conditions of operational rocketback trajectories; cognitive perception utilizing operationally intelligent software agents (OISAs); rideshare on EELV using ESPA - challenges and opportunities; liberty ; transportation services; interplanetary cubesat architecture and missions; a risk management plan for cubesats; multi-mission simulation and visualization for real-time telemetry display, playback and EDL event reconstruction; multi-vehicle lunar operations simulation using SEXTANT; the effects of clock drift on the mars exploration rovers; space exploration strategies for constrained funding; compact MRI for astronaut physiological research and medical diagnosis; the polymorphic, evolutionary, neural learning and processing environment (PENLPE); artificial neural sensory/short-term/long-term/emotional memory integration for autonomous AI systems; U.S. air force's SMC/XR Space environmental NanoSat experiment; advanced modular power approach to affordable, supportable space systems; trash to supply gas (TtSG) project overview; defining the complex JPSS ground system in pieces using DoDAF 2.0 as implemented with UPDM; lessons learned for NASA missions delivering data to the planetary data system; satellite servicing opportunities in geosynchronous orbit; changing satellite morphology through cellularization; vision-based on-orbit service robot; JPSS CGS C3 segment McMurdo multimission communications system; knowledge management for architecting space systems; the SMC-MIT space engineering academy; resource management and contingencies in aerospace concurrent engineering; applications of nanosats to small body exploration; European sample retrieval system; a comparison of astronaut near-earth object missions; evolution of the space cruise ship "cosmic mariner" innovative framework for orbital debris mitigation through satellite rejuvenation; ISS protection process for the COLA gap after launch; wireless structural monitoring for spacecraft; spacecraft line-of-sight stabilization using LWIR earth signature and a blueprint for cis-lunar exploration.
+PY  - 2012
+SN  - 9781600869402
+TI  - AIAA SPACE Conference and Exposition 2012
+T2  - AIAA SPACE Conference and Exposition 2012
+ER  -
+TY  - JOUR
+AB  - In vitro assays and simulation technologies are powerful methodologies that can inform scientists of nanomaterial (NM) distribution and fate in humans or pre-clinical species. For small molecules, less animal data is often needed because there are a multitude of in vitro screening tools and simulation-based approaches to quantify uptake and deliver data that makes extrapolation to in vivo studies feasible. Small molecule simulations work because these materials often diffuse quickly and partition after reaching equilibrium shortly after dosing, but this cannot be applied to NMs. NMs interact with cells through energy dependent pathways, often taking hours or days to become fully internalized within the cellular environment. In vitro screening tools must capture these phenomena so that cell simulations built on mechanism-based models can deliver relationships between exposure dose and mechanistic biology, that is biology representative of fundamental processes involved in NM transport by cells (e.g. membrane adsorption and subsequent internalization). Here, we developed, validated, and applied the FORECAST method, a combination of a calibrated fluorescence assay (CF) with an artificial intelligence-based cell simulation to quantify rates descriptive of the time-dependent mechanistic biological interactions between NMs and individual cells. This work is expected to provide a means of extrapolation to pre-clinical or human biodistribution with cellular level resolution for NMs starting only from in vitro data.
+AU  - Price, E.
+AU  - Gesquiere, A.J.
+DO  - 10.1038/s41598-019-50208-x
+IS  - 1
+PY  - 2019
+TI  - An in vitro assay and artificial intelligence approach to determine rate constants of nanomaterial-cell interactions
+T2  - Scientific Reports
+VL  - 9
+ER  -
+TY  - JOUR
+AB  - Accurate prediction of traffic flow in urban networks is of great significance for smart city management. A short-term traffic flow prediction algorithm of Quantum Genetic Algorithm - Learning Vector Quantization (QGA-LVQ) neural network is proposed to forecast the changes of traffic flow. Different from BP neural network, Learning Vector Quantization (LVQ) neural network is of simple structure, easy implementation and better clustering effect. Utilizing the global optimization ability of Quantum Genetic Algorithm (QGA), it is combined with LVQ neural network to overcome some shortcomings of LVQ neural network, including sensitive to initial weights and prone to local minima. In order to test the convergence ability and the timeliness of QGA-LVQ neural network in short-term traffic flow, some contrast experiments are performed. Experimental simulation results show that, QGA-LVQ neural network obtains excellent prediction results in prediction accuracy and convergence speed. Besides, compared with GA-BP neural network and wavelet neural network, QGA-LVQ neural network performs better in short-term traffic flow prediction.
+AU  - Zhang, F.
+AU  - Wu, T.-Y.
+AU  - Wang, Y.
+AU  - Xiong, R.
+AU  - DIng, G.
+AU  - Mei, P.
+AU  - Liu, L.
+DO  - 10.1109/ACCESS.2020.2999608
+PY  - 2020
+SP  - 104555
+EP  - 104564
+TI  - Application of Quantum Genetic Optimization of LVQ Neural Network in Smart City Traffic Network Prediction
+T2  - IEEE Access
+VL  - 8
+ER  -
+TY  - CONF
+AB  - The proceedings contain 114 papers. The topics discussed include: vector transport free Riemannian LBFGS for optimization on symmetric positive definite matrix manifolds; understanding how over-parametrization leads to acceleration: a case of learning a single teacher neuron; hybrid estimation for open-ended questions with early-age students’ block-based programming answers; the power of factorial powers: new parameter settings for (stochastic) optimization; local aggressive adversarial attacks on 3D point cloud; fairness constraint of fuzzy C-means clustering improves clustering fairness; meta-model-based meta-policy optimization; an aligned subgraph kernel based on discrete-time quantum walk; encoder-decoder-based image transformation approach for integrating precipitation forecasts; a mutual information regularization for adversarial training; quaternion graph neural networks; sinusoidal flow: a fast invertible autoregressive flow; iterative deep model compression and acceleration in the frequency domain; and penalty method for inversion-free deep bilevel optimization.
+PY  - 2021
+TI  - Asian Conference on Machine Learning, ACML 2021
+T2  - Proceedings of Machine Learning Research
+VL  - 157
+ER  -
+TY  - JOUR
+AB  - Aiming at the long-range dependence and short-range dependence characteristics of backbone network traffic, a traffic forecasting model based on Modified Ensemble Empirical Mode Decomposition (MEEMD) and Quantum Neural Network (QNN) is presented. Firstly, the MEEMD method is employed to decompose the traffic data sequence into intrinsic mode function (IMF) component. Then, the Quantum Neural Network is adopted to forecast the IMF components. Ultimately, the final prediction value is obtained via synthe-tizing the prediction results of all components. The QNN is composed of universal quantum gates and quantum weighted, and its learning algorithm employs the Modified Polak–Ribière–Polyak Conjugate Gradient method. The forecast results on real network traffic show that the proposed algorithm has a lower computational complexity and higher prediction accuracy than that of EMD and Auto Regressive Moving Average, EMD and Support Vector Machines, EEMD and Artificial Neural Networks method.
+AU  - Huang, W.
+AU  - Zhang, J.
+AU  - Liang, S.
+AU  - Sun, H.
+DO  - 10.1007/s11277-018-5292-6
+IS  - 4
+PY  - 2018
+SP  - 1569
+EP  - 1588
+TI  - Backbone Network Traffic Prediction Based on Modified EEMD and Quantum Neural Network
+T2  - Wireless Personal Communications
+VL  - 99
+ER  -
+TY  - JOUR
+AB  - Aiming at the long-range dependence and short-range dependence characteristics of backbone network traffic, a traffic forecasting model based on Modified Ensemble Empirical Mode Decomposition (MEEMD) and Quantum Neural Network (QNN) is presented. Firstly, the MEEMD method is employed to decompose the traffic data sequence into intrinsic mode function (IMF) component. Then, the Quantum Neural Network is adopted to forecast the IMF components. Ultimately, the final prediction value is obtained via synthe-tizing the prediction results of all components. The QNN is composed of universal quantum gates and quantum weighted, and its learning algorithm employs the Modified Polak–Ribière–Polyak Conjugate Gradient method. The forecast results on real network traffic show that the proposed algorithm has a lower computational complexity and higher prediction accuracy than that of EMD and Auto Regressive Moving Average, EMD and Support Vector Machines, EEMD and Artificial Neural Networks method.
+AU  - Huang, W.
+AU  - Zhang, J.
+AU  - Liang, S.
+AU  - Sun, H.
+DO  - 10.1007/s11277-018-5292-6
+IS  - 4
+PY  - 2018
+SP  - 1569
+EP  - 1588
+TI  - Backbone Network Traffic Prediction Based on Modified EEMD and Quantum Neural Network
+T2  - Wireless Personal Communications
+VL  - 99
+ER  -
+TY  - JOUR
+AB  - Precipitation forecasting has important applications in meteorological research. Accurate forecasting is of great significance for reducing the impact of floods, optimizing crop planting plans, rationally allocating water resources, and ensuring traffic safety. However, the factors affecting precipitation are complex and nonlinear, and have spatiotemporal variability, making rainfall forecasting extremely challenging. In response to these challenges, this paper proposes a hybrid model based on temporal convolutional network, quantum long short-term memory network (QLSTM), and random forest regression (RFR) to achieve more accurate rainfall forecasting. The hyperparameters of the model are optimized using the Bayesian optimization algorithm to obtain the best performance. Experiments are conducted on meteorological datasets from Seattle and Ukraine, and the results are verified using mean absolute error (MAE), root mean square error (RMSE), and bias evaluation indicators. The results show that the proposed hybrid model outperforms traditional models such as RFR, support vector machine, K-nearest neighbor, LSTM, and QLSTM in terms of MAE, RMSE, and bias. The proposed model achieves improvements of 1.89 % MAE, 2.65 % RMSE, and 31 % Bias, respectively. These results highlight the improved forecast accuracy and robustness of the proposed hybrid model. This research provides a new approach to weather forecasting and demonstrates the potential of combining quantum computing with traditional machine learning techniques.
+AU  - Dong, Y.
+AU  - Ding, H.
+DO  - 10.1088/2632-2153/adbbad
+IS  - 1
+PY  - 2025
+TI  - Bayesian optimization of hybrid quantum LSTM in a mixed model for precipitation forecasting
+T2  - Machine Learning: Science and Technology
+VL  - 6
+ER  -
+TY  - JOUR
+AB  - It is of great significance to accurately and efficiently predict expressway freight volume to improving the supervision level of the transportation industry and reflect the performance of transportation. Using expressway toll system records to predict regional freight volume plays an important role in the development of expressway freight organization work; especially, the short-term (hour, daily or monthly) freight volume is directly related to the compilation of regional transportation plans. Artificial neural networks have been widely used in forecasting in various fields because of their unique structural characteristics and strong learning ability, among which the long short-term memory (LSTM) network is suitable for processing and predicting series with time interval attributes such as expressway freight volume data. Considering the factors affecting regional freight volume, the data set was reconstructed from the perspective of spatial importance; we then use a quantum particle swarm optimization (QPSO) algorithm to tune parameters for a conventional LSTM model. In order to verify the efficiency and practicability, we first selected the expressway toll collection system data of Jilin Province from January 2018 to June 2021, and then used database and statistical knowledge to construct the LSTM data set. In the end, we used a QPSO-LSTM algorithm to predict the freight volume at the future times (hour, daily or monthly). Compared with the conventional LSTM model without tuning, the results of four randomly selected grids naming Changchun City, Jilin city, Siping City and Nong'an County show that the QPSO-LSTM network model based on spatial importance has a better effect.
+AU  - Zhao, L.
+AU  - Cao, N.
+AU  - Yang, H.
+DO  - 10.3934/mbe.2023122
+IS  - 2
+PY  - 2023
+SP  - 2609
+EP  - 2627
+TI  - Forecasting regional short-term freight volume using QPSO-LSTM algorithm from the perspective of the importance of spatial information
+T2  - Mathematical Biosciences and Engineering
+VL  - 20
+ER  -
+TY  - JOUR
+AB  - A Long Short Term Memory (LSTM) based sales model has been developed to forecast the global sales of hotel business of Travel Boutique Online Holidays (TBO Holidays). The LSTM model is a multivariate model; input to the model includes several independent variables in addition to a dependent variable, viz., sales from the previous step. One of the input variables, “number of active bookers per day”, is estimated for the same day as sales. This need for estimation requires the development of another LSTM model to predict the number of active bookers per day. The number of active bookers is variable, so the predicted is used as an input to the sales forecasting model. The use of a predicted variable as an input variable to another model increases the chance of uncertainty entering the system. This paper discusses the quantum of variability observed in sales predictions for various uncertainties or noise due to the estimation of the number of active bookers. For the purposes of this study, different noise distributions such as normalized, uniform, and logistic distributions are used, among others. Analyses of predictions demonstrate that the addition of uncertainty to the number of active bookers via dropouts as well as to the lagged sales variables leads to model predictions that are close to the observations. The least squared error between observations and predictions is higher for uncertainties modeled using other distributions (without dropouts) with the worst predictions being for Gumbel noise distribution. Gaussian noise added directly to the weights matrix yields the best results (minimum prediction errors). One possibility of this uncertainty could be that the global minimum of the least squared objective function with respect to the model weight matrix is not reached, and therefore, model parameters are not optimal. The two LSTM models used in series are also used to study the impact of corona virus on global sales. By introducing a new variable called the corona virus impact variable, the LSTM models can predict corona-affected sales within five percent (5%) of the actuals. The research discussed in the paper finds LSTM models to be effective tools that can be used in the travel industry as they are able to successfully model the trends in sales. These tools can be reliably used to simulate various hypothetical scenarios also.
+AU  - Goel, S.
+AU  - Bajpai, R.
+DO  - 10.3390/make2030014
+IS  - 3
+PY  - 2020
+TI  - Impact of Uncertainty in the Input Variables and Model Parameters on Predictions of a Long Short Term Memory (LSTM) Based Sales Forecasting Model
+T2  - Machine Learning and Knowledge Extraction
+VL  - 2
+ER  -
+TY  - CONF
+AB  - Urban mobility attempts to combine payment systems asa service with mobility, which has been divided into several transportation segments, and offer door-to-door services to consumers. Demand forecasting in the transportation sector is usually done in pairs, based on origins and destinations. To be more precise, forecasts are made for the volume of container traffic, vehicle traffic, and passenger departure and arrival. The purpose of this work is to examine the literature on demand prediction forecasting in several transportation domains, including vehicle sharing, leased cars, bicycles, and public transportation. The novel assessment preferred research papers to applied machine learning, deep learning, neural networks and Quantum learning methods. The study justifies the difference between Quantitative and Qualitative demand prediction. This review examined in different levels such as forecasting methods, hybrid models and quantum machine learning methods. Each existing research works classified into algorithms, prediction and observed results in numerical. Finally, the survey effort to find the strengths and limitation of the prevailing past research approaches.
+AU  - ShivajiRao, G.
+AU  - Kumar, A.V.A.
+AU  - Jaiganesh, M.
+DO  - 10.1051/e3sconf/202454703007
+PY  - 2024
+TI  - Multi orthogonal review of modern demand forecasting lines and computational limitations in Green Urban mobility
+T2  - E3S Web of Conferences
+VL  - 547
+ER  -
+TY  - JOUR
+AB  - Ultra-short-term logistics demand forecasting is important for intelligent scheduling of enterprise logistics resources. As ultra-short-term logistics demand data is random, highly volatile, and nonstationary, it is difficult to accurately predict them for multi-steps. Considering such characteristics, this research proposes a combination model for ultra-short-term logistics demand forecasting based on the serial data decomposition and quantum-weighted deep nerual network. Firstly, the time series features of the ultra-short-term logistics demand data are extracted with the decomposition method of serializing variational mode decomposition (VMD) and empirical wavelet transform (EWT) to strip the noise signal and reduce the non-stationarity and randomness of the original data. Secondly, a quantum-weighted long short-term memory neural network (QWLSTM) deep learning model is developed and a multi-input multi-output strategy is designed to predict the decomposed mode components in multi-steps, also the hyper-parameters of the QWLSTM are optimized by the Tree-Parzen-Estimator (TPE). Finally, the prediction results for each mode component are reconstructed. Numerous experiments are conducted, and the results show that the proposed model performs better than other 15 comparison models.
+AU  - Yang, X.-B.
+AU  - Chen, Y.-R.
+AU  - Qin, J.
+AU  - Ran, M.-L.
+DO  - 10.13195/j.kzyjc.2022.1626
+IS  - 6
+PY  - 2024
+SP  - 1859
+EP  - 1868
+TI  - Multi-step prediction of ultra-short-term logistics demand based on VMD-EWT-QWLSTM-TPE deep learning model | 基于VMD-EWT-QWLSTM-TPE深度学习模型的超短时物流需求多步预测
+T2  - Kongzhi yu Juece/Control and Decision
+VL  - 39
+ER  -
+TY  - BOOK
+AB  - In the past three decades, interest in using carbon-based nanomaterials (CBNs) in biomedical application has witnessed remarkable growth. Despite the rapid advancement, the translation of laboratory experimentation to clinical applications of nanomaterials is one of the major challenges. This might be attributed to poor understanding of bio–nano interface. Arguably, the most significant barrier is the complexity that arises by interplay of several factors like properties of nanomaterial (shape, size, surface chemistry), its interaction with suspending media (surface hydration and dehydration, surface reconstruction and release of free surface energy) and the interaction with biomolecules (conformational change in biomolecules, interaction with membrane and receptor). Tailoring a nanomaterial that minimally interacts with protein and lipids in the medium while effectively acts on target site in biological milieu has been very difficult. Computational methods and artificial intelligence techniques have displayed potential in effectively addressing this problem. Through predictive modelling and deep learning, computer-based methods have demonstrated the capability to create accurate models of interactions between nanoparticles and cell membranes, as well as the uptake of nanomaterials by cells. Computer-based simulations techniques enable these computational models to forecast how making particular alterations to a material's physical and chemical properties could enhance functional aspects, such as the retention of drugs, the process of cellular uptake and biocompatibility. We review the most recent progress regarding the bio–nano interface studies between the plasma proteins and CBNs with a special focus on computational simulations based on molecular dynamics and density functional theory.
+AU  - Panigrahi, A.R.
+AU  - Sahu, A.
+AU  - Yadav, P.
+AU  - Beura, S.K.
+AU  - Singh, J.
+AU  - Mondal, K.
+AU  - Singh, S.K.
+DO  - 10.1016/bs.apcsb.2023.11.015
+PY  - 2024
+SN  - 9780443193484
+SP  - 263
+EP  - 288
+TI  - Nanoinformatics based insights into the interaction of blood plasma proteins with carbon based nanomaterials: Implications for biomedical applications
+T2  - Advances in Protein Chemistry and Structural Biology
+VL  - 139
+ER  -
+TY  - JOUR
+AB  - The production of wind power as one source of renewable energy has a huge potential to serve the increasing demand for energy. Therefore, it is necessary to improve the accuracy of wind energy forecasts to increase the energy output. We focus on short-term wind speed forecasts. This article considers a comparison study of two different periodic regression models with autoregressive fractionally integrated moving average errors in the mean part and asymmetric power generalized autoregressive conditional heteroscedasticity within the conditional variance (ARFIMA-APARCH) and two different estimation methods. The first one is a two-step approach where the regression parameters are estimated first with the least-squares method. Hereafter, an ARFIMA-APARCH process is fitted to the stationary residuals. In contrast to this, the second approach estimates the entire model with a QML (quasi-maximum likelihood) estimator in one step. Both models include periodic explanatory variables, but one model lets them vary over time. Moreover, we distinguish between two main distributional assumptions for the residuals. Each model is used to create suitable short-term forecasts up to 6h. Eventually, we come up with a recommendation which model is preferred.
+AU  - Ambach, D.
+AU  - Schmid, W.
+DO  - 10.1016/j.energy.2015.01.038
+PY  - 2015
+SP  - 277
+EP  - 293
+TI  - Periodic and long range dependent models for high frequency wind speed data
+T2  - Energy
+VL  - 82
+ER  -
+TY  - CONF
+AB  - Accurate and reliable forecast of traffic flow is important to intelligent transportation systems (ITS). However, due to the non-stationary of traffic flow data, traditional point forecasting can hardly be accurate, so probabilistic forecasting methods are essential for quantification of the potential uncertainties and risks for traffic management. This paper proposes a kernel extreme learning machine (KELM)-based probabilistic forecasting method of traffic flow, and the parameters of KELM are optimized by using Quantum-behaved particle swarm optimization (QPSO) algorithm. To verify its effectiveness, traffic flow prediction using QPSO-KELM are compared with other methods. Experimental results show that QPSO-KELM has higher prediction accuracy at different confidence levels for practical applications in traffic management systems. And it will help traffic managers to make right decisions.
+AU  - Xing, Y.
+AU  - Ban, X.
+AU  - Guo, C.
+AU  - Wang, Y.
+DO  - 10.1109/CCIS.2016.7790254
+PY  - 2016
+SN  - 9781509012558
+SP  - 205
+EP  - 209
+TI  - Probabilistic forecasting of traffic flow using kernel based extreme learning maching and quantum-bahaved particle swarm optimization
+T2  - Proceedings of 2016 4th IEEE International Conference on Cloud Computing and Intelligence Systems, CCIS 2016
+ER  -
+TY  - BOOK
+AB  - The proceedings contain 61 papers. The special focus in this conference is on Soft Computing Models in Industrial and Environmental Applications. The topics include: Missing Values Imputation for Visualizing the Air Quality Evolution During the COVID-19 Pandemic in Madrid; Comparative Study of Wastewater Treatment Plant Feature Selection for COD Prediction; effectiveness of Quantum Computing in Image Processing for Burr Detection; hyperspectral Technology for Oil Spills Detection by Using Artificial Neural Network Classifier; Model-Based Design of the IMO-NMPC Strategy: Real-Time Implementation; first Approach of an Intelligent Automatic System for Aircraft Flap/Slat Positioning; multi-scale Neural Model for Tool-Narayanaswamy-Moynihan Model Parameter Extraction; comparative Study of Open Source Database Management Systems to Enable Predictive Maintenance of Autonomous Guided Vehicles; deep Learning and Metaheuristic for Multivariate Time-Series Forecasting; forecasting Greenhouse Temperature Using Machine Learning Models: Optimizing Crop Production in Andalucia; extended Rank-Based Ant Colony Optimization Algorithm for Traveling Salesman Problem; Managing Pandemics Through Agent-Based Simulation: A Case Study Based on COVID-19; leveraging Smart Meter Data for Adaptive Consumer Profiling; Categorization of CoAP DoS Attack Based on One-Class Boundary Methods; text Classification for Automatic Distribution of Review Notes in Movie Production; fault Detection in Biological Methanation Process Using Machine Learning: A Comparative Study of Different Algorithms; machine Learning Approaches for Predicting Tree Growth Trends Based on Basal Area Increment; integrated Forecast and Optimization for Retailer Allocation in a Two-Echelon Inventory System; application of Fuzzy Logic to the Risk Assessment of Production Machines Failures; Neuron Characterization in Complex Cultures Using a Combined YOLO and U-Net Segmentation Approach; neuroevolutionary Transfer Learning for Time Series Forecasting; fuzzy Aggregators in Practice: Meta-Model and Implementation; an Approach to Enhance Time Series Forecasting by Fast Fourier Transform; machine Learning Based System for Detecting Battery State-of-Health; preface.
+PY  - 2023
+SN  - 9783031425356
+TI  - Proceedings of the 18th International Conference on Soft Computing Models in Industrial and Environmental Applications, SOCO 2023
+T2  - Lecture Notes in Networks and Systems
+VL  - 750 LNNS
+ER  -
+TY  - BOOK
+AB  - The proceedings contain 61 papers. The special focus in this conference is on Soft Computing Models in Industrial and Environmental Applications. The topics include: Missing Values Imputation for Visualizing the Air Quality Evolution During the COVID-19 Pandemic in Madrid; Comparative Study of Wastewater Treatment Plant Feature Selection for COD Prediction; effectiveness of Quantum Computing in Image Processing for Burr Detection; hyperspectral Technology for Oil Spills Detection by Using Artificial Neural Network Classifier; Model-Based Design of the IMO-NMPC Strategy: Real-Time Implementation; first Approach of an Intelligent Automatic System for Aircraft Flap/Slat Positioning; multi-scale Neural Model for Tool-Narayanaswamy-Moynihan Model Parameter Extraction; comparative Study of Open Source Database Management Systems to Enable Predictive Maintenance of Autonomous Guided Vehicles; deep Learning and Metaheuristic for Multivariate Time-Series Forecasting; forecasting Greenhouse Temperature Using Machine Learning Models: Optimizing Crop Production in Andalucia; extended Rank-Based Ant Colony Optimization Algorithm for Traveling Salesman Problem; Managing Pandemics Through Agent-Based Simulation: A Case Study Based on COVID-19; leveraging Smart Meter Data for Adaptive Consumer Profiling; Categorization of CoAP DoS Attack Based on One-Class Boundary Methods; text Classification for Automatic Distribution of Review Notes in Movie Production; fault Detection in Biological Methanation Process Using Machine Learning: A Comparative Study of Different Algorithms; machine Learning Approaches for Predicting Tree Growth Trends Based on Basal Area Increment; integrated Forecast and Optimization for Retailer Allocation in a Two-Echelon Inventory System; application of Fuzzy Logic to the Risk Assessment of Production Machines Failures; Neuron Characterization in Complex Cultures Using a Combined YOLO and U-Net Segmentation Approach; neuroevolutionary Transfer Learning for Time Series Forecasting; fuzzy Aggregators in Practice: Meta-Model and Implementation; an Approach to Enhance Time Series Forecasting by Fast Fourier Transform; machine Learning Based System for Detecting Battery State-of-Health; preface.
+PY  - 2023
+SN  - 9783031425288
+TI  - Proceedings of the 18th International Conference on Soft Computing Models in Industrial and Environmental Applications, SOCO 2023
+T2  - Lecture Notes in Networks and Systems
+VL  - 749 LNNS
+ER  -
+TY  - CONF
+AB  - The proceedings contain 185 papers. The topics discussed include: wearable IMU based gait quality quantitative evaluation method; quantum computing approach for energy optimization in a prosumer community; raising citizens and institutions awareness of environmental problems using smart sensing technologies; event detection in financial markets; design-space exploration of quantized transposed convolutional neural networks for FPGA-based systems-on-chip; seamless sensor data acquisition for the edge-to-cloud continuum; occupancy prediction in buildings: an approach leveraging LSTM and federated learning; lightweight model by iterative momentum pruning scheme for channel reduction; a deep reinforcement learning based approach for intelligent reconfigurable surface elements selection; exploiting mobility data to forecast Covid-19 spread; machine learning methods for microwave imaging in cancer detection; and physical activity recognition using deep transfer learning with convolutional neural networks.
+PY  - 2022
+SN  - 9781665462976
+TI  - Proceedings of the 2022 IEEE International Conference on Dependable, Autonomic and Secure Computing, International Conference on Pervasive Intelligence and Computing, International Conference on Cloud and Big Data Computing, International Conference on Cy
+T2  - Proceedings of the 2022 IEEE International Conference on Dependable, Autonomic and Secure Computing, International Conference on Pervasive Intelligence and Computing, International Conference on Cloud and Big Data Computing, International Conference on Cy
+ER  -
+TY  - JOUR
+AB  - Accurate assessment of road conditions can effectively alleviate traffic congestion and guide people’s travel plans, traffic control decisions of transportation departments, and formulation of traffic-related laws and regulations. This paper proposes a quantum particle swarm optimization (QPSO) and adaptive hybrid exponential smoothing with residual correction (AHES-RC) for the nonlinearity and randomness of traffic flow. In the proposed algorithm, the single–double-exponential smoothing method is mixed with adaptive weights to form AHES, a new method of mixing weights according to real-time traffic trend changes. After the residual correction of AHES is calculated by the extreme learning machine algorithm, the parameters of AHES-RC are optimized using QPSO to improve the prediction accuracy further. This paper comprehensively compares the QPSO-AHES-RC algorithm with other benchmark models through testing on 26 real-world data sets. The results show that the proposed algorithm can adaptive forecasting under various traffic conditions, yielding the best forecasting performance in terms of various forecast error metrics. Compared with advanced machine learning algorithms such as XGBoost and CatBoost, the mean RMSE and mean MAPE have been improved by over 20% on average. In addition, it is revealed that the real-time dynamic capture of traffic flow can effectively improve prediction accuracy.
+AU  - Li, Z.
+AU  - Cao, J.
+AU  - Shi, X.
+AU  - Huang, W.
+DO  - 10.1007/s00500-023-08291-w
+IS  - 14
+PY  - 2023
+SP  - 9347
+EP  - 9366
+TI  - QPSO-AHES-RC: a hybrid learning model for short-term traffic flow prediction
+T2  - Soft Computing
+VL  - 27
+ER  -
+TY  - CONF
+AB  - Maritime container ports are experiencing a variety of challenges, including the pandemic and other stressors, that are altering perspectives on efficiency, risk, and resilience. This study reviews new methods of operations optimization that serve major goals of logistics systems: Increasing energy and time efficiencies and reducing emissions and congestion. Several computational methods will be assessed, including quantum computing, neural networks, and operations heuristics. The methods are compared by potential for increased efficiencies, including the increase in container volumes, reduction of dwell times, reduction of container moves, utilization of demand forecasts, and decreases in emissions. The results suggest opportunities for reinforcement learning to improve the scheduling of container transactions across transportation modes, including maritime, truck, rail, crane, and barge.
+AU  - Hamdy, I.H.
+AU  - St. John, M.J.
+AU  - Jennings, S.W.
+AU  - Magalhaes, T.R.
+AU  - Roberts, J.H.
+AU  - Polmateer, T.L.
+AU  - Manasco, M.C.
+AU  - Williams, J.Y.
+AU  - Hendrickson, D.C.
+AU  - Eddy, T.L.
+AU  - Chowdhury, M.
+AU  - Lambert, J.H.
+DO  - 10.1109/SIEDS55548.2022.9799399
+PY  - 2022
+SN  - 9781665451116
+SP  - 369
+EP  - 374
+TI  - Quantum Computing and Machine Learning for Efficiency of Maritime Container Port Operations
+T2  - 2022 Systems and Information Engineering Design Symposium, SIEDS 2022
+ER  -
+TY  - JOUR
+AB  - Road traffic accidents forecasting is one of the key issues of the road traffic safety. A forecasting model based on the quantum neural network (QNN) is introduced to solve the problems of precision inadequacy and low convergence rate of the BP neural network. The numbers of the training samples are enlarged by phase-space reconstruction of the road traffic accidents time series. The activation function of model superposition is used in the hidden-layer neurons to partition the feature space of road traffic accidents data into multi-layer rundles. Both the matching speed of the input data and feature space and the convergence rate of model are improved. The quantum interval is adjusted dynamically in the training process to adapt the strong randomness. The results show that the QNN model fits the characteristics of road traffic accidents data well, and its prediction accuracy and convergence rate are superior to that of improved BP neural network.
+AU  - Sun, D.-H.
+AU  - Tang, L.
+AU  - Fu, Q.-S.
+AU  - Li, Y.-F.
+AU  - Xie, J.
+IS  - 5
+PY  - 2010
+SP  - 104
+EP  - 109
+TI  - Road traffic accidents forecasting based on quantum neural network
+T2  - Jiaotong Yunshu Xitong Gongcheng Yu Xinxi/Journal of Transportation Systems Engineering and Information Technology
+VL  - 10
+ER  -
+TY  - JOUR
+AB  - Road traffic accidents forecasting is one of the key issues of the road traffic safety. A forecasting model based on the quantum neural network (QNN) is introduced to solve the problems of precision inadequacy and low convergence rate of the BP neural network. The numbers of the training samples are enlarged by phase-space reconstruction of the road traffic accidents time series. The activation function of model superposition is used in the hidden-layer neurons to partition the feature space of road traffic accidents data into multi-layer rundles. Both the matching speed of the input data and feature space and the convergence rate of model are improved. The quantum interval is adjusted dynamically in the training process to adapt the strong randomness. The results show that the QNN model fits the characteristics of road traffic accidents data well, and its prediction accuracy and convergence rate are superior to that of improved BP neural network.
+AU  - Sun, D.-H.
+AU  - Tang, L.
+AU  - Fu, Q.-S.
+AU  - Li, Y.-F.
+AU  - Xie, J.
+IS  - 5
+PY  - 2010
+SP  - 104
+EP  - 109
+TI  - Road traffic accidents forecasting based on quantum neural network
+T2  - Jiaotong Yunshu Xitong Gongcheng Yu Xinxi/Journal of Transportation Systems Engineering and Information Technology
+VL  - 10
+ER  -
+TY  - CONF
+AB  - —Ensuring the security of digital infrastructure is an essential field of work in today’s communications research. Nowadays secure communication is typically based on the computational complexity of algorithms, which may become vulnerable in the future due to emerging new technologies like quantum computers. Quantum key distribution (QKD) is a promising long-term approach to secure data transmission especially for critical infrastructure like communications of authorities. QKD can ensure information-theoretical security based on the fundamental laws of quantum physics. For sufficient reach also in long-haul networks the concept of “trusted nodes” is considered as a practical variant in this contribution. Before (symmetric) encryption of the data packets can start, first secure keys need to be exchanged between two QKD-devices, which currently is only possible at a very limited key rate. These keys are stored in the keystore of each QKD-device. A lack of available keys in a secure node consequently will lead to a denial of a request, which needs to be avoided. In this contribution we present traffic prediction-based routing optimization applied to a meshed long-haul QKD network topology. The traffic prediction is implemented using machine learning with a Long Short-Term Memory (LSTM) model. For the prediction, we train the LSTM model to forecast the future traffic matrices. Based on the prediction result the weights for the routing algorithm can be adapted dynamically. If the predicted traffic load is above the remaining capacity of a keystore, weights of the edges are adapted in advance. As a result, the optimal route is adapted before a keystore runs empty, which otherwise would lead to a blocking of the request. In this way the keystore proactively has the possibility to regenerate. To evaluate the performance of the LSTM based optimization, we compare it with a simple hop-count based shortest path algorithm and with an optimization algorithm based on a (hypothtical) perfect prediction.
+AU  - Johann, T.
+AU  - Giemsa, D.
+AU  - Kühl, S.
+AU  - Dochhan, A.
+AU  - Pachnicke, S.
+PY  - 2023
+SN  - 9783800760787
+SP  - 132
+EP  - 136
+TI  - Routing Optimization of QKD-Networks using Machine-Learning Based Prediction
+T2  - Photonische Netze - 24. VDE ITG-Fachtagung
+ER  -
+TY  - JOUR
+AB  - Precise and robust short-term traffic flow forecasting is vital to reduce carbon emissions and alleviate traffic congestion. However, developing a traffic flow prediction model that is both precise and robust is exceedingly difficult, owing to the nonlinear and non-stationary characteristics of traffic flow. This study proposes a novel hybrid model (CPQDELM) in pursuit of this objective. This model attains satisfactory prediction performance by integrating the complementary ensemble empirical mode decomposition with adaptive noise (CEEMDAN), permutation entropy (PE), dung beetle optimization algorithm based on quantum inspiration and multistrategy improvement(QMDBO), and deep extreme learning machine (DELM). The proposed model employs CEEMDAN and PE for data decomposition and reorganization and then uses the QMDBO algorithm to optimize the DELM parameters. Experiments are conducted in this study to validate the efficacy of the QMDBO algorithm and the CPQDELM hybrid model, respectively. First, the effectiveness of the improvement strategy proposed in this study is verified by comparing the proposed QMDBO algorithm with six other algorithms through experiments on the CEC2021 test function. Secondly, using two real-world datasets, comparing the CPQDELM hybrid model and twelve baseline models. The results indicate that the model proposed in this study performs better than the current methodologies. The RMSE, MAE, and MAPE of the model proposed in this study are all decreased by 27.24 %, 25.97 %, and 33.56 %, respectively, when compared to the conventional DELM, using the S321k51 dataset of mountain scenic highway as an example.
+AU  - Zhao, K.
+AU  - Guo, D.
+AU  - Sun, M.
+AU  - Zhao, C.
+AU  - Shuai, H.
+AU  - Shao, C.
+DO  - 10.1016/j.physa.2024.129870
+PY  - 2024
+TI  - Short-term traffic flow prediction based on hybrid decomposition optimization and deep extreme learning machine
+T2  - Physica A: Statistical Mechanics and its Applications
+VL  - 647
+ER  -
+TY  - CONF
+AB  - "When you are destined for an important appoint-ment, you would obviously opt for the most reliable route instead of the shortest in order to be well prepared". Modern networking is presently undergoing through a quantum leap. To cope up with ambitious demands and user expectations, it is becoming more complex both structurally and functionally. Software Defined Networking (SDN) happens to be an instance of such advancements. It has significantly leveraged the network programmability, abstraction, and automation. Eventually, with acceptance form all major network infrastructure such as 5G and Cloud, SDN is becoming the standard of future networking. Likewise, Machine Learning (ML) has become the trendiest skill-in-demand recently. With its superiority of analyzing data, makes it applicable for almost every possible domain. The attempt to applying the power of ML in networking has not been too long, it allows the network to be more intelligent and capable enough to take optimal decisions to address some of its native problems. This gives rise to Self- Organized Networking (SON). In this article, Routing using Deep Neural Network (DNN) on top of SDN is addressed. We proposed a Self-organized Knowledge Defined Network (SO-KDN) architecture and an intelligent routing algorithm, that reactively finds the most reliable route, i.e., a route having least probability of fluctuation. This reduces network overhead due to re-routing and optimizes traffic congestion. Experimental data show a mean 90% accurate forecast in reliability prediction.
+AU  - Gosh, S.
+AU  - El Boudani, B.
+AU  - Dagiuklas, T.
+AU  - Iqbal, M.
+DO  - 10.1145/3459955.3460617
+PY  - 2021
+SN  - 9781450389136
+SP  - 160
+EP  - 166
+TI  - SO-KDN: A Self-Organised Knowledge Defined Networks Architecture for Reliable Routing
+T2  - ACM International Conference Proceeding Series
+ER  -
+TY  - JOUR
+AB  - According to the characteristics that fatigue study cannot reveal fatigue mechanism and nonlinear influence factors of vehicle driving closed-loop system defects, this paper proposes a driver model inversion method for studying the driver’s fatigue diagnosis. Furthermore, the new methods is divided into two steps: 1. using the forecast looks neural network model to build the driver - vehicle - road closed loop model which is adapted to the complex road conditions. Besides, and the model was used to study the car system parameter changes of the closed-loop system in which the driver is in a state of fatigue. 2. By defining specific movement track in the degree of approximation of theoretical data and taking test data as the objective function, we take the driver parameter inverse problem into multiple target optimization problems. Using a method of real-coded chaotic mutation of quantum genetic algorithm (GA) optimization to obtain the global optimal solution. The driving simulation test results show that under the condition of complex road conditions, the proposed algorithm in actual driving parameter inversion of the alignment is superior to the traditional genetic algorithm (GA) and the traditional quantum genetic algorithm (QGA), Finally the pilot model parameters the relationship between fatigue factors are made.
+AU  - Zhao, S.F.
+DO  - 10.2174/1874110X01509011559
+PY  - 2015
+SP  - 1559
+EP  - 1566
+TI  - Study on driver model parameters distribution for fatigue driving levels based on quantum genetic algorithm
+T2  - Open Cybernetics and Systemics Journal
+VL  - 9
+ER  -
+TY  - JOUR
+AB  - In recent decades, the Arctic Ocean has undergone changes associated with enhanced poleward inflow of Atlantic and Pacific waters and increased heat flux exchange with the atmosphere in seasonally ice-free regions. The associated changes in upper-ocean heat content can alter the exchange of energy at the ocean-ice interface. Yet, the role of ocean heat content in modulating Arctic sea ice variability at sub-seasonal timescales is still poorly documented. We analyze ocean heat transports and surface heat fluxes between 1980-2021 using two eddy-permitting global ocean reanalyses, C-GLORSv5 and ORAS5, to assess the surface energy budget of the Arctic Ocean and its regional seas. We then assess the role of upper-ocean heat content, computed in the surface mixed layer (Qml) and in the 0-300ĝ€¯m layer (Q300), as a sub-seasonal precursor of sea ice variability by means of lag correlations. Our results reveal that in the Pacific Arctic regions, sea ice variability in autumn is linked with Qml anomalies leading by 1 to 3 months, and this relationship has strengthened in the Laptev and East Siberian seas during 2001-2021 relative to 1980-2000, primarily due to reduced surface heat loss since the mid-2000s. Q300 anomalies act as a precursor for wintertime sea ice variability in the Barents and Kara seas, with considerable strengthening and expansion of this link from 1980-2000 and 2001-2021 in both reanalyses. Our results highlight the role played by upper-ocean heat content in modulating the interannual variability of Arctic sea ice at sub-seasonal timescales. Heat stored in the ocean has important implications for the predictability of sea ice, calling for improvements in forecast initialization and a focus upon regional predictions in the Arctic region.
+AU  - Bianco, E.
+AU  - Iovino, D.
+AU  - Masina, S.
+AU  - Materia, S.
+AU  - Ruggieri, P.
+DO  - 10.5194/tc-18-2357-2024
+IS  - 5
+PY  - 2024
+SP  - 2357
+EP  - 2379
+TI  - The role of upper-ocean heat content in the regional variability of Arctic sea ice at sub-seasonal timescales
+T2  - Cryosphere
+VL  - 18
+ER  -
+TY  - BOOK
+AB  - The proceedings contain 380 papers. The special focus in this conference is on Measurement, Instrumentation and Automation. The topics include: A method of test point optimization selection for analog circuits; analysis of the formation mechanism of crack network in shale by CT; bearing replacement monitoring technology of rail transit bridge in Beijing; characterization of a magnetic field probe for electromagnetic interference current measurement; internet system of cognitive diagnosis measurement for mixed scoring S-P chart and its applications; laser wave-front measuring based on quadri-wave lateral shearing interferometry; studies on the optical measuring system for grape stem diameter; study of optical coherence theory in measurement; the displacement measurement of ground wind loads for launch vehicle; the research of GPS elevation fitting considering the influence of covariance function; knock detection and evaluation of kerosene piston engine; the oxygen concentration measurement of an aircraft fuel tank inerting system; simulation research of charged particle discrimination methods; analysis of energy loss-gain error in discrete Fourier transform; rapid power quality detection based on generalized HS-transform; semiparametric regression analysis on the AB data with zero-point drift; signatures extraction of ship radiated noise based on passive sonar; split train-induced vibration and seismic wave using independent component analysis; the training algorithm of fuzzy coupled hidden Markov models; weak signal detection method in a stronger noise background; harmonic detection in micro-grid based on modified S-transform; the equipment maintenance technology research based on information; objective speech quality evaluation based on matlab; a new kind of water-squirting ultrasonic detector; cloud particles image playback design; design of dual high precision power signal generator based on AD9854; development of stimulator based on audio-visual feedback signal; key technologies for ground pressure monitoring system; a iteration processing algorithm for multi-wavelength pyrometer; an automated measurement method for high speed serial data validation; an automated measurement method for high speed serial data validation; fault analysis of smart meter based on metering chip failure analysis; an IP based audio test network for tunnel application; design of fault diagnosis vehicle terminal based on ARM11; detection method of optical fiber connector internal parts based on machine vision; a security system design of WSN based on nodes identification; a semantic-based routing algorithm for hierarchical WSNs; analysis for packet dropout in state estimation problem over sensor network; design of an inclination sensor with high-resolution based on MEMS accelerometer; development of a gas flow sensor based on FS5 hot-film probe; fast Gaussian mixture probability hypothesis density filter; wireless sensor networks deployment based on Monte Carlo method; simulation study on characteristics of nonlinear photonic crystal; application of FIR real-time filtering in fiber-optic current sensor; density-based energy-efficient unequal clustering; a method for artificial mark recognition in augmented reality system; a novel vector map watermarking evaluation based on electronic chart; a simple deformation approach for facial expression; fusion of visual and infrared image based on NSCT; image super-resolution via low-rank representation; research of face recognition methods based on binding feature extraction; research on intangible cultural heritage based on motion capture; rock classification based on image processing and neural networks; subpixel edge detection for segmentation of the pulp fiber image; view-invariant gait recognition based on head and shoulder shape analysis; a novel no-reference perceptual blur metric; a high-order model of TV and its augmented Lagrangian algorithm; design on system of badminton video base on target tracking; identification of abnormal furnace flame based image processing; analysis and research of stereo correspondence algorithms; application of IHA on the power grid task based on cloud computing; introducing genetic algorithm as an intelligent optimization technique; time-free solution for QSAT by using timed tissue p systems; a survey of quantum genetic algorithm for combinatorial optimization problems; the study on user model construction method based on ontology; product form modular design based on genetic algorithm; deep Boltzmann machines aided design based on genetic algorithms; an effective community detection method based on improved genetic algorithm; individual civil building intelligent project design based on the agent; application of Bp on hydrological forecast model; anthropomorphic optimization of a rope-driven prosthetic finger; modelling of full-actuated autonomous underwater vehicle; the impact of vertical deflection on the ballistic missiles for direction and positioning; design of remote control aircraft model based on ARM; initial attitude determination of aerial platform based on MIMU; weight fusion orbit determination method with multi-source at injection stage; an antenna tracking servo system based on particle filtering; fuzzy PID control for fast-steering mirror system; research on the real-time model of aero-engine actuator; study of the optimal design for the gliding trajectory; the visual path following of autonomous catamaran in oil spilling; application of DMC algorithm on pH control of WFGD system; robust adaptive control of nonlinear systems with uncertainties; grinding concentration cascade control method of ball mill based on the fuzzy control theory; research on engine control system test based on airworthiness standard; a design and implementation of video monitoring system at smart home; embedded software design of campus tourism navigation based on QT; research and implementation of SSD lifespan protection mechanism; transient analysis for multi-conductor transmission lines based on FDTD method; research on multi-mode controller of switching power supply; a new channel assignment algorithm in wireless mesh network; an compensation method of polymer arrayed waveguide grating; a triple-loop tracking method for high-order BOC-modulated signals; construction of network teaching platform; network security management system based on digital China; research on content distribution mechanism of MP2P networks; research on the connectivity of network; design and implementation of network events monitoring system; formal approach to enhance the reliability of embedded software system; software design of smart home terminal system; research on automatic test case generation framework for java; a Linux-based technical implementation model for data capturing; analysis of cloud calculation and its realization on computers; optimal energy management strategy for parallel scheduling; the multilevel algorithm of Chinese sentence similarity; an EEG application platforms design and development; the design of enterprise cooperative platform based on workflow; study of Bluetooth printing technology based on android phone; design knowledge retrieval research based on domain ontology; analysis of emissions from selected wood charcoal species combustion; conduction properties of SiN films depositing by RF magnetron sputtering; optimization of oil pipe arrangement with compensation conditions; the development and characteristics of electromagnetic riveting technology; analysis and improvement of fan blades noise; effect of contact interface nonlinear coefficient on ultrasonic transducer; development of auto starter durability test system based on PLC; vessel anchor dragging early warning system based on cable vibration frequency analysis; measurement and numerical study of characteristics of an energy unit; design and simulation of aero-engine combination vortex fuel pump; research of a new power quality detection system based on ARM; vulnerability assessment and analysis of active distribution network structure; effect of drying temperature on quality of purple sweet potato powder; reform and exploration of electronic basic courses teaching; teaching reform on the soil mechanics and foundation; dynamic model and its application in economic forecasting; research on level effect-based electrical load forecast method; fire spread model for drum-tower district of Tianjin based on cellular automaton and research on amending the energy efficiency provisions in the building.
+PY  - 2014
+SN  - 9783038351382
+TI  - 3rd International Conference on Measurement, Instrumentation and Automation, ICMIA 2014
+T2  - Applied Mechanics and Materials
+VL  - 568-570
+ER  -
+TY  - BOOK
+AB  - The proceedings contain 25 papers. The special focus in this conference is on Computational Intelligence in Security for Information Systems. The topics include: About the Fujisaki-Okamoto Transformation in the Code-Based Algorithms of the NIST Post-quantum Call; Analysis of Secret Key Agreement Protocol for Massive MIMO Systems; preface; analysis of Long-Range Forecast Strategies for IoT on Urban Water Consumption Prediction Task; Efficient Implementation of Stream Cipher SNOW 3G for Resource-Constrained Devices; state of the Art of Cybersecurity in Cooperative, Connected and Automated Mobility; cryptographic Protocols in Advanced Metering Infrastructures in Smart Grids; orchestrator Architecture and Communication Methodology for Flexible Event Driven Message Based Communication; a Comparative Study of Machine Learning Algorithms for the Detection of Vulnerable Python Libraries; Evaluation of the Reliability Index of IP Addresses in Reputation Lists; forecasting the Number of Bugs and Vulnerabilities in Software Components Using Neural Network Models; Reinforcement Learning Model Free with GLIE Monte-Carlo on Policy Update for Network Topology Discovery; Obfuscating LLVM Intermediate Representation Source Code with NSGA-II; a Deep Learning-Based Approach for Mimicking Network Topologies: The Neris Botnet as a Case of Study; genetic Algorithm Based Aggregation for Federated Learning in Industrial Cyber Physical Systems; evaluating Classifiers’ Performance to Detect Attacks in Website Traffic; evaluation of an Interactive Guide for Robotics Self-learning; gamifying the Classroom for the Acquisition of Skills Associated with Machine Learning: A Two-Year Case Study; hackathon in Teaching: Applying Machine Learning to Life Sciences Tasks; digital Platforms for Education. The Case of e4you; 3D Virtual Laboratory for Control Engineering Using Blended Learning Methodology; Hand SOS Gesture Detection by Computer Vision; prediction of Smart Energy Meter Network Traffic Features for Anomaly Detection.
+PY  - 2023
+SN  - 9783031184086
+TI  - 15th International Conference on Computational Intelligence in Security for Information Systems, CISIS 2022, and the 13th International Conference on EUropean Transnational Education, ICEUTE 2022
+T2  - Lecture Notes in Networks and Systems
+VL  - 532 LNNS
+ER  -
+TY  - BOOK
+AB  - The proceedings contain 145 papers. The special focus in this conference is on Mechatronics, Materials and Manufacturing. The topics include: Research on the anti-penetration performance of aluminum foam sandwich plate; crystallization of aluminium alloys; influence of the amount of recyclate and regranulate senosan on tensile properties of the material starex; strain rate effect on the mechanical properties of recycled wood particles/ epoxy composites; perceived roughness of material surfaces; study on gel time for electrorheological materials applied to ER automatic clutch; electrochemical corrosion behavior of AZ80 magnesium alloy tube fabricated by hydrostatic extrusion; research on affecting factor of preparation of calcium sulfate whisker with FGD gypsum; research status of flexible substrate transparent conductive; effect of quenching temperature and medium on properties of TiO2 nanotube arrays in DSSC; evaluation of interface performance by means of dynamic electrochemical impedance evaluation of interface performance by means of dynamic electrochemical impedance spectroscopy; effect of wire materials on cutting performance of WEDM for machining of inconel superalloy; a study on effect of beginning V concentration in TD process; experimental and numerical simulation of multipass hot-rolling on 7150 aluminum alloy; performance study analysis of inflaming retarding viscose of clothing material; research progress of W/ZrC ultra-high temperature cermets; exchange bias of the Fe/Fe3O4 coated Ag/hollow glass microspheres; fluorine doping effects on the electric property of BiFeO3 thin films; research on the influence factor and improving measures of machining accuracy; creep analysis of combined bolted flange joints under high temperature; numerical study of the effects of joint interface on two cylinders; torque analysis and simulation calculation of flying fixed canard; design of space sliding rails and mechanical analysis; eulerian description of rail straightening process; the quantum conditions of one dimension potential well based on WKB approximation method; the simulation research of tool wear in small hole EDM machining on titanium alloy; the buckling mechanism of square tube subjected to the impact of a mass; structural design and finite-element analysis of packing seal with self-adaption and resilience; vehicle dynamics modeling based on vortex; shock absorber using hydraulic system and shape memory alloys; experimental modal analysis of a first stage blade in ALSTOM gas turbine; load analysis and structure design of small-scale maglev wind turbine; analysis of spindle rotary precision based on two-point methods; SAR image recognition via local gradient ratio pattern; design of LIDR monitoring system based on GPRS; the method to calculate the length of the catenary for anchored vessel; failure prediction analysis on the 172 basic plane based on grey theory; research on teaching aid of analog circuits based on magnetic element; design of fitness device with power generation and multi-function; identification of coefficient of self inductance; the design of multiplier in integrated circuit based on low-power algorithm; design methodology of ALU based on resource-sharing; study on access system of low voltage distributed photovoltaic power station; research on human implantable wireless energy transfer system; research of novel phosphor membrane packaging technology for LED illuminant; design of control system for knuckle boom crane; design of map positioning and navigation system based on mobile platform; structure and control on FSM subsystem in precision tracking; a study on nonlinear decoupling controller for UPFC; research of constant pressure water supply system based on PLC; research on artificial intelligence technology of electrical automation control; research on modeling methods of nonlinear black box; survey and forecast on scheduling of networked control system; research of BD/GPS hybrid positioning module based on ARM and GPRS; design of reverse sensor based on solar power; shuffled frog leaping applied to optimal deployment of radar network; cultural shuffled frog leaping algorithm and its applications for the radar network deployment; research on path optimization of urban traffic guidance system; the research of model-driven architecture in the embedded system; research on routing protocol for wireless sensor network; virtual training system of special equipment operation based on virtools; the optimization of association rule algorithm in data mining; the water absorption rule of vertical fractured well; stability study on jointed rock mass affected by fissure water pressure; study on the infiltration rule of expansive rock canal slope; GPS application in ginkgo landslide monitoring; study on cracking resistance of concrete reinforced with rib stiffened steel plates; construction technology for deep foundation pit support in mining area; influence of silt soil layer on the space seismic design response spectrum; the deflection of orthotropic saddle membrane under the snow load; design of a new flexometer for the safety monitoring system of bridge; research on foundation stability of building based on foundation bearing capacity; a theory of hierarchy-gray for purchase decision support systems; a predicting model for demand quantities of downstream manufacturer; study on sales system with demand affected by delivery lead time; design coal conveying simulation system based on field bus power plant and the optical fiber connector ceramic insert core injection mold design.
+PY  - 2014
+SN  - 9783038352259
+TI  - 2014 International Conference on Mechatronics, Materials and Manufacturing, ICMMM 2014
+T2  - Applied Mechanics and Materials
+VL  - 624
+ER  -

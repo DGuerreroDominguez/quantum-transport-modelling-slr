@@ -1,0 +1,684 @@
+﻿TY  - JOUR
+AU  - Vikstål, P.
+AU  - Grönkvist, M.
+AU  - Svensson, M.
+AU  - Andersson, M.
+AU  - Johansson, G.
+AU  - Ferrini, G.
+TI  - Applying the quantum approximate optimization algorithm to the tail-assignment problem
+PY  - 2020
+T2  - Physical Review Applied
+VL  - 14
+IS  - 3
+C7  - 034009
+DO  - 10.1103/PhysRevApplied.14.034009
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85092795835&doi=10.1103%2fPhysRevApplied.14.034009&partnerID=40&md5=1b40f3cf80ed84198d92bcd44b209d07
+AB  - Airlines today are faced with a number of large-scale scheduling problems. One such problem is the tail-assignment problem, which is the task of assigning individual aircraft to a given set of flights, minimizing the overall cost. Each aircraft is identified by the registration number on its tail fin. In this paper, we simulate the quantum approximate optimization algorithm (QAOA) applied to instances of this problem derived from real-world data. The QAOA is a variational hybrid quantum-classical algorithm recently introduced and likely to run on near-term quantum devices. The instances are reduced to fit on quantum devices with 8, 15, and 25 qubits. The reduction procedure leaves only one feasible solution per instance, which allows us to map the tail-assignment problem onto the exact-cover problem. We find that repeated runs of the QAOA identify the feasible solution with close to unit probability for all instances. Furthermore, we observe patterns in the variational parameters such that an interpolation strategy can be employed, which significantly simplifies the classical optimization part of the QAOA. Finally, we empirically find a relation between the connectivity of the problem graph and the single-shot success probability of the algorithm. © 2020 American Physical Society.
+KW  - Air transportation
+KW  - Aircraft
+KW  - Combinatorial optimization
+KW  - Optimization
+KW  - Quantum theory
+KW  - Vertical stabilizers
+KW  - Approximate optimization
+KW  - Classical optimization
+KW  - Exact cover problem
+KW  - Feasible solution
+KW  - Large-scale scheduling problems
+KW  - Quantum-classical
+KW  - Registration number
+KW  - Variational parameters
+KW  - Graph algorithms
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 57
+ER  -
+
+TY  - JOUR
+AU  - Stollenwerk, T.
+AU  - Hadfield, S.
+AU  - Wang, Z.
+TI  - Toward Quantum Gate-Model Heuristics for Real-World Planning Problems
+PY  - 2020
+T2  - IEEE Transactions on Quantum Engineering
+VL  - 1
+C7  - 3101816
+DO  - 10.1109/TQE.2020.3030609
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85102371694&doi=10.1109%2fTQE.2020.3030609&partnerID=40&md5=f8acc4e6836bb09f922f898e4ba224cd
+AB  - Many challenging scheduling, planning, and resource allocation problems come with real-world input data and hard problem constraints, and reduce to optimizing a cost function over a combinatorially defined feasible set, such as colorings of a graph. Toward tackling such problems with quantum computers using quantum approximate optimization algorithms, we present novel efficient quantum alternating operator ansatz (QAOA) constructions for optimization problems over proper colorings of chordal graphs. As our primary application, we consider the flight-gate assignment problem, where flights are assigned to airport gates as to minimize the total transit time of all passengers, and feasible assignments correspond to proper graph colorings of a conflict graph derived instancewise from the input data. We leverage ideas from classical algorithms and graph theory to show our constructions have the desirable properties of restricting quantum state evolution to the feasible subspace, and satisfying a particular reachability condition for most problem parameter regimes. Using classical preprocessing we show that we can always find and construct a suitable initial quantum (superposition) state efficiently. We show our constructions in detail, including explicit decompositions to a universal set of basic quantum gates, which we use to bound the required resource scaling as low-degree polynomials of the input parameters. In particular, we derive novel QAOA mixing operators and show that their implementation cost is commensurate with that of the QAOA phase operator for flight-gate assignment. A number of quantum circuit diagrams are included such that our constructions may be used as a template toward development and implementation of quantum gate-model approaches for a wider variety of potentially impactful real-world applications. © 2020 IEEE Transactions on quantum Engineering.
+KW  - Combinatorial optimization
+KW  - operations research
+KW  - quantum algorithms
+KW  - quantum approximate optimization
+KW  - quantum circuits
+KW  - quantum computing
+KW  - quantum resource estimation
+KW  - Computation theory
+KW  - Computer circuits
+KW  - Constraint satisfaction problems
+KW  - Cost functions
+KW  - Graph theory
+KW  - Graphic methods
+KW  - Input output programs
+KW  - Logic gates
+KW  - Quantum computers
+KW  - Quantum optics
+KW  - Timing circuits
+KW  - Approximate optimization
+KW  - Operation research
+KW  - Quantum algorithms
+KW  - Quantum approximate optimization
+KW  - Quantum circuit
+KW  - Quantum Computing
+KW  - Quantum gates
+KW  - Quantum resource estimation
+KW  - Quantum resources
+KW  - Resource estimation
+KW  - Combinatorial optimization
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 18
+ER  -
+
+TY  - CONF
+AU  - Pfister, R.
+AU  - Schubert, G.
+AU  - Kröll, M.
+TI  - Transfer of Logistics Optimizations to Material Flow Resource Optimizations using Quantum Computing
+PY  - 2024
+T2  - Procedia Computer Science
+VL  - 232
+SP  - 32
+EP  - 42
+DO  - 10.1016/j.procs.2024.01.004
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85189812172&doi=10.1016%2fj.procs.2024.01.004&partnerID=40&md5=a4fb554d20e8db813885e8157ad78167
+AB  - The complexity of industrial logistics and manufacturing processes increases constantly. As a key enabling technology of the upcoming decades, quantum computing is expected to play a crucial role in solving arising combinatorial optimization problems superior to traditional approaches. This study analyzes the current progress of quantum optimization applications in the logistics sector and aims to transfer an existing vehicle routing use case to a newly conceptualized matrix production use case regarding resource-efficient material flows. The simulation of the originating simple model is executed on a local circuit-based quantum simulator that emulates the behavior of real quantum hardware. Using a QAOA algorithm for problem-solving, optimal results have been achieved for all simulated scenarios. The theoretical material flow model is based on multiple assumptions and was created for testing reasons exclusively. For a realistic practical application, the model must therefore first be adapted and extended to include additional features. © 2024 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND license (https://creativecommons.org/licenses/by-nc-nd/4.0)
+KW  - Logistics
+KW  - Material Flows
+KW  - Optimization
+KW  - QAOA
+KW  - Quantum Computing
+KW  - Ressource-efficiency
+KW  - Combinatorial optimization
+KW  - Quantum computers
+KW  - Industrial logistics
+KW  - Industrial manufacturing
+KW  - Logistics optimization
+KW  - Logistics process
+KW  - Material Flow
+KW  - Optimisations
+KW  - QAOA
+KW  - Quantum Computing
+KW  - Resources optimization
+KW  - Ressource-efficiency
+KW  - Vehicle routing
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 6
+ER  -
+
+TY  - JOUR
+AU  - Fitzek, D.
+AU  - Ghandriz, T.
+AU  - Laine, L.
+AU  - Granath, M.
+AU  - Kockum, A.F.
+TI  - Applying quantum approximate optimization to the heterogeneous vehicle routing problem
+PY  - 2024
+T2  - Scientific Reports
+VL  - 14
+IS  - 1
+C7  - 25415
+DO  - 10.1038/s41598-024-76967-w
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85207626727&doi=10.1038%2fs41598-024-76967-w&partnerID=40&md5=946c5726cc115b0fe56987c24776baf1
+AB  - Quantum computing offers new heuristics for combinatorial problems. With small- and intermediate-scale quantum devices becoming available, it is possible to implement and test these heuristics on small-size problems. A candidate for such combinatorial problems is the heterogeneous vehicle routing problem (HVRP): the problem of finding the optimal set of routes, given a heterogeneous fleet of vehicles with varying loading capacities, to deliver goods to a given set of customers. In this work, we investigate the potential use of a quantum computer to find approximate solutions to the HVRP using the quantum approximate optimization algorithm (QAOA). For this purpose we formulate a mapping of the HVRP to an Ising Hamiltonian and simulate the algorithm on problem instances of up to 21 qubits. We show that the number of qubits needed for this mapping scales quadratically with the number of customers. We compare the performance of different classical optimizers in the QAOA for varying problem size of the HVRP, finding a trade-off between optimizer performance and runtime. © The Author(s) 2024.
+KW  - quantum dot
+KW  - algorithm
+KW  - article
+KW  - controlled study
+KW  - heuristics
+KW  - simulation
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 1
+ER  -
+
+TY  - CONF
+AU  - Zander, R.
+AU  - Seidel, R.
+AU  - Inajetovic, M.
+AU  - Steinmann, N.
+AU  - Petrič, M.
+TI  - Solving the Product Breakdown Structure Problem with constrained QAOA
+PY  - 2024
+T2  - Proceedings - IEEE Quantum Week 2024, QCE 2024
+VL  - 2
+SP  - 462
+EP  - 463
+DO  - 10.1109/QCE60285.2024.10356
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85217187658&doi=10.1109%2fQCE60285.2024.10356&partnerID=40&md5=45458d64b0f72de4cddf382a1d72a4d1
+AB  - Constrained optimization problems, where not all possible variable assignments are feasible solutions, comprise numerous practically relevant optimization problems such as the Traveling Salesman Problem (TSP), or portfolio optimization. Established methods such as quantum annealing or vanilla QAOA usually transform the problem statement into a Quadratic Unconstrained Binary Optimization (QUBO) form, where the constraints are enforced by auxiliary terms in the QUBO objective. Consequently, such approaches fail to utilize the additional structure provided by the constraints. In this work, we present a method for solving the industry relevant Product Breakdown Structure problem. The method is based on constrained QAOA, which by construction never explores the part of the Hilbert space that represents solutions forbidden by the problem constraints. The size of the search space is thereby reduced significantly. We experimentally show that this approach has not only a very favorable scaling behavior, but also appears to suppress the negative effects of Barren Plateaus. © 2024 IEEE.
+KW  - quantum algorithm
+KW  - quantum optimization
+KW  - Hilbert spaces
+KW  - Investments
+KW  - Optimization algorithms
+KW  - Quantum electronics
+KW  - Shape optimization
+KW  - Structural optimization
+KW  - Traveling salesman problem
+KW  - Vector spaces
+KW  - Binary optimization
+KW  - Breakdown structures
+KW  - Constrained optimi-zation problems
+KW  - Feasible solution
+KW  - Optimization problems
+KW  - Product breakdowns
+KW  - Quantum algorithms
+KW  - Quantum optimization
+KW  - Travelling salesman
+KW  - Variable assignment
+KW  - Constrained optimization
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Lao, L.
+AU  - Browne, D.E.
+TI  - 2QAN: A quantum compiler for 2-local qubit Hamiltonian simulation algorithms
+PY  - 2022
+T2  - Proceedings - International Symposium on Computer Architecture
+SP  - 351
+EP  - 365
+DO  - 10.1145/3470496.3527394
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85132842936&doi=10.1145%2f3470496.3527394&partnerID=40&md5=c80fa55d328e86544b49c57360d4c7dc
+AB  - Simulating quantum systems is one of the most important potential applications of quantum computers. The high-level circuit defning the simulation needs to be compiled into one that complies with hardware limitations such as qubit architecture (connectivity) and instruction (gate) set. General-purpose quantum compilers work at the gate level and have little knowledge of the mathematical properties of quantum applications, missing further optimization opportunities. Existing application-specifc compilers only apply advanced optimizations in the scheduling procedure and are restricted to the CNOT or CZ gate set. In this work, we develop a compiler, named 2QAN, to optimize quantum circuits for 2-local qubit Hamiltonian simulation problems, a framework which includes the important quantum approximate optimization algorithm (QAOA). In particular, we exploit the flexibility of permuting different operators in the Hamiltonian (no matter whether they commute) and propose permutation-aware techniques for qubit routing, gate optimization and scheduling to minimize compilation overhead. 2QAN can target different architectures and different instruction sets. Compilation results on four applications (up to 50 qubits) and three quantum computers (namely, Google Sycamore, IBMQ Montreal and Rigetti Aspen) show that 2QAN outperforms state-of-theart general-purpose compilers and application-specifc compilers. Specifcally, 2QAN can reduce the number of inserted SWAP gates by 11.5X, reduce overhead in hardware gate count by 68.5X, and reduce overhead in circuit depth by 21X. Experimental results on the Montreal device demonstrate that benchmarks compiled by 2QAN achieve the highest fdelity.  © 2022 Copyright held by the owner/author(s). Publication rights licensed to ACM.
+KW  - Quantum compilation
+KW  - Quantum computing
+KW  - Quantum simulation
+KW  - Computer hardware
+KW  - Hamiltonians
+KW  - Program compilers
+KW  - Quantum chemistry
+KW  - Quantum optics
+KW  - Scheduling
+KW  - Gate levels
+KW  - Gate sets
+KW  - Mathematical properties
+KW  - Optimisations
+KW  - Quanta computers
+KW  - Quantum compilation
+KW  - Quantum Computing
+KW  - Quantum simulations
+KW  - Quantum system
+KW  - Simulation algorithms
+KW  - Qubits
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 22
+ER  -
+
+TY  - JOUR
+AU  - Khumalo, M.T.
+AU  - Chieza, H.A.
+AU  - Prag, K.
+AU  - Woolway, M.
+TI  - An investigation of IBM quantum computing device performance on combinatorial optimisation problems
+PY  - 2025
+T2  - Neural Computing and Applications
+VL  - 37
+IS  - 2
+C7  - 030503
+SP  - 611
+EP  - 626
+DO  - 10.1007/s00521-022-07438-4
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85132695969&doi=10.1007%2fs00521-022-07438-4&partnerID=40&md5=7a9bcb52763b9070523753f93d206ae8
+AB  - The intractability of deterministic solutions in solving NP-Hard Combinatorial Optimisation Problems (COP) is well reported in the literature. One mechanism for overcoming this difficulty has been the use of efficient COP non-deterministic approaches. However, with the advent of quantum technology, these modern devices’ potential to overcome this tractability limitation requires exploration. This paper juxtaposes classical and quantum optimisation algorithms’ performance to solve two common COP, namely the Travelling Salesman Problem and the Quadratic Assignment Problem. Two accepted classical optimisation methods, Branch and Bound and Simulated Annealing, are compared to two quantum optimisation methods, Variational Quantum Eigensolver (VQE) algorithm and Quantum Approximate Optimisation Algorithm (QAOA). These algorithms are, respectively, executed on both classical devices and IBM’s suite of Noisy Intermediate-Scale Quantum (NISQ) devices. We have encoded the COP problems for the respective technologies and algorithms and provided the computational encodings for the NISQ devices. Our experimental results show that current classical devices significantly outperform the presently available NISQ devices, which both agree with and extend on those findings reported in the literature. Further, we introduce additional performance metrics to better compare the two approaches with respect to computational time, feasibility and solution quality. Our results show that the VQE performs better than QAOA with respect to these metrics, and we infer that this is due to the increased number of operations required. Additionally, we investigate the impact of a new set of basis gates on the quantum optimisation techniques and show they yield no notable improvement on obtained results. Finally, we highlight the present shortcomings of state-of-the-art NISQ IBM quantum devices and argue for continued future work on improving evolving devices. © The Author(s), under exclusive licence to Springer-Verlag London Ltd., part of Springer Nature 2022.
+KW  - IBM Qiskit
+KW  - Optimisation
+KW  - QAOA
+KW  - QAP
+KW  - Quantum computing
+KW  - TSP
+KW  - VQE
+KW  - Branch and bound method
+KW  - Combinatorial optimization
+KW  - Quantum computers
+KW  - Quantum theory
+KW  - Simulated annealing
+KW  - Approximate optimization
+KW  - Eigensolvers
+KW  - IBM qiskit
+KW  - Optimisations
+KW  - Optimization algorithms
+KW  - QAP
+KW  - Quantum approximate optimization algorithm
+KW  - Quantum Computing
+KW  - TSP
+KW  - Variational quantum eigensolv
+KW  - Traveling salesman problem
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 7
+ER  -
+
+TY  - JOUR
+TI  - 15th Metaheuristics International Conference, MIC 2024
+PY  - 2024
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 14754 LNCS
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85199317339&partnerID=40&md5=81efe1a66cf2985280370f167e9bb9d2
+AB  - The proceedings contain 70 papers. The special focus in this conference is on Metaheuristics. The topics include: A Continuous-GRASP Random-Key Optimizer; adaptive Ant Colony Optimization Using Node Clustering with Simulated Annealing; job-Shop Scheduling with Robot Synchronization for Transport Operations; SIRO: A Deep Learning-Based Next-Generation Optimizer for Solving Global Optimization Problems; Investigation of the Benefit of Extracting Patterns from Local Optima to Solve a Bi-objective VRPTW; a Memetic Algorithm for Large-Scale Real-World Vehicle Routing Problems with Simultaneous Pickup and Delivery with Time Windows; tabu Search for Solving Covering Salesman Problem with Nodes and Segments; VNS with Path Relinking for the Profitable Close-Enough Arc Routing Problem; A Simulated Annealing Algorithm to Learn an RMP Preference Model; iterative Heuristic over Periods for the Inventory Routing Problem; combining Heuristics and Constraint Programming for the Parallel Drone Scheduling Vehicle Routing Problem with Collective Drones; a Re-optimization Heuristic for a Dial-a-Ride Problem in the Transportation of Patients; solving the Integrated Patient-to-Room and Nurse-to-Patient Assignment by Simulated Annealing; enhancing Real-World Applicability in Home Healthcare: A Metaheuristic Approach for Advanced Routing and Scheduling; solving the Two-Stage Robust Elective Patient Surgery Planning Under Uncertainties with Intensive Care Unit Beds Availability; extracting White-Box Knowledge from Word Embedding: Modeling as an Optimization Problem; a Hybrid Biased-Randomized Heuristic for a Home Care Problem with Team Scheme Selection; extended Set Covering for Time Series Segmentation; Indirect Flow-Shop Coding Using Rank: Application to Indirect QAOA; Utilizing Graph Sparsification for Pre-processing in Max Cut QUBO Solver; addressing Machine Unavailability in Job Shop Scheduling: A Quantum Computing Approach; Solving Edge-Weighted Maximum Clique Problem with DCA Warm-Start Quantum Approximate Optimization Algorithm; Comparing Integer Encodings in QUBO for Quantum and Digital Annealing: The Travelling Salesman Problem; solving Quadratic Knapsack Problem with Biased Quantum State Optimization Algorithm; quantum Optimization Approach for Feature Selection in Machine Learning; an Efficient Algorithm for the T-Row Facility Layout Problem.
+M3  - Conference review
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Bouchmal, O.
+AU  - Cimoli, B.
+AU  - Stabile, R.
+AU  - Vegas Olmos, J.J.
+AU  - Monroy, I.T.
+TI  - Quantum Approximate Optimization Algorithm for Routing Optimization in 6G Optical Networks
+PY  - 2024
+T2  - Proceedings of the 2024 International Conference on Optical Network Design and Modeling, ONDM 2024
+DO  - 10.23919/ONDM61578.2024.10582687
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85199299362&doi=10.23919%2fONDM61578.2024.10582687&partnerID=40&md5=9c03a8c9c14fd2632c6a698e137998ce
+AB  - Routing optimization refers to finding the most efficient path for data to travel between two devices on a network. In this paper, we propose the use of the Quantum Approximate Optimization Algorithm (QAOA) as a novel approach to routing optimization in the context of 6G networks. To this end, we first develop a cost function for single source single destination routing, which is then converted into a Quadratic Unconstrained Binary Optimization formulation. We subsequently extract the equivalent Variational Quantum Circuit of the QAOA from the optimization formulation. To test the performance of the QAOA, we utilize IBM's Qiskit toolkit and QASM-simulator and the Constrained by Linear Approximation optimizer to update the circuit parameters. Simulation results show that the proposed approach converges to the optimal solution, and only after less than 25 iteration, the QAOA was able to find the optimal path for the routing problem.  © 2024 IFIP.
+KW  - 6G
+KW  - Networking
+KW  - QAOA
+KW  - QML
+KW  - QUBO
+KW  - Routing
+KW  - VQC
+KW  - Constrained optimization
+KW  - Iterative methods
+KW  - Routing algorithms
+KW  - 6g
+KW  - Approximate optimization
+KW  - Networking
+KW  - Optimization algorithms
+KW  - QML
+KW  - Quantum approximate optimization algorithm
+KW  - QUBO
+KW  - Routing optimization
+KW  - Routings
+KW  - VQC
+KW  - Cost functions
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 2
+ER  -
+
+TY  - CONF
+TI  - 2022 9th International Conference on Soft Computing and Machine Intelligence, ISCMI 2022
+PY  - 2022
+T2  - 2022 9th International Conference on Soft Computing and Machine Intelligence, ISCMI 2022
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85151738952&partnerID=40&md5=7ce581b79a55fb79d4bd03ce2ed4e84a
+AB  - The proceedings contain 50 papers. The topics discussed include: using deep learning to detecting deepfakes; cryptocurrency trading agent using deep reinforcement learning; fake news detection using deep learning and natural language processing; enhancing classification performance for android small sample malicious families using hybrid RGB image augmentation method; learning disentangled representations using dormant variations; heart disease prediction using hybrid machine learning model based on decision tree and neural network; continuous user authentication using machine learning and multi-finger mobile touch dynamics with a novel dataset; on the biological plausibility of orthogonal initialization for solving gradient instability in deep neural networks; proficiency prediction system for online learning based on recurrent neural networks; loan repayment prediction using logistic regression ensemble learning with machine learning algorithms; evaluating the performance of the quantum approximate optimization algorithm to solve the quadratic assignment problem; and a population-based algorithm for solving the fuzzy capacitated maximal covering location problem.
+M3  - Conference review
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Bartschi, A.
+AU  - Eidenbenz, S.
+TI  - Grover Mixers for QAOA: Shifting Complexity from Mixer Design to State Preparation
+PY  - 2020
+T2  - Proceedings - IEEE International Conference on Quantum Computing and Engineering, QCE 2020
+C7  - 9259965
+SP  - 72
+EP  - 82
+DO  - 10.1109/QCE49297.2020.00020
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85098002844&doi=10.1109%2fQCE49297.2020.00020&partnerID=40&md5=73de7b206190d35d4fbf9a58727bc90a
+AB  - We propose GM-QAOA, a variation of the Quantum Alternating Operator Ansatz (QAOA) that uses Grover-like selective phase shift mixing operators. GM-QAOA works on any NP optimization problem for which it is possible to efficiently prepare an equal superposition of all feasible solutions; it is designed to perform particularly well for constraint optimization problems, where not all possible variable assignments are feasible solutions. GM-QAOA has the following features: (i) It is not susceptible to Hamiltonian Simulation error (such as Trotterization errors) as its operators can be implemented exactly using standard gate sets and (ii) Solutions with the same objective value are always sampled with the same amplitude. We illustrate the potential of GM-QAOA on several optimization problem classes: for permutation-based optimization problems such as the Traveling Salesperson Problem, we present an efficient algorithm to prepare a superposition of all possible permutations of n numbers, defined on O (n 2) qubits; for the hard constraint k-Vertex-Cover problem, and for an application to Discrete Portfolio Rebalancing, we show that GM-QAOA outperforms existing QAOA approaches. © 2020 IEEE.
+KW  - n/a
+KW  - Mixers (machinery)
+KW  - Quantum computers
+KW  - Constraint optimization problems
+KW  - NP optimization problems
+KW  - Optimization problems
+KW  - Selective phase shifts
+KW  - State preparation
+KW  - Traveling salesperson problem
+KW  - Variable assignment
+KW  - Vertex Cover problems
+KW  - Constrained optimization
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 88
+ER  -
+
+TY  - JOUR
+AU  - Zhang, Y.
+AU  - Zhang, R.
+AU  - Potter, A.C.
+TI  - QED driven QAOA for network-flow optimization
+PY  - 2021
+T2  - Quantum
+VL  - 5
+DO  - 10.22331/Q-2021-07-27-510
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85112275227&doi=10.22331%2fQ-2021-07-27-510&partnerID=40&md5=b71fe9050796c4fdd1062d5d211ce0b3
+AB  - We present a general framework for modifying quantum approximate optimization algorithms (QAOA) to solve constrained network flow problems. By exploiting an analogy between flow-constraints and Gauss' law for electromagnetism, we design lattice quantum electrodynamics (QED)- inspired mixing Hamiltonians that preserve flow constraints throughout the QAOA process. This results in an exponential reduction in the size of the configuration space that needs to be explored, which we show through numerical simulations, yields higher quality approximate solutions compared to the original QAOA routine. We outline a specific implementation for edge-disjoint path (EDP) problems related to traffic congestion minimization, numerically analyze the effect of initial state choice, and explore trade-offs between circuit complexity and qubit resources via a particle-vortex duality mapping. Comparing the effect of initial states reveals that starting with an ergodic (unbiased) superposition of solutions yields better performance than beginning with the mixer ground-state, suggesting a departure from the "short-cut to adiabaticity" mechanism often used to motivate QAOA. © 2021 SciPost Foundation. All rights reserved.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 6
+ER  -
+
+TY  - CONF
+AU  - Decusatis, C.
+AU  - Spillane, E.
+AU  - Foti, D.
+AU  - O'Loughlin, M.
+TI  - Comparison of quantum computing algorithms for network traffic partitioning and mitigation of DoS and DDoS attacks
+PY  - 2024
+T2  - 2024 IEEE 15th Annual Ubiquitous Computing, Electronics and Mobile Communication Conference, UEMCON 2024
+SP  - 454
+EP  - 460
+DO  - 10.1109/UEMCON62879.2024.10754735
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85212686814&doi=10.1109%2fUEMCON62879.2024.10754735&partnerID=40&md5=8e6b4b1dc33d2960f6eb008cbb90815d
+AB  - We investigate application of quantum computing algorithms to classifying network traffic and mitigating denial of service and distributed denial of service attacks. Using actual honeynet data, we compare solutions of the Max Cut problem using both the quantum approximate optimization algorithm (QAOA) and Variational Quantum Eigensolver (VQE). Experimental results from a 6-qubit quantum computer show that optimal solutions can be found with about 98% accuracy in polynomial execution time. We found that VQE is more accurate than QAOA (compared with classical brute force solutions) but also requires significantly longer execution times. Simulations predict this approach can scale to much larger quantum computing hardware (when available) and may achieve quantum advantage on hardware with 30-35 qubits. © 2024 IEEE.
+KW  - DDoS
+KW  - QAOA
+KW  - Quantum
+KW  - VQE
+KW  - Denial-of-service attack
+KW  - Polynomial approximation
+KW  - Quantum electronics
+KW  - Quantum optics
+KW  - Approximate optimization
+KW  - Computing algorithms
+KW  - DDoS
+KW  - Eigensolvers
+KW  - Network traffic
+KW  - Optimization algorithms
+KW  - Quantum
+KW  - Quantum approximate optimization algorithm
+KW  - Quantum Computing
+KW  - Variational quantum eigensolver
+KW  - Qubits
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Bouchmal, O.
+AU  - Cimoli, B.
+AU  - Stabile, R.
+AU  - Vegas Olmos, J.J.
+AU  - Hernandez, C.
+AU  - Martinez, R.
+AU  - Casellas, R.
+AU  - Tafur Monroy, I.
+TI  - Novel Application of Quantum Computing for Routing and Spectrum Assignment in Flexi-Grid Optical Networks
+PY  - 2024
+T2  - Photonics
+VL  - 11
+IS  - 11
+C7  - 1023
+DO  - 10.3390/photonics11111023
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85210425873&doi=10.3390%2fphotonics11111023&partnerID=40&md5=9daed600098377fd47c9213fcc92ca2c
+AB  - Flexi-grid technology has revolutionized optical networking by enabling Elastic Optical Networks (EONs) that offer greater flexibility and dynamism compared to traditional fixed-grid systems. As data traffic continues to grow exponentially, the need for efficient and scalable solutions to the routing and spectrum assignment (RSA) problem in EONs becomes increasingly critical. The RSA problem, being NP-Hard, requires solutions that can simultaneously address both spatial routing and spectrum allocation. This paper proposes a novel quantum-based approach to solving the RSA problem. By formulating the problem as a Quadratic Unconstrained Binary Optimization (QUBO) model, we employ the Quantum Approximate Optimization Algorithm (QAOA) to effectively solve it. Our approach is specifically designed to minimize end-to-end delay while satisfying the continuity and contiguity constraints of frequency slots. Simulations conducted using the Qiskit framework and IBM-QASM simulator validate the effectiveness of our method. We applied the QAOA-based RSA approach to small network topology, where the number of nodes and frequency slots was constrained by the limited qubit count on current quantum simulator. In this small network, the algorithm successfully converged to an optimal solution in less than 30 iterations, with a total runtime of approximately 10.7 s with an accuracy of (Formula presented.). Additionally, we conducted a comparative analysis between QAOA, integer linear programming, and deep reinforcement learning methods to evaluate the performance of the quantum-based approach relative to classical techniques. This work lays the foundation for future exploration of quantum computing in solving large-scale RSA problems in EONs, with the prospect of achieving quantum advantage as quantum technology continues to advance. © 2024 by the authors.
+KW  - elastic optical networks
+KW  - flexi-grid
+KW  - quadratic unconstrained binary optimization
+KW  - quantum approximate optimization algorithm
+KW  - quantum optimization
+KW  - quantumcomputing
+KW  - routing and spectrum assignment
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Federer, M.
+AU  - Mussig, D.
+AU  - Klaiber, S.
+AU  - Lenk, S.
+TI  - Application-oriented quantum computing benchmark for an electromobility use case
+PY  - 2022
+T2  - Proceedings - 2022 IEEE International Conference on Quantum Computing and Engineering, QCE 2022
+SP  - 749
+EP  - 752
+DO  - 10.1109/QCE53715.2022.00105
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85143624111&doi=10.1109%2fQCE53715.2022.00105&partnerID=40&md5=545d174d8e2c1f813a284c4d70a1a7f8
+AB  - The reduction of CO2 emissions is one of the major challenges in the current century. A game-changer might be quantum computing due to the proposed capabilities. A key field of interest for reducing CO2 emissions is the energy sector being transformed from fossil-based to be based on renewable energies and simultaneously combining electricity, heating, mobility, and manufacturing industries.Here, we study an use case for optimal charging scheduling of battery-electric service vehicles considering the requirements of their tasks, local solar power generation, and their battery capabilities to minimize power grid usage and so CO2 emissions from fossil-based electricity generation.The study compares benchmark results obtained classically with results obtained by the quantum approximate optimization algorithm (QAOA) to show the current capability of gate-based quantum optimization for a real-world use case. We present different formulations of the optimization problem and specific considerations for our use case necessary to yield optimal solutions reproducible with IBM's gate-based quantum computers. Here, we used Qiskit's built-in QAOA method but also self-made methods to examine the influence of the complexity of the problem formulation (penalty factors, landscape of cost function, etc.) as well as the dependence on parameters of the QAOA method (classical optimizer, result extraction, etc.). To obtain reliable results, we used different physical backends and simulations.Finally, we summarize or results and address future improvements for the used QAOA approach for automated real-world applications.  © 2022 IEEE.
+KW  - Battery electric vehicles BEV
+KW  - Charging Scheduling Optimization
+KW  - Combinatorial Optimization
+KW  - Quantum Approximate Optimization Algorithm QAOA
+KW  - Quantum Computing
+KW  - real-world application
+KW  - Benchmarking
+KW  - Carbon dioxide
+KW  - Charging (batteries)
+KW  - Computer games
+KW  - Cost functions
+KW  - Global warming
+KW  - Quantum computers
+KW  - Secondary batteries
+KW  - Solar energy
+KW  - Solar energy conversion
+KW  - Solar power generation
+KW  - Approximate optimization
+KW  - Battery electric vehicle BEV
+KW  - Battery-electric vehicles
+KW  - Charging scheduling optimization
+KW  - Optimization algorithms
+KW  - Quantum approximate optimization algorithm quantum approximate optimization algorithm
+KW  - Quantum Computing
+KW  - Real-world
+KW  - Real-world application
+KW  - Scheduling optimization
+KW  - Combinatorial optimization
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 6
+ER  -
+
+TY  - JOUR
+TI  - 15th Metaheuristics International Conference, MIC 2024
+PY  - 2024
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 14753 LNCS
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85198067223&partnerID=40&md5=eb5d1b9f2b6013cf5900c891260783d3
+AB  - The proceedings contain 70 papers. The special focus in this conference is on Metaheuristics. The topics include: A Continuous-GRASP Random-Key Optimizer; adaptive Ant Colony Optimization Using Node Clustering with Simulated Annealing; job-Shop Scheduling with Robot Synchronization for Transport Operations; SIRO: A Deep Learning-Based Next-Generation Optimizer for Solving Global Optimization Problems; Investigation of the Benefit of Extracting Patterns from Local Optima to Solve a Bi-objective VRPTW; a Memetic Algorithm for Large-Scale Real-World Vehicle Routing Problems with Simultaneous Pickup and Delivery with Time Windows; tabu Search for Solving Covering Salesman Problem with Nodes and Segments; VNS with Path Relinking for the Profitable Close-Enough Arc Routing Problem; A Simulated Annealing Algorithm to Learn an RMP Preference Model; iterative Heuristic over Periods for the Inventory Routing Problem; combining Heuristics and Constraint Programming for the Parallel Drone Scheduling Vehicle Routing Problem with Collective Drones; a Re-optimization Heuristic for a Dial-a-Ride Problem in the Transportation of Patients; solving the Integrated Patient-to-Room and Nurse-to-Patient Assignment by Simulated Annealing; enhancing Real-World Applicability in Home Healthcare: A Metaheuristic Approach for Advanced Routing and Scheduling; solving the Two-Stage Robust Elective Patient Surgery Planning Under Uncertainties with Intensive Care Unit Beds Availability; extracting White-Box Knowledge from Word Embedding: Modeling as an Optimization Problem; a Hybrid Biased-Randomized Heuristic for a Home Care Problem with Team Scheme Selection; extended Set Covering for Time Series Segmentation; Indirect Flow-Shop Coding Using Rank: Application to Indirect QAOA; Utilizing Graph Sparsification for Pre-processing in Max Cut QUBO Solver; addressing Machine Unavailability in Job Shop Scheduling: A Quantum Computing Approach; Solving Edge-Weighted Maximum Clique Problem with DCA Warm-Start Quantum Approximate Optimization Algorithm; Comparing Integer Encodings in QUBO for Quantum and Digital Annealing: The Travelling Salesman Problem; solving Quadratic Knapsack Problem with Biased Quantum State Optimization Algorithm; quantum Optimization Approach for Feature Selection in Machine Learning; an Efficient Algorithm for the T-Row Facility Layout Problem.
+M3  - Conference review
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Wagner, F.
+AU  - Bärmann, A.
+AU  - Liers, F.
+AU  - Weissenbäck, M.
+TI  - Improving Quantum Computation by Optimized Qubit Routing
+PY  - 2023
+T2  - Journal of Optimization Theory and Applications
+VL  - 197
+IS  - 3
+SP  - 1161
+EP  - 1194
+DO  - 10.1007/s10957-023-02229-w
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85157985787&doi=10.1007%2fs10957-023-02229-w&partnerID=40&md5=1a42d2972f6cc04d0fbaffbf680472f5
+AB  - In this work we propose a high-quality decomposition approach for qubit routing by swap insertion. This optimization problem arises in the context of compiling quantum algorithms formulated in the circuit model of computation onto specific quantum hardware. Our approach decomposes the routing problem into an allocation subproblem and a set of token swapping problems. This allows us to tackle the allocation part and the token swapping part separately. Extracting the allocation part from the qubit routing model of Nannicini et al. (Optimal qubit assignment and routing via integer programming, 2021, http://arxiv.org/abs/2106.06446), we formulate the allocation subproblem as a binary linear program. Herein, we employ a cost function that is a lower bound on the overall routing problem objective. We strengthen the linear relaxation by novel valid inequalities. For the token swapping part we develop an exact branch-and-bound algorithm. In this context, we improve upon known lower bounds on the token swapping problem. Furthermore, we enhance an existing approximation algorithm which runs much faster than the exact approach and typically is able to determine solutions close to the optimum. We present numerical results for the fully integrated allocation and token swapping problem. Obtained solutions may not be globally optimal due to the decomposition and the usage of an approximation algorithm. However, the solutions are obtained fast and are typically close to optimal. In addition, there is a significant reduction in the number of artificial gates and output circuit depth when compared to various state-of-the-art heuristics. Reducing these figures is crucial for minimizing noise when running quantum algorithms on near-term hardware. As a consequence, using the novel decomposition approach leads to compiled algorithms with improved quality. Indeed, when compiled with the novel routing procedure and executed on real hardware, our experimental results for quantum approximate optimization algorithms show an significant increase in solution quality in comparison to standard routing methods. © 2023, The Author(s).
+KW  - Approximation algorithms
+KW  - Combinatorial optimization
+KW  - Integer programming
+KW  - Quantum compilation
+KW  - Approximation algorithms
+KW  - Branch and bound method
+KW  - Cost functions
+KW  - Integer programming
+KW  - Linear programming
+KW  - Quantum computers
+KW  - Quantum theory
+KW  - Routing algorithms
+KW  - Decomposition approach
+KW  - High quality
+KW  - Integer Program- ming
+KW  - Low bound
+KW  - Optimization problems
+KW  - Quantum algorithms
+KW  - Quantum compilation
+KW  - Routing problems
+KW  - Routings
+KW  - Sub-problems
+KW  - Combinatorial optimization
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 8
+ER  -
+
+TY  - JOUR
+AU  - Qian, W.
+AU  - Basili, R.A.M.
+AU  - Eshaghian-Wilner, M.M.
+AU  - Khokhar, A.
+AU  - Luecke, G.
+AU  - Vary, J.P.
+TI  - Comparative Study of Variations in Quantum Approximate Optimization Algorithms for the Traveling Salesman Problem
+PY  - 2023
+T2  - Entropy
+VL  - 25
+IS  - 8
+C7  - 1238
+DO  - 10.3390/e25081238
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85168861614&doi=10.3390%2fe25081238&partnerID=40&md5=2b979bead43e47f11ecc90845aef5ed3
+AB  - The traveling salesman problem (TSP) is one of the most often-used NP-hard problems in computer science to study the effectiveness of computing models and hardware platforms. In this regard, it is also heavily used as a vehicle to study the feasibility of the quantum computing paradigm for this class of problems. In this paper, we tackle the TSP using the quantum approximate optimization algorithm (QAOA) approach by formulating it as an optimization problem. By adopting an improved qubit encoding strategy and a layer-wise learning optimization protocol, we present numerical results obtained from the gate-based digital quantum simulator, specifically targeting TSP instances with 3, 4, and 5 cities. We focus on the evaluations of three distinctive QAOA mixer designs, considering their performances in terms of numerical accuracy and optimization cost. Notably, we find that a well-balanced QAOA mixer design exhibits more promising potential for gate-based simulators and realistic quantum devices in the long run, an observation further supported by our noise model simulations. Furthermore, we investigate the sensitivity of the simulations to the TSP graph. Overall, our simulation results show that the digital quantum simulation of problem-inspired ansatz is a successful candidate for finding optimal TSP solutions. © 2023 by the authors.
+KW  - noisy simulation
+KW  - quantum approximate optimization algorithm
+KW  - quantum computing
+KW  - quantum simulation
+KW  - traveling salesman problem
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 13
+ER  -
+
+TY  - CONF
+AU  - Al-Hraishawi, H.
+AU  - Rehman, J.U.
+AU  - Chatzinotas, S.
+TI  - Quantum Optimization Algorithm for LEO Satellite Communications based on Cell-Free Massive MIMO
+PY  - 2023
+T2  - 2023 IEEE International Conference on Communications Workshops: Sustainable Communications for Renaissance, ICC Workshops 2023
+SP  - 1759
+EP  - 1764
+DO  - 10.1109/ICCWorkshops57953.2023.10283753
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85177812520&doi=10.1109%2fICCWorkshops57953.2023.10283753&partnerID=40&md5=70fe4c56c63455855cd211b7e5c8d26d
+AB  - Low Earth orbit (LEO) satellite constellations are in the spotlight during this pivotal time of developing high-speed communications not only for provisioning non-terrestrial connectivity but also for establishing in-space backhauling solutions. However, the technological evolution in this direction faces many challenges especially in the framework of coexisting with other communication systems due to the spectrum scarcity and the aggregated interference. Recently, the concept of cell-free massive multiple-input multiple-output (MIMO) has been applied to the LEO constellations for ameliorating both energy and spectral efficiencies as well as improving interference mitigation. In this paper, we propose a quantum-based activation strategy for LEO satellites based on user demands using the cell-free massive MIMO communication scheme. Specifically, a binary integer linear optimization problem is formulated and solved using the quantum approximate optimization algorithm (QAOA), which provides tangible quantum advantages through swiftly finding the optimal solutions. The performance of the proposed technique is evaluated via simulations and compared to an adaptive power control scheme. It has been shown that approximately 45%, in average, of the LEO satellite nodes can be switched-off during various traffic load instances. Deactivating the redundant nodes would not only enhance the system energy efficiency but also reduce the computational workload at the constellation and minimize the inter-satellite interference. © 2023 IEEE.
+KW  - Cell-free massive MIMO
+KW  - energy efficiency
+KW  - LEO satellite constellations
+KW  - quantum optimization
+KW  - satellite communications
+KW  - Cells
+KW  - Cytology
+KW  - Earth (planet)
+KW  - Integer programming
+KW  - Linear programming
+KW  - MIMO systems
+KW  - Orbits
+KW  - Power control
+KW  - Satellite communication systems
+KW  - Satellites
+KW  - Spectrum efficiency
+KW  - Cell-free
+KW  - Cell-free massive multiple-input multiple-output
+KW  - Low earth orbit satellite constellation
+KW  - Low earth orbit satellites
+KW  - Multiple inputs
+KW  - Multiple outputs
+KW  - Optimization algorithms
+KW  - Quantum optimization
+KW  - Satellite communications
+KW  - Satellite constellations
+KW  - Energy efficiency
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 6
+ER  -
+
+TY  - CONF
+AU  - Qian, W.
+AU  - Basili, R.
+AU  - Eshaghian-Wilner, M.
+AU  - Khokhar, A.
+AU  - Luecke, G.
+AU  - Vary, J.P.
+TI  - Comparative study on the variations of quantum approximate optimization algorithms to the Traveling Salesman Problem
+PY  - 2023
+T2  - 2023 IEEE International Parallel and Distributed Processing Symposium Workshops, IPDPSW 2023
+SP  - 541
+EP  - 551
+DO  - 10.1109/IPDPSW59300.2023.00094
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85168878283&doi=10.1109%2fIPDPSW59300.2023.00094&partnerID=40&md5=aec937523cd8bc68bc94d4a75eb9e654
+AB  - The Traveling Salesman Problem (TSP) is one of the most often-used NP-Hard problems in computer science to study the effectiveness of computing models and hardware platforms. In this regard, it is also being used heavily as a vehicle to study the feasibility of the quantum computing paradigm for this class of problems. In this work, we formulate the symmetric TSP as an optimization problem, which we solve using the quantum approximate optimization algorithm (QAOA) approach. By adopting an improved qubit encoding strategy and a layerwise learning optimization protocol, we obtain numerical results on the gate-based digital quantum simulator for the 3-, 4-, and 5-city TSPs. Specifically, we focus on three QAOA mixer designs to evaluate their performances in terms of numerical accuracy and optimization cost. Based on our results, we propose that a well-balanced QAOA mixer design is more prominent on gate-based simulators or realistic quantum devices in the near future. In addition, we study the sensitivity of TSP graph properties such as graph skewness and penalty weight in the TSP-QAOA simulation. Overall, our results prove digital quantum simulation is a powerful candidate for obtaining the optimal solution to the TSP.  © 2023 IEEE.
+KW  - Quantum Approximate optimization Algorithm
+KW  - Quantum Computing
+KW  - Quantum Simulation
+KW  - Traveling Salesman Problem
+KW  - Computational complexity
+KW  - Computer hardware
+KW  - Mixers (machinery)
+KW  - Quantum chemistry
+KW  - Quantum computers
+KW  - Approximate optimization
+KW  - Comparatives studies
+KW  - Computing hardware
+KW  - Computing model
+KW  - Mixer design
+KW  - Modeling platforms
+KW  - Optimization algorithms
+KW  - Quantum approximate optimization algorithm
+KW  - Quantum Computing
+KW  - Quantum simulations
+KW  - Traveling salesman problem
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 2
+ER  -
+
+TY  - CONF
+AU  - Ye, X.
+AU  - Yan, G.
+AU  - Yan, J.
+TI  - Towards Quantum Machine Learning for Constrained Combinatorial Optimization: a Quantum QAP Solver
+PY  - 2023
+T2  - Proceedings of Machine Learning Research
+VL  - 202
+SP  - 39903
+EP  - 39912
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85174415755&partnerID=40&md5=14831c1f28b31f8a95759f269df02c44
+AB  - Combinatorial optimization (CO) on the graph is a crucial but challenging research topic. Recent quantum algorithms provide a new perspective for solving CO problems and have the potential to demonstrate quantum advantage. Quantum Approximate Optimization Algorithm (QAOA) is a well-known quantum heuristic for CO constructed by a parametric quantum circuit. However, QAOA is originally designed for unconstrained problems and the circuit parameters and solutions are jointly solved with time-consuming iterations. In this paper, we propose a novel quantum neural network (QNN) for learning CO problems in a supervised manner to achieve better and faster results. We focus on the Quadratic Assignment Problem (QAP) with matching constraints and the node permutation invariance property. To this end, a quantum neural network called QAP-QNN is devised to translate the QAP into a constrained vertex classification task. Moreover, we study two QAP tasks: Graph Matching and Traveling Salesman Problem on TorchQauntum simulators, and empirically show the effectiveness of our approach. © 2023 Proceedings of Machine Learning Research. All rights reserved.
+KW  - Constrained optimization
+KW  - Learning algorithms
+KW  - Machine learning
+KW  - Pattern matching
+KW  - Quantum theory
+KW  - Traveling salesman problem
+KW  - Approximate optimization
+KW  - Combinatorial optimization problems
+KW  - Constrained combinatorial optimization
+KW  - Machine-learning
+KW  - Optimization algorithms
+KW  - Problem solvers
+KW  - Quadratic assignment problems
+KW  - Quantum machines
+KW  - Quantum neural networks
+KW  - Research topics
+KW  - Combinatorial optimization
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 5
+ER  -
+

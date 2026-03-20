@@ -1,0 +1,292 @@
+﻿TY  - CONF
+AU  - Dewar, S.
+AU  - Hall, A.
+AU  - Kirk, E.
+AU  - Ganpule, S.
+TI  - Automated stimulation design allocation in multiple coal seam wells offers efficient, consistent and compliant framework
+PY  - 2020
+T2  - Society of Petroleum Engineers - SPE Asia Pacific Oil and Gas Conference and Exhibition 2020, APOG 2020
+DO  - 10.2118/202270-MS
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85143250253&doi=10.2118%2f202270-MS&partnerID=40&md5=dfe7865d9664561ee83225a53db1adb4
+AB  - One of the keys to successful and environmentally responsible well stimulation programs in coal seam gas development is to establish consistent procedures for the safeguarding, planning and executing activities across multiple wells. The aim of this paper is to show how a novel application of petrophysical program scripting can be used to make the stimulation process more efficient, consistent and compliant across assets with varying requirements. A macro embedded in petrophysical evaluation software applies a series of rules to rank coals by thickness, allocate a series of perforations and stimulation type based upon coal rank and spacing and then produces actionable treatment schedules which are seamlessly implemented in well stimulation operations at well sites. To do this, the macro grades all coals within the well by thickness based upon a cut-off on the density log, with the thickest coal being graded highest. The macro then identifies the top ranked coal and places perforations based on user defined logic, geological information from offset wells, permeability attributes of the target coal layer(s), depth and vertical separation between adjoining coal targets. Based on the stimulation type assigned, a stimulation schedule is generated that includes estimates of fluid volumes, proppant volumes, injection rates, proppant ramp type and stipulates flush conditions (over-flush or under-flush). Coals thicker than a maximum perforation size are perforated in an upper, middle and lower configuration. Most coals are thinner than the maximum allowable perforation interval and so the macro looks up and down the borehole to include thinner coals within a potential perforation window. The system then generates the stimulation schedule as described above. The macro continues to allocate perforations and stimulation schedules for each validated coal interval and sequentially tries to maximise the total target coal interval along the wellbore. Certain environmental constraints are included in the macro logic to maintain local and regional commitments. For example, coal zones in proximity of permeable non-coal layers i.e. interburden are automatically excluded from stimulation. Multiple advantages of this system have been realised including, a) effective QA/QC as outputs can be directly plotted against the well logs giving the user a quick and easy visual check b) actionable instructions that site based teams can execute including exact perforation depths and stimulation schedules c) provide realistic materials and costs estimates that ensure efficient planning and logistics, d) monitor and document any variations between allocated schedule versus actual execution, e) provide estimate of expected net coal connectivity at a well, development package and asset level which feeds into production and recovery forecasts, f) plan future optimisation studies or pilots and g) most importantly offers a consistent, efficient and compliant framework that can be applied across multiple assets, engineering teams and service providers. This paper focuses on capabilities and advantages of using a macro to automate stimulation design allocation for CSG multi-well (>100 wells) assets. Details of individual stimulation designs for Walloons Coal measures are mentioned in other publications (Kirk-Burnnand et al., 2015 and Flottmann et al. 2018) and hence not covered here. Copyright 2020, Society of Petroleum Engineers.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 3
+ER  -
+
+TY  - CONF
+AU  - Pettigrew, N.R.
+AU  - Fikes, C.P.
+AU  - Beard, M.K.
+TI  - Advances in the Ocean Observing System in the Gulf of Maine: Technical capabilities and scientific results
+PY  - 2010
+T2  - OCEANS'10 IEEE Sydney, OCEANSSYD 2010
+C7  - 5603663
+DO  - 10.1109/OCEANSSYD.2010.5603663
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-78349250588&doi=10.1109%2fOCEANSSYD.2010.5603663&partnerID=40&md5=7718684377c4f169eddad706f186fd7d
+AB  - The Northeastern Regional Association of Coastal Ocean Observing Systems (NERACOOS) includes the University of Maine's comprehensive solar-powered buoy array in the Gulf of Maine. The system serves a wide variety of real-time oceanographic and marine meteorological data and data products to scientists, state and federal regulators, the National Weather Service, the US and Canadian Coast Guards, the National Data Buoy Center, educators, regional natural-resource managers, the Gulf of Maine fishing and maritime industries, local airports and airlines, sailors, and the general public. In addition to the hourly operational data delivery, The University of Maine provides an archive of data and model output that are significantly advancing the scientific understanding of the Gulf of Maine as a physical and ecological system. Over the nearly nine years of operation, the data have revealed marked seasonal and interannual variability of the circulation and physical properties of the Gulf of Maine. A system wide salinity anomaly event that lasted for nearly two years, as well as a potential regime shift in the inflow and outflow transports of the Gulf have been revealed in the data records. The Gulf of Maine observing system can be thought of as consisting of four major subsystems: the data acquisition subsystem; the data handling, processing, and archiving subsystem; the system of numerical nowcast and forecast models; and a distributed web-based data distribution/presentation subsystem. The acquisition system includes a real-time buoy array, and an array of land-based long-range Coastal Ocean Dynamics Applications Radar (CODAR) installations The data handling system includes real-time QA/QC algorithms, data processing, calibration, and data archives that include sensor inventories, deployment histories and calibration records in addition to the data records themselves. The numerical modeling system consists of an application of the Princeton Ocean Model (POM) for circulation and hydrographic conditions, and a high-resolution SWAN wave model In recent years the sampling scheme of the system has increased in resolution beyond hourly for several high-value data streams. The meteorological data are collected at five minute intervals, and the water-column temperature and salinity are measured at three-minute intervals to provide records of internal wave activity. We have recently developed a serial bridge module that can provide meteorological statistics, including gusts (of specified length), min, max, and variance that are observed within the continuous five-minute samples. It has also been used to replace electronics and data loggers for the Aanderaa RCM9 current meters thus providing increased data and battery storage capacity as well as reduced power consumption. We are currently designing a new low-power, low-cost Linux-based data logger to replace the Campbell scientific data loggers which have limited our ability to handle additional sensors and data streams. © 2010 IEEE.
+KW  - Buoys
+KW  - Calibration
+KW  - Coastal zones
+KW  - Computer operating systems
+KW  - Data communication systems
+KW  - Ecology
+KW  - Electric load forecasting
+KW  - Meteorology
+KW  - Oceanography
+KW  - Salinity measurement
+KW  - Sensors
+KW  - Weather forecasting
+KW  - Acquisition subsystems
+KW  - Acquisition systems
+KW  - Battery storage
+KW  - Bridge modules
+KW  - Campbell
+KW  - Coastal ocean
+KW  - Coastal ocean observing system
+KW  - Coastguards
+KW  - Column temperature
+KW  - Current meters
+KW  - Data archives
+KW  - Data handling systems
+KW  - Data logger
+KW  - Data products
+KW  - Data records
+KW  - Data stream
+KW  - Ecological systems
+KW  - FORECAST model
+KW  - General publics
+KW  - Gulf of Maine
+KW  - High resolution
+KW  - Hydrographic conditions
+KW  - Internal wave activity
+KW  - Low Power
+KW  - Maritime industry
+KW  - Meteorological data
+KW  - Model outputs
+KW  - National data buoy centers
+KW  - National Weather Services
+KW  - Nowcast
+KW  - Numerical modeling
+KW  - Observing systems
+KW  - Ocean observing systems
+KW  - Operational data
+KW  - Princeton ocean model
+KW  - Reduced power consumption
+KW  - Regime shift
+KW  - Regional associations
+KW  - Resource managers
+KW  - Sampling schemes
+KW  - Scientific data
+KW  - Scientific results
+KW  - Seasonal and interannual variability
+KW  - Solar-powered
+KW  - Technical capabilities
+KW  - University of Maine
+KW  - Value data
+KW  - Wave models
+KW  - Data handling
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 2
+ER  -
+
+TY  - JOUR
+AU  - Cheng, R.
+AU  - Yu, Y.
+AU  - Shi, D.
+AU  - Cai, W.
+TI  - The critical review of image and video quality assessment methods
+ST  - 图像与视频质量评价综述
+PY  - 2022
+T2  - Journal of Image and Graphics
+VL  - 27
+IS  - 5
+SP  - 1410
+EP  - 1429
+DO  - 10.11834/jig.210314
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85130212197&doi=10.11834%2fjig.210314&partnerID=40&md5=1f774b39a8216f077b4cd2e686a55872
+AB  - Images and videos quality has a great impact on the information acquisition of human behavior visual system. Image/video quality assessment (I/VQA) can be regarded as a key factor for multimedia and network video services nowadays. The quality assessment methods are mainly segmented into qualitative and quantitative models. Qualitative methods conduct quality assessment based on the human's eyes, which cost lots of manpower and time consuming resources. Quantitative quality assessment simulates human observation and it can automatically forecast input quality for those of I/VQA researchers. Our review is critical reviewed quality assessment(QA) methods like full reference (FR), reduced reference (RR) and no reference (NR) methods, which are categorized based on the "clean" data capability (the reference image with no distortion). The full reference methods assess the quality of the distorted images with comparison of the "clean" data. The pros of these methods are better performance, low complexity and good robustness. The cons are that the reference images are challenged to obtain in the in-situ scenarios. Compared with the full reference methods, the reduced reference methods reduce the number of the reference images based on featured reference data to predict the quality. All reference data are not required for the no reference methods. Traditional IQA methods are mainly based on structural similarity, human visual system (HVS) and natural scene statistical theory (NSS). The structure similarity based methods assesses the measurement quality derived of the structural information changes; the HVS based methods are based on some human eyes features; Natural scene statistics based methods fit the transformed coefficients distribution of images or videos and compare the gap of reference coefficients and test coefficients. The emerging deep learning methods based on convolutional neural network (CNN) extract image features through convolutional operations and implement logistic regression to update the models. The learning capability of the IQA-oriented CNN has its priority. VQA models are mainly divided into two categories. One category is that the temporal video quality can be obtained based on the IQA methods for single frame, and then integrate the quality of all frames. The integration methods are mainly divided into general average and weighted average methods in which the weights can be obtained in terms of manual setting or learning. The other one is for the three dimensions (3D) video as mentioned below: First, extracting the coefficient distribution by 3D transformation or using 3D CNN to extract features, and then fitting the coefficient distribution or mapping the features to obtain the final quality. Compared to traditional methods, learning-based methods have higher complexity, but better performance. Most of the current VQA methods also use CNN as the backbone structure, which assists in the overall model construction. Our critical review analyzes the growth of I/VQA and lists some representative algorithms. Then, we review some I/VQA based literatures from two aspects, including traditional methods and deep learning-based methods, respectively. The capability of representative algorithms is analyzed derived of Spearman rank order correlation coefficient(SROCC) and Pearson linear correlation coefficient(PLCC) evaluation indexes in terms of laboratory for image & video engineering(LIVE), categorical subjective image quality database(CSIQ), TID2013 and other datasets. Finally, the challenging issues of quality assessment are summarized and predicted. © 2022, Editorial Office of Journal of Image and Graphics. All right reserved.
+KW  - Deep learning
+KW  - Human vision system(HVS)
+KW  - Image/video quality assessment(I/VQA)
+KW  - Natural scene statistics(NSS)
+KW  - Structural information
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 8
+ER  -
+
+TY  - CONF
+AU  - Luther, M.E.
+AU  - Meyers, S.D.
+AU  - Gilbert, S.A.
+AU  - Subramanian, V.
+AU  - McIntyre, M.
+AU  - Wilson, M.
+AU  - Havens, H.
+AU  - Linville, A.
+TI  - A coastal ocean prediction system for Tampa Bay, Florida
+PY  - 2007
+T2  - Oceans Conference Record (IEEE)
+C7  - 4449385
+DO  - 10.1109/OCEANS.2007.4449385
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-50449086504&doi=10.1109%2fOCEANS.2007.4449385&partnerID=40&md5=758379f8266557080d20891c2dc9ef94
+AB  - The USF College of Marine Science has developed a Coastal Ocean Prediction System for Tampa Bay based on an integrated observing system and circulation model as a sub-regional component of the US Integrated Ocean Observing System. The model system ingests real-time observations of the physical forcing functions for Tampa Bay to produce three-dimensional fields of circulation, temperature, salinity, and water level. The hydrodynamic model, based on the ECOM-3D code, is fully operational in either a nowcast-forecast mode or a hindcast mode and is described on our web site (http://ompl.marine.usf.edu/ TBmodel). Water level, temperature, salinity, surface heat and moisture fluxes, and winds come from the Tampa Bay Physical Oceanographic Real-Time System (TB-PORTS; http://ompl.marine.usf.edu/ports/ or http://tidesandcurrents.noaa. gov/tbports/tbports.shtml?port=tb) augmented with observations from the USF Coastal Ocean Monitoring and Prediction System (COMPS; http://comps.marine.usf. edu/). Daily river discharge is obtained from the USGS National Water Information System. Precipitation is derived from several gauges operated by the Southwest Florida Water Management District, USGS, and NOAA. The raw observational data undergoes an automated QA/QC procedure before being input into the model. A water quality module has been developed that produces fields of chlorophyll, nutrients, and dissolved oxygen from time-varying estimates of nutrient and fresh water loading. A wave module provides directional wave spectra and bottom stresses based on the SWAN code. The integrated observing and modeling system provides a decision support tool that is used to enhance security, safety, and efficiency of maritime transportation, to guide search and rescue efforts, and to evaluate the bay ecosystem response to environmental stressors. Such stressors include severe storms, seasonal and interannual changes in fresh water input, as well as human impacts, such as hazardous material spills, river withdrawals, nutrient loading, changing land use patterns, and alterations in bay bathymetry. In addition to its routine use by the Tampa Bay Pilots and the US Coast Guard, the Coastal Ocean Prediction System has been used to support management decisions in several environmental issues affecting the bay. For example, the model has been used to investigate the effects of concentrate discharge from a seawater desalination facility recently built on Tampa Bay for the regional water supply authority; to simulate the trajectory of wastewater discharges and hazardous material spills for the Florida Department of Environmental Protection; to predict trajectories of raw sewage spills into the bay for the Pinellas County Health Department; to investigate transport and fate of human pathogens in the bay, and to evaluate changes in salinity and estuarine residence time due to natural variability and to anthropogenic alterations in fresh water input and bathymetry of the bay for the Southwest Florida Water Management District. ©2007 MTS.
+KW  - Bathymetry
+KW  - Biochemical oxygen demand
+KW  - Chlorophyll
+KW  - Coastal zones
+KW  - Codes (symbols)
+KW  - Computer networks
+KW  - Decision support systems
+KW  - Desalination
+KW  - Discharge (fluid mechanics)
+KW  - Dissolution
+KW  - Dissolved oxygen
+KW  - Environmental protection
+KW  - Fluid dynamics
+KW  - Fluid mechanics
+KW  - Fluxes
+KW  - Forecasting
+KW  - Hazardous materials
+KW  - Land use
+KW  - Nutrients
+KW  - Porphyrins
+KW  - Ports and harbors
+KW  - Real time systems
+KW  - River pollution
+KW  - Salinity measurement
+KW  - Seawater
+KW  - Seawater effects
+KW  - Sewage
+KW  - Storms
+KW  - Surface chemistry
+KW  - Terbium alloys
+KW  - Thickness measurement
+KW  - Three dimensional
+KW  - Trajectories
+KW  - Wastewater
+KW  - Water
+KW  - Water filtration
+KW  - Water levels
+KW  - Water management
+KW  - Water quality
+KW  - Water supply systems
+KW  - Waterway transportation
+KW  - Tampa Bay
+KW  - Oxygen
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Qiu, Z.
+AU  - Xie, Z.
+AU  - Ji, Z.
+AU  - Liu, X.
+AU  - Wang, G.
+TI  - Integrating query data for enhanced traffic forecasting: A Spatio-Temporal Graph Attention Convolution Network approach with delay modeling
+PY  - 2024
+T2  - Knowledge-Based Systems
+VL  - 301
+C7  - 112315
+DO  - 10.1016/j.knosys.2024.112315
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85200574610&doi=10.1016%2fj.knosys.2024.112315&partnerID=40&md5=5cbf17eeac2d0ba7c6826280c454d805
+AB  - Accurate prediction of road traffic conditions is essential for the effectiveness of Intelligent Transportation Systems (ITS) and the advancement of smart cities. While existing methodologies mainly focus on the complex structures of road networks and consider factors like weather, holidays, and accidents, the impact of social events is often overlooked. Queries, representing user requests in navigation applications, offer valuable insights into the popularity of social events and their effects on the road network. In this paper, we introduce the Query-aware Spatio-Temporal Graph Attention Convolution Network (QA-STGACN), which utilizes query data to model the impacts of events and forecast traffic conditions. Initially, spatial and temporal blocks are developed to extract spatial dependencies among road segments and capture traffic dynamics. A dynamic query-aware graph constructor then adaptively learns and retains periodic interactions between road segments and queries. Furthermore, three novel query-aware blocks – convolution, attention, and pattern transformation – are designed to uncover hidden dependencies between traffic conditions and query counts during events, as well as to model the delayed impacts of these counts on traffic. Ultimately, a gated fusion mechanism integrates the spatio-temporal correlations in road networks with the representations derived from queries. Comprehensive experiments on six datasets validate the superiority of QA-STGACN over robust baselines. © 2024 Elsevier B.V.
+KW  - Dynamic graph
+KW  - Events
+KW  - Query data
+KW  - Spatio-temporal correlations
+KW  - Traffic prediction
+KW  - Economic and social effects
+KW  - Forecasting
+KW  - Intelligent systems
+KW  - Intelligent vehicle highway systems
+KW  - Query processing
+KW  - Roads and streets
+KW  - Traffic control
+KW  - Dynamic graph
+KW  - Event
+KW  - Query datum
+KW  - Road network
+KW  - Road segments
+KW  - Social events
+KW  - Spatio-temporal graphs
+KW  - Spatiotemporal correlation
+KW  - Traffic conditions
+KW  - Traffic prediction
+KW  - Convolution
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 4
+ER  -
+
+TY  - JOUR
+AU  - Kataoka, R.
+AU  - Miyahara, H.
+AU  - Steinhilber, F.
+TI  - Anomalous 10Be spikes during the Maunder Minimum: Possible evidence for extreme space weather in the heliosphere
+PY  - 2012
+T2  - Space Weather
+VL  - 10
+IS  - 11
+C7  - S11001
+DO  - 10.1029/2012SW000835
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84869381706&doi=10.1029%2f2012SW000835&partnerID=40&md5=98f13090fdb3cae7a23fab3e2f65dc79
+AB  - Extreme space weather conditions pose significant problems for standard space weather models, which are available for some limited realistic parameter ranges. As a good example, anomalous spikes of cosmic ray induced 10Be have been found during the Maunder Minimum (AD1645-1715) at the qA negative solar minima, which cannot be quantitatively explained by standard drift theories of cosmic ray transport alone. Such an extreme amplification of solar cycle modulation of cosmic rays is presumably related to the altered condition of heliospheric environment at the prolonged sunspot disappearance, providing a clue for comprehensive understandings of long-term changes in heliospheric environment, solar cycle modulation of cosmic rays, and the maximal range of incident cosmic ray flux that is very important for our practical space activities. Model sophistication to achieve precise forecast of such extreme condition of the heliosphere and the incoming cosmic ray flux is also of urgent need as the Sun is currently showing a tendency toward lower activity. Here we show that the cosmic ray spikes found at the Maunder Minimum may be explained by the contribution from the cross-sector transport mechanism working in the heliosheath where cosmic ray particles effectively drift across stacked magnetic sectors due to the larger cyclotron radius than the distance between the sectors. Based on the new interpretation of the 10Be record, we clarify potentially important problems for space weather modelers to help with more realistic modeling of the heliosphere during periods of extremely weak solar activity, such as the Maunder Minimum. © 2012 American Geophysical Union. All Rights Reserved.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 13
+ER  -
+
+TY  - CONF
+AU  - Correa Feria, C.
+TI  - Integrated production modeling: Advanced but, not always better
+PY  - 2010
+T2  - SPE Latin American and Caribbean Petroleum Engineering Conference Proceedings
+VL  - 1
+SP  - 722
+EP  - 741
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-79953013367&partnerID=40&md5=9d4153fbfacbd8c6fa92c248c0539af6
+AB  - During the initial stages of a new gas-condensate field development planning, studies are performed trying to cover all possible key project factors. Reservoir performance estimations and production forecasts are, by far, the most important aspects influencing any other development requirements and future commitments (number, location and type of wells, capacity/modularity of the production facilities, sales contracts, booked reserves...). Due to the, let's say, apparent simplicity of the project (homogeneous reservoir model, few development wells, linear gathering pipeline and small compression plant) and the uncertainty of available data, a handcrafted approach was preferred by working all models as separate items but, applying proper contour conditions for each one. On the other hand, applying defined management methodology, project's QA/QC explicitly required the development of an integrated subsurface-surface model, no matter the performance of the handcrafted approximation. Integrated Production/Asset Modeling (IPM or IAM) is a powerful asset design, prediction and management tool when properly used but, as with many other emerging or in fashion technologies, care should be taken when dealing with the 'aspirin' (good for everything) complex. To fulfill this requirement, a full asset simulation model was built integrating the complete production cycle: numerical reservoir simulation, steady-state nodal wells, surface gathering/transport network and compression/processing facilities. The process was intensive, troubleshooting and time consuming but, as suspected, obtained results didn't significantly improve the knowledge already available with the handcrafted initial approximation. Being able to assess the proper use for each technology should be a basic pillar of our industry. Inefficiently and indiscriminately applying available tools without a suitable engineering criterion, could yield wrong assessments of their actual value and, lead to improper use of valuable time and workforce. Integrated Production Modeling develops real value when dealing with large systems, where the type and number of variables to be controlled lies out of the human capacity; however, simple systems still can be handcraftly managed under proper engineering judgment, without large troubleshooting processes, consuming less time and demanding less workforce. The cobbler should stick to his last. Copyright 2010, Society of Petroleum Engineers.
+KW  - Engineering
+KW  - Gas condensates
+KW  - Integration
+KW  - Petroleum analysis
+KW  - Petroleum engineering
+KW  - Petroleum reservoir evaluation
+KW  - Petroleum reservoirs
+KW  - Production
+KW  - Real time systems
+KW  - Real variables
+KW  - Sales
+KW  - Wells
+KW  - Development wells
+KW  - Engineering criterion
+KW  - Gas-condensate fields
+KW  - Gathering pipelines
+KW  - Initial approximation
+KW  - Initial stages
+KW  - Integrated production
+KW  - Large system
+KW  - Management tool
+KW  - Production cycle
+KW  - Production facility
+KW  - Production forecasts
+KW  - Real values
+KW  - Reservoir models
+KW  - Reservoir performance
+KW  - Reservoir simulation
+KW  - Sales contracts
+KW  - Simple system
+KW  - Simulation model
+KW  - Surface models
+KW  - Troubleshooting
+KW  - Computer simulation
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 13
+ER  -
+

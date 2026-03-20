@@ -1,0 +1,541 @@
+TY  - CPAPER
+AU  - Decusatis, Casimer
+AU  - Spillane, Evan
+AU  - Foti, Dominick
+AU  - O'Loughlin, Megan
+TI  - Comparison of quantum computing algorithms for network traffic partitioning and mitigation of DoS and DDoS attacks
+LA  - eng
+A2  - Paul, R, Kundu, A
+JF  - 2024 Ieee 15th Annual Ubiquitous Computing, Electronics and Mobile Communication Conference, Uemcon 2024
+SP  - 454
+EP  - 460
+PY  - 2024
+SN  - 9798331540906, 9798331540913
+PB  - Institute of Electrical and Electronics Engineers Inc.
+DO  - 10.1109/UEMCON62879.2024.10754735
+AB  - We investigate application of quantum computing algorithms to classifying network traffic and mitigating denial of service and distributed denial of service attacks. Using actual honeynet data, we compare solutions of the Max Cut problem using both the quantum approximate optimization algorithm (QAOA) and Variational Quantum Eigensolver (VQE). Experimental results from a 6-qubit quantum computer show that optimal solutions can be found with about 98% accuracy in polynomial execution time. We found that VQE is more accurate than QAOA (compared with classical brute force solutions) but also requires significantly longer execution times. Simulations predict this approach can scale to much larger quantum computing hardware (when available) and may achieve quantum advantage on hardware with 30-35 qubits.
+ER  -
+
+TY  - JOUR
+AU  - Filip, Maria Andreea
+AU  - Fitzpatrick, Nathan
+AU  - Muñoz Ramo, David
+AU  - Thom, Alex J.W.
+TI  - Reducing unitary coupled cluster circuit depth by classical stochastic amplitude prescreening
+LA  - eng
+JF  - Physical Review Research
+VL  - 4
+IS  - 2
+PY  - 2022
+SN  - 26431564
+PB  - American Physical Society
+DO  - 10.1103/PhysRevResearch.4.023243
+AB  - Unitary coupled cluster (UCC) approaches are an appealing route to utilizing quantum hardware to perform quantum chemistry calculations, as quantum computers can in principle perform UCC calculations in a polynomially scaling fashion, as compared with the exponential scaling required on classical computers. Current noisy intermediate scale quantum computers are limited by both hardware capacity in number of logical qubits and the noise introduced by the deep circuits required for UCC calculations using the variational quantum eigensolver (VQE) approach. We present a combined classical-quantum approach where a stochastic classical UCC preprocessing step is used to determine the important excitations in the UCC Ansatz. The reduced number of selected excitations are then used in a UCC-based VQE calculation. This approach gives a systematically improvable approximation, and we show that significant reductions in quantum resources can be achieved, with simulations on the CH2, N2, and N2H2 molecules giving submillihartree errors.
+ER  -
+
+TY  - JOUR
+AU  - Filip, Maria-Andreea
+AU  - Fitzpatrick, Nathan
+AU  - Ramo, David Muñoz
+AU  - Thom, Alex J. W.
+TI  - Reducing Unitary Coupled Cluster Circuit Depth by Classical Stochastic
+  Amplitude Pre-Screening
+LA  - und
+PY  - 2022
+AB  - Unitary Coupled Cluster (UCC) approaches are an appealing route to utilising
+quantum hardware to perform quantum chemistry calculations, as quantum
+computers can in principle perform UCC calculations in a polynomially scaling
+fashion, as compared to the exponential scaling required on classical
+computers. Current noisy intermediate scale quantum (NISQ) computers are
+limited by both hardware capacity in number of logical qubits and the noise
+introduced by the deep circuits required for UCC calculations using the
+Variational Quantum Eigensolver (VQE) approach. We present a combined
+classical--quantum approach where a stochastic classical UCC pre-processing
+step is used to determine the important excitations in the UCC ansatz. The
+reduced number of selected excitations are then used in a UCC-based VQE
+calculation. This approach gives a systematically improvable approximation, and
+we show that significant reductions in quantum resources can be achieved, with
+simulations on the CH$_2$, N$_2$ and N$_2$H$_2$ molecules giving
+sub-milliHartree errors.
+ER  -
+
+TY  - JOUR
+AU  - Jin, Yuwei
+AU  - Li, Zirui
+AU  - Hua, Fei
+AU  - Chen, Yanhao
+AU  - Chen, Henry
+AU  - Huang, Yipeng
+AU  - Zhang, Eddy Z.
+TI  - Tetris: A compilation Framework for VQE Applications [arXiv]
+LA  - eng
+PY  - 2023
+DO  - 10.48550/arXiv.2309.01905
+AB  - Quantum computing has shown promise in solving complex problems by leveraging the principles of superposition and entanglement. The Variational Quantum Eigensolver (VQE) algorithm stands as a pivotal approach in the realm of quantum algorithms, enabling the simulation of quantum systems on quantum hardware. In this paper, we introduce two innovative techniques, namely "Tetris" and "Fast Bridging," designed to enhance the efficiency and effectiveness of VQE tasks. The "Tetris" technique addresses a crucial aspect of VQE optimization by unveiling cancellation opportunities within the logical circuit phase of UCCSD ansatz. Tetris demonstrates a remarkable reduction up to 20% in CNOT gate counts, about 119048 CNOT gates, and 30% depth reduction compared to the state-of-the-art compiler 'Paulihedral'. In addition to Tetris, we present the "Fast Bridging" technique as an alternative to the conventional qubit routing methods that heavily rely on swap operations. The fast bridging offers a novel approach to qubit routing, mitigating the limitations associated with swap-heavy routing. By integrating the fast bridging into the VQE framework, we observe further reductions in CNOT gate counts and circuit depth. The bridging technique can achieve up to 27% CNOT gate reduction in the QAOA application. Through a combination of Tetris and the fast bridging, we present a comprehensive strategy for enhancing VQE performance. Our experimental results showcase the effectiveness of Tetris in uncovering cancellation opportunities and demonstrate the symbiotic relationship between Tetris and the fast bridging in minimizing gate counts and circuit depth. This paper contributes not only to the advancement of VQE techniques but also to the broader field of quantum algorithm optimization.
+ER  -
+
+TY  - JOUR
+AU  - Materia, Davide
+AU  - Ratini, Leonardo
+AU  - Angeli, Celestino
+AU  - Guidoni, Leonardo
+TI  - Quantum Information Driven Ansatz (QIDA): shallow-depth empirical
+  quantum circuits from Quantum Chemistry
+LA  - und
+PY  - 2023
+AB  - Hardware-efficient empirical variational ans\"atze for Variational Quantum
+Eigensolver simulations of Quantum Chemistry suffer from the lack of a direct
+connection to classical Quantum Chemistry methods. In the present work, we
+propose a method to fill this gap by introducing a new approach for
+constructing variational quantum circuits, leveraging quantum mutual
+information associated with classical Quantum Chemistry states to design simple
+yet effective heuristic ans\"atze with a topology that reflects the
+correlations of the molecular system. As first step, Quantum Chemistry
+calculations, such as M{\o}ller-Plesset (MP2) perturbation theory, firstly
+provide an approximate Natural Orbitals basis, which has been recently shown to
+be the best candidate one-electron basis for developing compact empirical
+wavefunctions (Ratini, et al 2023). Secondly, throughout the evaluation of
+quantum mutual information matrices, they provide information about the main
+correlations between qubits of the quantum circuit, enabling the development of
+a direct design of entangling blocks for the circuit. The resulting ansatz is
+then utilized with a Variational Quantum Eigensolver (VQE) to obtain a short
+depth variational groundstate of the electronic Hamiltonian. To validate our
+approach, we perform a comprehensive statistical analysis by simulations over
+various molecular systems ($H_2, LiH, H_2O$) and apply it to the more complex
+$NH_3$ molecule. The reported results demonstrate that the proposed methodology
+gives rise to highly effective ans\"atze, surpassing the standard empirical
+ladder-entangler ansatz in performance. Overall, our approach can be used as
+effective state preparation providing a promising route for designing efficient
+variational quantum circuits for large molecular systems.
+ER  -
+
+TY  - JOUR
+AU  - Tan, Xiangjun
+TI  - Quantum Computing for Phonon Scattering Effects on Thermal Conductivity
+LA  - eng
+JF  - Arxiv (cornell University)
+PY  - 2024
+PB  - Cornell University
+DO  - 10.48550/arXiv.2407.15808
+AB  - Recent investigations have demonstrated that multi-phonon scattering processes substantially influence the thermal conductivity of materials, posing significant computational challenges for classical simulations as the complexity of phonon modes escalates. This study examines the potential of quantum simulations to address these challenges, utilizing Noisy Intermediate Scale Quantum era (NISQ) quantum computational capabilities and quantum error mitigation techniques to optimize thermal conductivity calculations. Employing the Variational Quantum Eigensolver (VQE) algorithm, we simulate phonon-phonon contributions based on the Boltzmann Transport Equation (BTE). Our methodology involves mapping multi-phonon scattering systems to fermionic spin operators, necessitating the creation of a customized ansatz to balance circuit accuracy and depth. We construct the system within Fock space using bosonic operators and transform the Hamiltonian into the sum of Pauli operators suitable for quantum computation. By addressing the impact of non-unitary noise effects, we benchmark the noise influence and implement error mitigation strategies to develop a more efficient model for quantum simulations in the NISQ era.
+ER  -
+
+TY  - JOUR
+AU  - Materia, Davide
+AU  - Ratini, Leonardo
+AU  - Angeli, Celestino
+AU  - Guidoni, Leonardo
+TI  - Quantum Information Driven Ansatz (QIDA): shallow-depth empirical quantum circuits from Quantum Chemistry [arXiv]
+LA  - eng
+PY  - 2023
+DO  - 10.48550/arXiv.2309.15287
+AB  - Hardware-efficient empirical variational ans\"atze for Variational Quantum Eigensolver simulations of Quantum Chemistry suffer from the lack of a direct connection to classical Quantum Chemistry methods. In the present work, we propose a method to fill this gap by introducing a new approach for constructing variational quantum circuits, leveraging quantum mutual information associated with classical Quantum Chemistry states to design simple yet effective heuristic ans\"atze with a topology that reflects the correlations of the molecular system. As first step, Quantum Chemistry calculations, such as M{\o}ller-Plesset (MP2) perturbation theory, firstly provide an approximate Natural Orbitals basis, which has been recently shown to be the best candidate one-electron basis for developing compact empirical wavefunctions (Ratini, et al 2023). Secondly, throughout the evaluation of quantum mutual information matrices, they provide information about the main correlations between qubits of the quantum circuit, enabling the development of a direct design of entangling blocks for the circuit. The resulting ansatz is then utilized with a Variational Quantum Eigensolver (VQE) to obtain a short depth variational groundstate of the electronic Hamiltonian. To validate our approach, we perform a comprehensive statistical analysis by simulations over various molecular systems ($H_2, LiH, H_2O$) and apply it to the more complex $NH_3$ molecule. The reported results demonstrate that the proposed methodology gives rise to highly effective ans\"atze, surpassing the standard empirical ladder-entangler ansatz in performance. Overall, our approach can be used as effective state preparation providing a promising route for designing efficient variational quantum circuits for large molecular systems.
+ER  -
+
+TY  - JOUR
+AU  - Miao, Qiang
+AU  - Barthel, Thomas
+TI  - Convergence and quantum advantage of Trotterized MERA for strongly-correlated systems
+LA  - eng
+JF  - Quantum
+VL  - 9
+PY  - 2025
+SN  - 2521327x
+PB  - Verein zur Forderung des Open Access Publizierens in den Quantenwissenschaften
+DO  - 10.22331/q-2025-02-11-1631
+AB  - Strongly-correlated quantum many-body systems are difficult to study and simulate classically. We recently proposed a variational quantum eigensolver (VQE) based on the multiscale entanglement renormalization ansatz (MERA) with tensors constrained to certain Trotter circuits. Here, we determine the scaling of computation costs for various critical spin chains which substantiates a polynomial quantum advantage in comparison to classical MERA simulations based on exact energy gradients or variational Monte Carlo. Algorithmic phase diagrams suggest an even greater separation for higher-dimensional systems. Hence, the Trotterized MERA VQE is a promising route for the efficient investigation of strongly-correlated quantum many-body systems on quantum computers. Furthermore, we show how the convergence can be substantially improved by building up the MERA layer by layer in the initialization stage and by scanning through the phase diagram during optimization. For the Trotter circuits being composed of single-qubit and two-qubit rotations, it is experimentally advantageous to have small rotation angles. We find that the average angle amplitude can be reduced considerably with negligible effect on the energy accuracy. Benchmark simulations suggest that the structure of the Trotter circuits for the TMERA tensors is not decisive; in particular, brick-wall circuits and parallel random-pair circuits yield very similar energy accuracies.
+ER  -
+
+TY  - JOUR
+AU  - Miao, Qiang
+AU  - Barthel, Thomas
+TI  - Convergence and Quantum Advantage of Trotterized MERA for
+  Strongly-Correlated Systems
+LA  - und
+PY  - 2025
+AB  - Strongly-correlated quantum many-body systems are difficult to study and
+simulate classically. We recently proposed a variational quantum eigensolver
+(VQE) based on the multiscale entanglement renormalization ansatz (MERA) with
+tensors constrained to certain Trotter circuits. Here, we determine the scaling
+of computation costs for various critical spin chains which substantiates a
+polynomial quantum advantage in comparison to classical MERA simulations based
+on exact energy gradients or variational Monte Carlo. Algorithmic phase
+diagrams suggest an even greater separation for higher-dimensional systems.
+Hence, the Trotterized MERA VQE is a promising route for the efficient
+investigation of strongly-correlated quantum many-body systems on quantum
+computers. Furthermore, we show how the convergence can be substantially
+improved by building up the MERA layer by layer in the initialization stage and
+by scanning through the phase diagram during optimization. For the Trotter
+circuits being composed of single-qubit and two-qubit rotations, it is
+experimentally advantageous to have small rotation angles. We find that the
+average angle amplitude can be reduced considerably with negligible effect on
+the energy accuracy. Benchmark simulations suggest that the structure of the
+Trotter circuits for the TMERA tensors is not decisive; in particular,
+brick-wall circuits and parallel random-pair circuits yield very similar energy
+accuracies.
+ER  -
+
+TY  - JOUR
+AU  - Huijgen, Onno
+AU  - Coopmans, Luuk
+AU  - Najafi, Peyman
+AU  - Benedetti, Marcello
+AU  - Kappen, Hilbert J.
+TI  - Training quantum Boltzmann machines with the β-variational quantum eigensolver
+LA  - eng
+JF  - Machine Learning: Science and Technology
+VL  - 5
+IS  - 2
+PY  - 2024
+SN  - 26322153
+PB  - Institute of Physics
+DO  - 10.1088/2632-2153/ad370f
+AB  - The quantum Boltzmann machine (QBM) is a generative machine learning model for both classical data and quantum states. Training the QBM consists of minimizing the relative entropy from the model to the target state. This requires QBM expectation values which are computationally intractable for large models in general. It is therefore important to develop heuristic training methods that work well in practice. In this work, we study a heuristic method characterized by a nested loop: the inner loop trains the β-variational quantum eigensolver (β-VQE) by Liu et al (2021 Mach. Learn.: Sci. Technol. 2 025011) to approximate the QBM expectation values; the outer loop trains the QBM to minimize the relative entropy to the target. We show that low-rank representations obtained by β-VQE provide an efficient way to learn low-rank target states, such as classical data and low-temperature quantum tomography. We test the method on both classical and quantum target data with numerical simulations of up to 10 qubits. For the cases considered here, the obtained QBMs can model the target to high fidelity. We implement a trained model on a physical quantum device. The approach offers a valuable route towards variationally training QBMs on near-term quantum devices.
+ER  -
+
+TY  - JOUR
+AU  - Materia, Davide
+AU  - Ratini, Leonardo
+AU  - Angeli, Celestino
+AU  - Guidoni, Leonardo
+TI  - Quantum Information Driven Ansatz (QIDA): Shallow-Depth Empirical Quantum Circuits from Quantum Chemistry
+LA  - eng
+JF  - Journal of Physical Chemistry a
+VL  - 128
+IS  - 39
+SP  - 8533
+EP  - 8543
+PY  - 2024
+SN  - 15205215, 10895639
+PB  - American Chemical Society
+DO  - 10.1021/acs.jpca.4c03756
+AB  - Hardware-efficient empirical variational ansätze for Variational Quantum Eigensolver (VQE) simulations of quantum chemistry often lack a direct connection to classical quantum chemistry methods. In this work, we propose a method to bridge this gap by introducing a novel approach to constructing a starting point for variational quantum circuits, leveraging quantum mutual information from classical quantum chemistry states to design simple yet effective heuristic ansätze with a topology reflecting the molecular system’s correlations. As a first step, we make use of quantum chemistry calculations, such as Mo̷ller-Plesset (MP2) perturbation theory, to initially provide approximate Natural Orbitals, which have been shown to be the best candidate one-electron basis for developing compact empirical wave functions.1 Second, we evaluate the quantum mutual information matrix, which provides insights about the main correlations between qubits of the quantum circuit, and enables a direct design of entangling blocks for the circuit. The resulting ansatz is then used with a VQE to obtain a short-depth variational ground state of the electronic Hamiltonian. To validate our approach, we perform a comprehensive statistical analysis through simulations of various molecular systems (H2, LiH, H2O) and apply it to the more complex NH3 molecule. The reported results demonstrate that the proposed methodology gives rise to highly effective ansätze, outperforming the standard empirical ladder-entangler ansatz. Overall, our approach can be used as an effective state preparation, providing a promising route for designing efficient variational quantum circuits for large molecular systems.
+ER  -
+
+TY  - JOUR
+AU  - Hua, Fei
+AU  - Jin, Yuwei
+AU  - Li, Ang
+AU  - Liu, Chenxu
+AU  - Wang, Meng
+AU  - Chen, Yanhao
+AU  - Zhang, Chi
+AU  - Hayes, Ari
+AU  - Stein, Samuel
+AU  - Guo, Minghao
+AU  - Huang, Yipeng
+AU  - Zhang, Eddy Z.
+TI  - A Synergistic Compilation Workflow for Tackling Crosstalk in Quantum
+  Machines
+LA  - und
+PY  - 2023
+AB  - Near-term quantum systems tend to be noisy. Crosstalk noise has been
+recognized as one of several major types of noises in superconducting Noisy
+Intermediate-Scale Quantum (NISQ) devices. Crosstalk arises from the concurrent
+execution of two-qubit gates on nearby qubits, such as \texttt{CX}. It might
+significantly raise the error rate of gates in comparison to running them
+individually. Crosstalk can be mitigated through scheduling or hardware machine
+tuning. Prior scientific studies, however, manage crosstalk at a really late
+phase in the compilation process, usually after hardware mapping is done. It
+may miss great opportunities of optimizing algorithm logic, routing, and
+crosstalk at the same time. In this paper, we push the envelope by considering
+all these factors simultaneously at the very early compilation stage. We
+propose a crosstalk-aware quantum program compilation framework called CQC that
+can enhance crosstalk mitigation while achieving satisfactory circuit depth.
+Moreover, we identify opportunities for translation from intermediate
+representation to the circuit for application-specific crosstalk mitigation,
+for instance, the \texttt{CX} ladder construction in variational quantum
+eigensolvers (VQE). Evaluations through simulation and on real IBM-Q devices
+show that our framework can significantly reduce the error rate by up to
+6$\times$, with only $\sim$60\% circuit depth compared to state-of-the-art gate
+scheduling approaches. In particular, for VQE, we demonstrate 49\% circuit
+depth reduction with 9.6\% fidelity improvement over prior art on the H4
+molecule using IBMQ Guadalupe. Our CQC framework will be released on GitHub.
+ER  -
+
+TY  - JOUR
+AU  - Ali, Mazen
+AU  - Kabel, Matthias
+TI  - A Performance Study of Variational Quantum Algorithms for Solving the Poisson Equation on a Quantum Computer [arXiv]
+LA  - eng
+JF  - Arxiv
+PY  - 2022
+AB  - Recent advances in quantum computing and their increased availability has led to a growing interest in possible applications. Among those is the solution of partial differential equations (PDEs) for, e.g., material or flow simulation. Currently, the most promising route to useful deployment of quantum processors in the short to near term are so-called hybrid variational quantum algorithms (VQAs). Thus, variational methods for PDEs have been proposed as a candidate for quantum advantage in the noisy intermediate scale quantum (NISQ) era. In this work, we conduct an extensive study of utilizing VQAs on real quantum devices to solve the simplest prototype of a PDE -- the Poisson equation. Although results on noiseless simulators for small problem sizes may seem deceivingly promising, the performance on quantum computers is very poor. We argue that direct resolution of PDEs via an amplitude encoding of the solution is not a good use case within reach of today's quantum devices -- especially when considering large system sizes and more complicated non-linear PDEs that are required in order to be competitive with classical high-end solvers.
+ER  -
+
+TY  - JOUR
+AU  - Ali, Mazen
+AU  - Kabel, Matthias
+TI  - Performance Study of Variational Quantum Algorithms for Solving the Poisson Equation on a Quantum Computer
+LA  - eng
+JF  - Physical Review Applied
+VL  - 20
+IS  - 1
+PY  - 2023
+SN  - 23317019
+PB  - American Physical Society
+DO  - 10.1103/PhysRevApplied.20.014054
+AB  - Recent advances in quantum computing and their increased availability has led to a growing interest in possible applications. Among those is the solution of partial differential equations (PDEs) for, e.g., material or flow simulation. Currently, the most promising route to useful deployment of quantum processors in the short to near term are so-called hybrid variational quantum algorithms (VQAs). Thus, variational methods for PDEs have been proposed as a candidate for quantum advantage in the noisy intermediate-scale quantum (NISQ) era. In this work, we conduct an extensive study of utilizing VQAs on real quantum devices to solve the simplest prototype of a PDE - the Poisson equation. Although results on noiseless simulators for small problem sizes may seem deceivingly promising, the performance on quantum computers is very poor. We argue that direct resolution of PDEs via an amplitude encoding of the solution is not a good use case within reach of today's quantum devices - especially when considering large system sizes and more complicated nonlinear PDEs that are required in order to be competitive with classical high-end solvers.
+ER  -
+
+TY  - JOUR
+AU  - Chachkarova, Elena
+AU  - Tse, Terence
+AU  - Weber, Cedric
+AU  - Yordanov, Yordan
+AU  - Wei, Yao
+TI  - Quantum Embedding of Non-local Quantum Many-body Interactions in Prototypal Anti-tumor Vaccine Metalloprotein on Near Term Quantum Computing Hardware
+LA  - eng
+JF  - Arxiv (cornell University)
+PY  - 2024
+PB  - Cornell University
+DO  - 10.48550/arXiv.2410.12733
+AB  - The real world obeys quantum physics and quantum computing presents an alternative way to map physical problems to systems that follow the same laws. Such computation fundamentally constitutes a better way to understand the most challenging quantum problems. One such problem is the accurate simulation of highly correlated quantum systems. Due to the high dimensionality of the problem classical computers require considerable computer power to accurately predict material properties, especially when strong electron interactions are present. Still, modern day quantum hardware has many limitations and only allows for modeling of very simple systems. Here we present for the first time a quantum computer model simulation of a complex hemocyanin molecule, which is an important respiratory protein involved in various physiological processes such as oxygen transport and immune defence, and is also used as a key component in therapeutic vaccines for cancer. To better characterise the mechanism by which hemocyanin transports oxygen, variational quantum eigensolver (VQE) based on fermionic excitations and quantum embedding methods is used in the context of dynamic mean field theory to solve Anderson impurity model (AIM). Finally, it is concluded that the magnetic structure of hemocyanin is largely influenced by the many-body correction and that the computational effort for solving correlated electron systems could be substantially reduced with the introduction of quantum computing algorithms. We encourage the use of the Hamiltonian systems presented in this paper as a benchmark for testing quantum computing algorithms efficiency for chemistry applications.
+ER  -
+
+TY  - JOUR
+AU  - Yang, Zhaohui
+AU  - Ding, Dawei
+AU  - Zhu, Chenghong
+AU  - Chen, Jianxin
+AU  - Xie, Yuan
+TI  - PHOENIX: Pauli-Based High-Level Optimization Engine for Instruction
+  Execution on NISQ Devices
+LA  - und
+PY  - 2025
+AB  - Variational quantum algorithms (VQA) based on Hamiltonian simulation
+represent a specialized class of quantum programs well-suited for near-term
+quantum computing applications due to its modest resource requirements in terms
+of qubits and circuit depth. Unlike the conventional single-qubit (1Q) and
+two-qubit (2Q) gate sequence representation, Hamiltonian simulation programs
+are essentially composed of disciplined subroutines known as Pauli
+exponentiations (Pauli strings with coefficients) that are variably arranged.
+To capitalize on these distinct program features, this study introduces
+PHOENIX, a highly effective compilation framework that primarily operates at
+the high-level Pauli-based intermediate representation (IR) for generic
+Hamiltonian simulation programs. PHOENIX exploits global program optimization
+opportunities to the greatest extent, compared to existing SOTA methods despite
+some of them also utilizing similar IRs. PHOENIX employs the binary symplectic
+form (BSF) to formally describe Pauli strings and reformulates IR synthesis as
+reducing the column weights of BSF by appropriate Clifford transformations. It
+comes with a heuristic BSF simplification algorithm that searches for the most
+appropriate 2Q Clifford operators in sequence to maximally simplify the BSF at
+each step, until the BSF can be directly synthesized by basic 1Q and 2Q gates.
+PHOENIX further performs a global ordering strategy in a Tetris-like fashion
+for these simplified IR groups, carefully balancing optimization opportunities
+for gate cancellation, minimizing circuit depth, and managing qubit routing
+overhead. Experimental results demonstrate that PHOENIX outperforms SOTA VQA
+compilers across diverse program categories, backend ISAs, and hardware
+topologies.
+ER  -
+
+TY  - JOUR
+AU  - Wang, Weizhen
+AU  - Duan, Chenda
+AU  - Peng, Zhenghao
+AU  - Liu, Yuxin
+AU  - Zhou, Bolei
+TI  - Embodied Scene Understanding for Vision Language Models via MetaVQA
+LA  - und
+PY  - 2025
+AB  - Vision Language Models (VLMs) demonstrate significant potential as embodied
+AI agents for various mobility applications. However, a standardized,
+closed-loop benchmark for evaluating their spatial reasoning and sequential
+decision-making capabilities is lacking. To address this, we present MetaVQA: a
+comprehensive benchmark designed to assess and enhance VLMs' understanding of
+spatial relationships and scene dynamics through Visual Question Answering
+(VQA) and closed-loop simulations. MetaVQA leverages Set-of-Mark prompting and
+top-down view ground-truth annotations from nuScenes and Waymo datasets to
+automatically generate extensive question-answer pairs based on diverse
+real-world traffic scenarios, ensuring object-centric and context-rich
+instructions. Our experiments show that fine-tuning VLMs with the MetaVQA
+dataset significantly improves their spatial reasoning and embodied scene
+comprehension in safety-critical simulations, evident not only in improved VQA
+accuracies but also in emerging safety-aware driving maneuvers. In addition,
+the learning demonstrates strong transferability from simulation to real-world
+observation. Code and data will be publicly available at
+https://metadriverse.github.io/metavqa .
+ER  -
+
+TY  - JOUR
+AU  - Li, Qiting
+AU  - Huang, Zhaolong
+AU  - Jiang, Weiwei
+AU  - Tang, Zikang
+AU  - Song, Meimei
+TI  - Quantum Algorithms Using Infeasible Solution Constraints for Collision-Avoidance Route Planning
+LA  - eng
+JF  - Ieee Transactions on Consumer Electronics
+PY  - 2024
+SN  - 15584127, 00983063
+PB  - Institute of Electrical and Electronics Engineers Inc.
+DO  - 10.1109/TCE.2024.3476156
+AB  - Route planning of consumer electronics supply chains,especially collision-avoidance,is a frequently encountered problem in artificial intelligence applications. This paper explores variational quantum algorithms that efficiently utilizes qubits to address this problem,adapting to the current limits on quantum computing resources. Firstly,by establishing a mathematically sufficient and necessary condition as a criterion of binary vectors identity,we have constructed infeasible solution constraint about infeasible solution constrains. Next,a route planning model is developed in this paper,which integrates the vehicle routing problem with the collision-avoidance problem. Then,our infeasible solution constraints are employed in a joint optimization algorithm for solving this model,specifically for reducing the number of qubits used during sub-loop elimination and for addressing collision scenarios. Moreover,in order to further reduce the demand for qubits,enabling the computation of larger-scale problems with a limited number of qubits,our algorithm is subsequently enhanced into a stepwise optimization algorithm at an acceptable cost. Finally,the effectiveness of the proposed method,model and algorithms are all validated through quantum simulation computations.
+ER  -
+
+TY  - JOUR
+AU  - Majland, Marco
+AU  - Zinner, Nikolaj Thomas
+TI  - Resource-efficient encoding algorithm for variational bosonic quantum
+  simulations
+LA  - und
+PY  - 2021
+AB  - Quantum algorithms are promising candidates for the enhancement of
+computational efficiency for a variety of computational tasks, allowing for the
+numerical study of physical systems intractable to classical computers. In the
+Noisy Intermediate Scale Quantum (NISQ) era of quantum computing, however,
+quantum resources are limited and thus quantum algorithms utilizing such
+resources efficiently are highly coveted. We present a resource-efficient
+quantum algorithm for bosonic ground and excited state computations using the
+Variational Quantum Eigensolver algorithm with the Unitary Coupled Cluster
+ansatz. The algorithm is based on two quantum resource reduction strategies,
+consisting of a selective Hamming truncation of the encoded qubit Hilbert space
+along with a qubit ground state encoding protocol. Our algorithm proves to
+significantly increase accuracy with a simultaneous reduction of required
+quantum resources compared to current approaches. Furthermore, the selective
+Hamming truncation of our algorithm presents a versatile method to tailor the
+utilized quantum resources of a quantum computer depending on the hardware
+parameters. Finally, our work may contribute to shortening the route to achieve
+a practical quantum advantage in bosonic quantum simulations. The study of
+vibrational properties of molecular systems is crucial in a variety of
+contexts, such as spectroscopy, fluorescence, chemical reaction dynamics and
+transport properties. Thus, our algorithm provides a resource-efficient
+flexible approach to study such applications in the context of quantum
+computational chemistry on quantum computers.
+ER  -
+
+TY  - CPAPER
+TI  - Proceedings - 2024 IEEE International Conference on Quantum Software, QSW 2024
+LA  - eng
+JF  - Proceedings - 2024 Ieee International Conference on Quantum Software, Qsw 2024
+PY  - 2024
+SN  - 9798350368475
+PB  - Institute of Electrical and Electronics Engineers Inc.
+AB  - The proceedings contain 21 papers. The topics discussed include: quantum circuit ansatz: patterns of abstraction and reuse of quantum algorithm design; towards application-aware quantum circuit compilation; efficient encodings of the travelling salesperson problem for variational quantum algorithms; AdvQuNN: a methodology for analyzing the adversarial robustness of quanvolutional neural networks; composable quantum oracles for shifting quantum circuits abstraction level; automated verification of SILQ quantum programs using SMT solvers; towards an automatic framework for solving optimization problems with quantum computers; bounding rounding errors in the simulation of quantum circuits; and stripping quantum decision diagrams of their identity.
+ER  -
+
+TY  - CPAPER
+TI  - 4th International Conference on Artificial Intelligence and Knowledge Processing, AIKP 2024
+LA  - eng
+JF  - Communications in Computer and Information Science
+VL  - 2228
+PY  - 2025
+SN  - 18650937, 18650929
+SN  - 3031734769, 3031734777, 9783031734762, 9783031734779
+PB  - Springer Science and Business Media Deutschland GmbH
+AB  - The proceedings contain 18 papers. The special focus in this conference is on Artificial Intelligence and Knowledge Processing. The topics include: Deciphering Excellence in Hospitality: A Study on India's Premier Hotels Using Natural Language Processing; Decoding Student Feedback in Engineering Education: A Latent Dirichlet Allocation and PyLDAvis Approach; real Time Traffic Management by Optimizing Level of Service; FGA-Net: Feature-Gated Attention for Glioma Brain Tumor Segmentation in Volumetric MRI Images; empowering Breast Cancer Detection: A Novel Hybrid Transfer Learning Approach with Aquila Optimizer; predictive Analytics in Weather Forecasting Using Machine Learning and Deep Learning; Brain Tumor Classification from MRI Scans Using a Novel CNN Architecture and Optimization Techniques; dual Model Dynamics: Enhancing Depression Prediction Through the Integrated Use of Convolutional Neural Networks and Support Vector Machines in Data-Driven Methods; quantum Simulation of 1D and 2D Lattice-Based Magnetic Quantum Systems Using Heisenberg Model via Variational Quantum Eigensolver; topological Quantum Computing for Engineers; traffic Forecasting with Spatio-Temporal Graph Neural Networks; A Deep Learning-Based Novel RNN-BiLSTM Architecture for Efficient Threat Detection in IoT Ecosystem; cyber-Attack Detection in Healthcare Systems Based on Modified -Recurrent Neural Network Approach; A Comparative Analysis of Aggregation Methods in Federated Learning on MNIST; hybrid Feature Approach for Enhancing Zero-Shot Image Classification; abusive Comment Detection from Bengali-English Code-Mixed Social Media Texts Using Ensemble of Deep Learning.
+ER  -
+
+TY  - JOUR
+AU  - Cao, Chenfeng
+AU  - Yu, Yunlong
+AU  - Wu, Zipeng
+AU  - Shannon, Nic
+AU  - Zeng, Bei
+AU  - Joynt, Robert
+TI  - Mitigating algorithmic errors in quantum optimization through energy extrapolation
+LA  - eng
+JF  - Quantum Science and Technology
+VL  - 8
+IS  - 1
+PY  - 2023
+SN  - 20589565
+PB  - Institute of Physics
+DO  - 10.1088/2058-9565/ac969c
+AB  - Quantum optimization algorithms offer a promising route to finding the ground states of target Hamiltonians on near-term quantum devices. Nonetheless, it remains necessary to limit the evolution time and circuit depth as much as possible, since otherwise decoherence will degrade the computation. Even when this is done, there always exists a non-negligible error in estimates of the ground state energy. Here we present a scalable extrapolation approach to mitigating this algorithmic error, which significantly improves estimates obtained using three well-studied quantum optimization algorithms: quantum annealing (QA), the variational quantum eigensolver, and the quantum imaginary time evolution at fixed evolution time or circuit depth. The approach is based on extrapolating the annealing time to infinity or the variance of estimates to zero. The method is reasonably robust against noise. For Hamiltonians which only involve few-body interactions, the additional computational overhead is an increase in the number of measurements by a constant factor. Analytic derivations are provided for the quadratic convergence of estimates of energy as a function of time in QA, and the linear convergence of estimates as a function of variance in all three algorithms. We have verified the validity of these approaches through both numerical simulation and experiments on IBM quantum machines. This work suggests a promising new way to enhance near-term quantum computing through classical post-processing.
+ER  -
+
+TY  - JOUR
+AU  - Melo, Filipe V.
+AU  - Sá, Nahum
+AU  - Roditi, Ithzak
+AU  - Landi, Gabriel T.
+AU  - Souza, Alexandre M.
+AU  - Oliveira, Ivan S.
+AU  - Sarthour, Roberto S.
+TI  - Implementation of a two-stroke quantum heat engine with a collisional
+  model
+LA  - und
+PY  - 2022
+AB  - We put forth a quantum simulation of a stroboscopic two-stroke thermal engine
+in the IBMQ processor. The system consists of a quantum spin chain connected to
+two baths at their boundaries, prepared at different temperatures using the
+variational quantum thermalizer algorithm. The dynamics alternates between heat
+and work strokes, which can be separately designed using independent quantum
+circuits. The results show good agreement with theoretical predictions,
+showcasing IBMQ as a powerful tool to study thermodynamics in the quantum
+regime, as well as the implementation of variational quantum algorithms in
+real-world quantum computers. It also opens the possibility of simulating
+quantum heat transport across a broad range of chain geometries and
+interactions.
+ER  -
+
+TY  - JOUR
+AU  - Melo, Filipe V.
+AU  - Sá, Nahum
+AU  - Roditi, Itzhak
+AU  - Souza, Alexandre M.
+AU  - Oliveira, Ivan S.
+AU  - Sarthour, Roberto S.
+AU  - Landi, Gabriel T.
+TI  - Implementation of a two-stroke quantum heat engine with a collisional model
+LA  - eng
+JF  - Physical Review a
+VL  - 106
+IS  - 3
+PY  - 2022
+SN  - 24699926, 24699934
+PB  - American Physical Society
+DO  - 10.1103/PhysRevA.106.032410
+AB  - We put forth a quantum simulation of a stroboscopic two-stroke thermal engine in the IBM quantum (IBMQ) processor. The system consists of a quantum spin chain connected to two baths at their boundaries, prepared at different temperatures using the variational quantum thermalizer algorithm. The dynamics alternates between heat and work strokes, which can be separately designed using independent quantum circuits. The results show good agreement with theoretical predictions, showcasing IBMQ as a powerful tool to study thermodynamics in the quantum regime, as well as the implementation of variational quantum algorithms in real-world quantum computers. It also opens the possibility of simulating quantum heat transport across a broad range of chain geometries and interactions.
+ER  -
+
+TY  - JOUR
+AU  - Amelia Carolina, Sparavigna
+TI  - Quantum Computing Logistics
+LA  - eng
+JF  - Hal (le Centre Pour La Communication Scientifique Directe)
+PY  - 2022
+PB  - Le Centre pour la Communication Scientifique Directe
+DO  - 10.2139/ssrn.4249265
+ER  -
+
+TY  - BOOK
+AU  - Sergeyev, Yaroslav D.
+TI  - Numerical Computations: Theory and Algorithms : 4th International Conference, NUMTA 2023, Pizzo Calabro, Italy, June 14–20, 2023 Revised Selected Papers, Part III
+LA  - eng
+A2  - Sergeyev, Yaroslav D., Kvasov, Dmitri E., Astorino, Annabella
+JF  - Numerical Computations: Theory and Algorithms: 4th International Conference, Numta 2023, Pizzo Calabro, Italy, June 14–20, 2023 Revised Selected Papers, Part Iii
+PY  - 2025
+SN  - 3031812468, 3031812476, 9783031812460, 9783031812477
+PB  - Springer Nature Switzerland
+AB  - Circuit-Based Numerical Solutions of Transmission Lines: Application to Korteweg-de Vries Equations -- Deep Learning Methods for fMRI Classification -- Deep Learning for Scoliosis Diagnosis: Methods and Databases -- Understanding Spreading Dynamics of COVID-19 by Mining Human Mobility Patterns -- Variational Quantum Algorithms for Gibbs State Preparation -- Towards a Parallel Code for Cellular Behavior in Vitro Prediction -- Combinators as Observable Presheaves: A Characterization in the Grossone Framework -- Applying Variational Quantum Classifier on Acceptability Judgements: A QNLP experiment -- Unimaginable Numbers: A Case Study as a Starting Point for an Educational Experimentation -- Some Notes on a Continuous Class of Octagons -- Game Theory Presented to Italian High School Students in Connection with Infinity Computing -- Meta Discussion Pedagogical Model to Foster Mathematics Teacher's Professional Development -- A Variational Quantum Soft Actor-Critic Algorithm for Continuous Control Tasks -- Named Entity Recognition to Extract Knowledge from Clinical Texts -- Applied Mathematical Modelling in the Physics Problem-Solving Classroom -- AIR SAFE: Leveraging IoT Sensors and AI Models to Foster Optimal Indoor Conditions -- Unimaginable Numbers and Infinity Computing at School: An Experimentation in Northern Italy -- The Cantor-Vitali Function and Infinity Computing -- New Probabilistic Methods for Generating Risk Maps -- How to Deal with Different Densities of Urban Spatial Data? A Comparison of Clustering Approaches to Detect City Hotspots -- The Impact of Vectorization on The Efficiency of a Parallel PIC Code for Numerical Simulation of Plasma Dynamics in Open Trap -- Algorithms for Design with CNC Machines: The Case Study of Wood Furniture -- PyGrossone: A Python Library for the Infinity Computer -- Towards Reproducible Research in Machine Learning via Blockchain -- Dossier Classification to Support Workflow Management Optimization -- Self-Sovereign Identification of IoT Devices by Using Physically Unclonable Functions and Blockchain -- Introducing Nondum, a Mathematical Notation for Computation with Approximations -- Visualization of Multilayer Networks -- Legal Systems and Fractals, Towards Infinity Computing -- Exploit Innovative Computer Architecture with Molecular Dynamics -- A Sentiment Analysis on Reviews of Italian Healthcare.-A Numerical Approach to Basic Calculus -- Modelling Hyperentanglement for Quantum Information Processes -- An Innovative Sentiment Analysis Model for COVID-19 Tweets -- Exploring Hierarchical MPI Reduction Collective Algorithms Targeted to Multicore Node Clusters.
+ER  -
+
+TY  - CPAPER
+AU  - Tannu, Swamit S.
+AU  - Qureshi, Moinuddin K.
+TI  - Not All Qubits Are Created Equal: A Case for Variability-Aware Policies for NISQ-Era Quantum Computers
+LA  - eng
+JF  - International Conference on Architectural Support for Programming Languages and Operating Systems - Asplos
+SP  - 987
+EP  - 999
+PY  - 2019
+SN  - 1450362400, 9781450362405
+PB  - Association for Computing Machinery
+DO  - 10.1145/3297858.3304007
+AB  - Existing and near-term quantum computers may not be large enough to support fault-tolerance. Such systems with few tens to few hundreds of qubits are termed as Noisy Intermediate Scale Quantum computers (NISQ), and these systems can provide benefits for a class of quantum algorithms. In this paper, we study the problem of Qubit-Allocation (mapping of program qubits to machine qubits) and Qubit-Movement (routing qubits from one location to another for entanglement) for NISQ machines. We observe that there can be variation in the error rates of different qubits and links, which can impact the decisions for qubit movement and qubit allocation. We analyze publicly available characterization data for the IBM-Q20 to quantify the variation and show that there is indeed significant variability in the error rates of the qubits and the links connecting them. We show that the device variability has a significant impact on the overall system reliability. To exploit the variability in error rate, we propose Variation-Aware Qubit Movement (VQM) and Variation-Aware Qubit Allocation (VQA), policies that optimize the movement and allocation of qubits to avoid the weaker qubits and links, and guide more operations towards the stronger qubits and links. Our evaluations, with a simulation-based model of IBM-Q20, show that Variation-Aware policies can improve the system reliability by up to 1.7x. We also evaluate our policies on the IBM-Q5 machine and demonstrate that our proposal significantly improves the reliability of real systems (up to 1.9X).
+ER  -
+
+TY  - JOUR
+TI  - Poster Presentations
+LA  - und
+JF  - Luminescence
+VL  - 29
+IS  - S1
+SP  - 55
+EP  - 106
+PY  - 2014
+SN  - 15227243, 15227235
+DO  - 10.1002/bio.2699_3
+ER  -

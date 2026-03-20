@@ -1,0 +1,37 @@
+﻿TY  - JOUR
+AU  - Li, Q.
+AU  - Huang, Z.
+AU  - Jiang, W.
+AU  - Tang, Z.
+AU  - Song, M.
+TI  - Quantum Algorithms Using Infeasible Solution Constraints for Collision-Avoidance Route Planning
+PY  - 2024
+T2  - IEEE Transactions on Consumer Electronics
+DO  - 10.1109/TCE.2024.3476156
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85207630597&doi=10.1109%2fTCE.2024.3476156&partnerID=40&md5=efc215a55dde7eb085d5e334e7739e2f
+AB  - Route planning of consumer electronics supply chains,especially collision-avoidance,is a frequently encountered problem in artificial intelligence applications. This paper explores variational quantum algorithms that efficiently utilizes qubits to address this problem,adapting to the current limits on quantum computing resources. Firstly,by establishing a mathematically sufficient and necessary condition as a criterion of binary vectors identity,we have constructed infeasible solution constraint about infeasible solution constrains. Next,a route planning model is developed in this paper,which integrates the vehicle routing problem with the collision-avoidance problem. Then,our infeasible solution constraints are employed in a joint optimization algorithm for solving this model,specifically for reducing the number of qubits used during sub-loop elimination and for addressing collision scenarios. Moreover,in order to further reduce the demand for qubits,enabling the computation of larger-scale problems with a limited number of qubits,our algorithm is subsequently enhanced into a stepwise optimization algorithm at an acceptable cost. Finally,the effectiveness of the proposed method,model and algorithms are all validated through quantum simulation computations.  © 1975-2011 IEEE.
+KW  - Binary Vectors Identity
+KW  - Collision-Avoidance
+KW  - Variational Quantum Algorithm
+KW  - Vehicle Routing Problem
+KW  - Quantum electronics
+KW  - Quantum entanglement
+KW  - Routing algorithms
+KW  - Variational techniques
+KW  - Vehicle routing
+KW  - Binary vector identity
+KW  - Binary vectors
+KW  - Collisions avoidance
+KW  - Electronics supply chain
+KW  - Infeasible solutions
+KW  - Optimization algorithms
+KW  - Quantum algorithms
+KW  - Route planning
+KW  - Variational quantum algorithm
+KW  - Vehicle Routing Problems
+KW  - Qubits
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 3
+ER  -
+

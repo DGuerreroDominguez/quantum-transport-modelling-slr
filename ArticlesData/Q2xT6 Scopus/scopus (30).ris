@@ -1,0 +1,165 @@
+﻿TY  - JOUR
+TI  - 3rd International Conference on Futuristic Trends in Network and Communication Technologies, FTNCT 2020
+PY  - 2021
+T2  - Communications in Computer and Information Science
+VL  - 1396 CCIS
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85107314541&partnerID=40&md5=34da1b408f30578d8817cf4c1980b959
+AB  - The proceedings contain 80 papers. The special focus in this conference is on Futuristic Trends in Network and Communication Technologies. The topics include: Unmanned Vehicles: Safety Management Systems and Safety Functions; probabilistic Characteristics of a Two-Channel Detector with Two Inertial Single-Photon Photoemission Devices and an Electronic Adder; energy and Spectrum-Aware Cluster-Based Routing in Cognitive Radio Sensor Networks; The Hybrid Approach for the Partitioning of VLSI Circuits; maximization of IoT Network Lifetime Using Efficient Clustering Technique; a Hybrid Metaheuristic to Solve Capacitated Vehicle Routing Problem; Energy Conservation in IOT: A Survey; identification of Implicit Threats Based on Analysis of User Activity in the Internet Space; EERO: Energy Efficient Route Optimization Technique for IoT Network; representing a Quantum Fourier Transform, Based on a Discrete Model of a Quantum-Mechanical System; forecasting Non-Stationary Time Series Using Kernel Regression for Control Problems; A Smart Waste Management System Based on LoRaWAN; simulation of the Semantic Network of Knowledge Representation in Intelligent Assistant Systems Based on Ontological Approach; A Deep Learning Approach for Autonomous Navigation of UAV; framework for Processing Medical Data and Secure Machine Learning in Internet of Medical Things; path Planning for Autonomous Robot Navigation: Present Approaches; Development of a Routing Protocol Based on Clustering in MANET; threat Model for Trusted Sensory Information Collection and Processing Platform; autonomous Navigation of Mobile Robot with Obstacle Avoidance: A Review; Design of a Distributed Debit Management Network of Operating Wells of Deposits of the CMW Region; design of U-Shaped Multiline Microstrip Patch Antenna for Advanced Wireless Applications.
+M3  - Conference review
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Li, J.
+AU  - Yuan, D.
+AU  - Liu, J.
+AU  - Jiang, Y.
+AU  - Chen, Y.
+AU  - Hsu, K.L.
+AU  - Sorooshian, S.
+TI  - Predicting floods in a large karst river basin by coupling PERSIANN-CCS QPEs with a physically based distributed hydrological model
+PY  - 2019
+T2  - Hydrology and Earth System Sciences
+VL  - 23
+IS  - 3
+SP  - 1505
+EP  - 1532
+DO  - 10.5194/hess-23-1505-2019
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85063048364&doi=10.5194%2fhess-23-1505-2019&partnerID=40&md5=9c17a75928f199777c46410caffa6ec0
+AB  - In general, there are no long-term meteorological or hydrological data available for karst river basins. The lack of rainfall data is a great challenge that hinders the development of hydrological models. Quantitative precipitation estimates (QPEs) based on weather satellites offer a potential method by which rainfall data in karst areas could be obtained. Furthermore, coupling QPEs with a distributed hydrological model has the potential to improve the precision of flood predictions in large karst watersheds. Estimating precipitation from remotely sensed information using an artificial neural network-cloud classification system (PERSIANN-CCS) is a type of QPE technology based on satellites that has achieved broad research results worldwide. However, only a few studies on PERSIANN-CCS QPEs have occurred in large karst basins, and the accuracy is generally poor in terms of practical applications. This paper studied the feasibility of coupling a fully physically based distributed hydrological model, i.e., the Liuxihe model, with PERSIANN-CCS QPEs for predicting floods in a large river basin, i.e., the Liujiang karst river basin, which has a watershed area of 58 270 km-2, in southern China. The model structure and function require further refinement to suit the karst basins. For instance, the sub-basins in this paper are divided into many karst hydrology response units (KHRUs) to ensure that the model structure is adequately refined for karst areas. In addition, the convergence of the underground runoff calculation method within the original Liuxihe model is changed to suit the karst water-bearing media, and the Muskingum routing method is used in the model to calculate the underground runoff in this study. Additionally, the epikarst zone, as a distinctive structure of the KHRU, is carefully considered in the model. The result of the QPEs shows that compared with the observed precipitation measured by a rain gauge, the distribution of precipitation predicted by the PERSIANN-CCS QPEs was very similar. However, the quantity of precipitation predicted by the PERSIANN-CCS QPEs was smaller. A post-processing method is proposed to revise the products of the PERSIANN-CCS QPEs. The karst flood simulation results show that coupling the post-processed PERSIANN-CCS QPEs with the Liuxihe model has a better performance relative to the result based on the initial PERSIANN-CCS QPEs. Moreover, the performance of the coupled model largely improves with parameter re-optimization via the post-processed PERSIANN-CCS QPEs. The average values of the six evaluation indices change as follows: the Nash-Sutcliffe coefficient increases by 14 %, the correlation coefficient increases by 15 %, the process relative error decreases by 8 %, the peak flow relative error decreases by 18 %, the water balance coefficient increases by 8 %, and the peak flow time error displays a 5 h decrease. Among these parameters, the peak flow relative error shows the greatest improvement; thus, these parameters are of page1506 the greatest concern for flood prediction. The rational flood simulation results from the coupled model provide a great practical application prospect for flood prediction in large karst river basins. © 2019 Author(s).
+KW  - China
+KW  - Classification (of information)
+KW  - Climate models
+KW  - Errors
+KW  - Floods
+KW  - Forecasting
+KW  - Hydrogeology
+KW  - Neural networks
+KW  - Rain
+KW  - Rain gages
+KW  - Rivers
+KW  - Runoff
+KW  - Watersheds
+KW  - Weather satellites
+KW  - Application prospect
+KW  - Cloud classification systems
+KW  - Correlation coefficient
+KW  - Distributed hydrological model
+KW  - Hydrological models
+KW  - Nash-Sutcliffe coefficient
+KW  - Postprocessing methods
+KW  - Underground runoffs
+KW  - flood
+KW  - hydrological modeling
+KW  - karst hydrology
+KW  - peak flow
+KW  - precipitation (climatology)
+KW  - prediction
+KW  - rainfall
+KW  - river basin
+KW  - runoff
+KW  - water budget
+KW  - watershed
+KW  - Landforms
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 26
+ER  -
+
+TY  - JOUR
+AU  - Boby, R.I.
+AU  - Mansor, H.
+AU  - Za'bah, N.F.
+AU  - Abidin, M.S.Z.
+AU  - Gunawan, T.S.
+AU  - Kazmi, S.A.
+TI  - QFT Controller for nonlinear system application to 3-DOF flight control module
+PY  - 2016
+T2  - ARPN Journal of Engineering and Applied Sciences
+VL  - 11
+IS  - 6
+SP  - 4172
+EP  - 4175
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84979263285&partnerID=40&md5=81a77b53a4e819a161640d3d6329c414
+AB  - In this paper we proposed a new control method based on Quantitative Feedback Theory (QFT) to design practical controller methodology for uncertain characterized with three degree of freedom flight control module. Again linearly least phase systems must sacrifice to desirable feedback control benefits to avoid an excessive uncertain disturbance. While preserving the robust stability Quantitative Feedback Theory (QFT) controller is proposed to control highly uncertain plants. A 3-DOF flight control system is intrinsically nonlinear, unstable and totally uncertain because of the nature of three individual angles known as pitch, elevation and travel. Most controllers which are designed for 3-DOF helicopter flight systems are base on a minimal linearized model where system variants and uncertainties are not accommodated. Again, the controllers are mostly designed to gratify the gains and phase margin specifications that may not guarantee to handle the sensitivity. In proposed controller QFT may explicitly deal with uncertainty, where large plant parameter uncertainties with lower bandwidth can be achieved by QFT controller. Pre-filter technique may improve both robust stability and robust tracking performance within a desired precision of the individual uncertain parameters of 3-DOF module. This controller may handle large parameter uncertainties and disturbance with rugged stability. The random optimization technique is engaged in the design to optimize the overall performance of the controller. Simulation results and equations are used to show effective result of the proposed control methodology. © 2006-2016 Asian Research Publishing Network (ARPN).
+KW  - 3DOF helicopter
+KW  - Pre-filter
+KW  - QFT controller
+KW  - Quantitative feedback theory
+KW  - Stability
+KW  - Uncertainties
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 1
+ER  -
+
+TY  - CONF
+TI  - 40th AIAA Aerospace Sciences Meeting and Exhibit 2002
+PY  - 2002
+T2  - 40th AIAA Aerospace Sciences Meeting and Exhibit
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84894328110&partnerID=40&md5=2185b648a281b799f9ec55fd71649de9
+AB  - The proceedings contain 934 papers. The special focus in this conference is on Aerospace Sciences. The topics include: Matchsticks, scram jets, and black holes - numerical simulation faces reality; design of the blended-wing-body subsonic transport; nonlinear aeroelasticity and unsteady aerodynamics; an experimental and analytical investigation of boundary layer reattachment using piezoelectric synthetic jet actuators; second wake onset in the flow behind a cylinder - quantitative flow field measurements; X-38 rudder configuration and parafoil cavity investigation; material characterization of polyurethane foam under hydrostatic loading; review of a combustion experiment performed during a parabolic flight; PIV study of negative incidence stator unsteady aerodynamics; intelligent executive guidance agent for free flight; jet exhaust and wing flap interactions; POD analysis of sound generation by a turbulent jet; reduced-order dynamical modeling of sound generation from a jet; a numerical investigation of broad-band shock noise; interaction of a moving shock wave with multiple serial vortices; modeling turbulence anisotropy for jet noise prediction; effects of endwall geometry and stacking on two-stage supersonic turbine performance; gas turbine emissions control using variable geometry combustor and fuel staging; smart materials and structures for future aircraft engines; unsteady pressure measurements in turbomachinery using porous pressure sensitive paint; surface roughness effects on shear drag and heat transfer; towards a golden age of satellite drag; high-alpha aerodynamics of a slender tailless aircraft; topology of the flow on a 65-deg delta wing at sideslip; multifaceted influence of fuselage geometry on delta wing aerodynamics; aerodynamic characteristics of a 65-deg delta wing at steep spin; flight dynamic analysis of the flow incidence rate model; analysis and design of rotors at ultra-low Reynolds numbers; sensitivity analysis with sliding boundary conditions; excrescence effects on boundary layers with pressure gradient at high subsonic speeds; inverse design of 3D transonic compressor blade using 3D navier-stokes flow physics; an inverse design method for designing isolated and wing-mounted engine nacelles; multi-point nose shape optimization of space launcher using response surface method; a parallelized 3D unstructured Euler solver for unsteady aerodynamics; self-organizing hybrid Cartesian grid/solution system with multigrid; adaptive mesh refinement within a chimera grid system; NACA 0012 aerofoil in an oscillating transonic free-stream; camber effects in the near-wake of oscillating airfoils; unsteady aerodynamic simulations of an oscillating airfoil with miniflaps; injection parameters for an effective passive control of cavity flow instability; an unstructured dynamic mesh procedure for 2D unsteady viscous flow simulations; unstructured dynamic mesh for large movement and deformation; sensitivity of synthetic jets to the design of the jet cavity; lumped element modeling of piezoelectric-driven synthetic jet actuators; effect of geometric parameters on the velocity output of a synthetic jet actuator; characterization of a compact, high-power synthetic jet actuator for flow separation control; creation of steering moments in supersonic flow by off-axis plasma heat addition; boundary layer control in magnetohydrodynamic flows; a dynamic spectral vanishing viscosity method for LES; recent progress on MILES for high Reynolds-number flows; computing complex flows on coarse grids using vorticity confinement; vorticity confinement on unstructured grids; roughness-induced transient growth in a flat-plate boundary layer; receptivity to freestream disturbances of mach 4.5 flow over a flat plate; experimental study of spark-induced impulsive acoustic disturbances in supersonic flow; advanced algorithms for design and optimization of quiet supersonic platforms; a shape optimization methodology for reducing the sonic boom initial pressure rise; natural laminar flow for quiet and efficient supersonic aircraft; supersonic laminar flow control on swept wings using distributed roughness; engine placement for sonic boom mitigation; suppression of sonic boom by dynamic off-body energy addition and shape optimization; receptivity of goertler vortices in hypersonic boundary layers; hypersonic flow stability experiments; nonlinear interactions in a hypersonic boundary layer; hypersonic transitional modeling for scramjet and missile applications; crow-like instability in the hydrodynamic flow over a forward-facing step in a closed channel; comparison of two distinct models of rotor wakes with experiment; the critical swirl of compressible vortex flows; time dependent flow prediction using a multigrid approach; optimal vortex ring formation at the exit of a shock tube; simulation of supersonic turbulent flowfield with transverse sonic injection; on the juncture vortex in the transverse planes; the structure of dissipative scales in axisymmetric turbulent gas-phase jets; evaluation of a subgrid model for the Arrhenius reaction rate in a jet; investigation of an assumed PDF approach for finite-rate chemistry; planar imaging of CH/OH and velocity in turbulent nonpremixed jet flames; initial test of a wire suspension mount for missile virtual flight testing; a new forced oscillation capability for the transonic dynamics tunnel; some aviation growth events; a historical review of wind tunnels at Wright-Patterson air force base; subsystem and coupling cost considerations using a visual dependency structure matrix; empirical studies of selection method for multiobjective genetic algorithm; physical science programs in the era of the international space station; first commercial operations on the international space station; the Italian microgravity science program; NRC evaluation of ISS opportunities and challenges; directional solidification in the microgravity science glovebox; microwaves as a tool for energetic materials characterization; optical diagnostics of oscillatory combustion processes controlled by modification of atomizing properties; chemiluminescence based local equivalence ratio measurement in turbulent premixed flames; advanced laser diagnostics for reactive flows; three dimensional magneto-fluid dynamics algorithm development; electrode boundary conditions in magnetogasdynamic flow control; vibrational relaxation and population depletion of nitrogen in hypersonic flows; computation of magnetohydrodynamic flows using an iterative PNS algorithm; development of miniature thermoacoustic refrigerators; heat transfer correlations for plain fin array cooler; liquid impingement cooling of high power density silicon carbide semiconductor devices; heat transfer for a pair of rectangular jets impinging upon an inclined surface; nonlinear filtering of statistical noise in DSMC solutions; modeling of chemically reacting flows from a side jet at high altitudes; chemical and flowfield modeling for enhanced analysis of contamination experiments; the Boltzmann equation and the DSMC method for rarefied gas dynamics; sonic line location in reacting flows; reciprocity equation for vibrationally excited molecular collisions in rarefied gas dynamics; reciprocity modelling techniques for rarefied hypersonic flows; assessment of dispersion-relation-preserving and space-time schemes for wave equations; a numerical technique for trailing edge acoustic scattering problems; a 3D discontinuous galerkin method for multiple pure tone noise problems; thrust augmentation with mixer/ejector systems; PSP measurement of fuel mixing in a supersonic combustor of scram-jet engine model; experimental and computational studies on two-dimensional supersonic mixing flow physics; the past twenty years of icing research and development at sikorsky aircraft; effect of intercycle ice accretions on airfoil performance; unsteady aerodynamic measurements on an iced airfoil; effects of roughness on the aerodynamic performance of a business jet tail; hybrid wing design to match full-scale wing ice accretion; sliding mode control applied to reconfigurable flight control design; design and flight testing of a UAV SAS using QFT; use of the extended bifurcation analysis method for flight control law design; nonlinear control of unmanned combat aircraft during take-off; performance of h-infinity filter-based data fusion algorithm with outliers; optical microsensors for fluid flow diagnostics; MEMS-based acoustic array technology; optimum spanloads in formation flight; adaptive aerodynamic optimization of regional jet aircraft; an adjoint method for the calculation of remote sensitivities in supersonic flow; wing design by solving adjoint equations; parallelized design optimization for transonic wings using aerodynamic sensitivity analysis; aerodynamic shape design of laminar wings for Japanese experimental SST; detection and control of flow separation using pressure sensors and micro-vortex generators; axisymmetric coaxial synthetic jets; development of a MEMS based microvalve for flow control using active dimples; active reduction of skin friction drag using low-speed streak control; modification of base drag through boundary-layer manipulation; performance optimization of the hypervelocity launcher system based on experimental results; CFD predictions of dynamic derivatives for missiles; application of MISDL/KDA aerodynamics prediction method to penguin missile; store separation simulation of penguin missile from helicopters; evaluation of the capabilities of CFD to predict store trajectories from attack aircraft; an experimental study of open cavity flows at low subsonic speeds; application of neural networks to store loads grid-survey.
+M3  - Conference review
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+TI  - 3rd International Conference on Futuristic Trends in Network and Communication Technologies, FTNCT 2020
+PY  - 2021
+T2  - Communications in Computer and Information Science
+VL  - 1395 CCIS
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85107339865&partnerID=40&md5=040bf55e1249682b8b2c93a78291170b
+AB  - The proceedings contain 80 papers. The special focus in this conference is on Futuristic Trends in Network and Communication Technologies. The topics include: Unmanned Vehicles: Safety Management Systems and Safety Functions; probabilistic Characteristics of a Two-Channel Detector with Two Inertial Single-Photon Photoemission Devices and an Electronic Adder; energy and Spectrum-Aware Cluster-Based Routing in Cognitive Radio Sensor Networks; The Hybrid Approach for the Partitioning of VLSI Circuits; maximization of IoT Network Lifetime Using Efficient Clustering Technique; a Hybrid Metaheuristic to Solve Capacitated Vehicle Routing Problem; Energy Conservation in IOT: A Survey; identification of Implicit Threats Based on Analysis of User Activity in the Internet Space; EERO: Energy Efficient Route Optimization Technique for IoT Network; representing a Quantum Fourier Transform, Based on a Discrete Model of a Quantum-Mechanical System; forecasting Non-Stationary Time Series Using Kernel Regression for Control Problems; A Smart Waste Management System Based on LoRaWAN; simulation of the Semantic Network of Knowledge Representation in Intelligent Assistant Systems Based on Ontological Approach; A Deep Learning Approach for Autonomous Navigation of UAV; framework for Processing Medical Data and Secure Machine Learning in Internet of Medical Things; path Planning for Autonomous Robot Navigation: Present Approaches; Development of a Routing Protocol Based on Clustering in MANET; threat Model for Trusted Sensory Information Collection and Processing Platform; autonomous Navigation of Mobile Robot with Obstacle Avoidance: A Review; Design of a Distributed Debit Management Network of Operating Wells of Deposits of the CMW Region; design of U-Shaped Multiline Microstrip Patch Antenna for Advanced Wireless Applications.
+M3  - Conference review
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Pacheco-Plata, F.
+AU  - Gutiérrez-Dorado, R.
+AU  - Iribe-Salazar, R.
+AU  - Carrazco-Escalante, M.
+AU  - Caro-Hernández, O.
+AU  - Camacho-Hernández, L.
+AU  - Vázquez-López, Y.
+AU  - Cronin, K.
+AU  - Caro-Corrales, J.
+TI  - Modeling of moisture content during baking with different approaches for effective diffusivity and evaluation of quality variables in baked potato slices
+PY  - 2024
+T2  - Journal of Food Science
+VL  - 89
+IS  - 9
+SP  - 5763
+EP  - 5773
+DO  - 10.1111/1750-3841.17257
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85201586219&doi=10.1111%2f1750-3841.17257&partnerID=40&md5=2adaad6a4d7ca06583c3c92fc673bfa9
+AB  - Abstract: Baking is a healthier alternative to frying, since texture, color, smell, and flavor are developed, without adding oil. The objective was to estimate the moisture content in potato slices, during baking using Fick's law of diffusion to model internal moisture transport and to assess the impact on quality attributes. Moisture transport kinetics were examined at three baking temperatures of 120, 130, and 140°C. Fick's law was employed to estimate average moisture content using different methods: considering both a constant (method of slopes by subperiods, MSS; and method of successive approximations, MSA) and a variable (represented as a quadratic function of time, QFT) behavior of effective diffusivity (De). Three quality variables were analyzed: water activity (aw, dew point hygrometry), total color difference (∆E, colorimetry), and fracturability (F, universal testing machine). The diffusivity estimated with the time-varying De method provided a more realistic description of moisture migration during baking. The aw, ∆E, and F for baked potato slices ranged from 0.234 to 0.276, 17.9 to 24.6, and 5.20 to 5.49 N, respectively. These attributes imply improved stability and extended shelf life, showing typical colors and texture changes for baked snacks. These changes are linked to variations in diffusivity, influenced by the size and quantity of micropores within the food structure. This study could allow an accurate prediction of mass transfer by considering variable De, facilitating the optimization of baking conditions. Practical Application: The analysis of the moisture content using Fick's law, considering a time-varying diffusivity, enables the optimization of the baking process for foods. This helps minimize the occurrence of defective products. © 2024 Institute of Food Technologists.
+KW  - baking
+KW  - diffusivity
+KW  - food engineering
+KW  - kinetic modeling
+KW  - mass transfer
+KW  - Color
+KW  - Cooking
+KW  - Diffusion
+KW  - Hot Temperature
+KW  - Kinetics
+KW  - Solanum tuberosum
+KW  - Water
+KW  - water
+KW  - chemistry
+KW  - color
+KW  - cooking
+KW  - diffusion
+KW  - high temperature
+KW  - kinetics
+KW  - potato
+KW  - procedures
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 0
+ER  -
+

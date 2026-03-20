@@ -1,0 +1,34 @@
+TY  - JOUR
+AU  - Huijgen, Onno
+AU  - Coopmans, Luuk
+AU  - Najafi, Peyman
+AU  - Benedetti, Marcello
+AU  - Kappen, Hilbert J.
+TI  - Training quantum Boltzmann machines with the β-variational quantum eigensolver
+LA  - eng
+JF  - Machine Learning: Science and Technology
+VL  - 5
+IS  - 2
+PY  - 2024
+SN  - 26322153
+PB  - Institute of Physics
+DO  - 10.1088/2632-2153/ad370f
+AB  - The quantum Boltzmann machine (QBM) is a generative machine learning model for both classical data and quantum states. Training the QBM consists of minimizing the relative entropy from the model to the target state. This requires QBM expectation values which are computationally intractable for large models in general. It is therefore important to develop heuristic training methods that work well in practice. In this work, we study a heuristic method characterized by a nested loop: the inner loop trains the β-variational quantum eigensolver (β-VQE) by Liu et al (2021 Mach. Learn.: Sci. Technol. 2 025011) to approximate the QBM expectation values; the outer loop trains the QBM to minimize the relative entropy to the target. We show that low-rank representations obtained by β-VQE provide an efficient way to learn low-rank target states, such as classical data and low-temperature quantum tomography. We test the method on both classical and quantum target data with numerical simulations of up to 10 qubits. For the cases considered here, the obtained QBMs can model the target to high fidelity. We implement a trained model on a physical quantum device. The approach offers a valuable route towards variationally training QBMs on near-term quantum devices.
+ER  -
+
+TY  - CPAPER
+AU  - Zheng, De Ren
+AU  - Wang, Bin Qiang
+AU  - Yi, Peng
+AU  - Li, Hui
+TI  - Scheduling cells with multiple output ports for input-queued switches
+LA  - eng
+JF  - 2009 International Conference on Signal Acquisition and Processing, Icsap 2009
+SP  - 163
+EP  - 167
+PY  - 2009
+SN  - 0769535941, 1509071695, 9780769535944, 9781509071692
+PB  - IEEE COMPUTER SOC
+DO  - 10.1109/ICSAP.2009.55
+AB  - With the line rate growing faster and faster, input queued switching architecture has become attractive in high performance switches and routers due to the no speedup character. In this paper, a simple efficient queue balance matching (QBM) algorithm is presented supporting cells with multiple output ports based on the multi-hop routing. The QBM algorithm combines the virtue of iSLIP and EiSLIP, and uses a multiple eligible output ports manner to efficiently balance the traffic into all input queues. Simulation results show that the throughput can be increased more than 25% comparing to iSLIP under non-uniform traffic with single iteration, and the delay performance is improved finely. It is also easy to be implemented as iSLIP. © 2009 IEEE.
+ER  -

@@ -1,0 +1,181 @@
+﻿TY  - JOUR
+AU  - Tudisco, A.
+AU  - Volpe, D.
+AU  - Ranieri, G.
+AU  - Curato, G.
+AU  - Ricossa, D.
+AU  - Graziano, M.
+AU  - Corbelletto, D.
+TI  - Evaluating the Computational Advantages of the Variational Quantum Circuit Model in Financial Fraud Detection
+PY  - 2024
+T2  - IEEE Access
+VL  - 12
+SP  - 102918
+EP  - 102940
+DO  - 10.1109/ACCESS.2024.3432312
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85199534587&doi=10.1109%2fACCESS.2024.3432312&partnerID=40&md5=0fd7a98de69f35a2971643b9b9947d48
+AB  - Home banking and digital payments diffusion has greatly increased in recent years. As a result, fraud has also dramatically grown, resulting in the loss of billions of dollars worldwide every year. Therefore, banks and financial institutions are required to offer clients increasingly effective and sophisticated services for illegal transaction detection. Machine learning strategies are commonly employed for this crucial application. However, classical models are not satisfactory enough in highly unbalanced classification tasks like fraud detection. Quantum machine learning, working intrinsically in a higher dimensional computation space thanks to superposition and entanglement, can express more complex models than its classical counterpart and thus could provide a significant advantage in identifying potential illegal transactions. This work aims to analyze the potential of quantum classifiers in the fraud detection context, focusing on the Variational Quantum Circuit (VQC) model. The study has been led by exploiting a dataset based on real transactions provided by Intesa Sanpaolo of 500000 items with 15 features. Considering the limitations of contemporary Noisy Intermediate-Scale Quantum (NISQ) computers and quantum simulators, the dataset has been reduced in the number of transactions and features, exploiting Principal Component Analysis (PCA). The results obtained have been compared on equal terms with those of the most commonly employed classical methods, such as Logistic Regression, Random Forest, XGBoost, Support Vector Machine, and Neural Networks, obtaining a better classification quality in terms of recall. Even though this work is preliminary, the results are encouraging and prove the quantum models' potential in highly unbalanced classification tasks. © 2013 IEEE.
+KW  - angle encoding
+KW  - anomaly detection
+KW  - anti-fraud engine
+KW  - fraud detection
+KW  - hybrid quantum-classical computing
+KW  - quantum computing
+KW  - quantum data encoding
+KW  - Quantum machine learning
+KW  - quantum neural network
+KW  - transaction classification
+KW  - variational quantum circuits
+KW  - Circuit simulation
+KW  - Crime
+KW  - Encoding (symbols)
+KW  - Learning systems
+KW  - Neural networks
+KW  - Principal component analysis
+KW  - Quantum entanglement
+KW  - Signal encoding
+KW  - Timing circuits
+KW  - Angle encoding
+KW  - Anomaly detection
+KW  - Anti-fraud engine
+KW  - Classical computing
+KW  - Computational modelling
+KW  - Data encoding
+KW  - Encodings
+KW  - Fraud
+KW  - Fraud detection
+KW  - Hybrid quantum-classical computing
+KW  - Integrated circuit modeling
+KW  - Machine-learning
+KW  - Neural-networks
+KW  - Quantum circuit
+KW  - Quantum Computing
+KW  - Quantum data
+KW  - Quantum data encoding
+KW  - Quantum machine learning
+KW  - Quantum machines
+KW  - Quantum neural networks
+KW  - Quantum-classical
+KW  - Random forests
+KW  - Transaction classification
+KW  - Variational quantum circuit
+KW  - Quantum computers
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Bouchmal, O.
+AU  - Cimoli, B.
+AU  - Stabile, R.
+AU  - Vegas Olmos, J.J.
+AU  - Monroy, I.T.
+TI  - Quantum Approximate Optimization Algorithm for Routing Optimization in 6G Optical Networks
+PY  - 2024
+T2  - Proceedings of the 2024 International Conference on Optical Network Design and Modeling, ONDM 2024
+DO  - 10.23919/ONDM61578.2024.10582687
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85199299362&doi=10.23919%2fONDM61578.2024.10582687&partnerID=40&md5=9c03a8c9c14fd2632c6a698e137998ce
+AB  - Routing optimization refers to finding the most efficient path for data to travel between two devices on a network. In this paper, we propose the use of the Quantum Approximate Optimization Algorithm (QAOA) as a novel approach to routing optimization in the context of 6G networks. To this end, we first develop a cost function for single source single destination routing, which is then converted into a Quadratic Unconstrained Binary Optimization formulation. We subsequently extract the equivalent Variational Quantum Circuit of the QAOA from the optimization formulation. To test the performance of the QAOA, we utilize IBM's Qiskit toolkit and QASM-simulator and the Constrained by Linear Approximation optimizer to update the circuit parameters. Simulation results show that the proposed approach converges to the optimal solution, and only after less than 25 iteration, the QAOA was able to find the optimal path for the routing problem.  © 2024 IFIP.
+KW  - 6G
+KW  - Networking
+KW  - QAOA
+KW  - QML
+KW  - QUBO
+KW  - Routing
+KW  - VQC
+KW  - Constrained optimization
+KW  - Iterative methods
+KW  - Routing algorithms
+KW  - 6g
+KW  - Approximate optimization
+KW  - Networking
+KW  - Optimization algorithms
+KW  - QML
+KW  - Quantum approximate optimization algorithm
+KW  - QUBO
+KW  - Routing optimization
+KW  - Routings
+KW  - VQC
+KW  - Cost functions
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 2
+ER  -
+
+TY  - JOUR
+AU  - Xia, Y.
+AU  - Li, W.
+AU  - Zhuang, Q.
+AU  - Zhang, Z.
+TI  - Quantum-Enhanced Data Classification with a Variational Entangled Sensor Network
+PY  - 2021
+T2  - Physical Review X
+VL  - 11
+IS  - 2
+C7  - 021047
+DO  - 10.1103/PhysRevX.11.021047
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85107945819&doi=10.1103%2fPhysRevX.11.021047&partnerID=40&md5=b15ff7e4a67f535725528acb14bafcde
+AB  - Variational quantum circuits (VQCs) built upon noisy intermediate-scale quantum (NISQ) hardware, in conjunction with classical processing, constitute a promising architecture for quantum simulations, classical optimization, and machine learning. However, the required VQC depth to demonstrate a quantum advantage over classical schemes is beyond the reach of available NISQ devices. Supervised learning assisted by an entangled sensor network (SLAEN) is a distinct paradigm that harnesses VQCs trained by classical machine-learning algorithms to tailor multipartite entanglement shared by sensors for solving practically useful data-processing problems. Here, we report the first experimental demonstration of SLAEN and show an entanglement-enabled reduction in the error probability for classification of multidimensional radio-frequency signals. Our work paves a new route for quantum-enhanced data processing and its applications in the NISQ era.  © 2021 authors. Published by the American Physical Society.
+KW  - Data handling
+KW  - Machine learning
+KW  - Quantum chemistry
+KW  - Quantum entanglement
+KW  - Sensor networks
+KW  - Classical optimization
+KW  - Data classification
+KW  - Error probabilities
+KW  - Experimental demonstrations
+KW  - Multipartite entanglements
+KW  - Processing problems
+KW  - Quantum simulations
+KW  - Radiofrequency signals
+KW  - Learning algorithms
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 38
+ER  -
+
+TY  - JOUR
+AU  - Ho, W.W.
+AU  - Jonay, C.
+AU  - Hsieh, T.H.
+TI  - Ultrafast variational simulation of nontrivial quantum states with long-range interactions
+PY  - 2019
+T2  - Physical Review A
+VL  - 99
+IS  - 5
+C7  - 052332
+DO  - 10.1103/PhysRevA.99.052332
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85066856243&doi=10.1103%2fPhysRevA.99.052332&partnerID=40&md5=fd63f4e74ded009c1ea22884f4d5e978
+AB  - State preparation protocols ideally require as minimal operations as possible in order to be implemented in near-term, potentially noisy quantum devices. Motivated by long-range interactions (LRIs) intrinsic to many present-day experimental platforms (trapped ions, Rydberg atom arrays, etc.), we investigate the efficacy of variationally simulating nontrivial quantum states using the variational quantum-classical simulation (VQCS) protocol explored recently [W. W. Ho and T. H. Hsieh, SciPost Phys. 6, 29 (2019)2542-465310.21468/SciPostPhys.6.3.029], in the presence of LRIs. We show that this approach leads to extremely efficient state preparation: for example, Greenberger-Horne-Zeilinger (GHZ) states can be prepared with O(1) iterations of the protocol, and a quantum critical point of the long-range transverse-field Ising model (TFIM) can be prepared with >99% fidelity on a 100-qubit system with only one iteration. Furthermore, we show that VQCS with LRIs is a promising route for exploring generic points in the phase diagram of the long-range TFIM. Our approach thus provides concrete, ultrafast protocols for quantum simulators equipped with long-range interactions. © 2019 American Physical Society.
+KW  - Ising model
+KW  - Simulation platform
+KW  - Trapped ions
+KW  - Experimental platform
+KW  - Greenberger-Horne-Zeilinger state
+KW  - Long range interactions
+KW  - Quantum critical points
+KW  - Quantum simulators
+KW  - Quantum-classical
+KW  - State preparation
+KW  - Transverse-field Ising model
+KW  - Quantum theory
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 24
+ER  -
+
+TY  - CONF
+TI  - 1st International Conference on Computational Intelligence and Energy Advancements, ICCIEA 2020
+PY  - 2021
+T2  - Journal of Physics: Conference Series
+VL  - 1817
+IS  - 1
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85103121415&partnerID=40&md5=1d1e1ea996f74d7f867ab8b341f2cd6f
+AB  - The proceedings contain 30 papers. The topics discussed include: a reconfigurable filtenna for cognitive radio application; key enabling technologies of 5G wireless mobile communication; low noise amplifier design and performance analysis of RF front-end for narrow band receivers; reinforcement learning for pedestrian evacuation simulation and optimization during pandemic and panic situation; prediction of heart diseases using random forest; feature extraction and reconstruction of medical images using two-dimensional principal component analysis; AI based computation for hybrid precoding/combining in millimeter-wave massive MIMO systems; spam detection and spammer behavior analysis in twitter using content based filtering approach; evaluating the performance of some local optimizers for variational quantum classifiers; and a simulation study of duration-budget trade-off in home renovation project management.
+M3  - Conference review
+DB  - Scopus
+N1  - Export Date: 15 April 2025; Cited By: 0
+ER  -
+

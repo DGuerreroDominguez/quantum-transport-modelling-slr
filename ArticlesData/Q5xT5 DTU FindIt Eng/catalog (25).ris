@@ -1,0 +1,68 @@
+TY  - BOOK
+AU  - Sergeyev, Yaroslav D.
+TI  - Numerical Computations: Theory and Algorithms : 4th International Conference, NUMTA 2023, Pizzo Calabro, Italy, June 14–20, 2023 Revised Selected Papers, Part III
+LA  - eng
+A2  - Sergeyev, Yaroslav D., Kvasov, Dmitri E., Astorino, Annabella
+JF  - Numerical Computations: Theory and Algorithms: 4th International Conference, Numta 2023, Pizzo Calabro, Italy, June 14–20, 2023 Revised Selected Papers, Part Iii
+PY  - 2025
+SN  - 3031812468, 3031812476, 9783031812460, 9783031812477
+PB  - Springer Nature Switzerland
+AB  - Circuit-Based Numerical Solutions of Transmission Lines: Application to Korteweg-de Vries Equations -- Deep Learning Methods for fMRI Classification -- Deep Learning for Scoliosis Diagnosis: Methods and Databases -- Understanding Spreading Dynamics of COVID-19 by Mining Human Mobility Patterns -- Variational Quantum Algorithms for Gibbs State Preparation -- Towards a Parallel Code for Cellular Behavior in Vitro Prediction -- Combinators as Observable Presheaves: A Characterization in the Grossone Framework -- Applying Variational Quantum Classifier on Acceptability Judgements: A QNLP experiment -- Unimaginable Numbers: A Case Study as a Starting Point for an Educational Experimentation -- Some Notes on a Continuous Class of Octagons -- Game Theory Presented to Italian High School Students in Connection with Infinity Computing -- Meta Discussion Pedagogical Model to Foster Mathematics Teacher's Professional Development -- A Variational Quantum Soft Actor-Critic Algorithm for Continuous Control Tasks -- Named Entity Recognition to Extract Knowledge from Clinical Texts -- Applied Mathematical Modelling in the Physics Problem-Solving Classroom -- AIR SAFE: Leveraging IoT Sensors and AI Models to Foster Optimal Indoor Conditions -- Unimaginable Numbers and Infinity Computing at School: An Experimentation in Northern Italy -- The Cantor-Vitali Function and Infinity Computing -- New Probabilistic Methods for Generating Risk Maps -- How to Deal with Different Densities of Urban Spatial Data? A Comparison of Clustering Approaches to Detect City Hotspots -- The Impact of Vectorization on The Efficiency of a Parallel PIC Code for Numerical Simulation of Plasma Dynamics in Open Trap -- Algorithms for Design with CNC Machines: The Case Study of Wood Furniture -- PyGrossone: A Python Library for the Infinity Computer -- Towards Reproducible Research in Machine Learning via Blockchain -- Dossier Classification to Support Workflow Management Optimization -- Self-Sovereign Identification of IoT Devices by Using Physically Unclonable Functions and Blockchain -- Introducing Nondum, a Mathematical Notation for Computation with Approximations -- Visualization of Multilayer Networks -- Legal Systems and Fractals, Towards Infinity Computing -- Exploit Innovative Computer Architecture with Molecular Dynamics -- A Sentiment Analysis on Reviews of Italian Healthcare.-A Numerical Approach to Basic Calculus -- Modelling Hyperentanglement for Quantum Information Processes -- An Innovative Sentiment Analysis Model for COVID-19 Tweets -- Exploring Hierarchical MPI Reduction Collective Algorithms Targeted to Multicore Node Clusters.
+ER  -
+
+TY  - CPAPER
+TI  - 1st International Conference on Computational Intelligence and Energy Advancements, ICCIEA 2020
+LA  - eng
+JF  - Journal of Physics: Conference Series
+VL  - 1817
+IS  - 1
+PY  - 2021
+SN  - 17426596, 17426588
+PB  - IOP Publishing Ltd
+AB  - The proceedings contain 30 papers. The topics discussed include: a reconfigurable filtenna for cognitive radio application; key enabling technologies of 5G wireless mobile communication; low noise amplifier design and performance analysis of RF front-end for narrow band receivers; reinforcement learning for pedestrian evacuation simulation and optimization during pandemic and panic situation; prediction of heart diseases using random forest; feature extraction and reconstruction of medical images using two-dimensional principal component analysis; AI based computation for hybrid precoding/combining in millimeter-wave massive MIMO systems; spam detection and spammer behavior analysis in twitter using content based filtering approach; evaluating the performance of some local optimizers for variational quantum classifiers; and a simulation study of duration-budget trade-off in home renovation project management.
+ER  -
+
+TY  - JOUR
+AU  - Xia, Yi
+AU  - Li, Wei
+AU  - Zhuang, Quntao
+AU  - Zhang, Zheshen
+TI  - Quantum-Enhanced Data Classification with a Variational Entangled Sensor Network
+LA  - eng
+JF  - Physical Review X
+VL  - 11
+IS  - 2
+PY  - 2021
+SN  - 21603308
+PB  - American Physical Society
+DO  - 10.1103/PhysRevX.11.021047
+AB  - Variational quantum circuits (VQCs) built upon noisy intermediate-scale quantum (NISQ) hardware, in conjunction with classical processing, constitute a promising architecture for quantum simulations, classical optimization, and machine learning. However, the required VQC depth to demonstrate a quantum advantage over classical schemes is beyond the reach of available NISQ devices. Supervised learning assisted by an entangled sensor network (SLAEN) is a distinct paradigm that harnesses VQCs trained by classical machine-learning algorithms to tailor multipartite entanglement shared by sensors for solving practically useful data-processing problems. Here, we report the first experimental demonstration of SLAEN and show an entanglement-enabled reduction in the error probability for classification of multidimensional radio-frequency signals. Our work paves a new route for quantum-enhanced data processing and its applications in the NISQ era.
+ER  -
+
+TY  - JOUR
+AU  - Ho, Wen Wei
+AU  - Jonay, Cheryne
+AU  - Hsieh, Timothy H.
+TI  - Ultrafast variational simulation of nontrivial quantum states with long-range interactions
+LA  - eng
+JF  - Physical Review a
+VL  - 99
+IS  - 5
+PY  - 2019
+SN  - 24699934, 24699926, 24699942
+PB  - American Physical Society
+DO  - 10.1103/PhysRevA.99.052332
+AB  - State preparation protocols ideally require as minimal operations as possible in order to be implemented in near-term, potentially noisy quantum devices. Motivated by long-range interactions (LRIs) intrinsic to many present-day experimental platforms (trapped ions, Rydberg atom arrays, etc.), we investigate the efficacy of variationally simulating nontrivial quantum states using the variational quantum-classical simulation (VQCS) protocol explored recently [W. W. Ho and T. H. Hsieh, SciPost Phys. 6, 29 (2019)2542-465310.21468/SciPostPhys.6.3.029], in the presence of LRIs. We show that this approach leads to extremely efficient state preparation: for example, Greenberger-Horne-Zeilinger (GHZ) states can be prepared with O(1) iterations of the protocol, and a quantum critical point of the long-range transverse-field Ising model (TFIM) can be prepared with >99% fidelity on a 100-qubit system with only one iteration. Furthermore, we show that VQCS with LRIs is a promising route for exploring generic points in the phase diagram of the long-range TFIM. Our approach thus provides concrete, ultrafast protocols for quantum simulators equipped with long-range interactions.
+ER  -
+
+TY  - 
+AU  - Ho, Wen Wei
+AU  - Jonay, Cheryne
+AU  - Hsieh, Timothy H.
+TI  - Ultrafast variational simulation of non-trivial quantum states with long range interactions
+LA  - eng
+JF  - Arxiv
+PY  - 2018
+PB  - arXiv
+AB  - State preparation protocols ideally require as minimal operations as possible, in order to be implemented in near-term, potentially noisy quantum devices. Motivated by long range interactions (LRIs) intrinsic to many present-day experimental platforms (trapped ions, Rydberg atom arrays, etc.), we investigate the eficacy of variationally simulating non-trivial quantum states using the Variational Quantum-Classical Simulation (VQCS) protocol explored recently in [SciPost Phys. 6, 029 (2019)], in the presence of LRIs. We show that this approach leads to extremely eficient state preparation: For example, Greene-Horne-Zeilinger (GHZ) states can be prepared with O(1) iterations of the protocol, and a quantum critical point of the long range transverse field Ising model (TFIM) can be prepared with > 99% fidelity on a 100 qubit system with only one iteration. Furthermore, we show that VQCS with LRIs is a promising route for exploring generic points in the phase diagram of the long-range TFIM. Our approach thus provides concrete, ultrafast protocols for quantum simulators equipped with long range interactions.
+ER  -

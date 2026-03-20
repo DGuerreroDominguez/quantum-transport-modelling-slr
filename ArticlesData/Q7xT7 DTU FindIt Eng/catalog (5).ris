@@ -1,0 +1,95 @@
+TY  - CPAPER
+TI  - 10th EAI International Conference on Industrial Networks and Intelligent Systems, INISCOM 2024
+LA  - eng
+JF  - Lecture Notes of the Institute for Computer Sciences, Social-informatics and Telecommunications Engineering, Lnicst
+VL  - 595
+PY  - 2024
+SN  - 1867822x, 18678211
+SN  - 3031673565, 9783031673566
+PB  - Springer Science and Business Media Deutschland GmbH
+AB  - The proceedings contain 18 papers. The special focus in this conference is on Industrial Networks and Intelligent Systems. The topics include: Joint Online Adaptive Optimal Tracking Control and Frequency-Response Method for Speed of PMSM and DC-Link Voltage Peak Controller Design in Bi-directional Quasi Z-Source Inverter; Variational Quantum Eigensolver for Optimizing Network Scheduling Using QUBO Formulation; optimal Task Scheduling in 6G Networks: A Variational Quantum Computing Approach; multi-agent Quantum Reinforcement Learning for Digital Twin Placement in 6G Multi-tier Systems; Multi-user Ambient Backscatter Communication-Based and STAR-RIS-Aided Mobile Edge Computing Network with Uplink NOMA Scheme: A Joint Design; Hybrid Federated and Multi-agent DRL-Based Resource Allocation in Digital Twin-IoV Networks; performance Comparison in Traffic Sign Recognition Using Deep Learning; energy and Distance Aware Clustering-Based Routing for Low-Power IoT-Enabled Wireless Sensor Networks; Enhancing Energy Harvesting Efficiency for IRS-Aided TS-SWIPT Network with Practical Phase Shifts; contactless Palmprint Recognition Using Discriminant Multi-directional Feature Codes; a Survey on Wireless Data Aggregation Through Over-the-Air Computation; CLIP-Prefix for Image Captioning and an Experiment on Blind Image Guessing; Features Inspired PM2.5 Prediction: A Belfast City Case Study; Understanding the Security Implications in O-RAN with Abusive Adversaries; Joint Secrecy and Latency Performance Analysis for UAV-Assisted Uplink NOMA-Based IoT Network with Mobile Edge Computing; crossCert: A Privacy-Preserving Cross-Chain System for Educational Credential Verification Using Zero-Knowledge Proof.
+ER  -
+
+TY  - CPAPER
+TI  - 15th Metaheuristics International Conference, MIC 2024
+LA  - eng
+JF  - Lecture Notes in Computer Science (including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 14753
+PY  - 2024
+SN  - 16113349, 03029743
+SN  - 3031629116, 3031629124, 9783031629112, 9783031629129
+PB  - Springer Science and Business Media Deutschland GmbH
+AB  - The proceedings contain 70 papers. The special focus in this conference is on Metaheuristics. The topics include: A Continuous-GRASP Random-Key Optimizer; adaptive Ant Colony Optimization Using Node Clustering with Simulated Annealing; job-Shop Scheduling with Robot Synchronization for Transport Operations; SIRO: A Deep Learning-Based Next-Generation Optimizer for Solving Global Optimization Problems; Investigation of the Benefit of Extracting Patterns from Local Optima to Solve a Bi-objective VRPTW; a Memetic Algorithm for Large-Scale Real-World Vehicle Routing Problems with Simultaneous Pickup and Delivery with Time Windows; tabu Search for Solving Covering Salesman Problem with Nodes and Segments; VNS with Path Relinking for the Profitable Close-Enough Arc Routing Problem; A Simulated Annealing Algorithm to Learn an RMP Preference Model; iterative Heuristic over Periods for the Inventory Routing Problem; combining Heuristics and Constraint Programming for the Parallel Drone Scheduling Vehicle Routing Problem with Collective Drones; a Re-optimization Heuristic for a Dial-a-Ride Problem in the Transportation of Patients; solving the Integrated Patient-to-Room and Nurse-to-Patient Assignment by Simulated Annealing; enhancing Real-World Applicability in Home Healthcare: A Metaheuristic Approach for Advanced Routing and Scheduling; solving the Two-Stage Robust Elective Patient Surgery Planning Under Uncertainties with Intensive Care Unit Beds Availability; extracting White-Box Knowledge from Word Embedding: Modeling as an Optimization Problem; a Hybrid Biased-Randomized Heuristic for a Home Care Problem with Team Scheme Selection; extended Set Covering for Time Series Segmentation; Indirect Flow-Shop Coding Using Rank: Application to Indirect QAOA; Utilizing Graph Sparsification for Pre-processing in Max Cut QUBO Solver; addressing Machine Unavailability in Job Shop Scheduling: A Quantum Computing Approach; Solving Edge-Weighted Maximum Clique Problem with DCA Warm-Start Quantum Approximate Optimization Algorithm; Comparing Integer Encodings in QUBO for Quantum and Digital Annealing: The Travelling Salesman Problem; solving Quadratic Knapsack Problem with Biased Quantum State Optimization Algorithm; quantum Optimization Approach for Feature Selection in Machine Learning; an Efficient Algorithm for the T-Row Facility Layout Problem.
+ER  -
+
+TY  - CPAPER
+TI  - 15th Metaheuristics International Conference, MIC 2024
+LA  - eng
+JF  - Lecture Notes in Computer Science (including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 14754
+PY  - 2024
+SN  - 16113349, 03029743
+SN  - 3031629213, 3031629221, 9783031629211, 9783031629228
+PB  - Springer Science and Business Media Deutschland GmbH
+AB  - The proceedings contain 70 papers. The special focus in this conference is on Metaheuristics. The topics include: A Continuous-GRASP Random-Key Optimizer; adaptive Ant Colony Optimization Using Node Clustering with Simulated Annealing; job-Shop Scheduling with Robot Synchronization for Transport Operations; SIRO: A Deep Learning-Based Next-Generation Optimizer for Solving Global Optimization Problems; Investigation of the Benefit of Extracting Patterns from Local Optima to Solve a Bi-objective VRPTW; a Memetic Algorithm for Large-Scale Real-World Vehicle Routing Problems with Simultaneous Pickup and Delivery with Time Windows; tabu Search for Solving Covering Salesman Problem with Nodes and Segments; VNS with Path Relinking for the Profitable Close-Enough Arc Routing Problem; A Simulated Annealing Algorithm to Learn an RMP Preference Model; iterative Heuristic over Periods for the Inventory Routing Problem; combining Heuristics and Constraint Programming for the Parallel Drone Scheduling Vehicle Routing Problem with Collective Drones; a Re-optimization Heuristic for a Dial-a-Ride Problem in the Transportation of Patients; solving the Integrated Patient-to-Room and Nurse-to-Patient Assignment by Simulated Annealing; enhancing Real-World Applicability in Home Healthcare: A Metaheuristic Approach for Advanced Routing and Scheduling; solving the Two-Stage Robust Elective Patient Surgery Planning Under Uncertainties with Intensive Care Unit Beds Availability; extracting White-Box Knowledge from Word Embedding: Modeling as an Optimization Problem; a Hybrid Biased-Randomized Heuristic for a Home Care Problem with Team Scheme Selection; extended Set Covering for Time Series Segmentation; Indirect Flow-Shop Coding Using Rank: Application to Indirect QAOA; Utilizing Graph Sparsification for Pre-processing in Max Cut QUBO Solver; addressing Machine Unavailability in Job Shop Scheduling: A Quantum Computing Approach; Solving Edge-Weighted Maximum Clique Problem with DCA Warm-Start Quantum Approximate Optimization Algorithm; Comparing Integer Encodings in QUBO for Quantum and Digital Annealing: The Travelling Salesman Problem; solving Quadratic Knapsack Problem with Biased Quantum State Optimization Algorithm; quantum Optimization Approach for Feature Selection in Machine Learning; an Efficient Algorithm for the T-Row Facility Layout Problem.
+ER  -
+
+TY  - CPAPER
+AU  - He, Haoqi
+TI  - Quantum Annealing and GNN for Solving TSP with QUBO
+LA  - eng
+JF  - Lecture Notes in Computer Science (including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 15180
+SP  - 134
+EP  - 145
+PY  - 2024
+SN  - 16113349, 03029743
+SN  - 981977800X, 9789819778003, 9819778018, 9789819778010
+PB  - Springer Science and Business Media Deutschland GmbH
+DO  - 10.1007/978-981-97-7801-0_12
+AB  - This paper investigates the application of Quadratic Unconstrained Binary Optimization (QUBO) models for solving the Travelling Salesman Problem (TSP) using Quantum Annealing (QA) and Graph Neural Networks (GNNs). Quantum Annealing leverages quantum tunneling to escape local minima, solving QUBO formulations of TSP on Coherent Ising Machines (CIMs). Additionally, we introduce a novel method that integrates QUBO as a loss function within a GNN framework tailored for TSP. By exploiting GNNs’ capability to learn graph representations, this approach efficiently approximates TSP solutions with improved computational time over traditional exact solvers. We detail the construction of a QUBO model for TSP, encoding city visits into binary variables and formulating constraints to ensure valid tours. The implementation of the QUBO-based Quantum Annealing algorithm for TSP (QQA-TSP) is demonstrated using quantum simulation platforms. Furthermore, a solution for TSP (QGNN-TSP) is presented, which learns the problem’s structure and generates competitive solutions through gradient descent over a QUBO-based loss function. Experimental results show that QQA-TSP performs competitively with state-of-the-art classical solvers like dynamic programming, Concorde, and Gurobi. The QGNN-TSP approach is trained and evaluated on various TSP datasets, demonstrating efficiency and scalability. This study highlights the potential of combining deep learning with quantum-inspired optimization for solving NP-hard problems, suggesting future directions for enhancing GNN architectures and applying QUBO frameworks to more complex combinatorial optimization tasks.
+ER  -
+
+TY  - JOUR
+AU  - He, Haoqi
+TI  - Quantum Annealing and Graph Neural Networks for Solving TSP with QUBO [arXiv]
+LA  - eng
+JF  - Arxiv (cornell University)
+PY  - 2024
+PB  - Cornell University
+DO  - 10.48550/arXiv.2402.14036
+AB  - This paper explores the application of Quadratic Unconstrained Binary Optimization (QUBO) models in solving the Travelling Salesman Problem (TSP) through Quantum Annealing algorithms and Graph Neural Networks. Quantum Annealing (QA), a quantum-inspired optimization method that exploits quantum tunneling to escape local minima, is used to solve QUBO formulations of TSP instances on Coherent Ising Machines (CIMs). The paper also presents a novel approach where QUBO is employed as a loss function within a GNN architecture tailored for solving TSP efficiently. By leveraging GNN's capability to learn graph representations, this method finds approximate solutions to TSP with improved computational time compared to traditional exact solvers. The paper details how to construct a QUBO model for TSP by encoding city visits into binary variables and formulating constraints that guarantee valid tours. It further discusses the implementation of QUBO-based Quantum Annealing algorithm for TSP (QQA-TSP) and its feasibility demonstration using quantum simulation platforms. In addition, it introduces a Graph Neural Network solution for TSP (QGNN-TSP), which learns the underlying structure of the problem and produces competitive solutions via gradient descent over a QUBO-based loss function. The experimental results compare the performance of QQA-TSP against state-of-the-art classical solvers such as dynamic programming, Concorde, and Gurobi, while also presenting empirical outcomes from training and evaluating QGNN-TSP on various TSP datasets. The study highlights the promise of combining deep learning techniques with quantum-inspired optimization methods for solving NP-hard problems like TSP, suggesting future directions for enhancing GNN architectures and applying QUBO frameworks to more complex combinatorial optimization tasks.
+ER  -
+
+TY  - JOUR
+AU  - Hulianitskyi, Leonid
+AU  - Korolyov, Vyacheslav
+AU  - Khodzinskyi, Oleksandr
+TI  - An Overview of Algorithms for Solving Vehicle Routing Problems in the Quantum-Classical Cloud
+LA  - und
+JF  - Кібернетика Та Комп'ютерні Технології
+IS  - 2
+SP  - 23
+EP  - 31
+PY  - 2023
+SN  - 2707451x, 27074501
+PB  - V.M. Glushkov Institute of Cybernetics
+DO  - 10.34229/2707-451X.23.2.3
+AB  - Introduction. The hope of solving the problem of the avalanche-like growth of requirements for computing power, essential for solving complex routing problems and other problems of combinatorial optimization, relies on the latest quantum computers, in the development of which governments and corporations invest multi-billion investments.
+The article examines modern routing algorithms and performs their analysis and verification, if the authors of the algorithm provided appropriate test programs.
+The purpose of the article is to review the current state of development in the field of development of routing algorithms for hybrid quantum-classical clouds, analyze them and propose a classification of algorithms.
+Results. Modern quantum computers (QCs) make it possible to find approximate solutions to some of mathematical problems faster than classical computers. The inaccuracy of the solutions obtained by the QC is a consequence of physical and technological limitations: calculation errors are caused by thermal noise, a small number of computational elements - qubits and connections between them, which requires the decomposition of the problem and the use of heuristic algorithms.
+The analysis of approaches to the solution of optimization problems on QC allows us to single out: quantum response and variational search of eigenvalues based on quantum logic gates as the general directions of development of the vast majority of algorithms for solving routing problems. The considered algorithms reduce the vehicle routing problem to a quadratic unconstrained binary optimization problem, which is isomorphic to the Hamilton-Ising model. In this form, the problem is suitable for embedding in QC, which finds an approximate solution that has the best statistical reliability or corresponds to the quantum state with the lowest energy.
+As a separate class, vehicle routing algorithms for classical computers that use quantum computing to accelerate problem solving can be distinguished. For example, neural networks that calculate weighting factors using QC or an ant algorithm that calculates a pheromone trail in a hybrid cloud. It should be mentioned the quantum-inspired algorithms, which are based on software tools for the simulation of QC and the corresponding libraries and allow creating an effective class of algorithms for solving problems of vehicle routing.
+Conclusions. Combining hardware quantum annealing with a number of software tools for calculating optimization problems for classical computers in a hybrid quantum-classical cloud service allows to obtain advantages in speed and accuracy of some types of complex optimization problems of a commercial scale, in particular, routing vehicles, which is already bringing substantial profits to a number of corporations.
+ER  -
+
+TY  - CPAPER
+TI  - 2013 International Conference of Information Technology and Industrial Engineering, ITIE 2013
+LA  - eng
+JF  - Wit Transactions on Information and Communication Technologies
+VL  - 48
+PY  - 2014
+SN  - 17433517
+SN  - 1845648439, 9781845648435
+ER  -

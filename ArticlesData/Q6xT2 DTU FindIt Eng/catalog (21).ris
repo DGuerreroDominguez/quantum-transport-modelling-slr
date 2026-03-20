@@ -1,0 +1,158 @@
+TY  - JOUR
+AU  - Qiu, Zekun
+AU  - Xie, Zhipu
+AU  - Ji, Zehua
+AU  - Liu, Xu
+AU  - Wang, Gang
+TI  - Integrating query data for enhanced traffic forecasting: A Spatio-Temporal Graph Attention Convolution Network approach with delay modeling
+LA  - eng
+JF  - Knowledge-based Systems
+VL  - 301
+PY  - 2024
+SN  - 18727409, 09507051
+PB  - Elsevier B.V.
+DO  - 10.1016/j.knosys.2024.112315
+AB  - Accurate prediction of road traffic conditions is essential for the effectiveness of Intelligent Transportation Systems (ITS) and the advancement of smart cities. While existing methodologies mainly focus on the complex structures of road networks and consider factors like weather, holidays, and accidents, the impact of social events is often overlooked. Queries, representing user requests in navigation applications, offer valuable insights into the popularity of social events and their effects on the road network. In this paper, we introduce the Query-aware Spatio-Temporal Graph Attention Convolution Network (QA-STGACN), which utilizes query data to model the impacts of events and forecast traffic conditions. Initially, spatial and temporal blocks are developed to extract spatial dependencies among road segments and capture traffic dynamics. A dynamic query-aware graph constructor then adaptively learns and retains periodic interactions between road segments and queries. Furthermore, three novel query-aware blocks – convolution, attention, and pattern transformation – are designed to uncover hidden dependencies between traffic conditions and query counts during events, as well as to model the delayed impacts of these counts on traffic. Ultimately, a gated fusion mechanism integrates the spatio-temporal correlations in road networks with the representations derived from queries. Comprehensive experiments on six datasets validate the superiority of QA-STGACN over robust baselines.
+ER  -
+
+TY  - JOUR
+AU  - Hameiri, Ziv
+TI  - PHOTOVOLTAICS LITERATURE SURVEY (No. 184)
+LA  - eng
+JF  - Progress in Photovoltaics
+VL  - 31
+IS  - 8
+SP  - 870
+EP  - 874
+PY  - 2023
+SN  - 1099159x, 10627995
+PB  - Wiley
+DO  - 10.1002/pip.3722
+ER  -
+
+TY  - JOUR
+AU  - Anwar, Ali Muhammad
+AU  - Sani, John Engbonye
+AU  - Hassan, Isa Ibrahim
+AU  - Shehu, Abubakar Ahmad
+AU  - Ahiome, Rowland Bologi
+AU  - Abdulrahman, Badamasi
+TI  - Effect of defects on highway quality
+LA  - und
+JF  - World Journal of Advanced Engineering Technology and Sciences
+VL  - 5
+IS  - 2
+SP  - 103
+EP  - 113
+PY  - 2022
+SN  - 25828266
+PB  - GSC Online Press
+DO  - 10.30574/wjaets.2022.5.2.0050
+AB  - This study investigates the causes, effects and remedies to defects on highway as it affects quality along Pipeline road in Kamazo, Chikun Local Government Area of Kaduna State. The methods used in data collection are, GIS used in mapping the congested area, use of questionnaire and oral interview. One hundred (100) copies of questionnaires were administered to drivers and passengers using the road, in which Cross-Tabulation and 5-point Likert Scale was used for the analysis. Common defects observed are: Potholes, cracks, silt deposit on roadway, honey combs, depression, grasses on shoulders, scouring, fade markings, road signs, vegetation in hydraulic structures, structural failure of hydraulic structures, loss of materials, failed pavement, etc. Common causes of quality defects on highways are: High volume and frequency of heavy duty trucks; roadway as predominant mode of transportation; Lack of maintenance culture; Poor budget allocation for maintenance. Poor funding; defective Design; Poor construction; Defective constructional materials; Poor supervision; Poor drainage system; Defective implementation of QC/QA protocols; Age of road, etc. Common effects of quality defects on highways are: Defective road quality; Inability to forecast travel time; Fuel consumption; Induces stress on road users; Frequent vehicle breakdown on the roadway; High cost of transportation fare indices for inflation; Loss of time on the roads; Accident; Defective distribution of goods and services; Defective security emergency response, etc. Possible remedies to these defects are: provision of adequate funding to maintenance agencies; collate data from monitoring and evaluation; schedule and plan for maintenance; diversify travel modes; improve on QA/QC required for roadwork; provide coordinated and computerized weigh bridge and regular collection of axle loads data; tax vehicles according to axle load beyond certain boundaries to generate fund required to maintain roads; road markings and furniture to be in place; provision of lightings; quality supervision; use of quality materials to required standard &amp; specifications; adopt build-operate-transfer (road retainer ship).
+ER  -
+
+TY  - CPAPER
+AU  - Dewar, Steven
+AU  - Hall, Andrew
+AU  - Kirk, Elliot
+AU  - Ganpule, Sameer
+TI  - Automated stimulation design allocation in multiple coal seam wells offers efficient, consistent and compliant framework
+LA  - eng
+JF  - Society of Petroleum Engineers - Spe Asia Pacific Oil and Gas Conference and Exhibition 2020, Apog 2020
+PY  - 2020
+SN  - 1613997094, 9781613997093
+PB  - Society of Petroleum Engineers
+DO  - 10.2118/202270-MS
+AB  - One of the keys to successful and environmentally responsible well stimulation programs in coal seam gas development is to establish consistent procedures for the safeguarding, planning and executing activities across multiple wells. The aim of this paper is to show how a novel application of petrophysical program scripting can be used to make the stimulation process more efficient, consistent and compliant across assets with varying requirements. A macro embedded in petrophysical evaluation software applies a series of rules to rank coals by thickness, allocate a series of perforations and stimulation type based upon coal rank and spacing and then produces actionable treatment schedules which are seamlessly implemented in well stimulation operations at well sites. To do this, the macro grades all coals within the well by thickness based upon a cut-off on the density log, with the thickest coal being graded highest. The macro then identifies the top ranked coal and places perforations based on user defined logic, geological information from offset wells, permeability attributes of the target coal layer(s), depth and vertical separation between adjoining coal targets. Based on the stimulation type assigned, a stimulation schedule is generated that includes estimates of fluid volumes, proppant volumes, injection rates, proppant ramp type and stipulates flush conditions (over-flush or under-flush). Coals thicker than a maximum perforation size are perforated in an upper, middle and lower configuration. Most coals are thinner than the maximum allowable perforation interval and so the macro looks up and down the borehole to include thinner coals within a potential perforation window. The system then generates the stimulation schedule as described above. The macro continues to allocate perforations and stimulation schedules for each validated coal interval and sequentially tries to maximise the total target coal interval along the wellbore. Certain environmental constraints are included in the macro logic to maintain local and regional commitments. For example, coal zones in proximity of permeable non-coal layers i.e. interburden are automatically excluded from stimulation. Multiple advantages of this system have been realised including, a) effective QA/QC as outputs can be directly plotted against the well logs giving the user a quick and easy visual check b) actionable instructions that site based teams can execute including exact perforation depths and stimulation schedules c) provide realistic materials and costs estimates that ensure efficient planning and logistics, d) monitor and document any variations between allocated schedule versus actual execution, e) provide estimate of expected net coal connectivity at a well, development package and asset level which feeds into production and recovery forecasts, f) plan future optimisation studies or pilots and g) most importantly offers a consistent, efficient and compliant framework that can be applied across multiple assets, engineering teams and service providers. This paper focuses on capabilities and advantages of using a macro to automate stimulation design allocation for CSG multi-well (>100 wells) assets. Details of individual stimulation designs for Walloons Coal measures are mentioned in other publications (Kirk-Burnnand et al., 2015 and Flottmann et al. 2018) and hence not covered here.
+ER  -
+
+TY  - JOUR
+AU  - Kataoka, Ryuho
+AU  - Miyahara, Hiroko
+AU  - Steinhilber, Friedhelm
+TI  - Anomalous 10Be spikes during the Maunder Minimum: Possible evidence for extreme space weather in the heliosphere
+LA  - eng
+JF  - Space Weather
+VL  - 10
+IS  - 11
+PY  - 2012
+SN  - 15427390
+PB  - Wiley
+DO  - 10.1029/2012SW000835
+AB  - Extreme space weather conditions pose significant problems for standard space weather models, which are available for some limited realistic parameter ranges. As a good example, anomalous spikes of cosmic ray induced 10Be have been found during the Maunder Minimum (AD1645-1715) at the qA negative solar minima, which cannot be quantitatively explained by standard drift theories of cosmic ray transport alone. Such an extreme amplification of solar cycle modulation of cosmic rays is presumably related to the altered condition of heliospheric environment at the prolonged sunspot disappearance, providing a clue for comprehensive understandings of long-term changes in heliospheric environment, solar cycle modulation of cosmic rays, and the maximal range of incident cosmic ray flux that is very important for our practical space activities. Model sophistication to achieve precise forecast of such extreme condition of the heliosphere and the incoming cosmic ray flux is also of urgent need as the Sun is currently showing a tendency toward lower activity. Here we show that the cosmic ray spikes found at the Maunder Minimum may be explained by the contribution from the cross-sector transport mechanism working in the heliosheath where cosmic ray particles effectively drift across stacked magnetic sectors due to the larger cyclotron radius than the distance between the sectors. Based on the new interpretation of the 10Be record, we clarify potentially important problems for space weather modelers to help with more realistic modeling of the heliosphere during periods of extremely weak solar activity, such as the Maunder Minimum. © 2012 American Geophysical Union. All Rights Reserved.
+ER  -
+
+TY  - CPAPER
+AU  - Correa Feria, C.
+TI  - Integrated production modeling: Advanced but, not always better
+LA  - eng
+JF  - Spe Latin American and Caribbean Petroleum Engineering Conference Proceedings
+VL  - 1
+SP  - 722
+EP  - 741
+PY  - 2010
+SN  - 1617821837, 9781617821837
+AB  - During the initial stages of a new gas-condensate field development planning, studies are performed trying to cover all possible key project factors. Reservoir performance estimations and production forecasts are, by far, the most important aspects influencing any other development requirements and future commitments (number, location and type of wells, capacity/modularity of the production facilities, sales contracts, booked reserves...). Due to the, let's say, apparent simplicity of the project (homogeneous reservoir model, few development wells, linear gathering pipeline and small compression plant) and the uncertainty of available data, a handcrafted approach was preferred by working all models as separate items but, applying proper contour conditions for each one. On the other hand, applying defined management methodology, project's QA/QC explicitly required the development of an integrated subsurface-surface model, no matter the performance of the handcrafted approximation. Integrated Production/Asset Modeling (IPM or IAM) is a powerful asset design, prediction and management tool when properly used but, as with many other emerging or in fashion technologies, care should be taken when dealing with the 'aspirin' (good for everything) complex. To fulfill this requirement, a full asset simulation model was built integrating the complete production cycle: numerical reservoir simulation, steady-state nodal wells, surface gathering/transport network and compression/processing facilities. The process was intensive, troubleshooting and time consuming but, as suspected, obtained results didn't significantly improve the knowledge already available with the handcrafted initial approximation. Being able to assess the proper use for each technology should be a basic pillar of our industry. Inefficiently and indiscriminately applying available tools without a suitable engineering criterion, could yield wrong assessments of their actual value and, lead to improper use of valuable time and workforce. Integrated Production Modeling develops real value when dealing with large systems, where the type and number of variables to be controlled lies out of the human capacity; however, simple systems still can be handcraftly managed under proper engineering judgment, without large troubleshooting processes, consuming less time and demanding less workforce. The cobbler should stick to his last. Copyright 2010, Society of Petroleum Engineers.
+ER  -
+
+TY  - CPAPER
+AU  - Luther, Mark E.
+AU  - Meyers, Steven D.
+AU  - Gilbert, Sherryl A.
+AU  - Subramanian, Vembu
+AU  - Mclntyre, Michelle
+AU  - Wilson, Monica
+AU  - Havens, Heather
+AU  - Linville, Amanda
+TI  - A coastal ocean prediction system for Tampa Bay, Florida
+LA  - eng
+JF  - Oceans 2007
+SP  - 1
+EP  - 6
+PY  - 2007
+SN  - 0933957351, 9780933957350
+PB  - IEEE
+AB  - The USF College of Marine Science has developed a Coastal Ocean Prediction System for Tampa Bay based on an integrated observing system and circulation model as a sub-regional component of the US Integrated Ocean Observing System. The model system ingests real-time observations of the physical forcing functions for Tampa Bay to produce three-dimensional fields of circulation, temperature, salinity, and water level. The hydrodynamic model, based on the ECOM-3D code, is fully operational in either a nowcast-forecast mode or a hindcast mode and is described on our web site (http://ompl.marine.usf.edu/TBmodel). Water level, temperature, salinity, surface heat and moisture fluxes, and winds come from the Tampa Bay Physical Oceanographic Real-Time System (TB-PORTS; http://ompl.marine.usf.edu/ports/ or http://tidesandcurrents.noaa.gov/tbports/tbports. shtml?port=tb) augmented with observations from the USF Coastal Ocean Monitoring and Prediction System (COMPS; http://comps.marine.usf.edu/). Daily river discharge is obtained from the USGS National Water Information System. Precipitation is derived from several gauges operated by the Southwest Florida Water Management District, USGS, and NOAA. The raw observational data undergoes an automated QA/QC procedure before being input into the model. A water quality module has been developed that produces fields of chlorophyll, nutrients, and dissolved oxygen from time- varying estimates of nutrient and fresh water loading. A wave module provides directional wave spectra and bottom stresses based on the SWAN code. The integrated observing and modeling system provides a decision support tool that is used to enhance security, safety, and efficiency of maritime transportation, to guide search and rescue efforts, and to evaluate the bay ecosystem response to environmental stressors. Such stressors include severe storms, seasonal and interannual changes in fresh water input, as well as human impacts, such as hazardous material spills, river withdrawals, nutrient loading, changing land use patterns, and alterations in bay bathymetry. In addition to its routine use by the Tampa Bay Pilots and the US Coast Guard, the Coastal Ocean Prediction System has been used to support management decisions in several environmental issues affecting the bay. For example, the model has been used to investigate the effects of concentrate discharge from a seawater desalination facility recently built on Tampa Bay for the regional water supply authority; to simulate the trajectory of wastewater discharges and hazardous material spills for the Florida Department of Environmental Protection; to predict trajectories of raw sewage spills into the bay for the Pinellas County Health Department; to investigate transport and fate of human pathogens in the bay, and to evaluate changes in salinity and estuarine residence time due to natural variability and to anthropogenic alterations in fresh water input and bathymetry of the bay for the Southwest Florida Water Management District.
+ER  -
+
+TY  - CPAPER
+AU  - IEEE
+AU  - Luther, Mark E.
+AU  - Meyers, Steven D.
+AU  - Gilbert, Sherryl A.
+AU  - Subramanian, Vembu
+AU  - McIntyre, Michelle
+AU  - Wilson, Monica
+AU  - Havens, Heather
+AU  - Linville, Amanda
+TI  - A Coastal Ocean Prediction System for Tampa Bay, Florida
+LA  - eng
+JF  - 2007 Oceans, Vols 1-5
+SP  - 1790
+EP  - 1795
+PY  - 2007
+SN  - 01977385
+SN  - 0933957378, 9780933957374
+PB  - IEEE
+AB  - The USF College of Marine Science has developed a Coastal Ocean Prediction System for Tampa Bay based on an integrated observing system and circulation model as a sub-regional component of the US Integrated Ocean Observing System. The model system ingests real-time observations of the physical forcing functions for Tampa Bay to produce three-dimensional fields of circulation, temperature, salinity, and water level. The hydrodynamic model, based on the ECOM-3D code, is fully operational in either a nowcast-forecast mode or a hindcast mode and is described on our web site (http://ompl.marine.usf.edu/TBmodel). Water level, temperature, salinity, surface heat and moisture fluxes, and winds come from the Tampa Bay Physical Oceanographic Real-Time System (TB-PORTS; http://ompl.marine.usf.edu/ports/ or http://tidesandcurrents.noaa.gov/tbports/tbports.shtml?port=tb) augmented with observations from the USF Coastal Ocean Monitoring and Prediction System (COWS; http://comps.marine.usf.edu/). Daily river discharge is obtained from the USGS National Water Information System. Precipitation is derived from several gauges operated by the Southwest Florida Water Management District, USGS, and NOAA. The raw observational data undergoes an automated QA/QC procedure before being input into the model. A water quality module has been developed that produces fields of chlorophyll, nutrients, and dissolved oxygen from time-varying estimates of nutrient and fresh water loading. A wave module provides directional wave spectra and bottom stresses based on the SWAN code. The integrated observing and modeling system provides a decision support tool that is used to enhance security, safety, and efficiency of maritime transportation, to guide search and rescue efforts, and to evaluate the bay ecosystem response to environmental stressors. Such stressors include severe storms, seasonal and interannual changes in fresh water input, as well as human impacts, such as hazardous material spills, river withdrawals, nutrient loading, changing land use patterns, and alterations in bay bathymetry. In addition to its routine use by the Tampa Bay Pilots and the US Coast Guard, the Coastal Ocean Prediction System has been used to support management decisions in several environmental issues affecting the bay. For example, the model has been used to investigate the effects of concentrate discharge from a seawater desalination facility recently built on Tampa Bay for the regional water supply authority; to simulate the trajectory of wastewater discharges and hazardous material spills for the Florida Department of Environmental Protection; to predict trajectories of raw sewage spills into the bay for the Pinellas County Health Department; to investigate transport and fate of human pathogens in the bay, and to evaluate changes in salinity and estuarine residence time due to natural variability and to anthropogenic alterations in fresh water input and bathymetry of the bay for the Southwest Florida Water Management District.
+ER  -
+
+TY  - CPAPER
+AU  - Luther, Mark E.
+AU  - Meyers, Steven D.
+AU  - Gilbert, Sherryl A.
+AU  - Subramanian, Vembu
+AU  - McIntyre, Michelle
+AU  - Wilson, Monica
+AU  - Havens, Heather
+AU  - Linville, Amanda
+TI  - A coastal ocean prediction system for Tampa Bay, Florida
+LA  - eng
+JF  - Oceans Conference Record (ieee)
+PY  - 2007
+SN  - 01977385
+SN  - 0933957351, 9780933957350
+PB  - IEEE
+DO  - 10.1109/OCEANS.2007.4449385
+AB  - The USF College of Marine Science has developed a Coastal Ocean Prediction System for Tampa Bay based on an integrated observing system and circulation model as a sub-regional component of the US Integrated Ocean Observing System. The model system ingests real-time observations of the physical forcing functions for Tampa Bay to produce three-dimensional fields of circulation, temperature, salinity, and water level. The hydrodynamic model, based on the ECOM-3D code, is fully operational in either a nowcast-forecast mode or a hindcast mode and is described on our web site (http://ompl.marine.usf.edu/ TBmodel). Water level, temperature, salinity, surface heat and moisture fluxes, and winds come from the Tampa Bay Physical Oceanographic Real-Time System (TB-PORTS; http://ompl.marine.usf.edu/ports/ or http://tidesandcurrents.noaa. gov/tbports/tbports.shtml?port=tb) augmented with observations from the USF Coastal Ocean Monitoring and Prediction System (COMPS; http://comps.marine.usf. edu/). Daily river discharge is obtained from the USGS National Water Information System. Precipitation is derived from several gauges operated by the Southwest Florida Water Management District, USGS, and NOAA. The raw observational data undergoes an automated QA/QC procedure before being input into the model. A water quality module has been developed that produces fields of chlorophyll, nutrients, and dissolved oxygen from time-varying estimates of nutrient and fresh water loading. A wave module provides directional wave spectra and bottom stresses based on the SWAN code. The integrated observing and modeling system provides a decision support tool that is used to enhance security, safety, and efficiency of maritime transportation, to guide search and rescue efforts, and to evaluate the bay ecosystem response to environmental stressors. Such stressors include severe storms, seasonal and interannual changes in fresh water input, as well as human impacts, such as hazardous material spills, river withdrawals, nutrient loading, changing land use patterns, and alterations in bay bathymetry. In addition to its routine use by the Tampa Bay Pilots and the US Coast Guard, the Coastal Ocean Prediction System has been used to support management decisions in several environmental issues affecting the bay. For example, the model has been used to investigate the effects of concentrate discharge from a seawater desalination facility recently built on Tampa Bay for the regional water supply authority; to simulate the trajectory of wastewater discharges and hazardous material spills for the Florida Department of Environmental Protection; to predict trajectories of raw sewage spills into the bay for the Pinellas County Health Department; to investigate transport and fate of human pathogens in the bay, and to evaluate changes in salinity and estuarine residence time due to natural variability and to anthropogenic alterations in fresh water input and bathymetry of the bay for the Southwest Florida Water Management District. ©2007 MTS.
+ER  -

@@ -1,0 +1,48 @@
+TY  - CONF
+AB  - Yearly the number of breast cancer subjects are rising exponentially. In fact, breast cancer is very deadly, and all over the world the losses are increasing. It is very important to have an improved system to predict and diagnose the cancer effectively, which helps the subjects to have a better quality of life. In fact, it is crucial to have an accurate prediction system to improve the treatment and chances of survival. Moreover, earlystage detection, high accuracy of prediction and diagnosis is required at appropriate time. This paper aims to analyze the Machine Learning (ML), Deep Learning (DL) and Quantum Machine Learning (QML) techniques to diagnose the breast cancer subjects. The QML is an emerging field which transforms the input data onto the qubits and processing is performed using the quantum gates and operators. Quantum computing technology enhances the security of data transmission, hence has great application in communication and health care data processing. In this work, Logistic Regression (LR) and SVM (Linear) achieved accuracy of 9 7. 9%, CNN 9 8. 6% and QSVC 9 3% to classify 569 samples of normal and cancerous binary classes. Less accuracy shows noise in the quantum computing, which can be improved by optimization of rotation of specific gates.
+AU  - Desai, U.
+AU  - Kola, K.S.
+AU  - Nikhitha, S.
+AU  - Nithin, G.
+AU  - Prudhvi Raj, G.
+AU  - Karthik, G.
+DO  - 10.1109/ICSSES62373.2024.10561257
+PY  - 2024
+SN  - 9798350364040
+TI  - Comparison of Machine Learning and Quantum Machine Learning for Breast Cancer Detection
+T2  - International Conference on Smart Systems for Applications in Electrical Sciences, ICSSES 2024
+ER  -
+TY  - CONF
+AB  - Routing optimization refers to finding the most efficient path for data to travel between two devices on a network. In this paper, we propose the use of the Quantum Approximate Optimization Algorithm (QAOA) as a novel approach to routing optimization in the context of 6G networks. To this end, we first develop a cost function for single source single destination routing, which is then converted into a Quadratic Unconstrained Binary Optimization formulation. We subsequently extract the equivalent Variational Quantum Circuit of the QAOA from the optimization formulation. To test the performance of the QAOA, we utilize IBM's Qiskit toolkit and QASM-simulator and the Constrained by Linear Approximation optimizer to update the circuit parameters. Simulation results show that the proposed approach converges to the optimal solution, and only after less than 25 iteration, the QAOA was able to find the optimal path for the routing problem.
+AU  - Bouchmal, O.
+AU  - Cimoli, B.
+AU  - Stabile, R.
+AU  - Vegas Olmos, J.J.
+AU  - Monroy, I.T.
+DO  - 10.23919/ONDM61578.2024.10582687
+PY  - 2024
+SN  - 9783903176546
+TI  - Quantum Approximate Optimization Algorithm for Routing Optimization in 6G Optical Networks
+T2  - Proceedings of the 2024 International Conference on Optical Network Design and Modeling, ONDM 2024
+ER  -
+TY  - JOUR
+AB  - Variational quantum circuits (VQCs) built upon noisy intermediate-scale quantum (NISQ) hardware, in conjunction with classical processing, constitute a promising architecture for quantum simulations, classical optimization, and machine learning. However, the required VQC depth to demonstrate a quantum advantage over classical schemes is beyond the reach of available NISQ devices. Supervised learning assisted by an entangled sensor network (SLAEN) is a distinct paradigm that harnesses VQCs trained by classical machine-learning algorithms to tailor multipartite entanglement shared by sensors for solving practically useful data-processing problems. Here, we report the first experimental demonstration of SLAEN and show an entanglement-enabled reduction in the error probability for classification of multidimensional radio-frequency signals. Our work paves a new route for quantum-enhanced data processing and its applications in the NISQ era.
+AU  - Xia, Y.
+AU  - Li, W.
+AU  - Zhuang, Q.
+AU  - Zhang, Z.
+DO  - 10.1103/PhysRevX.11.021047
+IS  - 2
+PY  - 2021
+TI  - Quantum-Enhanced Data Classification with a Variational Entangled Sensor Network
+T2  - Physical Review X
+VL  - 11
+ER  -
+TY  - CONF
+AB  - The proceedings contain 30 papers. The topics discussed include: a reconfigurable filtenna for cognitive radio application; key enabling technologies of 5G wireless mobile communication; low noise amplifier design and performance analysis of RF front-end for narrow band receivers; reinforcement learning for pedestrian evacuation simulation and optimization during pandemic and panic situation; prediction of heart diseases using random forest; feature extraction and reconstruction of medical images using two-dimensional principal component analysis; AI based computation for hybrid precoding/combining in millimeter-wave massive MIMO systems; spam detection and spammer behavior analysis in twitter using content based filtering approach; evaluating the performance of some local optimizers for variational quantum classifiers; and a simulation study of duration-budget trade-off in home renovation project management.
+IS  - 1
+PY  - 2021
+TI  - 1st International Conference on Computational Intelligence and Energy Advancements, ICCIEA 2020
+T2  - Journal of Physics: Conference Series
+VL  - 1817
+ER  -

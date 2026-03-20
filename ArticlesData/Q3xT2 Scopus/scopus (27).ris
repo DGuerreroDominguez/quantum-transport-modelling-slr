@@ -1,0 +1,26 @@
+﻿TY  - JOUR
+AU  - Cheng, R.
+AU  - Yu, Y.
+AU  - Shi, D.
+AU  - Cai, W.
+TI  - The critical review of image and video quality assessment methods
+ST  - 图像与视频质量评价综述
+PY  - 2022
+T2  - Journal of Image and Graphics
+VL  - 27
+IS  - 5
+SP  - 1410
+EP  - 1429
+DO  - 10.11834/jig.210314
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85130212197&doi=10.11834%2fjig.210314&partnerID=40&md5=1f774b39a8216f077b4cd2e686a55872
+AB  - Images and videos quality has a great impact on the information acquisition of human behavior visual system. Image/video quality assessment (I/VQA) can be regarded as a key factor for multimedia and network video services nowadays. The quality assessment methods are mainly segmented into qualitative and quantitative models. Qualitative methods conduct quality assessment based on the human's eyes, which cost lots of manpower and time consuming resources. Quantitative quality assessment simulates human observation and it can automatically forecast input quality for those of I/VQA researchers. Our review is critical reviewed quality assessment(QA) methods like full reference (FR), reduced reference (RR) and no reference (NR) methods, which are categorized based on the "clean" data capability (the reference image with no distortion). The full reference methods assess the quality of the distorted images with comparison of the "clean" data. The pros of these methods are better performance, low complexity and good robustness. The cons are that the reference images are challenged to obtain in the in-situ scenarios. Compared with the full reference methods, the reduced reference methods reduce the number of the reference images based on featured reference data to predict the quality. All reference data are not required for the no reference methods. Traditional IQA methods are mainly based on structural similarity, human visual system (HVS) and natural scene statistical theory (NSS). The structure similarity based methods assesses the measurement quality derived of the structural information changes; the HVS based methods are based on some human eyes features; Natural scene statistics based methods fit the transformed coefficients distribution of images or videos and compare the gap of reference coefficients and test coefficients. The emerging deep learning methods based on convolutional neural network (CNN) extract image features through convolutional operations and implement logistic regression to update the models. The learning capability of the IQA-oriented CNN has its priority. VQA models are mainly divided into two categories. One category is that the temporal video quality can be obtained based on the IQA methods for single frame, and then integrate the quality of all frames. The integration methods are mainly divided into general average and weighted average methods in which the weights can be obtained in terms of manual setting or learning. The other one is for the three dimensions (3D) video as mentioned below: First, extracting the coefficient distribution by 3D transformation or using 3D CNN to extract features, and then fitting the coefficient distribution or mapping the features to obtain the final quality. Compared to traditional methods, learning-based methods have higher complexity, but better performance. Most of the current VQA methods also use CNN as the backbone structure, which assists in the overall model construction. Our critical review analyzes the growth of I/VQA and lists some representative algorithms. Then, we review some I/VQA based literatures from two aspects, including traditional methods and deep learning-based methods, respectively. The capability of representative algorithms is analyzed derived of Spearman rank order correlation coefficient(SROCC) and Pearson linear correlation coefficient(PLCC) evaluation indexes in terms of laboratory for image & video engineering(LIVE), categorical subjective image quality database(CSIQ), TID2013 and other datasets. Finally, the challenging issues of quality assessment are summarized and predicted. © 2022, Editorial Office of Journal of Image and Graphics. All right reserved.
+KW  - Deep learning
+KW  - Human vision system(HVS)
+KW  - Image/video quality assessment(I/VQA)
+KW  - Natural scene statistics(NSS)
+KW  - Structural information
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 8
+ER  -
+

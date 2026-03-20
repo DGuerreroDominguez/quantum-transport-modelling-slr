@@ -1,0 +1,461 @@
+﻿TY  - JOUR
+AU  - Miao, Q.
+AU  - Barthel, T.
+TI  - Convergence and quantum advantage of Trotterized MERA for strongly-correlated systems
+PY  - 2025
+T2  - Quantum
+VL  - 9
+DO  - 10.22331/q-2025-02-11-1631
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85217916052&doi=10.22331%2fq-2025-02-11-1631&partnerID=40&md5=608b3d87a0e37084d90ab0a29cf38d89
+AB  - Strongly-correlated quantum many-body systems are difficult to study and simulate classically. We recently proposed a variational quantum eigensolver (VQE) based on the multiscale entanglement renormalization ansatz (MERA) with tensors constrained to certain Trotter circuits. Here, we determine the scaling of computation costs for various critical spin chains which substantiates a polynomial quantum advantage in comparison to classical MERA simulations based on exact energy gradients or variational Monte Carlo. Algorithmic phase diagrams suggest an even greater separation for higher-dimensional systems. Hence, the Trotterized MERA VQE is a promising route for the efficient investigation of strongly-correlated quantum many-body systems on quantum computers. Furthermore, we show how the convergence can be substantially improved by building up the MERA layer by layer in the initialization stage and by scanning through the phase diagram during optimization. For the Trotter circuits being composed of single-qubit and two-qubit rotations, it is experimentally advantageous to have small rotation angles. We find that the average angle amplitude can be reduced considerably with negligible effect on the energy accuracy. Benchmark simulations suggest that the structure of the Trotter circuits for the TMERA tensors is not decisive; in particular, brick-wall circuits and parallel random-pair circuits yield very similar energy accuracies. © 2025 Verein zur Forderung des Open Access Publizierens in den Quantenwissenschaften. All rights reserved.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 3
+ER  -
+
+TY  - CONF
+AU  - Chieza, H.A.
+AU  - Khumalo, M.T.
+AU  - Prag, K.
+AU  - Woolway, M.
+TI  - On the Computational Performance of IBM Quantum Devices Applied to Combinatorial Optimisation Problems
+PY  - 2020
+T2  - 2020 7th International Conference on Soft Computing and Machine Intelligence, ISCMI 2020
+C7  - 9311605
+SP  - 260
+EP  - 264
+DO  - 10.1109/ISCMI51676.2020.9311605
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85100333122&doi=10.1109%2fISCMI51676.2020.9311605&partnerID=40&md5=8f07a66fc17615b2eb003fe5c0309b70
+AB  - The prevalence of NP-Hard Combinatorial Optimisation Problems (COP) requires a continuous search for powerful heuristic techniques to efficiently solve problems of this nature, due to the exponentially growing CPU times faced by deterministic methods. This paper focuses on two COP, namely the Travelling Salesmen Problem (TSP) and the Quadratic Assignment Problem (QAP). In particular, the computational performance of classical optimisation techniques, Branch and Bound (BNB) and Simulated Annealing (SA), are compared to the Variational Quantum Eigensolver (VQE) algorithm. These algorithms are executed respectively on classical and Noisy Intermediate-Scale Quantum (NISQ) computers, in this case, a host of IBM quantum devices. The experimental results resemble and extend on previously reported results found in the literature. Furthermore, this research critically analyses, compares and comments on the performance of quantum computing techniques to that of classical techniques. The results highlight the current shortcomings of NISQ devices, as classical optimisation techniques significantly outperform the VQE algorithm when run on state of the art IBM Quantum devices. © 2020 IEEE.
+KW  - IBM Qiskit
+KW  - optimisation
+KW  - QAP
+KW  - Quantum Computing
+KW  - TSP
+KW  - Artificial intelligence
+KW  - Combinatorial optimization
+KW  - Heuristic methods
+KW  - NP-hard
+KW  - Quantum computers
+KW  - Simulated annealing
+KW  - Soft computing
+KW  - Variational techniques
+KW  - Classical techniques
+KW  - Computational performance
+KW  - Deterministic methods
+KW  - Heuristic techniques
+KW  - Optimisation techniques
+KW  - Quadratic assignment problems
+KW  - Quantum Computing
+KW  - Travelling salesman
+KW  - Quantum theory
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 5
+ER  -
+
+TY  - JOUR
+AU  - Khumalo, M.T.
+AU  - Chieza, H.A.
+AU  - Prag, K.
+AU  - Woolway, M.
+TI  - An investigation of IBM quantum computing device performance on combinatorial optimisation problems
+PY  - 2025
+T2  - Neural Computing and Applications
+VL  - 37
+IS  - 2
+C7  - 030503
+SP  - 611
+EP  - 626
+DO  - 10.1007/s00521-022-07438-4
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85132695969&doi=10.1007%2fs00521-022-07438-4&partnerID=40&md5=7a9bcb52763b9070523753f93d206ae8
+AB  - The intractability of deterministic solutions in solving NP-Hard Combinatorial Optimisation Problems (COP) is well reported in the literature. One mechanism for overcoming this difficulty has been the use of efficient COP non-deterministic approaches. However, with the advent of quantum technology, these modern devices’ potential to overcome this tractability limitation requires exploration. This paper juxtaposes classical and quantum optimisation algorithms’ performance to solve two common COP, namely the Travelling Salesman Problem and the Quadratic Assignment Problem. Two accepted classical optimisation methods, Branch and Bound and Simulated Annealing, are compared to two quantum optimisation methods, Variational Quantum Eigensolver (VQE) algorithm and Quantum Approximate Optimisation Algorithm (QAOA). These algorithms are, respectively, executed on both classical devices and IBM’s suite of Noisy Intermediate-Scale Quantum (NISQ) devices. We have encoded the COP problems for the respective technologies and algorithms and provided the computational encodings for the NISQ devices. Our experimental results show that current classical devices significantly outperform the presently available NISQ devices, which both agree with and extend on those findings reported in the literature. Further, we introduce additional performance metrics to better compare the two approaches with respect to computational time, feasibility and solution quality. Our results show that the VQE performs better than QAOA with respect to these metrics, and we infer that this is due to the increased number of operations required. Additionally, we investigate the impact of a new set of basis gates on the quantum optimisation techniques and show they yield no notable improvement on obtained results. Finally, we highlight the present shortcomings of state-of-the-art NISQ IBM quantum devices and argue for continued future work on improving evolving devices. © The Author(s), under exclusive licence to Springer-Verlag London Ltd., part of Springer Nature 2022.
+KW  - IBM Qiskit
+KW  - Optimisation
+KW  - QAOA
+KW  - QAP
+KW  - Quantum computing
+KW  - TSP
+KW  - VQE
+KW  - Branch and bound method
+KW  - Combinatorial optimization
+KW  - Quantum computers
+KW  - Quantum theory
+KW  - Simulated annealing
+KW  - Approximate optimization
+KW  - Eigensolvers
+KW  - IBM qiskit
+KW  - Optimisations
+KW  - Optimization algorithms
+KW  - QAP
+KW  - Quantum approximate optimization algorithm
+KW  - Quantum Computing
+KW  - TSP
+KW  - Variational quantum eigensolv
+KW  - Traveling salesman problem
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 7
+ER  -
+
+TY  - JOUR
+TI  - 4th International Conference on Artificial Intelligence and Knowledge Processing, AIKP 2024
+PY  - 2025
+T2  - Communications in Computer and Information Science
+VL  - 2228 CCIS
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85215766893&partnerID=40&md5=ddfe7bf78dea699f40d3be08e1a8c902
+AB  - The proceedings contain 18 papers. The special focus in this conference is on Artificial Intelligence and Knowledge Processing. The topics include: Deciphering Excellence in Hospitality: A Study on India's Premier Hotels Using Natural Language Processing; Decoding Student Feedback in Engineering Education: A Latent Dirichlet Allocation and PyLDAvis Approach; real Time Traffic Management by Optimizing Level of Service; FGA-Net: Feature-Gated Attention for Glioma Brain Tumor Segmentation in Volumetric MRI Images; empowering Breast Cancer Detection: A Novel Hybrid Transfer Learning Approach with Aquila Optimizer; predictive Analytics in Weather Forecasting Using Machine Learning and Deep Learning; Brain Tumor Classification from MRI Scans Using a Novel CNN Architecture and Optimization Techniques; dual Model Dynamics: Enhancing Depression Prediction Through the Integrated Use of Convolutional Neural Networks and Support Vector Machines in Data-Driven Methods; quantum Simulation of 1D and 2D Lattice-Based Magnetic Quantum Systems Using Heisenberg Model via Variational Quantum Eigensolver; topological Quantum Computing for Engineers; traffic Forecasting with Spatio-Temporal Graph Neural Networks; A Deep Learning-Based Novel RNN-BiLSTM Architecture for Efficient Threat Detection in IoT Ecosystem; cyber-Attack Detection in Healthcare Systems Based on Modified -Recurrent Neural Network Approach; A Comparative Analysis of Aggregation Methods in Federated Learning on MNIST; hybrid Feature Approach for Enhancing Zero-Shot Image Classification; abusive Comment Detection from Bengali-English Code-Mixed Social Media Texts Using Ensemble of Deep Learning.
+M3  - Conference review
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Egger, D.J.
+AU  - Capecci, C.
+AU  - Pokharel, B.
+AU  - Barkoutsos, P.K.
+AU  - Fischer, L.E.
+AU  - Guidoni, L.
+AU  - Tavernelli, I.
+TI  - Pulse variational quantum eigensolver on cross-resonance-based hardware
+PY  - 2023
+T2  - Physical Review Research
+VL  - 5
+IS  - 3
+C7  - 033159
+DO  - 10.1103/PhysRevResearch.5.033159
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85172906869&doi=10.1103%2fPhysRevResearch.5.033159&partnerID=40&md5=41f9e21cf1547df463e70aab777ca73b
+AB  - State-of-the-art noisy digital quantum computers can only execute short-depth quantum circuits. Variational algorithms are a promising route to unlock the potential of noisy quantum computers since the depth of the corresponding circuits can be kept well below hardware-imposed limits. Typically, the variational parameters correspond to virtual RZ gate angles, implemented by phase changes of calibrated pulses. By encoding the variational parameters directly as hardware pulse amplitudes and durations, we succeed in further shortening the pulse schedule and overall circuit duration. This decreases the impact of qubit decoherence and gate noise. As a demonstration, we apply our pulse-based variational algorithm to the calculation of the ground state of different hydrogen-based systems (H2, H3, and H4) using IBM cross-resonance-based hardware. We observe a reduction in schedule duration of up to 5× compared to cnot-based Ansätze, while also reducing the measured energy. In particular, we observe a sizable improvement of the minimal energy configuration of H3 compared to a cnot-based variational form. Finally, we discuss possible future developments including error-mitigation schemes and schedule optimizations, which will enable further improvements of our approach, paving the way towards the simulation of larger systems on noisy quantum devices.  © 2023 authors. Published by the American Physical Society. Published by the American Physical Society under the terms of the Creative Commons Attribution 4.0 International license. Further distribution of this work must maintain attribution to the author(s) and the published article's title, journal citation, and DOI.
+KW  - Computer hardware
+KW  - Qubits
+KW  - Eigensolvers
+KW  - Encodings
+KW  - Phase Change
+KW  - Pulse amplitude
+KW  - Pulse durations
+KW  - Quanta computers
+KW  - Quantum circuit
+KW  - State of the art
+KW  - Variational algorithms
+KW  - Variational parameters
+KW  - Ground state
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 13
+ER  -
+
+TY  - JOUR
+AU  - Cao, C.
+AU  - Yu, Y.
+AU  - Wu, Z.
+AU  - Shannon, N.
+AU  - Zeng, B.
+AU  - Joynt, R.
+TI  - Mitigating algorithmic errors in quantum optimization through energy extrapolation
+PY  - 2023
+T2  - Quantum Science and Technology
+VL  - 8
+IS  - 1
+C7  - 015004
+DO  - 10.1088/2058-9565/ac969c
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85141899720&doi=10.1088%2f2058-9565%2fac969c&partnerID=40&md5=4b7a2b6f878c6c7c0178c0ad355da179
+AB  - Quantum optimization algorithms offer a promising route to finding the ground states of target Hamiltonians on near-term quantum devices. Nonetheless, it remains necessary to limit the evolution time and circuit depth as much as possible, since otherwise decoherence will degrade the computation. Even when this is done, there always exists a non-negligible error in estimates of the ground state energy. Here we present a scalable extrapolation approach to mitigating this algorithmic error, which significantly improves estimates obtained using three well-studied quantum optimization algorithms: quantum annealing (QA), the variational quantum eigensolver, and the quantum imaginary time evolution at fixed evolution time or circuit depth. The approach is based on extrapolating the annealing time to infinity or the variance of estimates to zero. The method is reasonably robust against noise. For Hamiltonians which only involve few-body interactions, the additional computational overhead is an increase in the number of measurements by a constant factor. Analytic derivations are provided for the quadratic convergence of estimates of energy as a function of time in QA, and the linear convergence of estimates as a function of variance in all three algorithms. We have verified the validity of these approaches through both numerical simulation and experiments on IBM quantum machines. This work suggests a promising new way to enhance near-term quantum computing through classical post-processing. © 2022 IOP Publishing Ltd.
+KW  - energy extrapolation
+KW  - error mitigation
+KW  - quantum optimization
+KW  - Errors
+KW  - Ground state
+KW  - Hamiltonians
+KW  - Optimization
+KW  - Quantum computers
+KW  - Quantum theory
+KW  - Algorithmic errors
+KW  - Decoherence
+KW  - Energy
+KW  - Energy extrapolation
+KW  - Error mitigation
+KW  - Evolution time
+KW  - Optimization algorithms
+KW  - Quantum annealing
+KW  - Quantum device
+KW  - Quantum optimization
+KW  - Extrapolation
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 10
+ER  -
+
+TY  - JOUR
+AU  - Yu, Z.
+AU  - Yu, J.
+AU  - Zhu, J.
+AU  - Kuang, Z.
+TI  - Knowledge-representation-enhanced multimodal Transformer for scene text visual question answering
+ST  - 融合知识表征的多模态 Transformer 场景文本视觉问答
+PY  - 2022
+T2  - Journal of Image and Graphics
+VL  - 27
+IS  - 9
+SP  - 2761
+EP  - 2774
+DO  - 10.11834/jig.211213
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85139557289&doi=10.11834%2fjig.211213&partnerID=40&md5=11f9821c6a571afb99535cdec5a334c5
+AB  - Objective Deep neural networks technology promotes the research and development of computer vision and natural language processing intensively. Multiple applications like human face recognition, optical character recognition (OCR), and machine translation have been widely used. Recent development enable the machine learning to deal with more complex multimodal learning tasks that involve vision and language modalities, e. g., visual captioning, image-text retrieval, referring expression comprehension, and visual question answering (VQA). Given an arbitrary image and a natural language question, the VQA task is focused on an image-content-oriented and question-guided understanding of the fine-grained semantics and the following complex reasoning answer. The VQA task tends to be as the generalization of the rest of multimodal learning tasks. Thus, an effective VQA algorithms is a key step toward artificial general intelligence (AGI). Recent VQA have realized human-level performance on the commonly used benchmarks of VQA. However, most existing VQA methods are focused on visual objects of images only, while neglecting the recognition of textual content in the image. In many real-world scenarios, the image text can transmit essential information for scene understanding and reasoning, such as the number of a traffic sign or the brand awareness of a product. The ignorance of textual information is constraint of the applicability of the VQA methods in practice, especially for visually-impaired users. Due to the importance of the developing textual information for image interpretation, most researches intend to incorporate textual content into VQA for a scene text VQA task organizing. Specifically, the questions involve the textual contents in the scene text VQA task. The learned VQA model is required to establish unified associations among the question, visual object and the scene text. The reasoning is followed to generate a correct answer. To address the scene text VQA task, a model of multimodal multi-copy mesh (M4C) is faciliated based on the transformer architecture. Multimodal heterogeneous features are as input, a multimodal transformer is used to capture the interactions between input features, and the answers are predicted in an iterative manner. Despite of the strengths of M4C, it still has the two weaknesses as following: 1) the relative spatial relationship cannot be illustrated well between paired objects although each visual object and OCR object encode its absolute spatial location. It is challenged to achieve accurate spatial reasoning for M4C model; 2) the predicted words of answering are selected from either a dynamic OCR vocabulary or a fixed answer vocabulary. The semantic relationships are not explicitly considered in M4C between the multi-sources words. At the iterative answer prediction stage, it is challenged to understand the potential semantic associations between multiple sources derived words. Method To resolve the weaknesses of M4C mentioned above, we improve the reference of M4C model by introducing two added knowledge like the spatial relationship and semantic relationship, and a knowledge-representation-enhanced M4C (KR-M4C) approach is demonstrated to integrate the two types of knowledge representations simultaneously. Additionally, the spatial relationship knowledge encodes the relative spatial positions between each paired object (including the visual objects and OCR objects) in terms of their bounding box coordinates. The semantic relationship knowledge encodes the semantic similarity between the text words and the predicted answer words in accordance with the similarity calculated from their GloVe word embeddings. The two types of knowledge representation are encoded as unified knowledge representations. To match the knowledge representations adequately, the multi-head attention (MHA) module of M4C is modified to be a KRMHA module. By stacking the KRMHA modules in depth, the KR-M4C model performs spatial and semantic reasoning to improve the model performance over the reference M4C model. Result The KR-M4C approach is verified that our extended experiments are conducted on two benchmark datasets of text VQA (TextVQA) and scene text VQA (ST-VQA) based on same experimental settings. The demonstrated results are shown as below: 1) excluded of extra training data, KR-M4C obtains an accuracy improvement of 2. 4% over existing optimization on the test set of TextVQA; 2) KR-M4C achieves an average normalized levenshtein similarity (ANLS) score of 0. 555 on the test set of ST-VQA, which is 5% higher than theresult of SA-M4C. To verify the synergistic effect of two types of introduced knowledge further, comprehensive ablation studies are carried out on TextVQA, and the demonstrated results can support our hypothesis of those two types of knowledge are proactively and mutually to model performance. Finally, some visualized cases are provided to verify the effects of the two introduced knowledge representations. The spatial relationship knowledge improve the ability to localize key objects in the image, whilst the improved semantic relationship knowledge is perceived of the contextual words via the iterative answer decoding. Conclusion A novel KR-M4C method is introduced for the scene text VQA task. KR-M4C has its priority for the knowledge enhancement beyond the TextVQA and ST-VQA datasets. © 2022 Editorial and Publishing Board of JIG. All rights reserved.
+KW  - attention mechanism
+KW  - knowledge representation
+KW  - multimodal fusion
+KW  - scene text visual question answering
+KW  - Transformer
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 1
+ER  -
+
+TY  - JOUR
+AU  - Shimo, T.
+AU  - Shiba, S.
+AU  - Watanabe, H.
+AU  - Yamanaka, M.
+AU  - Matsumoto, K.
+AU  - Yamano, A.
+AU  - Tokuuye, K.
+TI  - Evaluation of the Mini-ridge Filter's Impact on the Generation of Secondary Radiation in Synchrotron-based Proton Beam Therapy
+PY  - 2025
+T2  - Journal of Medical Physics
+VL  - 50
+IS  - 1
+SP  - 14
+EP  - 19
+DO  - 10.4103/jmp.jmp_206_24
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105001488902&doi=10.4103%2fjmp.jmp_206_24&partnerID=40&md5=a83a10f9cc1d83baddeddc1fcc75921f
+AB  - Purpose: This study evaluated whether the mini-ridge filter (MRF) used for beam energy optimization in a synchrotron-based proton beam therapy (PBT) affects the generation of secondary neutrons and photons. Materials and Methods: Secondary radiation from the PBT was evaluated using a Monte Carlo simulation (MCS) with the Particle and Heavy-ion Transport code System (version 3.31), and the PROBEAT-M1 system (Hitachi, Japan) was modeled. In the analysis, we focused on the production of neutrons and photons in a 35 cm ×35 cm ×35 cm water phantom with and without MRF to ensure the accuracy of the dose calculation. Results: The MCS results were in good agreement with the measurement results, and the off-axis ratio at the center of the spread-out Bragg peak was 100% at a gamma analysis pass rate of 2 mm/2%. The photon fluence decreased by 4.0 and 0.9% at 70.2 and 228.7 MeV, respectively, but no significant effect on total neutron and photon production was observed (P > 0.05). The MRF effect on the dose was <0.11 μGy Gy-1, suggesting that a clinically significant effect is negligible. Conclusions: These results demonstrated that MRF had a limited effect on the generation of secondary radiation in PBT. MRF, which is used to improve dose distribution, has the potential to be safely used without increasing secondary radiation, and MRF might not affected to generate secondary radiation to clinically meaningful levels.  © 2025 Journal of Medical Physics.
+KW  - Mini-ridge filter
+KW  - Monte Carlo
+KW  - proton beam therapy
+KW  - secondary neutron
+KW  - water
+KW  - Article
+KW  - calculation
+KW  - comparative study
+KW  - dose calculation
+KW  - evaluation study
+KW  - Monte Carlo method
+KW  - neutron
+KW  - photon
+KW  - proton therapy
+KW  - radiation
+KW  - simulation
+KW  - thickness
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Decusatis, C.
+AU  - Spillane, E.
+AU  - Foti, D.
+AU  - O'Loughlin, M.
+TI  - Comparison of quantum computing algorithms for network traffic partitioning and mitigation of DoS and DDoS attacks
+PY  - 2024
+T2  - 2024 IEEE 15th Annual Ubiquitous Computing, Electronics and Mobile Communication Conference, UEMCON 2024
+SP  - 454
+EP  - 460
+DO  - 10.1109/UEMCON62879.2024.10754735
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85212686814&doi=10.1109%2fUEMCON62879.2024.10754735&partnerID=40&md5=8e6b4b1dc33d2960f6eb008cbb90815d
+AB  - We investigate application of quantum computing algorithms to classifying network traffic and mitigating denial of service and distributed denial of service attacks. Using actual honeynet data, we compare solutions of the Max Cut problem using both the quantum approximate optimization algorithm (QAOA) and Variational Quantum Eigensolver (VQE). Experimental results from a 6-qubit quantum computer show that optimal solutions can be found with about 98% accuracy in polynomial execution time. We found that VQE is more accurate than QAOA (compared with classical brute force solutions) but also requires significantly longer execution times. Simulations predict this approach can scale to much larger quantum computing hardware (when available) and may achieve quantum advantage on hardware with 30-35 qubits. © 2024 IEEE.
+KW  - DDoS
+KW  - QAOA
+KW  - Quantum
+KW  - VQE
+KW  - Denial-of-service attack
+KW  - Polynomial approximation
+KW  - Quantum electronics
+KW  - Quantum optics
+KW  - Approximate optimization
+KW  - Computing algorithms
+KW  - DDoS
+KW  - Eigensolvers
+KW  - Network traffic
+KW  - Optimization algorithms
+KW  - Quantum
+KW  - Quantum approximate optimization algorithm
+KW  - Quantum Computing
+KW  - Variational quantum eigensolver
+KW  - Qubits
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 0
+ER  -
+
+TY  - CONF
+TI  - Proceedings - 2024 IEEE International Conference on Quantum Software, QSW 2024
+PY  - 2024
+T2  - Proceedings - 2024 IEEE International Conference on Quantum Software, QSW 2024
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85203821530&partnerID=40&md5=4f336ed26dacb430731e64c75b4cf407
+AB  - The proceedings contain 21 papers. The topics discussed include: quantum circuit ansatz: patterns of abstraction and reuse of quantum algorithm design; towards application-aware quantum circuit compilation; efficient encodings of the travelling salesperson problem for variational quantum algorithms; AdvQuNN: a methodology for analyzing the adversarial robustness of quanvolutional neural networks; composable quantum oracles for shifting quantum circuits abstraction level; automated verification of SILQ quantum programs using SMT solvers; towards an automatic framework for solving optimization problems with quantum computers; bounding rounding errors in the simulation of quantum circuits; and stripping quantum decision diagrams of their identity.
+M3  - Conference review
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Over, P.
+AU  - Bengoechea, S.
+AU  - Rung, T.
+AU  - Clerici, F.
+AU  - Scandurra, L.
+AU  - de Villiers, E.
+AU  - Jaksch, D.
+TI  - Boundary treatment for variational quantum simulations of partial differential equations on quantum computers
+PY  - 2025
+T2  - Computers and Fluids
+VL  - 288
+C7  - 106508
+DO  - 10.1016/j.compfluid.2024.106508
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85212827516&doi=10.1016%2fj.compfluid.2024.106508&partnerID=40&md5=a36c60dec7d21bfa87035933ce94bc77
+AB  - The paper presents a variational quantum algorithm to solve initial–boundary value problems described by second-order partial differential equations. The approach uses hybrid classical/quantum framework that is well suited for quantum computers of the current noisy intermediate-scale quantum era. The partial differential equation is initially translated into an optimal control problem with a modular control-to-state operator (ansatz). The objective function and its derivatives required by the optimizer can efficiently be evaluated on a quantum computer by measuring an ancilla qubit, while the optimization procedure employs classical hardware. The focal aspect of the study is the treatment of boundary conditions, which is tailored to the properties of the quantum hardware using a correction technique. For this purpose, the boundary conditions and the discretized terms of the partial differential equation are decomposed into a sequence of unitary operations and subsequently compiled into quantum gates. The accuracy and gate complexity of the approach are assessed for second-order partial differential equations by classically emulating the quantum hardware. The examples include steady and unsteady diffusive transport equations for a scalar property in combination with various Dirichlet, Neumann, or Robin conditions. The results of this flexible approach display a robust behavior and a strong predictive accuracy in combination with a remarkable polylog complexity scaling in the number of qubits of the involved quantum circuits. Remaining challenges refer to adaptive ansatz strategies that speed up the optimization procedure. © 2024 The Authors
+KW  - Boundary conditions
+KW  - Computational fluid dynamics
+KW  - Quantum computing
+KW  - Variational quantum algorithms
+KW  - Boundary conditions
+KW  - Flexible displays
+KW  - Initial value problems
+KW  - Partial differential equations
+KW  - Quantum electronics
+KW  - Quantum entanglement
+KW  - Quantum optics
+KW  - Variational techniques
+KW  - Computational fluid
+KW  - Condition
+KW  - Fluid-dynamics
+KW  - Optimization procedures
+KW  - Partial differential
+KW  - Quanta computers
+KW  - Quantum algorithms
+KW  - Quantum Computing
+KW  - Second-order partial differential equation
+KW  - Variational quantum algorithm
+KW  - Qubits
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Zhang, S.-X.
+AU  - Miao, J.
+AU  - Hsieh, C.-Y.
+TI  - Variational post-selection for ground states and thermal states simulation
+PY  - 2025
+T2  - Quantum Science and Technology
+VL  - 10
+IS  - 1
+C7  - 015028
+DO  - 10.1088/2058-9565/ad8fca
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85216662974&doi=10.1088%2f2058-9565%2fad8fca&partnerID=40&md5=32afa078bd01548c72a381ac34a33223
+AB  - Variational quantum algorithms, as one of the most promising routes in the noisy intermediate-scale quantum era, offer various potential applications while also confronting severe challenges due to near-term quantum hardware restrictions. In this work, we propose a framework to enhance the expressiveness of a variational quantum ansatz by incorporating variational post-selection techniques. These techniques apply variational modules and neural network post-processing on ancilla qubits, which are compatible with the current generation of quantum devices. Equipped with variational post-selection, we demonstrate that the accuracy of the variational ground state and thermal state preparation for both quantum spin and molecule systems is substantially improved. Notably, in the case of estimating the local properties of a thermalized quantum system, we present a scalable approach that outperforms previous methods through the combination of neural post-selection and a new optimization objective. © 2024 IOP Publishing Ltd. All rights, including for text and data mining, AI training, and similar technologies, are reserved.
+KW  - quantum simulation
+KW  - quantum state preparation
+KW  - variational quantum algorithm
+KW  - Molecules
+KW  - Photons
+KW  - Quantum computers
+KW  - Quantum electronics
+KW  - Quantum optics
+KW  - Variational techniques
+KW  - Hardware restrictions
+KW  - Module networks
+KW  - Neural-networks
+KW  - Quantum algorithms
+KW  - Quantum simulations
+KW  - Quantum state preparation
+KW  - Selection techniques
+KW  - State simulation
+KW  - Thermal state
+KW  - Variational quantum algorithm
+KW  - Ground state
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 1
+ER  -
+
+TY  - JOUR
+AU  - Chai, Y.
+AU  - Funcke, L.
+AU  - Hartung, T.
+AU  - Jansen, K.
+AU  - Kühn, S.
+AU  - Stornati, P.
+AU  - Stollenwerk, T.
+TI  - Optimal Flight-Gate Assignment on a Digital Quantum Computer
+PY  - 2023
+T2  - Physical Review Applied
+VL  - 20
+IS  - 6
+C7  - 064025
+DO  - 10.1103/PhysRevApplied.20.064025
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85180158694&doi=10.1103%2fPhysRevApplied.20.064025&partnerID=40&md5=2620c381d8b3e02b080677173824e8f8
+AB  - We investigate the performance of the variational quantum eigensolver (VQE) for the problem of optimal flight-gate assignment. This is a combinatorial-optimization problem that aims at finding an optimal assignment of flights to the gates of an airport, in order to minimize the passenger travel time. To study the problem, we adopt a qubit-efficient binary encoding with a cyclic mapping, which is suitable for a digital quantum computer. Using this encoding in conjunction with the conditional value at risk (CVaR) as an aggregation function, we systematically explore the performance of the approach by classically simulating the CVaR VQE. Our results indicate that the method allows for finding a good solution with high probability and that it significantly outperforms the naive VQE approach. We examine the role of entanglement for the performance and find that ansätze with entangling gates allow for better results than pure product states. Studying the problem for various sizes, our numerical data show that the scaling of the number of cost-function calls for obtaining a good solution is not exponential for the regimes that we investigate in this work.  © 2023 American Physical Society. 
+KW  - Combinatorial optimization
+KW  - Encoding (symbols)
+KW  - Quantum computers
+KW  - Quantum entanglement
+KW  - Signal encoding
+KW  - Travel time
+KW  - Value engineering
+KW  - Binary encodings
+KW  - Combinatorial optimization problems
+KW  - Conditional Value-at-Risk
+KW  - Cyclic mapping
+KW  - Eigensolvers
+KW  - Optimal assignment
+KW  - Passenger travels
+KW  - Performance
+KW  - Quanta computers
+KW  - Travel-time
+KW  - Cost functions
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 4
+ER  -
+
+TY  - JOUR
+AU  - Li, Q.
+AU  - Huang, Z.
+AU  - Jiang, W.
+AU  - Tang, Z.
+AU  - Song, M.
+TI  - Quantum Algorithms Using Infeasible Solution Constraints for Collision-Avoidance Route Planning
+PY  - 2024
+T2  - IEEE Transactions on Consumer Electronics
+DO  - 10.1109/TCE.2024.3476156
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85207630597&doi=10.1109%2fTCE.2024.3476156&partnerID=40&md5=efc215a55dde7eb085d5e334e7739e2f
+AB  - Route planning of consumer electronics supply chains,especially collision-avoidance,is a frequently encountered problem in artificial intelligence applications. This paper explores variational quantum algorithms that efficiently utilizes qubits to address this problem,adapting to the current limits on quantum computing resources. Firstly,by establishing a mathematically sufficient and necessary condition as a criterion of binary vectors identity,we have constructed infeasible solution constraint about infeasible solution constrains. Next,a route planning model is developed in this paper,which integrates the vehicle routing problem with the collision-avoidance problem. Then,our infeasible solution constraints are employed in a joint optimization algorithm for solving this model,specifically for reducing the number of qubits used during sub-loop elimination and for addressing collision scenarios. Moreover,in order to further reduce the demand for qubits,enabling the computation of larger-scale problems with a limited number of qubits,our algorithm is subsequently enhanced into a stepwise optimization algorithm at an acceptable cost. Finally,the effectiveness of the proposed method,model and algorithms are all validated through quantum simulation computations.  © 1975-2011 IEEE.
+KW  - Binary Vectors Identity
+KW  - Collision-Avoidance
+KW  - Variational Quantum Algorithm
+KW  - Vehicle Routing Problem
+KW  - Quantum electronics
+KW  - Quantum entanglement
+KW  - Routing algorithms
+KW  - Variational techniques
+KW  - Vehicle routing
+KW  - Binary vector identity
+KW  - Binary vectors
+KW  - Collisions avoidance
+KW  - Electronics supply chain
+KW  - Infeasible solutions
+KW  - Optimization algorithms
+KW  - Quantum algorithms
+KW  - Route planning
+KW  - Variational quantum algorithm
+KW  - Vehicle Routing Problems
+KW  - Qubits
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 April 2025; Cited By: 3
+ER  -
+
