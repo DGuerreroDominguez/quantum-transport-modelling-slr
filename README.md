@@ -13,7 +13,7 @@ The materials in this repository are intended solely to support transparency and
 
 ## Contents
 
-### `data/`
+### `ArticlesData/`
 RIS files exported from:
 - Scopus  
 - Google Scholar  
