@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the corresponding paper."
+title: "Supporting code and bibliographic metadata for the associated IEEE T-ITS paper"
+version: "1.0.0"
+authors:
+  - family-names: "Guerrero-Domínguez"
+    given-names: "Daniel"
+  - family-names: "Lima Azevedo"
+    given-names: "Carlos"
+  - family-names: "Karlsson"
+    given-names: "Sven"
+  - family-names: "Nielsen"
+    given-names: "Otto Anker"
+doi: "10.1109/TITS.2026.3676854"
+date-released: "2026-03-31"
+repository-code: "https://github.com/DGuerreroDominguez/quantum-transport-modelling-slr"
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Guerrero-Domínguez"
+      given-names: "Daniel"
+    - family-names: "Lima Azevedo"
+      given-names: "Carlos"
+    - family-names: "Karlsson"
+      given-names: "Sven"
+    - family-names: "Nielsen"
+      given-names: "Otto Anker"
+  title: "Quantum Computing for Predictive Transport Modelling: A Systematic Literature Review and Future Research Needs"
+  journal: "IEEE Transactions on Intelligent Transportation Systems"
+  year: 2026
+  volume: ""
+  number: ""
+  pages: "1–17"
+  doi: "10.1109/TITS.2026.3676854"
